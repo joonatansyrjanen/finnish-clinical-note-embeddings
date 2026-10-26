@@ -4,7 +4,7 @@ Synthetic copies of the 28 HUS Acamedic tables for the vascular surgery cohort. 
 
 Nothing here is real. The henkilötunnus values in `MOCK_avainlista` have valid check characters but use individual numbers 900-999, which are reserved for test identifiers. Staff names in note headers and referrals are made up from common Finnish names.
 
-## How the IDs work (same as the export)
+## How the IDs work
 
 - Only `MOCK_avainlista` has the real-format henkilötunnus. **Every other table has the pseudonym** (`MOCK_1234567`) in its `henkilotunnus` column, so join tables to each other on that column directly.
 - IDs are 64-character hex hashes. The same ID gets the same hash everywhere, so `shjakso_id` still joins to `luotu_shjakso_id` and `tehty_shjakso_id`, `maarays_id` to `ylamaarays_id`, and so on.
