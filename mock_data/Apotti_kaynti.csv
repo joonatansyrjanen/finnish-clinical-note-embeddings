@@ -1,0 +1,1042 @@
+henkilotunnus,shjakso_id,ohjakso_id,potilas_ika_vuosina,kayntityyppi_selite,varaustyyppi_koodi,varaustyyppi_selite,paivakirurgia,alku_hetki,toimipiste_selite,potilas_eala_selite
+280660-967K,50000006,80000007,62,Käynti,,,False,29.5.2023 10.31.26,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+280660-967K,50000016,80000011,63,Käynti,,,False,17.9.2023 10.20.07,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+280660-967K,50000017,80000013,63,Käynti,,,False,5.9.2023 9.49.03,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+280660-967K,50000021,80000018,63,Käynti,,,False,18.10.2023 9.43.13,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+070129-963V,50000028,80000020,90,Käynti,,,False,23.3.2019 13.21.46,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+070129-963V,50000036,80000028,90,Käynti,C-/O-kaari,C-/O-kaari salissa,False,1.5.2019 10.36.52,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+070129-963V,50000039,80000034,90,Käynti,,,False,27.4.2019 10.42.04,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+070129-963V,50000045,80000035,90,Soitto,,,False,22.7.2019 14.46.25,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+111251-9043,50000049,80000040,72,Käynti,,,False,26.1.2024 14.41.51,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+111251-9043,50000065,80000052,72,Soitto,,,False,4.2.2024 9.22.13,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+111251-9043,50000072,80000056,73,Käynti,,,False,9.2.2025 10.28.03,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+010847-984Y,50000086,80000065,76,Käynti,,,False,20.4.2024 12.39.27,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+010847-984Y,50000096,80000072,77,Käynti,C-/O-kaari,C-/O-kaari salissa,False,10.8.2024 13.19.49,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+010847-984Y,50000102,80000074,77,Käynti,,,False,6.8.2024 13.32.11,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+010847-984Y,50000103,80000078,77,Soitto,,,False,26.10.2024 12.20.23,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+060742-970M,50000108,80000081,77,Käynti,,,False,30.5.2020 9.53.14,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+060742-970M,50000121,80000091,77,Käynti,C-/O-kaari,C-/O-kaari salissa,False,16.6.2020 13.53.01,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+060742-970M,50000124,80000093,77,Käynti,,,False,8.6.2020 12.06.36,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+060742-970M,50000127,80000100,78,Käynti,,,False,10.8.2020 10.18.08,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+110747-9749,50000129,80000101,77,Käynti,,,False,12.6.2025 8.21.38,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+110747-9749,50000133,80000110,77,Soitto,,,False,29.6.2025 9.54.47,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+110747-9749,50000138,80000114,78,Käynti,,,False,20.1.2026 13.52.39,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+161138-940A,50000145,80000119,82,Käynti,,,False,29.12.2020 14.07.00,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+161138-940A,50000152,80000134,82,Soitto,,,False,20.1.2021 14.07.43,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+161138-940A,50000156,80000137,83,Käynti,,,False,15.12.2021 9.19.27,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+260548-937D,50000161,80000144,75,Käynti,,,False,12.4.2024 12.14.36,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+260548-937D,50000175,80000152,76,Käynti,,,False,15.6.2024 9.15.25,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+260548-937D,50000180,80000153,76,Käynti,,,False,8.6.2024 12.44.47,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+260548-937D,50000186,80000159,76,Käynti,,,False,17.7.2024 10.53.34,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+021154-906A,50000189,80000160,66,Käynti,,,False,26.3.2021 11.47.58,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+021154-906A,50000203,80000164,66,Käynti,C-/O-kaari,C-/O-kaari salissa,False,28.6.2021 14.37.01,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+021154-906A,50000205,80000168,66,Käynti,,,False,17.6.2021 9.56.26,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+021154-906A,50000209,80000170,66,Käynti,,,False,23.9.2021 8.48.23,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+110550-9334,50000216,80000173,74,Käynti,,,False,10.2.2025 14.19.57,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+110550-9334,50000224,80000191,75,Käynti,,,False,13.5.2025 11.58.03,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+110550-9334,50000231,80000197,74,Käynti,,,False,29.4.2025 9.44.42,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+110550-9334,50000236,80000200,75,Soitto,,,False,10.8.2025 11.00.56,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+190847-9693,50000240,80000202,76,Käynti,,,False,20.10.2023 11.23.00,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+190847-9693,50000248,80000209,76,Käynti,,,False,20.10.2023 16.23.00,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+190847-9693,50000255,80000213,76,Soitto,,,False,23.11.2023 11.04.46,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+090667-977E,50000259,80000216,54,Käynti,,,False,17.1.2022 12.57.36,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+090667-977E,50000270,80000223,54,Käynti,,,True,17.3.2022 9.48.56,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+090667-977E,50000273,80000227,54,Käynti,,,False,12.3.2022 11.57.48,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+090667-977E,50000274,80000230,54,Käynti,,,False,11.5.2022 14.54.12,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+211184-925X,50000279,80000237,37,Käynti,,,False,21.5.2022 13.40.50,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+211184-925X,50000287,80000244,37,Käynti,,,True,19.8.2022 14.25.59,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+211184-925X,50000288,80000246,37,Käynti,,,False,15.8.2022 8.47.54,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+211184-925X,50000290,80000252,37,Soitto,,,False,24.10.2022 15.00.00,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+080853-9874,50000291,80000253,69,Käynti,,,False,14.12.2022 12.42.00,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+080853-9874,50000303,80000262,69,Soitto,,,False,30.12.2022 11.39.23,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+080853-9874,50000310,80000266,70,Käynti,,,False,12.11.2023 15.42.03,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+200439-940H,50000313,80000268,81,Käynti,,,False,16.12.2020 14.57.31,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+200439-940H,50000323,80000279,81,Käynti,,,False,12.2.2021 10.35.58,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+200439-940H,50000330,80000280,81,Käynti,,,False,6.2.2021 13.17.50,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+200439-940H,50000336,80000282,81,Soitto,,,False,25.3.2021 11.26.14,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+090156-916L,50000338,80000284,66,Käynti,,,False,19.12.2022 12.11.41,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+090156-916L,50000342,80000289,67,Soitto,,,False,18.1.2023 11.53.39,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+090156-916L,50000347,80000293,67,Käynti,,,False,30.10.2023 9.27.06,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+251145-994N,50000351,80000297,79,Käynti,,,False,17.1.2025 13.57.51,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+251145-994N,50000356,80000303,79,Käynti,,,False,12.3.2025 13.45.47,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+251145-994N,50000361,80000306,79,Käynti,,,False,4.3.2025 8.05.53,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+251145-994N,50000365,80000311,79,Soitto,,,False,22.5.2025 15.29.32,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+040557-968J,50000367,80000312,67,Käynti,,,False,7.3.2025 10.01.51,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+040557-968J,50000378,80000325,67,Soitto,,,False,15.3.2025 14.19.03,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+040557-968J,50000381,80000327,68,Käynti,,,False,30.3.2026 8.04.25,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+010668-9035,50000387,80000333,53,Käynti,,,False,8.8.2021 12.30.07,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+010668-9035,50000396,80000342,53,Käynti,,,True,6.10.2021 13.38.08,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+010668-9035,50000403,80000348,53,Käynti,,,False,28.9.2021 8.44.47,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+010668-9035,50000408,80000355,53,Soitto,,,False,20.11.2021 11.29.09,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+180351-913M,50000412,80000361,72,Käynti,,,False,9.4.2023 13.27.08,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+180351-913M,50000418,80000372,72,Käynti,C-/O-kaari,C-/O-kaari salissa,False,6.5.2023 10.30.52,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+180351-913M,50000419,80000376,72,Käynti,,,False,3.5.2023 11.29.02,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+180351-913M,50000423,80000377,72,Käynti,,,False,28.6.2023 12.56.30,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+150249-9331,50000427,80000384,70,Käynti,,,False,5.11.2019 12.12.18,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+150249-9331,50000433,80000391,70,Soitto,,,False,13.11.2019 10.59.18,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+150249-9331,50000436,80000397,71,Käynti,,,False,13.8.2020 8.12.38,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+110551-916U,50000442,80000401,73,Käynti,,,False,13.2.2025 13.50.31,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+110551-916U,50000458,80000412,74,Käynti,,,False,6.6.2025 11.06.38,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+110551-916U,50000461,80000416,74,Käynti,,,False,24.5.2025 14.00.18,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+110551-916U,50000462,80000417,74,Soitto,,,False,12.7.2025 9.15.18,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+290947-913J,50000464,80000418,73,Käynti,,,False,4.6.2021 14.10.53,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+290947-913J,50000476,80000429,73,Soitto,,,False,4.7.2021 15.46.52,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+290947-913J,50000483,80000430,74,Käynti,,,False,12.2.2022 15.15.58,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+010945-971U,50000489,80000432,77,Käynti,,,False,3.11.2022 9.22.50,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+010945-971U,50000499,80000441,77,Käynti,,,False,8.12.2022 12.09.37,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+010945-971U,50000500,80000448,77,Käynti,,,False,27.11.2022 12.28.48,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+010945-971U,50000503,80000451,77,Soitto,,,False,21.1.2023 9.30.41,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+300448-990W,50000504,80000458,73,Käynti,,,False,7.12.2021 12.53.24,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+300448-990W,50000513,80000471,73,Soitto,,,False,18.12.2021 11.27.46,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+300448-990W,50000514,80000473,74,Käynti,,,False,13.11.2022 12.32.47,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+161151-907L,50000515,80000474,67,Käynti,,,False,24.4.2019 11.22.54,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+161151-907L,50000528,80000482,67,Soitto,,,False,30.5.2019 10.11.48,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+161151-907L,50000531,80000488,68,Käynti,,,False,18.1.2020 13.38.03,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+070236-927A,50000536,80000492,84,Käynti,,,False,5.12.2020 8.21.46,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+070236-927A,50000544,80000497,84,Soitto,,,False,17.12.2020 9.28.58,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+070236-927A,50000550,80000502,85,Käynti,,,False,7.5.2021 12.23.31,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+070335-921N,50000556,80000503,84,Käynti,,,False,9.3.2019 8.05.59,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+070335-921N,50000571,80000511,84,Käynti,C-/O-kaari,C-/O-kaari salissa,False,13.5.2019 14.51.54,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+070335-921N,50000578,80000516,84,Käynti,,,False,8.5.2019 11.10.10,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+070335-921N,50000584,80000522,84,Soitto,,,False,25.6.2019 14.39.36,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+030944-929H,50000587,80000526,79,Käynti,,,False,12.7.2024 8.36.41,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+030944-929H,50000597,80000534,79,Soitto,,,False,19.7.2024 13.45.17,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+030944-929H,50000602,80000536,80,Käynti,,,False,18.4.2025 10.46.32,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+040875-944U,50000604,80000542,49,Käynti,,,False,21.6.2025 11.31.20,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+040875-944U,50000617,80000554,49,Käynti,,,False,1.8.2025 14.33.52,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+040875-944U,50000623,80000557,49,Käynti,,,False,28.7.2025 10.58.25,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+040875-944U,50000630,80000564,50,Käynti,,,False,8.10.2025 14.46.06,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+190648-914Y,50000635,80000566,72,Käynti,,,False,23.12.2020 11.24.44,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+190648-914Y,50000640,80000578,72,Käynti,,,False,10.3.2021 10.20.27,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+190648-914Y,50000647,80000584,72,Käynti,,,False,1.3.2021 9.14.00,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+190648-914Y,50000652,80000586,72,Soitto,,,False,19.5.2021 9.08.56,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+150543-996X,50000655,80000589,81,Käynti,,,False,15.1.2025 10.57.23,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+150543-996X,50000665,80000600,81,Käynti,C-/O-kaari,C-/O-kaari salissa,False,22.3.2025 14.53.51,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+150543-996X,50000670,80000602,81,Käynti,,,False,18.3.2025 14.25.04,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+150543-996X,50000672,80000604,82,Soitto,,,False,13.6.2025 12.30.25,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+220272-962D,50000674,80000609,50,Käynti,,,False,9.12.2022 14.48.47,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+220272-962D,50000684,80000619,51,Käynti,,,True,3.3.2023 8.32.57,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+220272-962D,50000686,80000620,50,Käynti,,,False,17.2.2023 13.57.58,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+220272-962D,50000692,80000623,51,Käynti,,,False,21.4.2023 12.12.09,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+200836-936U,50000696,80000627,85,Käynti,,,False,14.7.2022 12.04.31,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+200836-936U,50000703,80000633,86,Soitto,,,False,21.8.2022 9.22.01,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+200836-936U,50000707,80000636,86,Käynti,,,False,19.3.2023 10.59.34,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+101237-983C,50000713,80000641,85,Käynti,,,False,24.6.2023 11.46.24,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+101237-983C,50000720,80000658,85,Käynti,,,False,22.9.2023 13.57.47,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+101237-983C,50000722,80000660,85,Käynti,,,False,12.9.2023 11.36.55,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+101237-983C,50000727,80000667,85,Käynti,,,False,7.12.2023 13.13.50,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+270143-948W,50000734,80000674,76,Käynti,,,False,17.6.2019 10.03.01,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+270143-948W,50000743,80000685,76,Käynti,,,False,11.10.2019 12.14.08,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+270143-948W,50000747,80000692,76,Käynti,,,False,29.9.2019 14.34.31,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+270143-948W,50000752,80000694,76,Käynti,,,False,16.11.2019 15.35.58,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+060739-9197,50000754,80000701,84,Käynti,,,False,11.3.2024 15.25.34,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+060739-9197,50000765,80000717,84,Käynti,C-/O-kaari,C-/O-kaari salissa,False,21.4.2024 11.28.23,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+060739-9197,50000767,80000720,84,Käynti,,,False,14.4.2024 10.42.26,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+060739-9197,50000771,80000724,85,Käynti,,,False,11.7.2024 12.59.29,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+060171-990X,50000772,80000725,48,Käynti,,,False,9.12.2019 13.57.55,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+060171-990X,50000783,80000739,49,Käynti,,,True,22.2.2020 13.59.25,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+060171-990X,50000786,80000741,49,Käynti,,,False,19.2.2020 11.35.07,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+060171-990X,50000791,80000743,49,Käynti,,,False,30.4.2020 12.48.02,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+061297-911Y,50000796,80000748,26,Käynti,,,False,7.4.2024 11.43.58,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+061297-911Y,50000801,80000756,26,Soitto,,,False,16.4.2024 9.56.33,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+061297-911Y,50000802,80000759,27,Käynti,,,False,6.1.2025 12.38.35,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+201163-958X,50000807,80000763,55,Käynti,,,False,6.10.2019 9.20.57,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+201163-958X,50000816,80000773,55,Soitto,,,False,12.11.2019 14.07.51,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+201163-958X,50000821,80000779,56,Käynti,,,False,16.5.2020 9.03.32,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+161257-9124,50000822,80000782,65,Käynti,,,False,15.4.2023 12.30.45,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+161257-9124,50000831,80000790,65,Käynti,,,False,8.7.2023 9.01.17,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+161257-9124,50000838,80000796,65,Käynti,,,False,29.6.2023 10.46.08,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+161257-9124,50000840,80000803,65,Käynti,,,False,10.8.2023 12.15.56,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+100662-993A,50000846,80000805,57,Käynti,,,False,26.7.2019 15.00.10,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+100662-993A,50000857,80000814,57,Soitto,,,False,13.8.2019 12.48.13,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+100662-993A,50000858,80000820,58,Käynti,,,False,11.6.2020 10.03.04,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+200241-9303,50000860,80000823,79,Käynti,,,False,27.11.2020 13.10.54,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+200241-9303,50000873,80000833,79,Soitto,,,False,5.1.2021 12.55.10,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+200241-9303,50000880,80000838,80,Käynti,,,False,8.8.2021 13.22.35,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+250339-994N,50000885,80000841,79,Käynti,,,False,7.2.2019 12.43.49,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+250339-994N,50000901,80000856,79,Soitto,,,False,5.3.2019 14.03.00,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+250339-994N,50000906,80000862,80,Käynti,,,False,6.1.2020 11.59.53,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+200850-932A,50000912,80000863,70,Käynti,,,False,27.12.2020 12.28.06,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+200850-932A,50000924,80000874,70,Soitto,,,False,8.1.2021 11.41.30,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+200850-932A,50000925,80000878,70,Käynti,,,False,4.6.2021 15.53.15,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+030842-965B,50000928,80000881,80,Käynti,,,False,14.9.2022 10.39.54,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+030842-965B,50000934,80000888,80,Käynti,,,False,8.1.2023 10.33.36,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+030842-965B,50000941,80000895,80,Käynti,,,False,3.1.2023 11.26.39,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+030842-965B,50000944,80000899,80,Soitto,,,False,18.3.2023 10.45.31,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+080336-993W,50000945,80000905,86,Käynti,,,False,14.6.2022 14.57.01,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+080336-993W,50000955,80000913,86,Käynti,,,False,5.7.2022 14.39.07,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+080336-993W,50000958,80000914,86,Käynti,,,False,30.6.2022 13.37.41,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+080336-993W,50000965,80000918,86,Soitto,,,False,3.9.2022 12.06.39,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+080946-968H,50000970,80000920,73,Käynti,,,False,18.3.2020 12.52.24,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+080946-968H,50000982,80000928,73,Soitto,,,False,9.4.2020 14.23.28,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+080946-968H,50000983,80000929,74,Käynti,,,False,14.9.2020 15.49.38,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+021150-977K,50000984,80000935,74,Käynti,,,False,11.12.2024 11.37.22,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+021150-977K,50000991,80000946,74,Käynti,,,False,11.12.2024 15.37.22,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+021150-977K,50000994,80000951,74,Soitto,,,False,14.2.2025 9.38.43,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+010641-989Y,50000999,80000954,79,Käynti,,,False,30.11.2020 14.51.18,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+010641-989Y,50001013,80000963,79,Käynti,C-/O-kaari,C-/O-kaari salissa,False,16.2.2021 8.38.54,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+010641-989Y,50001018,80000965,79,Käynti,,,False,12.2.2021 13.31.06,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+010641-989Y,50001025,80000971,79,Käynti,,,False,19.4.2021 9.06.59,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+140636-921V,50001026,80000977,85,Käynti,,,False,30.3.2022 11.58.12,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+140636-921V,50001032,80000993,85,Käynti,C-/O-kaari,C-/O-kaari salissa,False,25.5.2022 8.58.16,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+140636-921V,50001038,80000999,85,Käynti,,,False,18.5.2022 10.32.16,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+140636-921V,50001041,80001003,86,Käynti,,,False,7.8.2022 11.31.58,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+161058-943S,50001044,80001010,63,Käynti,,,False,14.7.2022 12.07.36,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+161058-943S,50001049,80001021,63,Käynti,,,True,8.9.2022 9.34.41,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+161058-943S,50001055,80001024,63,Käynti,,,False,5.9.2022 10.48.26,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+161058-943S,50001056,80001029,64,Käynti,,,False,25.11.2022 11.12.11,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+310566-908B,50001061,80001034,58,Käynti,,,False,21.3.2025 11.04.09,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+310566-908B,50001064,80001042,58,Käynti,,,False,6.5.2025 13.00.37,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+310566-908B,50001066,80001045,58,Käynti,,,False,30.4.2025 13.57.31,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+310566-908B,50001071,80001046,59,Soitto,,,False,20.6.2025 13.02.55,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+270165-959X,50001078,80001053,58,Käynti,,,False,4.10.2023 12.24.20,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+270165-959X,50001085,80001060,58,Käynti,C-/O-kaari,C-/O-kaari salissa,False,8.12.2023 9.51.52,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+270165-959X,50001091,80001063,58,Käynti,,,False,4.12.2023 11.14.20,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+270165-959X,50001095,80001065,59,Soitto,,,False,5.3.2024 8.05.19,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+220146-9738,50001096,80001072,79,Käynti,,,False,19.4.2025 10.35.44,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+220146-9738,50001105,80001082,79,Käynti,,,False,13.6.2025 12.40.15,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+220146-9738,50001112,80001085,79,Käynti,,,False,4.6.2025 13.30.50,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+220146-9738,50001117,80001090,79,Soitto,,,False,31.7.2025 11.03.39,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+030545-927F,50001118,80001093,77,Käynti,,,False,28.7.2022 12.12.31,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+030545-927F,50001124,80001100,77,Soitto,,,False,12.8.2022 12.09.09,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+030545-927F,50001129,80001104,77,Käynti,,,False,27.2.2023 9.50.42,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+100760-9120,50001136,80001106,60,Käynti,,,False,12.9.2020 12.47.13,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+100760-9120,50001147,80001117,60,Käynti,C-/O-kaari,C-/O-kaari salissa,False,9.10.2020 11.41.18,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+100760-9120,50001148,80001118,60,Käynti,,,False,3.10.2020 10.15.17,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+100760-9120,50001152,80001120,60,Käynti,,,False,18.12.2020 14.33.12,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+281139-980L,50001157,80001124,80,Käynti,,,False,6.7.2020 13.42.03,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+281139-980L,50001165,80001135,80,Käynti,C-/O-kaari,C-/O-kaari salissa,False,16.9.2020 13.51.00,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+281139-980L,50001166,80001138,80,Käynti,,,False,7.9.2020 13.37.54,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+281139-980L,50001168,80001144,80,Soitto,,,False,5.11.2020 13.59.57,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+311270-9712,50001171,80001151,51,Käynti,,,False,28.2.2022 10.24.16,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+311270-9712,50001182,80001161,51,Käynti,,,True,5.4.2022 11.48.49,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+311270-9712,50001185,80001167,51,Käynti,,,False,31.3.2022 11.26.48,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+311270-9712,50001191,80001173,51,Käynti,,,False,8.5.2022 13.23.47,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+150396-914B,50001197,80001176,28,Käynti,,,False,5.8.2024 14.35.41,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+150396-914B,50001203,80001185,28,Käynti,,,True,12.10.2024 14.44.50,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+150396-914B,50001209,80001187,28,Käynti,,,False,4.10.2024 14.49.41,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+150396-914B,50001210,80001188,28,Soitto,,,False,25.11.2024 11.46.06,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+010744-903S,50001211,80001191,74,Käynti,,,False,16.6.2019 15.32.29,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+010744-903S,50001218,80001200,75,Soitto,,,False,14.7.2019 11.50.44,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+010744-903S,50001220,80001207,76,Käynti,,,False,4.7.2020 14.27.40,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+091053-9506,50001222,80001212,66,Käynti,,,False,19.1.2020 10.21.00,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+091053-9506,50001226,80001221,66,Käynti,,,False,29.2.2020 14.37.13,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+091053-9506,50001233,80001223,66,Käynti,,,False,20.2.2020 11.24.09,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+091053-9506,50001240,80001230,66,Soitto,,,False,10.5.2020 13.58.11,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+090983-996L,50001246,80001232,38,Käynti,,,False,26.1.2022 15.38.32,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+090983-996L,50001258,80001244,38,Käynti,,,True,6.4.2022 10.05.51,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+090983-996L,50001262,80001245,38,Käynti,,,False,30.3.2022 8.36.48,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+090983-996L,50001267,80001249,38,Käynti,,,False,26.6.2022 8.58.12,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+200252-954P,50001272,80001251,69,Käynti,,,False,3.6.2021 11.44.45,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+200252-954P,50001280,80001263,69,Käynti,C-/O-kaari,C-/O-kaari salissa,False,23.6.2021 11.37.34,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+200252-954P,50001282,80001268,69,Käynti,,,False,14.6.2021 11.37.20,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+200252-954P,50001287,80001269,69,Soitto,,,False,18.9.2021 10.20.08,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+100964-9019,50001293,80001272,54,Käynti,,,False,2.6.2019 14.33.25,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+100964-9019,50001302,80001277,54,Käynti,,,False,22.7.2019 8.17.03,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+100964-9019,50001305,80001284,54,Käynti,,,False,8.7.2019 10.48.57,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+100964-9019,50001306,80001285,55,Käynti,,,False,12.10.2019 13.06.38,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+050247-941A,50001311,80001288,73,Käynti,,,False,17.2.2020 12.09.10,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+050247-941A,50001319,80001294,73,Käynti,,,False,17.2.2020 17.09.10,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+050247-941A,50001322,80001295,73,Käynti,,,False,25.3.2020 12.09.20,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+220737-968L,50001326,80001302,84,Käynti,,,False,2.7.2022 8.29.49,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+220737-968L,50001336,80001310,85,Käynti,,,False,29.7.2022 12.05.01,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+220737-968L,50001341,80001316,84,Käynti,,,False,17.7.2022 13.07.10,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+220737-968L,50001347,80001318,85,Käynti,,,False,24.9.2022 8.14.42,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+010745-9717,50001352,80001324,78,Käynti,,,False,19.8.2023 9.36.45,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+010745-9717,50001357,80001333,78,Soitto,,,False,23.9.2023 13.30.59,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+010745-9717,50001361,80001337,78,Käynti,,,False,27.3.2024 12.35.11,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+030546-9992,50001368,80001338,77,Käynti,,,False,19.2.2024 14.11.48,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+030546-9992,50001380,80001351,78,Käynti,C-/O-kaari,C-/O-kaari salissa,False,30.5.2024 12.11.20,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+030546-9992,50001381,80001357,78,Käynti,,,False,21.5.2024 8.16.20,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+030546-9992,50001388,80001358,78,Soitto,,,False,2.8.2024 8.28.11,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+150666-9196,50001391,80001363,58,Käynti,,,False,11.9.2024 11.51.24,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+150666-9196,50001403,80001375,58,Soitto,,,False,5.10.2024 14.23.07,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+150666-9196,50001409,80001376,58,Käynti,,,False,9.3.2025 8.02.09,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+150458-930V,50001410,80001379,62,Käynti,,,False,29.7.2020 15.00.54,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+150458-930V,50001414,80001392,62,Soitto,,,False,16.8.2020 14.46.31,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+150458-930V,50001419,80001399,63,Käynti,,,False,26.4.2021 14.07.07,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+050772-9547,50001426,80001406,49,Käynti,,,False,18.1.2022 15.29.38,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+050772-9547,50001431,80001413,49,Käynti,,,True,20.3.2022 10.47.23,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+050772-9547,50001434,80001418,49,Käynti,,,False,16.3.2022 9.57.32,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+050772-9547,50001438,80001423,49,Käynti,,,False,11.5.2022 8.58.39,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+180340-9555,50001443,80001427,79,Käynti,,,False,15.6.2019 9.36.41,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+180340-9555,50001448,80001437,79,Käynti,,,False,12.8.2019 10.32.41,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+180340-9555,50001451,80001444,79,Käynti,,,False,29.7.2019 13.12.21,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+180340-9555,50001457,80001449,79,Soitto,,,False,26.10.2019 14.29.42,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+150950-918E,50001462,80001451,72,Käynti,,,False,29.6.2023 10.09.26,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+150950-918E,50001467,80001458,72,Käynti,,,False,29.6.2023 13.09.26,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+150950-918E,50001469,80001460,72,Soitto,,,False,6.8.2023 14.10.10,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+160946-9536,50001471,80001461,72,Käynti,,,False,29.7.2019 9.16.01,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+160946-9536,50001478,80001472,73,Käynti,C-/O-kaari,C-/O-kaari salissa,False,24.10.2019 10.15.31,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+160946-9536,50001485,80001474,73,Käynti,,,False,21.10.2019 9.17.12,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+160946-9536,50001489,80001480,73,Käynti,,,False,1.1.2020 15.04.25,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+221178-954Y,50001490,80001483,44,Käynti,,,False,27.1.2023 14.57.49,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+221178-954Y,50001493,80001491,44,Soitto,,,False,5.3.2023 9.00.08,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+221178-954Y,50001496,80001498,44,Käynti,,,False,22.9.2023 12.26.14,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+291241-9088,50001500,80001504,77,Käynti,,,False,12.11.2019 9.47.18,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+291241-9088,50001510,80001518,77,Käynti,,,False,14.12.2019 9.21.59,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+291241-9088,50001515,80001522,77,Käynti,,,False,11.12.2019 13.29.27,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+291241-9088,50001516,80001524,78,Käynti,,,False,22.2.2020 14.41.23,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+310156-970J,50001520,80001529,68,Käynti,,,False,25.12.2024 15.39.08,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+310156-970J,50001532,80001542,69,Käynti,,,False,19.2.2025 13.25.08,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+310156-970J,50001536,80001543,69,Käynti,,,False,9.2.2025 11.08.38,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+310156-970J,50001543,80001552,69,Soitto,,,False,17.5.2025 13.30.34,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+080153-9786,50001550,80001555,66,Käynti,,,False,29.7.2019 11.49.10,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+080153-9786,50001553,80001562,66,Käynti,,,True,24.10.2019 8.49.56,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+080153-9786,50001557,80001567,66,Käynti,,,False,10.10.2019 11.59.23,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+080153-9786,50001560,80001568,66,Soitto,,,False,8.1.2020 13.39.39,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+090150-912X,50001564,80001571,73,Käynti,,,False,21.9.2023 15.32.51,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+090150-912X,50001570,80001578,73,Soitto,,,False,21.10.2023 14.02.04,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+090150-912X,50001573,80001582,74,Käynti,,,False,10.4.2024 13.52.25,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+190756-917X,50001574,80001583,63,Käynti,,,False,14.12.2019 11.22.56,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+190756-917X,50001585,80001595,63,Käynti,,,False,10.3.2020 12.56.04,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+190756-917X,50001588,80001600,63,Käynti,,,False,2.3.2020 14.43.46,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+190756-917X,50001590,80001608,63,Soitto,,,False,22.4.2020 12.00.03,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+200964-9488,50001594,80001613,57,Käynti,,,False,9.8.2022 12.42.28,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+200964-9488,50001602,80001617,58,Käynti,,,True,6.11.2022 10.09.50,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+200964-9488,50001605,80001618,58,Käynti,,,False,27.10.2022 10.21.34,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+200964-9488,50001612,80001623,58,Soitto,,,False,13.12.2022 14.20.59,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+041143-932L,50001619,80001625,79,Käynti,,,False,14.5.2023 11.07.43,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+041143-932L,50001629,80001636,79,Käynti,,,False,14.5.2023 16.07.43,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+041143-932L,50001635,80001640,79,Soitto,,,False,16.6.2023 11.41.56,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+140772-9308,50001640,80001646,47,Käynti,,,False,29.1.2020 8.42.49,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+140772-9308,50001649,80001657,47,Soitto,,,False,29.2.2020 10.03.30,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+140772-9308,50001654,80001662,48,Käynti,,,False,6.1.2021 13.48.22,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+130835-931W,50001656,80001665,85,Käynti,,,False,15.2.2021 11.12.50,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+130835-931W,50001664,80001676,85,Käynti,,,False,15.2.2021 15.12.50,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+130835-931W,50001670,80001678,85,Käynti,,,False,30.4.2021 9.29.32,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+050871-979K,50001675,80001685,50,Käynti,,,False,31.3.2022 12.48.15,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+050871-979K,50001689,80001696,50,Käynti,,,False,17.6.2022 14.10.44,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+050871-979K,50001691,80001703,50,Käynti,,,False,7.6.2022 14.05.32,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+050871-979K,50001697,80001707,50,Soitto,,,False,20.7.2022 12.30.17,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+221258-9682,50001698,80001710,62,Käynti,,,False,1.3.2021 11.00.03,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+221258-9682,50001706,80001718,62,Käynti,,,False,10.6.2021 14.07.13,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+221258-9682,50001710,80001719,62,Käynti,,,False,27.5.2021 13.51.30,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+221258-9682,50001714,80001723,62,Käynti,,,False,2.8.2021 12.38.22,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+250543-997D,50001719,80001729,77,Käynti,,,False,11.3.2021 10.28.23,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+250543-997D,50001723,80001740,77,Käynti,,,False,11.3.2021 15.28.23,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+250543-997D,50001727,80001747,78,Soitto,,,False,4.6.2021 12.15.54,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+180948-911M,50001731,80001749,72,Käynti,,,False,21.9.2020 8.09.10,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+180948-911M,50001735,80001759,72,Käynti,C-/O-kaari,C-/O-kaari salissa,False,4.1.2021 12.36.48,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+180948-911M,50001738,80001765,72,Käynti,,,False,27.12.2020 12.16.54,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+180948-911M,50001739,80001769,72,Käynti,,,False,27.2.2021 11.27.23,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+140856-931Y,50001746,80001770,67,Käynti,,,False,18.7.2024 8.28.29,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+140856-931Y,50001754,80001775,68,Käynti,,,False,8.11.2024 11.20.00,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+140856-931Y,50001755,80001777,68,Käynti,,,False,29.10.2024 9.09.15,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+140856-931Y,50001761,80001781,68,Soitto,,,False,31.12.2024 14.38.15,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+210854-9630,50001762,80001785,67,Käynti,,,False,28.8.2021 9.27.24,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+210854-9630,50001769,80001794,67,Käynti,,,False,28.8.2021 11.27.24,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+210854-9630,50001774,80001798,67,Käynti,,,False,17.10.2021 13.47.40,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+100948-978M,50001778,80001801,76,Käynti,,,False,30.5.2025 10.59.32,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+100948-978M,50001791,80001819,76,Käynti,,,False,5.8.2025 10.46.28,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+100948-978M,50001796,80001823,76,Käynti,,,False,1.8.2025 14.27.34,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+100948-978M,50001802,80001826,76,Soitto,,,False,10.9.2025 14.25.24,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+211162-946X,50001808,80001833,62,Käynti,,,False,15.5.2025 14.10.49,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+211162-946X,50001810,80001837,62,Käynti,,,True,29.7.2025 13.37.22,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+211162-946X,50001817,80001842,62,Käynti,,,False,26.7.2025 12.14.13,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+211162-946X,50001818,80001846,62,Soitto,,,False,1.9.2025 8.02.18,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+160955-916A,50001825,80001853,64,Käynti,,,False,16.2.2020 9.44.43,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+160955-916A,50001832,80001860,64,Soitto,,,False,19.3.2020 11.34.09,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+160955-916A,50001838,80001861,64,Käynti,,,False,29.8.2020 15.55.14,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+150339-955Y,50001844,80001867,80,Käynti,,,False,10.8.2019 15.21.18,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+150339-955Y,50001849,80001870,80,Käynti,,,False,3.10.2019 14.44.33,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+150339-955Y,50001851,80001874,80,Käynti,,,False,26.9.2019 11.47.23,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+150339-955Y,50001858,80001879,80,Käynti,,,False,22.12.2019 15.24.11,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+271255-916U,50001865,80001883,64,Käynti,,,False,18.10.2020 12.42.57,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+271255-916U,50001875,80001892,64,Soitto,,,False,2.11.2020 14.01.59,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+271255-916U,50001882,80001894,65,Käynti,,,False,30.4.2021 8.34.50,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+130453-963B,50001883,80001896,69,Käynti,,,False,3.11.2022 15.28.24,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+130453-963B,50001893,80001906,69,Käynti,C-/O-kaari,C-/O-kaari salissa,False,31.1.2023 10.18.04,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+130453-963B,50001899,80001907,69,Käynti,,,False,24.1.2023 9.05.01,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+130453-963B,50001903,80001913,69,Soitto,,,False,3.3.2023 15.59.06,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+021254-987R,50001909,80001915,68,Käynti,,,False,19.8.2023 11.05.46,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+021254-987R,50001921,80001930,68,Käynti,,,False,19.10.2023 14.06.40,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+021254-987R,50001928,80001934,68,Käynti,,,False,11.10.2023 11.40.04,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+021254-987R,50001933,80001937,69,Käynti,,,False,3.12.2023 9.05.13,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+231149-949Y,50001937,80001939,69,Käynti,,,False,22.8.2019 12.45.15,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+231149-949Y,50001944,80001943,70,Käynti,,,False,7.12.2019 10.47.01,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+231149-949Y,50001948,80001947,69,Käynti,,,False,23.11.2019 14.14.45,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+231149-949Y,50001954,80001951,70,Käynti,,,False,23.2.2020 11.07.48,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+171053-989L,50001957,80001957,70,Käynti,,,False,6.3.2024 10.40.49,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+171053-989L,50001973,80001973,70,Käynti,,,False,30.6.2024 9.14.03,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+171053-989L,50001975,80001979,70,Käynti,,,False,19.6.2024 12.05.07,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+171053-989L,50001980,80001985,70,Soitto,,,False,31.7.2024 9.17.22,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+020347-927R,50001982,80001989,72,Käynti,,,False,2.2.2020 10.31.23,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+020347-927R,50001992,80001994,73,Käynti,,,True,3.5.2020 10.42.01,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+020347-927R,50001997,80002000,73,Käynti,,,False,25.4.2020 13.20.35,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+020347-927R,50001999,80002003,73,Käynti,,,False,21.7.2020 12.17.07,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+281149-9153,50002001,80002005,70,Käynti,,,False,9.4.2020 11.20.36,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+281149-9153,50002014,80002015,70,Soitto,,,False,14.5.2020 12.36.58,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+281149-9153,50002019,80002016,71,Käynti,,,False,30.11.2020 13.23.25,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+080159-997B,50002023,80002023,63,Käynti,,,False,17.4.2022 9.16.29,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+080159-997B,50002028,80002031,63,Soitto,,,False,27.5.2022 15.38.09,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+080159-997B,50002031,80002034,63,Käynti,,,False,24.11.2022 10.51.10,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+161044-992R,50002037,80002036,79,Käynti,,,False,19.7.2024 9.03.25,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+161044-992R,50002045,80002045,79,Käynti,,,False,9.8.2024 10.34.14,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+161044-992R,50002051,80002047,79,Käynti,,,False,26.7.2024 12.30.35,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+161044-992R,50002056,80002048,80,Käynti,,,False,26.10.2024 12.48.56,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+290940-918W,50002061,80002054,79,Käynti,,,False,7.4.2020 8.59.38,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+290940-918W,50002066,80002060,79,Soitto,,,False,17.5.2020 9.19.37,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+290940-918W,50002072,80002061,80,Käynti,,,False,28.3.2021 9.07.13,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+140526-927N,50002073,80002066,95,Käynti,,,False,13.3.2022 12.31.58,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+140526-927N,50002082,80002073,95,Käynti,,,False,13.3.2022 17.31.58,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+140526-927N,50002088,80002077,95,Soitto,,,False,21.4.2022 9.36.33,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+021165-900Y,50002091,80002081,53,Käynti,,,False,2.10.2019 13.03.24,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+021165-900Y,50002099,80002085,53,Käynti,,,False,26.10.2019 14.56.19,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+021165-900Y,50002100,80002088,53,Käynti,,,False,16.10.2019 11.54.31,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+021165-900Y,50002104,80002094,54,Käynti,,,False,8.1.2020 12.53.47,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+160344-981R,50002111,80002097,78,Käynti,,,False,27.6.2022 13.35.43,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+160344-981R,50002121,80002105,78,Soitto,,,False,6.8.2022 9.37.36,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+160344-981R,50002123,80002110,78,Käynti,,,False,17.12.2022 11.14.12,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+040451-9077,50002129,80002113,69,Käynti,,,False,22.5.2020 10.26.01,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+040451-9077,50002137,80002125,69,Käynti,,,True,24.7.2020 12.29.28,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+040451-9077,50002144,80002131,69,Käynti,,,False,15.7.2020 14.34.29,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+040451-9077,50002145,80002134,69,Käynti,,,False,30.9.2020 11.51.37,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+241156-920F,50002152,80002139,67,Käynti,,,False,8.9.2024 13.33.55,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+241156-920F,50002166,80002157,68,Käynti,,,False,11.12.2024 14.24.19,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+241156-920F,50002167,80002162,68,Käynti,,,False,3.12.2024 8.23.08,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+241156-920F,50002173,80002167,68,Käynti,,,False,8.3.2025 8.35.20,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+070246-920N,50002177,80002173,78,Käynti,,,False,29.7.2024 10.10.12,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+070246-920N,50002189,80002184,78,Soitto,,,False,5.8.2024 15.54.09,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+070246-920N,50002193,80002187,79,Käynti,,,False,15.3.2025 8.05.30,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+020163-9256,50002194,80002194,60,Käynti,,,False,25.7.2023 13.48.06,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+020163-9256,50002208,80002201,60,Käynti,,,False,8.9.2023 13.28.25,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+020163-9256,50002213,80002202,60,Käynti,,,False,4.9.2023 12.07.20,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+020163-9256,50002220,80002207,60,Käynti,,,False,19.10.2023 12.06.29,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+171073-957R,50002223,80002214,48,Käynti,,,False,25.12.2021 15.20.35,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+171073-957R,50002232,80002222,48,Soitto,,,False,4.1.2022 11.04.22,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+171073-957R,50002239,80002224,48,Käynti,,,False,23.6.2022 14.22.28,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+100348-9917,50002245,80002227,77,Käynti,,,False,5.8.2025 8.56.11,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+100348-9917,50002255,80002236,77,Käynti,,,False,1.11.2025 12.12.37,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+100348-9917,50002257,80002240,77,Käynti,,,False,22.10.2025 14.14.01,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+100348-9917,50002261,80002245,77,Soitto,,,False,9.12.2025 12.41.02,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+180251-9279,50002266,80002249,68,Käynti,,,False,23.10.2019 12.24.46,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+180251-9279,50002268,80002259,68,Käynti,,,False,13.11.2019 9.33.17,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+180251-9279,50002273,80002263,68,Käynti,,,False,5.11.2019 13.54.51,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+180251-9279,50002280,80002273,68,Käynti,,,False,26.12.2019 9.38.04,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+250545-985J,50002281,80002276,76,Käynti,,,False,6.9.2021 14.50.25,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+250545-985J,50002295,80002287,76,Käynti,,,False,27.9.2021 8.29.19,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+250545-985J,50002297,80002289,76,Käynti,,,False,21.9.2021 8.41.04,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+250545-985J,50002304,80002294,76,Käynti,,,False,5.11.2021 10.46.04,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+301065-948S,50002309,80002300,59,Käynti,,,False,26.12.2024 8.57.59,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+301065-948S,50002329,80002316,59,Käynti,C-/O-kaari,C-/O-kaari salissa,False,4.2.2025 14.02.04,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+301065-948S,50002334,80002318,59,Käynti,,,False,27.1.2025 8.09.09,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+301065-948S,50002335,80002319,59,Soitto,,,False,4.5.2025 14.46.54,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+300652-9453,50002337,80002324,67,Käynti,,,False,14.8.2019 8.31.33,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+300652-9453,50002351,80002339,67,Soitto,,,False,10.9.2019 13.38.30,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+300652-9453,50002355,80002343,67,Käynti,,,False,22.5.2020 14.36.19,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+070840-900A,50002362,80002350,80,Käynti,,,False,29.11.2020 15.03.39,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+070840-900A,50002369,80002358,80,Käynti,,,False,29.11.2020 20.03.39,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+070840-900A,50002372,80002360,80,Käynti,,,False,31.1.2021 14.54.35,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+050459-925H,50002375,80002366,63,Käynti,,,False,10.5.2022 13.38.18,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+050459-925H,50002378,80002378,63,Käynti,,,False,11.6.2022 13.44.31,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+050459-925H,50002381,80002385,63,Käynti,,,False,31.5.2022 14.24.03,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+050459-925H,50002382,80002390,63,Käynti,,,False,29.7.2022 8.39.31,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+290851-9532,50002384,80002391,68,Käynti,,,False,23.11.2019 15.55.47,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+290851-9532,50002395,80002412,68,Soitto,,,False,9.12.2019 13.21.24,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+290851-9532,50002402,80002417,69,Käynti,,,False,26.10.2020 8.27.30,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+190252-920Y,50002409,80002422,72,Käynti,,,False,7.11.2024 12.44.16,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+190252-920Y,50002421,80002435,72,Käynti,,,False,18.12.2024 11.14.15,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+190252-920Y,50002425,80002439,72,Käynti,,,False,8.12.2024 13.52.17,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+190252-920Y,50002432,80002444,72,Soitto,,,False,29.1.2025 8.48.14,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+250337-9303,50002433,80002445,83,Käynti,,,False,8.1.2021 14.31.11,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+250337-9303,50002439,80002455,83,Käynti,C-/O-kaari,C-/O-kaari salissa,False,3.3.2021 9.35.18,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+250337-9303,50002443,80002461,83,Käynti,,,False,21.2.2021 12.58.21,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+250337-9303,50002445,80002467,84,Soitto,,,False,28.5.2021 12.35.59,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+051140-9790,50002452,80002471,78,Käynti,,,False,3.5.2019 15.08.27,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+051140-9790,50002461,80002482,78,Käynti,C-/O-kaari,C-/O-kaari salissa,False,7.7.2019 9.41.22,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+051140-9790,50002462,80002485,78,Käynti,,,False,23.6.2019 14.13.59,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+051140-9790,50002468,80002487,78,Käynti,,,False,13.9.2019 8.57.57,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+300844-921V,50002471,80002488,77,Käynti,,,False,16.9.2021 8.52.28,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+300844-921V,50002482,80002496,77,Soitto,,,False,6.10.2021 9.11.51,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+300844-921V,50002484,80002502,77,Käynti,,,False,28.4.2022 9.09.47,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+100848-9830,50002490,80002508,74,Käynti,,,False,13.5.2023 10.55.01,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+100848-9830,50002506,80002514,74,Soitto,,,False,22.6.2023 14.11.10,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+100848-9830,50002510,80002518,75,Käynti,,,False,4.11.2023 12.22.05,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+090646-9859,50002517,80002520,78,Käynti,,,False,21.11.2024 13.47.59,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+090646-9859,50002520,80002528,78,Käynti,,,False,21.11.2024 15.47.59,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+090646-9859,50002522,80002534,78,Käynti,,,False,7.2.2025 12.09.37,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+060652-923W,50002529,80002537,69,Käynti,,,False,18.8.2021 14.18.20,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+060652-923W,50002542,80002547,69,Soitto,,,False,10.9.2021 10.52.40,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+060652-923W,50002548,80002551,70,Käynti,,,False,28.6.2022 14.00.12,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+021172-982D,50002552,80002558,52,Käynti,,,False,15.7.2025 13.39.19,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+021172-982D,50002564,80002573,52,Käynti,,,False,1.10.2025 12.33.29,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+021172-982D,50002568,80002579,52,Käynti,,,False,20.9.2025 12.31.01,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+021172-982D,50002574,80002583,53,Käynti,,,False,17.11.2025 8.22.01,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+180950-9447,50002580,80002590,70,Käynti,,,False,5.2.2021 11.59.08,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+180950-9447,50002597,80002597,70,Soitto,,,False,9.3.2021 11.03.11,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+180950-9447,50002602,80002598,70,Käynti,,,False,27.8.2021 8.05.02,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+020769-935W,50002609,80002604,51,Käynti,,,False,10.3.2021 10.29.14,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+020769-935W,50002621,80002611,51,Käynti,,,True,7.4.2021 8.13.06,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+020769-935W,50002622,80002618,51,Käynti,,,False,28.3.2021 8.00.13,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+020769-935W,50002628,80002619,51,Soitto,,,False,23.5.2021 15.37.07,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+290344-914Y,50002631,80002621,77,Käynti,,,False,21.5.2021 15.37.02,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+290344-914Y,50002636,80002624,77,Soitto,,,False,5.6.2021 9.51.22,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+290344-914Y,50002640,80002628,77,Käynti,,,False,8.2.2022 11.02.27,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+110858-960F,50002643,80002630,65,Käynti,,,False,2.7.2024 8.57.46,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+110858-960F,50002655,80002638,65,Soitto,,,False,1.8.2024 12.48.22,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+110858-960F,50002659,80002643,66,Käynti,,,False,28.7.2025 8.42.38,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+121061-9141,50002665,80002650,60,Käynti,,,False,26.7.2022 9.25.13,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+121061-9141,50002675,80002663,60,Soitto,,,False,11.8.2022 14.24.40,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+121061-9141,50002676,80002666,61,Käynti,,,False,6.1.2023 10.02.37,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+211057-9266,50002682,80002669,63,Käynti,,,False,2.2.2021 15.00.47,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+211057-9266,50002693,80002675,63,Käynti,,,True,22.2.2021 9.25.42,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+211057-9266,50002694,80002678,63,Käynti,,,False,17.2.2021 12.40.59,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+211057-9266,50002700,80002683,63,Soitto,,,False,9.4.2021 11.55.57,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+170483-934R,50002706,80002684,36,Käynti,,,False,8.12.2019 11.46.08,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+170483-934R,50002711,80002695,36,Käynti,,,True,7.1.2020 12.04.38,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+170483-934R,50002712,80002701,36,Käynti,,,False,4.1.2020 9.46.21,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+170483-934R,50002714,80002707,36,Käynti,,,False,8.2.2020 15.05.59,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+211241-924L,50002721,80002709,82,Käynti,,,False,22.10.2024 12.20.07,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+211241-924L,50002727,80002720,82,Käynti,,,False,22.10.2024 14.20.07,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+211241-924L,50002732,80002725,83,Soitto,,,False,3.1.2025 10.37.51,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+011159-986J,50002736,80002726,59,Käynti,,,False,7.3.2019 10.56.56,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+011159-986J,50002745,80002740,59,Käynti,,,False,12.4.2019 9.52.08,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+011159-986J,50002749,80002741,59,Käynti,,,False,9.4.2019 14.19.59,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+011159-986J,50002752,80002743,59,Käynti,,,False,7.6.2019 10.14.20,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+290542-907U,50002759,80002746,77,Käynti,,,False,12.7.2019 14.10.18,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+290542-907U,50002775,80002759,77,Käynti,,,False,20.10.2019 8.52.19,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+290542-907U,50002777,80002764,77,Käynti,,,False,7.10.2019 11.19.52,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+290542-907U,50002779,80002766,77,Käynti,,,False,22.11.2019 8.43.21,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+040549-912N,50002780,80002771,71,Käynti,,,False,4.1.2021 15.48.38,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+040549-912N,50002788,80002779,71,Käynti,,,False,9.3.2021 8.01.03,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+040549-912N,50002794,80002781,71,Käynti,,,False,26.2.2021 10.56.22,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+040549-912N,50002795,80002783,72,Soitto,,,False,31.5.2021 8.23.08,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+241142-913M,50002802,80002788,77,Käynti,,,False,27.9.2020 15.03.19,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+241142-913M,50002815,80002800,77,Soitto,,,False,5.11.2020 14.02.50,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+241142-913M,50002820,80002801,78,Käynti,,,False,23.6.2021 13.57.11,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+151175-915D,50002824,80002811,49,Käynti,,,False,30.7.2025 8.22.14,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+151175-915D,50002832,80002815,49,Käynti,,,True,29.8.2025 11.06.23,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+151175-915D,50002834,80002819,49,Käynti,,,False,20.8.2025 14.57.59,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+151175-915D,50002840,80002820,49,Käynti,,,False,11.10.2025 14.33.56,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+260449-954D,50002844,80002825,70,Käynti,,,False,21.12.2019 12.37.10,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+260449-954D,50002849,80002828,70,Käynti,,,False,21.12.2019 14.37.10,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+260449-954D,50002855,80002832,70,Soitto,,,False,6.3.2020 9.28.04,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+310835-970S,50002859,80002836,85,Käynti,,,False,13.11.2020 9.36.30,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+310835-970S,50002866,80002842,85,Käynti,,,False,30.1.2021 12.43.54,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+310835-970S,50002869,80002846,85,Käynti,,,False,17.1.2021 14.04.15,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+310835-970S,50002871,80002847,85,Käynti,,,False,10.3.2021 12.47.32,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+121148-9698,50002874,80002850,74,Käynti,,,False,1.9.2023 10.03.37,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+121148-9698,50002886,80002860,74,Soitto,,,False,9.10.2023 15.31.39,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+121148-9698,50002887,80002864,75,Käynti,,,False,1.5.2024 9.13.11,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+160962-987D,50002893,80002866,62,Käynti,,,False,21.6.2025 15.51.00,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+160962-987D,50002912,80002879,62,Käynti,,,False,15.9.2025 9.05.24,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+160962-987D,50002913,80002885,62,Käynti,,,False,10.9.2025 13.57.50,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+160962-987D,50002919,80002888,63,Käynti,,,False,17.10.2025 10.08.37,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+280830-981W,50002923,80002890,92,Käynti,,,False,7.5.2023 14.50.16,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+280830-981W,50002937,80002906,92,Käynti,C-/O-kaari,C-/O-kaari salissa,False,8.8.2023 14.32.20,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+280830-981W,50002939,80002913,92,Käynti,,,False,31.7.2023 10.48.56,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+280830-981W,50002940,80002915,93,Käynti,,,False,13.9.2023 13.43.23,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+020245-957C,50002942,80002920,74,Käynti,,,False,23.8.2019 12.42.39,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+020245-957C,50002948,80002926,74,Soitto,,,False,5.9.2019 14.23.24,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+020245-957C,50002949,80002930,75,Käynti,,,False,6.8.2020 8.01.33,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+190733-932F,50002952,80002937,90,Käynti,,,False,27.2.2024 14.54.33,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+190733-932F,50002960,80002955,90,Soitto,,,False,1.4.2024 14.14.30,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+190733-932F,50002965,80002961,91,Käynti,,,False,3.10.2024 12.36.18,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+060952-938T,50002969,80002965,70,Käynti,,,False,24.1.2023 9.31.09,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+060952-938T,50002974,80002977,70,Soitto,,,False,28.2.2023 13.57.39,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+060952-938T,50002979,80002978,70,Käynti,,,False,17.7.2023 11.37.19,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+280744-926X,50002986,80002986,76,Käynti,,,False,30.5.2021 11.03.21,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+280744-926X,50002997,80002999,76,Soitto,,,False,25.6.2021 11.53.50,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+280744-926X,50003003,80003002,77,Käynti,,,False,2.2.2022 13.27.02,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+240870-9344,50003004,80003003,52,Käynti,,,False,5.8.2023 15.34.21,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+240870-9344,50003018,80003008,53,Käynti,,,True,27.10.2023 14.51.50,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+240870-9344,50003024,80003009,53,Käynti,,,False,18.10.2023 13.34.43,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+240870-9344,50003026,80003012,53,Käynti,,,False,21.1.2024 15.25.29,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+041137-9388,50003033,80003017,85,Käynti,,,False,22.1.2023 11.04.45,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+041137-9388,50003044,80003029,85,Soitto,,,False,22.2.2023 14.53.42,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+041137-9388,50003045,80003033,86,Käynti,,,False,17.2.2024 12.45.35,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+040462-9382,50003052,80003037,63,Käynti,,,False,21.5.2025 8.12.00,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+040462-9382,50003063,80003047,63,Käynti,,,False,20.7.2025 14.34.09,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+040462-9382,50003064,80003049,63,Käynti,,,False,7.7.2025 10.51.53,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+040462-9382,50003071,80003055,63,Soitto,,,False,7.9.2025 8.01.44,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+220259-951P,50003073,80003062,64,Käynti,,,False,27.10.2023 8.40.29,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+220259-951P,50003085,80003070,64,Käynti,C-/O-kaari,C-/O-kaari salissa,False,27.12.2023 12.19.28,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+220259-951P,50003089,80003077,64,Käynti,,,False,15.12.2023 11.53.12,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+220259-951P,50003094,80003082,65,Soitto,,,False,18.3.2024 9.08.49,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+301052-9106,50003096,80003088,66,Käynti,,,False,16.8.2019 14.33.49,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+301052-9106,50003103,80003096,66,Käynti,,,False,15.9.2019 8.46.34,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+301052-9106,50003107,80003100,66,Käynti,,,False,1.9.2019 12.10.07,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+301052-9106,50003113,80003106,67,Soitto,,,False,6.11.2019 10.26.39,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+230741-9612,50003114,80003110,78,Käynti,,,False,14.9.2019 14.49.34,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+230741-9612,50003130,80003121,78,Käynti,,,False,28.10.2019 12.47.25,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+230741-9612,50003134,80003122,78,Käynti,,,False,15.10.2019 8.44.31,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+230741-9612,50003135,80003126,78,Käynti,,,False,24.12.2019 13.01.38,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+011247-904L,50003142,80003127,72,Käynti,,,False,14.7.2020 9.45.16,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+011247-904L,50003150,80003136,72,Soitto,,,False,14.8.2020 9.52.55,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+011247-904L,50003151,80003142,73,Käynti,,,False,24.7.2021 10.48.20,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+061049-927F,50003153,80003143,75,Käynti,,,False,27.2.2025 12.53.36,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+061049-927F,50003165,80003148,75,Soitto,,,False,27.3.2025 12.14.46,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+061049-927F,50003172,80003152,76,Käynti,,,False,25.1.2026 14.10.41,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+091149-9897,50003176,80003157,74,Käynti,,,False,22.9.2024 9.22.19,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+091149-9897,50003179,80003169,74,Soitto,,,False,30.10.2024 11.23.29,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+091149-9897,50003184,80003171,75,Käynti,,,False,26.3.2025 12.04.33,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+280748-939C,50003188,80003172,72,Käynti,,,False,18.3.2021 15.23.54,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+280748-939C,50003193,80003178,72,Käynti,,,False,18.3.2021 18.23.54,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+280748-939C,50003196,80003183,72,Soitto,,,False,8.6.2021 11.42.49,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+200481-923T,50003198,80003186,42,Käynti,,,False,10.12.2023 10.03.05,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+200481-923T,50003208,80003194,42,Käynti,,,True,2.1.2024 8.53.34,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+200481-923T,50003210,80003198,42,Käynti,,,False,22.12.2023 11.11.10,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+200481-923T,50003211,80003199,42,Käynti,,,False,11.2.2024 10.25.49,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+201160-901A,50003218,80003200,60,Käynti,,,False,13.9.2021 13.16.36,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+201160-901A,50003227,80003209,61,Käynti,,,False,31.12.2021 10.39.22,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+201160-901A,50003233,80003212,61,Käynti,,,False,27.12.2021 13.02.54,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+201160-901A,50003237,80003218,61,Käynti,,,False,21.3.2022 13.03.52,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+020153-9779,50003241,80003222,69,Käynti,,,False,27.9.2022 11.31.21,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+020153-9779,50003246,80003233,69,Soitto,,,False,13.10.2022 15.57.54,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+020153-9779,50003247,80003236,70,Käynti,,,False,5.4.2023 14.52.34,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+020335-962S,50003249,80003241,85,Käynti,,,False,22.5.2020 12.03.21,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+020335-962S,50003260,80003256,85,Käynti,C-/O-kaari,C-/O-kaari salissa,False,13.7.2020 12.11.11,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+020335-962S,50003264,80003261,85,Käynti,,,False,29.6.2020 9.55.30,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+020335-962S,50003266,80003263,85,Käynti,,,False,5.10.2020 13.25.14,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+131246-980J,50003269,80003268,76,Käynti,,,False,18.9.2023 10.00.17,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+131246-980J,50003280,80003272,76,Soitto,,,False,1.10.2023 9.16.38,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+131246-980J,50003286,80003274,77,Käynti,,,False,18.4.2024 13.51.27,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+171138-930M,50003291,80003281,82,Käynti,,,False,29.4.2021 14.39.14,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+171138-930M,50003300,80003291,82,Käynti,C-/O-kaari,C-/O-kaari salissa,False,14.5.2021 8.52.37,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+171138-930M,50003304,80003297,82,Käynti,,,False,6.5.2021 8.49.38,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+171138-930M,50003311,80003303,82,Käynti,,,False,29.7.2021 10.09.35,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+261129-9293,50003318,80003308,89,Käynti,,,False,26.6.2019 15.03.30,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+261129-9293,50003328,80003316,89,Käynti,,,False,26.6.2019 17.03.30,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+261129-9293,50003335,80003322,89,Käynti,,,False,2.8.2019 9.32.36,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+140932-989E,50003337,80003328,90,Käynti,,,False,28.10.2022 8.18.41,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+140932-989E,50003348,80003342,90,Käynti,C-/O-kaari,C-/O-kaari salissa,False,5.12.2022 13.26.40,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+140932-989E,50003351,80003343,90,Käynti,,,False,27.11.2022 8.06.41,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+140932-989E,50003358,80003347,90,Soitto,,,False,12.1.2023 14.03.27,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+151237-9983,50003363,80003351,84,Käynti,,,False,14.1.2022 15.16.40,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+151237-9983,50003371,80003359,84,Käynti,,,False,14.1.2022 18.16.40,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+151237-9983,50003375,80003363,84,Soitto,,,False,25.2.2022 11.25.47,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+220342-9171,50003377,80003365,81,Käynti,,,False,23.12.2023 9.44.32,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+220342-9171,50003384,80003379,81,Käynti,C-/O-kaari,C-/O-kaari salissa,False,7.2.2024 8.39.32,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+220342-9171,50003385,80003386,81,Käynti,,,False,3.2.2024 12.44.00,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+220342-9171,50003387,80003388,82,Käynti,,,False,25.4.2024 11.57.12,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+101187-955K,50003388,80003395,31,Käynti,,,False,11.4.2019 8.08.10,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+101187-955K,50003396,80003403,31,Käynti,,,True,1.5.2019 12.41.04,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+101187-955K,50003398,80003405,31,Käynti,,,False,21.4.2019 9.08.51,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+101187-955K,50003401,80003411,31,Käynti,,,False,6.6.2019 10.21.54,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+130156-933R,50003406,80003413,64,Käynti,,,False,13.10.2020 14.08.47,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+130156-933R,50003418,80003422,65,Käynti,C-/O-kaari,C-/O-kaari salissa,False,10.2.2021 12.55.25,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+130156-933R,50003419,80003424,65,Käynti,,,False,30.1.2021 13.18.32,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+130156-933R,50003420,80003428,65,Soitto,,,False,28.3.2021 13.49.55,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+110472-978E,50003427,80003435,49,Käynti,,,False,23.3.2022 9.28.09,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+110472-978E,50003434,80003442,50,Soitto,,,False,15.4.2022 12.52.08,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+110472-978E,50003436,80003446,51,Käynti,,,False,26.4.2023 10.43.51,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+170644-935A,50003438,80003450,78,Käynti,,,False,8.10.2022 8.57.11,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+170644-935A,50003452,80003468,78,Käynti,,,False,30.12.2022 10.54.22,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+170644-935A,50003457,80003475,78,Käynti,,,False,21.12.2022 8.26.52,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+170644-935A,50003458,80003483,78,Käynti,,,False,13.3.2023 12.35.17,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+110257-946X,50003464,80003486,66,Käynti,,,False,31.12.2023 8.42.06,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+110257-946X,50003470,80003496,66,Soitto,,,False,23.1.2024 12.23.19,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+110257-946X,50003475,80003503,67,Käynti,,,False,4.9.2024 8.59.03,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+130949-967F,50003477,80003510,72,Käynti,,,False,31.7.2022 8.02.01,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+130949-967F,50003487,80003516,72,Soitto,,,False,23.8.2022 13.54.21,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+130949-967F,50003494,80003523,73,Käynti,,,False,14.2.2023 12.23.30,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+070639-9203,50003498,80003530,84,Käynti,,,False,18.10.2023 12.23.14,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+070639-9203,50003508,80003538,84,Käynti,,,False,18.10.2023 16.23.14,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+070639-9203,50003510,80003540,84,Soitto,,,False,11.12.2023 8.28.19,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+280450-969E,50003511,80003545,75,Käynti,,,False,20.6.2025 13.20.51,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+280450-969E,50003524,80003555,75,Käynti,,,False,20.6.2025 17.20.51,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+280450-969E,50003528,80003559,75,Käynti,,,False,15.8.2025 15.22.12,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+310354-9832,50003532,80003566,70,Käynti,,,False,9.10.2024 8.12.02,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+310354-9832,50003539,80003572,70,Käynti,,,False,9.10.2024 11.12.02,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+310354-9832,50003543,80003574,70,Käynti,,,False,27.11.2024 11.32.56,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+150871-9492,50003547,80003578,50,Käynti,,,False,28.7.2022 8.00.52,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+150871-9492,50003551,80003585,51,Käynti,,,True,6.10.2022 13.15.19,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+150871-9492,50003558,80003592,51,Käynti,,,False,1.10.2022 9.34.32,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+150871-9492,50003561,80003596,51,Käynti,,,False,4.1.2023 15.47.34,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+140936-902N,50003562,80003599,82,Käynti,,,False,14.5.2019 13.00.35,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+140936-902N,50003573,80003603,82,Käynti,C-/O-kaari,C-/O-kaari salissa,False,13.6.2019 10.32.41,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+140936-902N,50003580,80003605,82,Käynti,,,False,10.6.2019 13.57.11,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+140936-902N,50003587,80003609,82,Käynti,,,False,4.9.2019 14.15.19,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+111043-9563,50003590,80003614,77,Käynti,,,False,23.2.2021 11.30.13,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+111043-9563,50003596,80003623,77,Käynti,,,False,23.2.2021 15.30.13,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+111043-9563,50003597,80003629,77,Soitto,,,False,24.4.2021 10.06.34,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+160327-9755,50003601,80003631,93,Käynti,,,False,11.11.2020 15.29.12,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+160327-9755,50003610,80003643,93,Käynti,C-/O-kaari,C-/O-kaari salissa,False,14.2.2021 13.33.31,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+160327-9755,50003616,80003649,93,Käynti,,,False,9.2.2021 8.40.48,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+160327-9755,50003622,80003650,94,Käynti,,,False,16.4.2021 15.05.26,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+220463-981A,50003628,80003656,61,Käynti,,,False,13.7.2024 12.23.09,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+220463-981A,50003639,80003669,61,Käynti,,,False,11.8.2024 9.32.43,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+220463-981A,50003645,80003674,61,Käynti,,,False,4.8.2024 12.07.37,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+220463-981A,50003649,80003681,61,Käynti,,,False,25.10.2024 13.31.15,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+241239-942L,50003654,80003687,79,Käynti,,,False,4.12.2019 9.08.48,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+241239-942L,50003669,80003702,79,Soitto,,,False,20.12.2019 12.29.51,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+241239-942L,50003675,80003709,80,Käynti,,,False,2.5.2020 15.33.46,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+171162-9449,50003676,80003715,60,Käynti,,,False,28.1.2023 9.50.29,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+171162-9449,50003685,80003726,60,Soitto,,,False,10.2.2023 13.57.24,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+171162-9449,50003691,80003730,61,Käynti,,,False,13.2.2024 11.40.45,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+020942-975U,50003693,80003735,77,Käynti,,,False,19.9.2019 12.48.56,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+020942-975U,50003698,80003741,77,Käynti,,,False,19.9.2019 17.48.56,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+020942-975U,50003701,80003742,77,Käynti,,,False,6.11.2019 11.53.43,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+120853-946C,50003708,80003744,67,Käynti,,,False,19.9.2020 13.28.27,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+120853-946C,50003716,80003751,67,Käynti,,,False,19.9.2020 15.28.27,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+120853-946C,50003720,80003757,67,Soitto,,,False,15.12.2020 9.54.09,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+140252-911E,50003727,80003759,69,Käynti,,,False,16.5.2021 8.57.41,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+140252-911E,50003742,80003776,69,Soitto,,,False,31.5.2021 11.37.59,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+140252-911E,50003747,80003783,69,Käynti,,,False,23.10.2021 11.55.18,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+091275-9704,50003748,80003789,44,Käynti,,,False,11.7.2020 11.13.17,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+091275-9704,50003755,80003795,44,Käynti,,,True,29.10.2020 13.05.11,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+091275-9704,50003762,80003797,44,Käynti,,,False,23.10.2020 10.51.08,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+091275-9704,50003767,80003802,45,Käynti,,,False,12.1.2021 13.54.08,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+091162-995S,50003771,80003805,59,Käynti,,,False,6.5.2022 12.06.23,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+091162-995S,50003786,80003816,59,Käynti,,,False,3.9.2022 10.45.50,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+091162-995S,50003788,80003818,59,Käynti,,,False,29.8.2022 13.58.34,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+091162-995S,50003795,80003822,60,Käynti,,,False,18.11.2022 9.42.14,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+140337-974D,50003802,80003823,83,Käynti,,,False,10.6.2020 15.57.00,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+140337-974D,50003811,80003828,83,Käynti,,,False,10.6.2020 19.57.00,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+140337-974D,50003815,80003832,83,Käynti,,,False,18.7.2020 11.25.12,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+080952-9062,50003817,80003834,72,Käynti,,,False,21.1.2025 13.41.46,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+080952-9062,50003823,80003842,72,Käynti,C-/O-kaari,C-/O-kaari salissa,False,16.3.2025 11.08.41,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+080952-9062,50003826,80003844,72,Käynti,,,False,11.3.2025 10.26.52,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+080952-9062,50003831,80003846,72,Soitto,,,False,28.4.2025 9.31.22,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+100660-978A,50003836,80003848,64,Käynti,,,False,14.8.2024 8.45.17,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+100660-978A,50003848,80003869,64,Soitto,,,False,15.9.2024 10.34.20,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+100660-978A,50003854,80003871,65,Käynti,,,False,19.6.2025 9.58.12,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+121081-923F,50003864,80003882,38,Käynti,,,False,3.1.2020 9.10.57,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+121081-923F,50003874,80003886,38,Käynti,,,True,29.4.2020 10.14.59,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+121081-923F,50003879,80003888,38,Käynti,,,False,19.4.2020 9.58.10,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+121081-923F,50003884,80003895,38,Soitto,,,False,5.7.2020 15.56.53,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+060853-980L,50003887,80003902,71,Käynti,,,False,11.7.2025 9.46.01,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+060853-980L,50003893,80003912,72,Käynti,,,False,26.10.2025 11.15.06,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+060853-980L,50003897,80003915,72,Käynti,,,False,16.10.2025 8.56.43,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+060853-980L,50003903,80003922,72,Käynti,,,False,5.12.2025 13.22.15,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+120855-913U,50003905,80003926,65,Käynti,,,False,30.9.2020 12.37.47,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+120855-913U,50003909,80003934,65,Soitto,,,False,8.11.2020 11.50.38,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+120855-913U,50003914,80003940,66,Käynti,,,False,13.9.2021 12.44.36,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+071252-922B,50003918,80003942,71,Käynti,,,False,24.3.2024 15.44.19,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+071252-922B,50003925,80003949,71,Soitto,,,False,20.4.2024 14.05.04,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+071252-922B,50003927,80003950,71,Käynti,,,False,4.12.2024 11.50.02,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+170242-911T,50003934,80003954,81,Käynti,,,False,16.10.2023 12.12.36,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+170242-911T,50003947,80003961,81,Käynti,,,False,16.10.2023 15.12.36,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+170242-911T,50003953,80003966,81,Käynti,,,False,4.12.2023 8.59.58,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+120538-9197,50003956,80003967,83,Käynti,,,False,20.5.2021 11.49.05,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+120538-9197,50003969,80003974,83,Käynti,,,False,1.7.2021 9.58.38,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+120538-9197,50003974,80003980,83,Käynti,,,False,17.6.2021 11.11.40,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+120538-9197,50003976,80003981,83,Soitto,,,False,19.9.2021 15.59.17,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+200874-969P,50003982,80003983,50,Käynti,,,False,12.12.2024 10.57.23,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+200874-969P,50003987,80003991,50,Käynti,,,True,1.1.2025 11.32.14,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+200874-969P,50003991,80003996,50,Käynti,,,False,20.12.2024 11.29.15,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+200874-969P,50003996,80004003,50,Soitto,,,False,5.3.2025 13.51.45,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+221157-9691,50003997,80004007,66,Käynti,,,False,26.3.2024 15.24.24,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+221157-9691,50004009,80004018,66,Käynti,,,False,3.7.2024 8.01.13,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+221157-9691,50004013,80004021,66,Käynti,,,False,25.6.2024 8.05.24,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+221157-9691,50004017,80004027,66,Käynti,,,False,11.8.2024 9.24.17,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+180860-959F,50004021,80004030,61,Käynti,,,False,27.1.2022 8.46.01,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+180860-959F,50004032,80004044,61,Käynti,,,False,4.3.2022 13.25.55,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+180860-959F,50004037,80004048,61,Käynti,,,False,21.2.2022 9.18.18,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+180860-959F,50004042,80004049,61,Soitto,,,False,17.5.2022 12.23.01,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+220274-980H,50004043,80004051,48,Käynti,,,False,21.5.2022 11.03.30,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+220274-980H,50004053,80004060,48,Soitto,,,False,12.6.2022 10.21.55,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+220274-980H,50004056,80004064,49,Käynti,,,False,24.2.2023 12.18.34,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+080159-9328,50004060,80004066,65,Käynti,,,False,10.8.2024 10.17.40,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+080159-9328,50004071,80004073,65,Käynti,,,False,18.9.2024 9.42.30,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+080159-9328,50004078,80004074,65,Käynti,,,False,10.9.2024 9.50.31,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+080159-9328,50004079,80004076,65,Käynti,,,False,19.10.2024 10.55.04,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+061241-9315,50004082,80004078,82,Käynti,,,False,11.2.2024 9.22.26,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+061241-9315,50004095,80004091,82,Soitto,,,False,29.2.2024 14.16.43,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+061241-9315,50004099,80004093,82,Käynti,,,False,30.11.2024 8.16.04,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+070276-934V,50004100,80004094,47,Käynti,,,False,5.12.2023 15.00.57,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+070276-934V,50004105,80004102,48,Käynti,,,True,9.2.2024 11.04.13,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+070276-934V,50004111,80004108,47,Käynti,,,False,5.2.2024 8.26.43,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+070276-934V,50004113,80004115,48,Soitto,,,False,23.4.2024 9.32.34,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+261143-993S,50004115,80004119,79,Käynti,,,False,14.5.2023 9.09.38,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+261143-993S,50004123,80004125,79,Käynti,,,False,13.6.2023 13.34.45,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+261143-993S,50004128,80004129,79,Käynti,,,False,6.6.2023 8.42.24,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+261143-993S,50004129,80004133,79,Käynti,,,False,13.8.2023 15.35.26,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+210646-946S,50004135,80004137,76,Käynti,,,False,2.8.2022 13.59.17,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+210646-946S,50004144,80004146,76,Käynti,,,False,2.8.2022 17.59.17,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+210646-946S,50004147,80004153,76,Soitto,,,False,26.9.2022 10.54.20,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+260260-9738,50004148,80004155,63,Käynti,,,False,6.1.2024 10.53.31,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+260260-9738,50004158,80004160,63,Käynti,,,False,6.1.2024 13.53.31,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+260260-9738,50004161,80004163,64,Käynti,,,False,29.3.2024 15.49.48,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+161147-9543,50004163,80004169,71,Käynti,,,False,10.10.2019 14.13.26,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+161147-9543,50004168,80004177,72,Käynti,,,False,9.12.2019 13.42.52,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+161147-9543,50004173,80004183,72,Käynti,,,False,3.12.2019 12.26.04,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+161147-9543,50004179,80004191,72,Käynti,,,False,16.1.2020 8.06.41,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+100949-975T,50004180,80004192,71,Käynti,,,False,31.10.2020 10.20.00,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+100949-975T,50004190,80004201,71,Käynti,C-/O-kaari,C-/O-kaari salissa,False,15.1.2021 8.37.12,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+100949-975T,50004194,80004202,71,Käynti,,,False,1.1.2021 8.32.58,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+100949-975T,50004197,80004207,71,Soitto,,,False,15.4.2021 10.45.29,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+101256-9795,50004199,80004209,66,Käynti,,,False,13.11.2023 12.31.45,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+101256-9795,50004207,80004221,66,Soitto,,,False,7.12.2023 9.56.29,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+101256-9795,50004213,80004227,67,Käynti,,,False,8.11.2024 11.08.26,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+091289-9835,50004220,80004239,33,Käynti,,,False,7.11.2023 8.47.48,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+091289-9835,50004228,80004252,34,Käynti,,,True,25.1.2024 10.52.24,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+091289-9835,50004232,80004259,34,Käynti,,,False,12.1.2024 13.07.08,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+091289-9835,50004239,80004265,34,Käynti,,,False,27.3.2024 8.41.24,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+180852-945Y,50004243,80004271,70,Käynti,,,False,4.5.2023 11.29.35,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+180852-945Y,50004255,80004279,70,Käynti,,,False,1.8.2023 9.13.31,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+180852-945Y,50004260,80004286,70,Käynti,,,False,25.7.2023 12.31.20,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+180852-945Y,50004264,80004292,71,Soitto,,,False,15.10.2023 10.27.22,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+100939-916A,50004269,80004297,83,Käynti,,,False,28.1.2023 13.11.35,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+100939-916A,50004281,80004308,83,Käynti,,,False,6.4.2023 13.15.05,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+100939-916A,50004285,80004309,83,Käynti,,,False,26.3.2023 11.44.40,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+100939-916A,50004288,80004314,83,Soitto,,,False,12.6.2023 8.27.09,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+141046-945E,50004292,80004319,75,Käynti,,,False,14.4.2022 9.44.01,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+141046-945E,50004303,80004329,75,Soitto,,,False,8.5.2022 13.41.58,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+141046-945E,50004306,80004335,75,Käynti,,,False,7.10.2022 14.50.42,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+141240-944F,50004308,80004341,79,Käynti,,,False,30.4.2020 8.51.25,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+141240-944F,50004313,80004358,79,Käynti,,,False,9.7.2020 14.48.55,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+141240-944F,50004317,80004361,79,Käynti,,,False,5.7.2020 10.04.41,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+141240-944F,50004323,80004365,79,Soitto,,,False,21.8.2020 14.42.47,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+160262-925S,50004324,80004369,63,Käynti,,,False,12.7.2025 15.01.41,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+160262-925S,50004330,80004381,63,Käynti,,,True,17.9.2025 9.59.04,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+160262-925S,50004332,80004388,63,Käynti,,,False,14.9.2025 12.36.10,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+160262-925S,50004333,80004391,63,Käynti,,,False,13.12.2025 10.16.45,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+220450-917W,50004334,80004392,73,Käynti,,,False,27.11.2023 8.57.28,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+220450-917W,50004339,80004403,73,Soitto,,,False,19.12.2023 11.09.13,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+220450-917W,50004340,80004409,74,Käynti,,,False,5.10.2024 14.07.28,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+190560-9458,50004343,80004413,62,Käynti,,,False,28.7.2022 13.30.55,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+190560-9458,50004352,80004421,62,Käynti,,,False,28.7.2022 16.30.55,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+190560-9458,50004357,80004428,62,Käynti,,,False,16.9.2022 14.13.40,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+090866-934D,50004359,80004431,54,Käynti,,,False,25.7.2021 11.59.56,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+090866-934D,50004366,80004434,55,Käynti,,,True,22.10.2021 11.12.44,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+090866-934D,50004367,80004437,55,Käynti,,,False,13.10.2021 9.01.05,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+090866-934D,50004373,80004438,55,Käynti,,,False,30.12.2021 9.28.57,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+021139-983X,50004375,80004443,80,Käynti,,,False,24.3.2020 14.56.00,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+021139-983X,50004381,80004448,80,Käynti,C-/O-kaari,C-/O-kaari salissa,False,14.6.2020 8.24.54,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+021139-983X,50004383,80004450,80,Käynti,,,False,9.6.2020 9.14.02,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+021139-983X,50004386,80004457,80,Soitto,,,False,11.9.2020 8.18.49,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+250757-9792,50004387,80004460,61,Käynti,,,False,21.4.2019 9.04.26,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+250757-9792,50004394,80004467,61,Käynti,,,False,15.5.2019 14.43.10,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+250757-9792,50004397,80004473,61,Käynti,,,False,2.5.2019 9.56.12,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+250757-9792,50004399,80004474,62,Soitto,,,False,5.8.2019 15.29.22,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+261244-953J,50004405,80004477,79,Käynti,,,False,11.5.2024 15.54.57,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+261244-953J,50004422,80004483,79,Käynti,,,False,22.7.2024 14.11.49,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+261244-953J,50004425,80004484,79,Käynti,,,False,9.7.2024 11.15.50,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+261244-953J,50004428,80004490,79,Soitto,,,False,19.9.2024 9.39.34,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+150936-9606,50004432,80004496,87,Käynti,,,False,18.8.2024 10.03.09,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+150936-9606,50004443,80004504,88,Käynti,,,False,16.11.2024 8.58.53,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+150936-9606,50004447,80004506,88,Käynti,,,False,9.11.2024 12.31.03,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+150936-9606,50004452,80004507,88,Käynti,,,False,8.2.2025 10.54.41,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+241062-986B,50004457,80004512,62,Käynti,,,False,9.5.2025 14.02.56,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+241062-986B,50004473,80004528,62,Soitto,,,False,11.6.2025 11.49.04,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+241062-986B,50004478,80004531,63,Käynti,,,False,29.4.2026 14.33.17,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+091245-907B,50004482,80004534,75,Käynti,,,False,14.4.2021 13.14.12,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+091245-907B,50004486,80004549,75,Soitto,,,False,14.5.2021 11.37.38,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+091245-907B,50004493,80004551,76,Käynti,,,False,14.3.2022 11.48.18,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+031266-967U,50004506,80004560,55,Käynti,,,False,29.7.2022 10.35.53,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+031266-967U,50004518,80004567,55,Käynti,,,False,9.10.2022 10.31.43,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+031266-967U,50004524,80004573,55,Käynti,,,False,27.9.2022 12.18.00,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+031266-967U,50004529,80004574,55,Käynti,,,False,18.11.2022 14.10.21,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+211156-925P,50004534,80004579,67,Käynti,,,False,28.6.2024 15.39.34,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+211156-925P,50004539,80004590,67,Käynti,,,False,28.6.2024 19.39.34,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+211156-925P,50004540,80004597,67,Käynti,,,False,8.9.2024 8.54.05,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+270742-955P,50004541,80004599,78,Käynti,,,False,8.12.2020 13.59.50,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+270742-955P,50004548,80004611,78,Käynti,C-/O-kaari,C-/O-kaari salissa,False,27.2.2021 14.08.26,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+270742-955P,50004552,80004618,78,Käynti,,,False,17.2.2021 8.49.15,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+270742-955P,50004554,80004621,78,Soitto,,,False,27.4.2021 8.54.41,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+161244-934F,50004557,80004625,76,Käynti,,,False,10.4.2021 10.25.08,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+161244-934F,50004570,80004631,76,Käynti,,,False,4.7.2021 9.54.28,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+161244-934F,50004573,80004633,76,Käynti,,,False,22.6.2021 8.17.21,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+161244-934F,50004580,80004635,76,Käynti,,,False,5.8.2021 13.06.27,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+151142-9235,50004582,80004641,76,Käynti,,,False,27.8.2019 9.17.45,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+151142-9235,50004593,80004647,76,Käynti,,,False,27.8.2019 11.17.45,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+151142-9235,50004596,80004652,76,Käynti,,,False,26.10.2019 10.42.31,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+260342-947K,50004601,80004653,77,Käynti,,,False,14.6.2019 11.37.18,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+260342-947K,50004608,80004655,77,Soitto,,,False,20.7.2019 14.56.13,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+260342-947K,50004610,80004656,77,Käynti,,,False,11.11.2019 15.43.52,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+180543-951D,50004611,80004663,79,Käynti,,,False,2.11.2022 11.17.27,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+180543-951D,50004618,80004668,79,Soitto,,,False,26.11.2022 10.55.26,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+180543-951D,50004619,80004671,80,Käynti,,,False,12.7.2023 15.17.55,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+280775-938A,50004624,80004673,44,Käynti,,,False,20.7.2020 14.36.22,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+280775-938A,50004635,80004685,45,Käynti,C-/O-kaari,C-/O-kaari salissa,False,23.8.2020 12.54.31,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+280775-938A,50004640,80004691,45,Käynti,,,False,12.8.2020 10.44.57,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+280775-938A,50004647,80004692,45,Soitto,,,False,13.10.2020 14.43.13,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+120742-921X,50004648,80004693,78,Käynti,,,False,31.8.2020 14.46.11,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+120742-921X,50004654,80004704,78,Soitto,,,False,26.9.2020 15.03.09,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+120742-921X,50004656,80004707,78,Käynti,,,False,8.6.2021 15.20.43,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+090754-9246,50004663,80004713,70,Käynti,,,False,13.10.2024 13.10.17,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+090754-9246,50004669,80004721,70,Käynti,C-/O-kaari,C-/O-kaari salissa,False,7.2.2025 11.19.54,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+090754-9246,50004672,80004722,70,Käynti,,,False,25.1.2025 8.45.33,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+090754-9246,50004675,80004727,70,Käynti,,,False,24.4.2025 15.35.02,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+160370-922J,50004681,80004733,54,Käynti,,,False,21.5.2024 12.16.32,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+160370-922J,50004685,80004743,54,Käynti,,,True,16.8.2024 14.04.05,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+160370-922J,50004687,80004748,54,Käynti,,,False,12.8.2024 12.53.09,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+160370-922J,50004690,80004751,54,Käynti,,,False,25.9.2024 8.17.06,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+080143-9977,50004691,80004754,81,Käynti,,,False,5.6.2024 13.09.40,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+080143-9977,50004703,80004762,81,Käynti,,,False,30.8.2024 14.29.10,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+080143-9977,50004707,80004763,81,Käynti,,,False,17.8.2024 11.15.27,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+080143-9977,50004712,80004765,81,Soitto,,,False,29.9.2024 10.24.12,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+241050-974V,50004715,80004766,70,Käynti,,,False,17.3.2021 13.21.28,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+241050-974V,50004723,80004776,70,Käynti,,,False,2.7.2021 11.30.58,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+241050-974V,50004727,80004779,70,Käynti,,,False,29.6.2021 13.44.03,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+241050-974V,50004734,80004780,70,Käynti,,,False,25.9.2021 15.06.32,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+170457-9407,50004738,80004783,67,Käynti,,,False,13.10.2024 14.19.15,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+170457-9407,50004745,80004793,67,Käynti,C-/O-kaari,C-/O-kaari salissa,False,11.11.2024 14.40.03,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+170457-9407,50004749,80004799,67,Käynti,,,False,28.10.2024 14.20.09,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+170457-9407,50004754,80004800,67,Käynti,,,False,13.12.2024 13.17.47,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+020239-949K,50004758,80004806,82,Käynti,,,False,12.6.2021 11.01.55,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+020239-949K,50004776,80004814,82,Käynti,C-/O-kaari,C-/O-kaari salissa,False,23.9.2021 10.44.35,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+020239-949K,50004777,80004816,82,Käynti,,,False,12.9.2021 8.05.03,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+020239-949K,50004778,80004823,82,Soitto,,,False,5.12.2021 9.22.38,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+210149-948K,50004779,80004826,75,Käynti,,,False,26.11.2024 10.38.32,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+210149-948K,50004789,80004841,75,Käynti,C-/O-kaari,C-/O-kaari salissa,False,18.12.2024 12.58.54,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+210149-948K,50004791,80004844,75,Käynti,,,False,15.12.2024 13.14.08,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+210149-948K,50004797,80004848,76,Käynti,,,False,6.3.2025 8.12.27,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+100744-928C,50004799,80004850,74,Käynti,,,False,26.5.2019 12.31.26,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+100744-928C,50004805,80004861,75,Käynti,C-/O-kaari,C-/O-kaari salissa,False,3.9.2019 14.59.41,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+100744-928C,50004812,80004863,75,Käynti,,,False,22.8.2019 10.23.48,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+100744-928C,50004816,80004864,75,Käynti,,,False,22.11.2019 11.49.23,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+071029-9944,50004820,80004865,89,Käynti,,,False,16.7.2019 15.38.52,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+071029-9944,50004825,80004879,89,Soitto,,,False,3.8.2019 15.54.34,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+071029-9944,50004830,80004886,90,Käynti,,,False,20.12.2019 13.32.55,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+280625-932D,50004834,80004888,95,Käynti,,,False,22.8.2020 8.40.13,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+280625-932D,50004846,80004896,95,Soitto,,,False,11.9.2020 13.31.15,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+280625-932D,50004853,80004900,95,Käynti,,,False,26.5.2021 12.27.39,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+211244-9485,50004856,80004906,80,Käynti,,,False,23.4.2025 14.59.42,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+211244-9485,50004865,80004912,80,Soitto,,,False,12.5.2025 12.27.07,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+211244-9485,50004868,80004916,80,Käynti,,,False,22.10.2025 14.41.02,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+140954-920W,50004874,80004917,66,Käynti,,,False,12.6.2021 13.57.11,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+140954-920W,50004882,80004923,66,Käynti,C-/O-kaari,C-/O-kaari salissa,False,16.7.2021 14.00.44,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+140954-920W,50004888,80004928,66,Käynti,,,False,3.7.2021 11.56.31,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+140954-920W,50004895,80004932,67,Soitto,,,False,27.9.2021 13.25.44,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+050664-929J,50004900,80004937,59,Käynti,,,False,27.1.2024 14.34.13,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+050664-929J,50004914,80004947,59,Käynti,C-/O-kaari,C-/O-kaari salissa,False,2.5.2024 14.22.28,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+050664-929J,50004921,80004948,59,Käynti,,,False,19.4.2024 12.09.16,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+050664-929J,50004923,80004950,60,Soitto,,,False,1.7.2024 12.28.35,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+170565-961S,50004924,80004956,58,Käynti,,,False,15.5.2024 13.02.45,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+170565-961S,50004933,80004966,59,Käynti,,,True,1.7.2024 14.25.04,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+170565-961S,50004935,80004972,59,Käynti,,,False,27.6.2024 8.58.54,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+170565-961S,50004942,80004974,59,Käynti,,,False,7.8.2024 11.55.11,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+120944-9256,50004946,80004981,75,Käynti,,,False,17.1.2020 8.04.17,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+120944-9256,50004962,80004998,75,Käynti,,,False,5.4.2020 8.28.51,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+120944-9256,50004964,80005003,75,Käynti,,,False,30.3.2020 13.34.58,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+120944-9256,50004969,80005006,75,Käynti,,,False,18.6.2020 12.00.53,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+240556-914E,50004972,80005009,66,Käynti,,,False,22.8.2022 13.44.48,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+240556-914E,50004981,80005014,66,Soitto,,,False,29.9.2022 15.19.41,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+240556-914E,50004986,80005016,67,Käynti,,,False,22.7.2023 12.18.54,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+171046-9983,50004990,80005022,77,Käynti,,,False,25.12.2023 12.20.18,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+171046-9983,50004996,80005040,77,Käynti,C-/O-kaari,C-/O-kaari salissa,False,20.2.2024 14.30.33,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+171046-9983,50005002,80005046,77,Käynti,,,False,13.2.2024 8.25.30,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+171046-9983,50005005,80005047,77,Käynti,,,False,9.5.2024 12.15.54,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+290855-9876,50005008,80005048,67,Käynti,,,False,16.4.2023 12.30.36,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+290855-9876,50005020,80005053,67,Käynti,,,False,12.8.2023 12.26.25,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+290855-9876,50005022,80005056,67,Käynti,,,False,31.7.2023 9.39.02,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+290855-9876,50005024,80005063,68,Käynti,,,False,10.10.2023 11.09.33,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+170973-980N,50005031,80005065,45,Käynti,,,False,9.8.2019 14.55.23,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+170973-980N,50005039,80005077,46,Käynti,,,True,24.10.2019 11.38.51,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+170973-980N,50005040,80005078,46,Käynti,,,False,10.10.2019 11.47.06,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+170973-980N,50005044,80005083,46,Käynti,,,False,19.12.2019 9.35.11,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+210142-9561,50005047,80005086,78,Käynti,,,False,4.12.2020 14.21.05,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+210142-9561,50005057,80005092,79,Käynti,,,True,3.2.2021 11.12.54,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+210142-9561,50005063,80005099,79,Käynti,,,False,24.1.2021 12.53.37,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+210142-9561,50005070,80005101,79,Soitto,,,False,19.3.2021 14.31.19,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+280954-952Y,50005072,80005104,66,Käynti,,,False,9.7.2021 15.07.11,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+280954-952Y,50005083,80005113,66,Käynti,,,False,31.8.2021 14.56.19,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+280954-952Y,50005090,80005118,66,Käynti,,,False,28.8.2021 10.19.55,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+280954-952Y,50005091,80005126,67,Soitto,,,False,4.11.2021 14.18.43,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+111241-9898,50005092,80005133,80,Käynti,,,False,17.9.2022 12.29.33,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+111241-9898,50005110,80005143,80,Soitto,,,False,24.10.2022 13.50.05,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+111241-9898,50005111,80005146,81,Käynti,,,False,15.10.2023 13.49.54,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+110254-9476,50005118,80005152,67,Käynti,,,False,16.5.2021 14.39.20,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+110254-9476,50005124,80005155,67,Käynti,,,False,16.5.2021 18.39.20,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+110254-9476,50005129,80005158,67,Soitto,,,False,7.7.2021 15.27.54,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+130646-926Y,50005132,80005162,77,Käynti,,,False,22.12.2023 10.33.58,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+130646-926Y,50005145,80005173,77,Käynti,C-/O-kaari,C-/O-kaari salissa,False,15.1.2024 8.36.03,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+130646-926Y,50005152,80005175,77,Käynti,,,False,5.1.2024 12.58.53,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+130646-926Y,50005155,80005179,77,Soitto,,,False,4.3.2024 10.14.45,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+301268-968T,50005157,80005180,50,Käynti,,,False,20.5.2019 14.32.02,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+301268-968T,50005170,80005190,50,Käynti,,,True,3.6.2019 9.20.16,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+301268-968T,50005173,80005197,50,Käynti,,,False,23.5.2019 12.36.26,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+301268-968T,50005179,80005200,50,Soitto,,,False,12.7.2019 10.49.06,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+061149-940P,50005185,80005201,74,Käynti,,,False,25.12.2023 14.27.47,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+061149-940P,50005199,80005212,74,Soitto,,,False,3.2.2024 12.07.10,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+061149-940P,50005206,80005216,74,Käynti,,,False,20.9.2024 15.11.45,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+040842-901X,50005211,80005230,77,Käynti,,,False,15.1.2020 15.39.16,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+040842-901X,50005220,80005235,77,Käynti,C-/O-kaari,C-/O-kaari salissa,False,17.3.2020 10.54.43,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+040842-901X,50005222,80005240,77,Käynti,,,False,5.3.2020 8.17.31,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+040842-901X,50005228,80005243,77,Käynti,,,False,26.4.2020 12.26.24,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+021041-950K,50005235,80005249,79,Käynti,,,False,1.9.2021 13.45.14,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+021041-950K,50005237,80005257,79,Soitto,,,False,21.9.2021 10.12.48,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+021041-950K,50005238,80005263,80,Käynti,,,False,16.5.2022 13.45.06,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+190245-962H,50005242,80005264,78,Käynti,,,False,5.6.2023 14.55.49,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+190245-962H,50005256,80005276,78,Käynti,C-/O-kaari,C-/O-kaari salissa,False,22.7.2023 12.56.25,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+190245-962H,50005261,80005278,78,Käynti,,,False,14.7.2023 10.37.10,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+190245-962H,50005263,80005281,78,Käynti,,,False,28.9.2023 10.50.32,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+140736-926U,50005266,80005286,82,Käynti,,,False,8.4.2019 14.05.45,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+140736-926U,50005276,80005302,83,Käynti,C-/O-kaari,C-/O-kaari salissa,False,29.7.2019 8.09.27,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+140736-926U,50005279,80005307,83,Käynti,,,False,26.7.2019 12.15.39,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+140736-926U,50005280,80005312,83,Soitto,,,False,30.9.2019 10.01.42,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+130545-971B,50005285,80005313,78,Käynti,,,False,6.8.2023 10.52.23,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+130545-971B,50005290,80005319,78,Käynti,C-/O-kaari,C-/O-kaari salissa,False,22.11.2023 13.54.16,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+130545-971B,50005297,80005326,78,Käynti,,,False,17.11.2023 12.11.00,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+130545-971B,50005300,80005331,78,Soitto,,,False,30.12.2023 13.36.11,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+160259-953W,50005303,80005332,65,Käynti,,,False,15.10.2024 12.27.30,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+160259-953W,50005310,80005344,65,Soitto,,,False,20.11.2024 9.59.22,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+160259-953W,50005312,80005347,66,Käynti,,,False,10.6.2025 10.14.09,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+080548-9839,50005318,80005348,72,Käynti,,,False,5.3.2021 11.51.52,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+080548-9839,50005336,80005358,72,Soitto,,,False,13.3.2021 13.10.25,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+080548-9839,50005338,80005360,73,Käynti,,,False,6.2.2022 15.53.37,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+300852-979T,50005343,80005365,68,Käynti,,,False,5.8.2021 10.03.20,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+300852-979T,50005354,80005373,69,Käynti,,,True,1.9.2021 12.33.16,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+300852-979T,50005361,80005375,68,Käynti,,,False,26.8.2021 12.19.18,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+300852-979T,50005367,80005376,69,Käynti,,,False,21.10.2021 13.57.42,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+260859-964J,50005370,80005383,64,Käynti,,,False,20.11.2023 9.51.04,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+260859-964J,50005385,80005394,64,Soitto,,,False,3.12.2023 12.09.20,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+260859-964J,50005390,80005395,65,Käynti,,,False,6.10.2024 10.26.39,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+150355-900A,50005392,80005402,65,Käynti,,,False,9.7.2020 8.51.58,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+150355-900A,50005397,80005416,65,Käynti,,,False,18.9.2020 10.53.02,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+150355-900A,50005398,80005417,65,Käynti,,,False,8.9.2020 13.33.46,"Anestesia- ja leikkausyksikkö, Peijaksen sairaala",20V Verisuonikirurgia
+150355-900A,50005400,80005423,65,Soitto,,,False,9.12.2020 8.25.48,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+080933-9076,50005404,80005424,86,Käynti,,,False,2.9.2020 9.46.12,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+080933-9076,50005418,80005433,87,Soitto,,,False,4.10.2020 15.24.49,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+080933-9076,50005420,80005440,87,Käynti,,,False,1.8.2021 9.19.17,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+030382-965M,50005423,80005450,40,Käynti,,,False,14.2.2023 13.31.36,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+030382-965M,50005435,80005458,41,Käynti,,,True,19.5.2023 8.17.55,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+030382-965M,50005440,80005460,41,Käynti,,,False,11.5.2023 11.39.51,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+030382-965M,50005443,80005464,41,Käynti,,,False,19.7.2023 8.06.18,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+041141-957W,50005450,80005466,79,Käynti,,,False,21.6.2021 8.57.57,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+041141-957W,50005452,80005479,79,Käynti,,,False,1.8.2021 8.37.15,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+041141-957W,50005453,80005480,79,Käynti,,,False,22.7.2021 10.32.10,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+041141-957W,50005456,80005486,79,Soitto,,,False,23.9.2021 10.09.42,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+150530-902J,50005460,80005492,91,Käynti,,,False,28.6.2021 14.43.52,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+150530-902J,50005469,80005501,91,Soitto,,,False,6.8.2021 13.52.38,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+150530-902J,50005473,80005506,92,Käynti,,,False,7.6.2022 9.32.54,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+190255-9922,50005474,80005507,68,Käynti,,,False,16.6.2023 11.22.20,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+190255-9922,50005485,80005515,68,Soitto,,,False,24.6.2023 12.17.54,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+190255-9922,50005491,80005519,68,Käynti,,,False,11.12.2023 11.23.59,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+040952-9286,50005497,80005521,71,Käynti,,,False,23.8.2024 15.23.06,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+040952-9286,50005502,80005529,72,Soitto,,,False,11.9.2024 15.39.43,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+040952-9286,50005507,80005533,72,Käynti,,,False,2.6.2025 11.37.14,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+271160-9447,50005512,80005534,59,Käynti,,,False,19.3.2020 13.39.01,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+271160-9447,50005525,80005548,59,Soitto,,,False,21.4.2020 15.11.58,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+271160-9447,50005532,80005554,60,Käynti,,,False,8.4.2021 8.10.37,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+051155-969J,50005533,80005558,67,Käynti,,,False,15.10.2023 12.58.22,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+051155-969J,50005548,80005575,68,Käynti,C-/O-kaari,C-/O-kaari salissa,False,24.11.2023 13.15.46,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+051155-969J,50005554,80005581,68,Käynti,,,False,18.11.2023 13.49.48,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+051155-969J,50005561,80005586,68,Käynti,,,False,20.2.2024 10.42.29,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+071256-951A,50005568,80005593,64,Käynti,,,False,22.4.2021 12.16.38,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+071256-951A,50005579,80005609,64,Soitto,,,False,25.5.2021 13.38.39,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+071256-951A,50005584,80005615,64,Käynti,,,False,30.9.2021 8.25.34,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+080246-938W,50005589,80005624,79,Käynti,,,False,26.5.2025 13.17.58,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+080246-938W,50005597,80005633,79,Käynti,C-/O-kaari,C-/O-kaari salissa,False,25.7.2025 12.11.22,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+080246-938W,50005602,80005638,79,Käynti,,,False,11.7.2025 12.44.01,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+080246-938W,50005603,80005643,79,Käynti,,,False,24.9.2025 8.43.45,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+080562-978R,50005605,80005644,62,Käynti,,,False,22.6.2024 8.37.37,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+080562-978R,50005613,80005649,62,Soitto,,,False,1.8.2024 12.23.08,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+080562-978R,50005616,80005656,62,Käynti,,,False,11.3.2025 10.02.06,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+090251-9430,50005624,80005666,68,Käynti,,,False,12.10.2019 11.12.05,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+090251-9430,50005639,80005681,68,Soitto,,,False,3.11.2019 13.50.34,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+090251-9430,50005642,80005687,69,Käynti,,,False,12.11.2020 12.52.08,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+101141-901Y,50005650,80005692,77,Käynti,,,False,21.3.2019 11.47.31,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+101141-901Y,50005657,80005697,77,Käynti,C-/O-kaari,C-/O-kaari salissa,False,19.4.2019 13.01.44,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+101141-901Y,50005664,80005701,77,Käynti,,,False,9.4.2019 8.14.50,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+101141-901Y,50005667,80005707,77,Soitto,,,False,20.6.2019 9.52.22,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+230546-933U,50005668,80005710,74,Käynti,,,False,13.1.2021 11.58.11,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+230546-933U,50005681,80005726,74,Käynti,C-/O-kaari,C-/O-kaari salissa,False,28.2.2021 13.41.38,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+230546-933U,50005683,80005727,74,Käynti,,,False,24.2.2021 12.59.45,"Anestesia- ja leikkausyksikkö, Jorvin sairaala",20V Verisuonikirurgia
+230546-933U,50005686,80005731,75,Käynti,,,False,28.5.2021 10.08.39,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+270243-9326,50005690,80005733,77,Käynti,,,False,12.10.2020 13.47.35,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+270243-9326,50005701,80005748,77,Soitto,,,False,8.11.2020 9.53.35,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+270243-9326,50005702,80005755,78,Käynti,,,False,16.8.2021 9.26.54,"Verisuonikirurgian poliklinikka, Jorvin sairaala",20V Verisuonikirurgia
+261153-970L,50005704,80005757,69,Käynti,,,False,21.1.2023 12.22.49,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+261153-970L,50005711,80005767,69,Soitto,,,False,20.2.2023 12.52.20,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+261153-970L,50005717,80005771,69,Käynti,,,False,6.10.2023 13.28.27,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+190548-9477,50005721,80005774,74,Käynti,,,False,27.2.2023 12.20.08,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+190548-9477,50005725,80005788,75,Käynti,C-/O-kaari,C-/O-kaari salissa,False,27.5.2023 10.22.20,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+190548-9477,50005732,80005793,74,Käynti,,,False,14.5.2023 10.50.12,"Anestesia- ja leikkausyksikkö, Tornisairaala",20V Verisuonikirurgia
+190548-9477,50005736,80005794,75,Käynti,,,False,12.7.2023 14.54.35,"Verisuonikirurgian poliklinikka, Tornisairaala",20V Verisuonikirurgia
+211252-959K,50005737,80005796,71,Käynti,,,False,13.11.2024 8.45.10,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+211252-959K,50005756,80005806,71,Soitto,,,False,21.11.2024 15.59.48,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia
+211252-959K,50005757,80005807,72,Käynti,,,False,27.7.2025 11.02.12,"Verisuonikirurgian poliklinikka, Peijaksen sairaala",20V Verisuonikirurgia

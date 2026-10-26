@@ -1,0 +1,1071 @@
+henkilotunnus,visit_id,patient_id,template_name,last_updated,qs_pos,qg_pos,level,question_name,string_answer
+280660-967K,800007,10006,Preop alaraajakysely,9.9.2023 9.49.03,0,0,0,500 metrin kävely,ei_lainkaan
+280660-967K,800007,10006,Preop alaraajakysely,10.9.2023 9.49.03,1,0,0,Portaiden nousu,ei_lainkaan
+280660-967K,800007,10006,Preop alaraajakysely,6.9.2023 9.49.03,2,0,0,Kipu levossa,ei
+280660-967K,800007,10006,Preop alaraajakysely,10.9.2023 9.49.03,3,0,0,Haava jalassa,ei
+280660-967K,800007,10006,Preop alaraajakysely,8.9.2023 9.49.03,4,0,0,Tupakointi,lopettanut
+280660-967K,800017,10006,Postop alaraajakysely,18.10.2023 9.43.13,0,0,0,500 metrin kävely,ei_vaikeuksia
+280660-967K,800017,10006,Postop alaraajakysely,23.10.2023 9.43.13,1,0,0,Portaiden nousu,ei_vaikeuksia
+280660-967K,800017,10006,Postop alaraajakysely,19.10.2023 9.43.13,2,0,0,Kipu levossa,ei
+280660-967K,800017,10006,Postop alaraajakysely,21.10.2023 9.43.13,3,0,0,Haava jalassa,ei
+280660-967K,800017,10006,Postop alaraajakysely,21.10.2023 9.43.13,4,0,0,Tupakointi,tupakoi
+070129-963V,800018,10007,Preop alaraajakysely,28.4.2019 10.42.04,0,0,0,500 metrin kävely,vaikeuksia
+070129-963V,800018,10007,Preop alaraajakysely,28.4.2019 10.42.04,1,0,0,Portaiden nousu,ei_lainkaan
+070129-963V,800018,10007,Preop alaraajakysely,2.5.2019 10.42.04,2,0,0,Kipu levossa,ei
+070129-963V,800018,10007,Preop alaraajakysely,28.4.2019 10.42.04,3,0,0,Haava jalassa,ei
+070129-963V,800018,10007,Preop alaraajakysely,30.4.2019 10.42.04,4,0,0,Tupakointi,tupakoi
+070129-963V,800029,10007,Postop alaraajakysely,26.7.2019 14.46.25,0,0,0,500 metrin kävely,vaikeuksia
+070129-963V,800029,10007,Postop alaraajakysely,24.7.2019 14.46.25,1,0,0,Portaiden nousu,vaikeuksia
+070129-963V,800029,10007,Postop alaraajakysely,26.7.2019 14.46.25,2,0,0,Kipu levossa,ei
+070129-963V,800029,10007,Postop alaraajakysely,22.7.2019 14.46.25,3,0,0,Haava jalassa,ei
+070129-963V,800029,10007,Postop alaraajakysely,22.7.2019 14.46.25,4,0,0,Tupakointi,tupakoi
+010847-984Y,800032,10014,Preop alaraajakysely,6.8.2024 13.32.11,0,0,0,500 metrin kävely,vaikeuksia
+010847-984Y,800032,10014,Preop alaraajakysely,7.8.2024 13.32.11,1,0,0,Portaiden nousu,ei_lainkaan
+010847-984Y,800032,10014,Preop alaraajakysely,7.8.2024 13.32.11,2,0,0,Kipu levossa,kylla
+010847-984Y,800032,10014,Preop alaraajakysely,10.8.2024 13.32.11,3,0,0,Haava jalassa,kylla
+010847-984Y,800032,10014,Preop alaraajakysely,6.8.2024 13.32.11,4,0,0,Tupakointi,lopettanut
+010847-984Y,800041,10014,Postop alaraajakysely,31.10.2024 12.20.23,0,0,0,500 metrin kävely,vaikeuksia
+010847-984Y,800041,10014,Postop alaraajakysely,27.10.2024 12.20.23,1,0,0,Portaiden nousu,ei_vaikeuksia
+010847-984Y,800041,10014,Postop alaraajakysely,27.10.2024 12.20.23,2,0,0,Kipu levossa,ei
+010847-984Y,800041,10014,Postop alaraajakysely,27.10.2024 12.20.23,3,0,0,Haava jalassa,ei
+010847-984Y,800041,10014,Postop alaraajakysely,31.10.2024 12.20.23,4,0,0,Tupakointi,ei_koskaan
+060742-970M,800046,10020,Preop alaraajakysely,8.6.2020 12.06.36,0,0,0,500 metrin kävely,vaikeuksia
+060742-970M,800046,10020,Preop alaraajakysely,10.6.2020 12.06.36,1,0,0,Portaiden nousu,vaikeuksia
+060742-970M,800046,10020,Preop alaraajakysely,13.6.2020 12.06.36,2,0,0,Kipu levossa,ei
+060742-970M,800046,10020,Preop alaraajakysely,13.6.2020 12.06.36,3,0,0,Haava jalassa,ei
+060742-970M,800046,10020,Preop alaraajakysely,8.6.2020 12.06.36,4,0,0,Tupakointi,ei_koskaan
+060742-970M,800057,10020,Postop alaraajakysely,12.8.2020 10.18.08,0,0,0,500 metrin kävely,ei_vaikeuksia
+060742-970M,800057,10020,Postop alaraajakysely,15.8.2020 10.18.08,1,0,0,Portaiden nousu,vaikeuksia
+060742-970M,800057,10020,Postop alaraajakysely,12.8.2020 10.18.08,2,0,0,Kipu levossa,ei
+060742-970M,800057,10020,Postop alaraajakysely,14.8.2020 10.18.08,3,0,0,Haava jalassa,ei
+060742-970M,800057,10020,Postop alaraajakysely,12.8.2020 10.18.08,4,0,0,Tupakointi,tupakoi
+260548-937D,800063,10039,Preop alaraajakysely,12.6.2024 12.44.47,0,0,0,500 metrin kävely,vaikeuksia
+260548-937D,800063,10039,Preop alaraajakysely,10.6.2024 12.44.47,1,0,0,Portaiden nousu,ei_lainkaan
+260548-937D,800063,10039,Preop alaraajakysely,11.6.2024 12.44.47,2,0,0,Kipu levossa,ei
+260548-937D,800063,10039,Preop alaraajakysely,11.6.2024 12.44.47,3,0,0,Haava jalassa,kylla
+260548-937D,800063,10039,Preop alaraajakysely,13.6.2024 12.44.47,4,0,0,Tupakointi,tupakoi
+260548-937D,800073,10039,Postop alaraajakysely,18.7.2024 10.53.34,0,0,0,500 metrin kävely,vaikeuksia
+260548-937D,800073,10039,Postop alaraajakysely,22.7.2024 10.53.34,1,0,0,Portaiden nousu,ei_vaikeuksia
+260548-937D,800073,10039,Postop alaraajakysely,17.7.2024 10.53.34,2,0,0,Kipu levossa,ei
+260548-937D,800073,10039,Postop alaraajakysely,21.7.2024 10.53.34,3,0,0,Haava jalassa,ei
+260548-937D,800073,10039,Postop alaraajakysely,19.7.2024 10.53.34,4,0,0,Tupakointi,ei_koskaan
+021154-906A,800078,10046,Preop alaraajakysely,22.6.2021 9.56.26,0,0,0,500 metrin kävely,ei_lainkaan
+021154-906A,800078,10046,Preop alaraajakysely,20.6.2021 9.56.26,1,0,0,Portaiden nousu,ei_lainkaan
+021154-906A,800078,10046,Preop alaraajakysely,19.6.2021 9.56.26,2,0,0,Kipu levossa,ei
+021154-906A,800078,10046,Preop alaraajakysely,20.6.2021 9.56.26,3,0,0,Haava jalassa,ei
+021154-906A,800078,10046,Preop alaraajakysely,19.6.2021 9.56.26,4,0,0,Tupakointi,ei_koskaan
+021154-906A,800093,10046,Postop alaraajakysely,28.9.2021 8.48.23,0,0,0,500 metrin kävely,vaikeuksia
+021154-906A,800093,10046,Postop alaraajakysely,24.9.2021 8.48.23,1,0,0,Portaiden nousu,ei_vaikeuksia
+021154-906A,800093,10046,Postop alaraajakysely,23.9.2021 8.48.23,2,0,0,Kipu levossa,ei
+021154-906A,800093,10046,Postop alaraajakysely,28.9.2021 8.48.23,3,0,0,Haava jalassa,ei
+021154-906A,800093,10046,Postop alaraajakysely,28.9.2021 8.48.23,4,0,0,Tupakointi,lopettanut
+110550-9334,800098,10053,Preop alaraajakysely,4.5.2025 9.44.42,0,0,0,500 metrin kävely,vaikeuksia
+110550-9334,800098,10053,Preop alaraajakysely,1.5.2025 9.44.42,1,0,0,Portaiden nousu,ei_lainkaan
+110550-9334,800098,10053,Preop alaraajakysely,1.5.2025 9.44.42,2,0,0,Kipu levossa,kylla
+110550-9334,800098,10053,Preop alaraajakysely,30.4.2025 9.44.42,3,0,0,Haava jalassa,kylla
+110550-9334,800098,10053,Preop alaraajakysely,3.5.2025 9.44.42,4,0,0,Tupakointi,ei_koskaan
+110550-9334,800100,10053,Postop alaraajakysely,13.8.2025 11.00.56,0,0,0,500 metrin kävely,vaikeuksia
+110550-9334,800100,10053,Postop alaraajakysely,14.8.2025 11.00.56,1,0,0,Portaiden nousu,vaikeuksia
+110550-9334,800100,10053,Postop alaraajakysely,10.8.2025 11.00.56,2,0,0,Kipu levossa,ei
+110550-9334,800100,10053,Postop alaraajakysely,11.8.2025 11.00.56,3,0,0,Haava jalassa,ei
+110550-9334,800100,10053,Postop alaraajakysely,14.8.2025 11.00.56,4,0,0,Tupakointi,lopettanut
+190847-9693,800106,10055,Preop alaraajakysely,25.10.2023 11.23.00,0,0,0,500 metrin kävely,vaikeuksia
+190847-9693,800106,10055,Preop alaraajakysely,20.10.2023 11.23.00,1,0,0,Portaiden nousu,ei_lainkaan
+190847-9693,800106,10055,Preop alaraajakysely,21.10.2023 11.23.00,2,0,0,Kipu levossa,kylla
+190847-9693,800106,10055,Preop alaraajakysely,22.10.2023 11.23.00,3,0,0,Haava jalassa,ei
+190847-9693,800106,10055,Preop alaraajakysely,22.10.2023 11.23.00,4,0,0,Tupakointi,ei_koskaan
+190847-9693,800116,10055,Postop alaraajakysely,27.11.2023 11.04.46,0,0,0,500 metrin kävely,vaikeuksia
+190847-9693,800116,10055,Postop alaraajakysely,27.11.2023 11.04.46,1,0,0,Portaiden nousu,vaikeuksia
+190847-9693,800116,10055,Postop alaraajakysely,23.11.2023 11.04.46,2,0,0,Kipu levossa,ei
+190847-9693,800116,10055,Postop alaraajakysely,23.11.2023 11.04.46,3,0,0,Haava jalassa,ei
+190847-9693,800116,10055,Postop alaraajakysely,27.11.2023 11.04.46,4,0,0,Tupakointi,ei_koskaan
+200439-940H,800149,10075,Preop alaraajakysely,7.2.2021 13.17.50,0,0,0,500 metrin kävely,vaikeuksia
+200439-940H,800149,10075,Preop alaraajakysely,11.2.2021 13.17.50,1,0,0,Portaiden nousu,vaikeuksia
+200439-940H,800149,10075,Preop alaraajakysely,6.2.2021 13.17.50,2,0,0,Kipu levossa,kylla
+200439-940H,800149,10075,Preop alaraajakysely,11.2.2021 13.17.50,3,0,0,Haava jalassa,ei
+200439-940H,800149,10075,Preop alaraajakysely,8.2.2021 13.17.50,4,0,0,Tupakointi,tupakoi
+200439-940H,800160,10075,Postop alaraajakysely,29.3.2021 11.26.14,0,0,0,500 metrin kävely,ei_vaikeuksia
+200439-940H,800160,10075,Postop alaraajakysely,25.3.2021 11.26.14,1,0,0,Portaiden nousu,vaikeuksia
+200439-940H,800160,10075,Postop alaraajakysely,26.3.2021 11.26.14,2,0,0,Kipu levossa,ei
+200439-940H,800160,10075,Postop alaraajakysely,26.3.2021 11.26.14,3,0,0,Haava jalassa,ei
+200439-940H,800160,10075,Postop alaraajakysely,26.3.2021 11.26.14,4,0,0,Tupakointi,lopettanut
+251145-994N,800167,10083,Preop alaraajakysely,6.3.2025 8.05.53,0,0,0,500 metrin kävely,ei_lainkaan
+251145-994N,800167,10083,Preop alaraajakysely,4.3.2025 8.05.53,1,0,0,Portaiden nousu,ei_lainkaan
+251145-994N,800167,10083,Preop alaraajakysely,4.3.2025 8.05.53,2,0,0,Kipu levossa,ei
+251145-994N,800167,10083,Preop alaraajakysely,9.3.2025 8.05.53,3,0,0,Haava jalassa,kylla
+251145-994N,800167,10083,Preop alaraajakysely,7.3.2025 8.05.53,4,0,0,Tupakointi,lopettanut
+251145-994N,800174,10083,Postop alaraajakysely,27.5.2025 15.29.32,0,0,0,500 metrin kävely,ei_vaikeuksia
+251145-994N,800174,10083,Postop alaraajakysely,22.5.2025 15.29.32,1,0,0,Portaiden nousu,vaikeuksia
+251145-994N,800174,10083,Postop alaraajakysely,23.5.2025 15.29.32,2,0,0,Kipu levossa,ei
+251145-994N,800174,10083,Postop alaraajakysely,25.5.2025 15.29.32,3,0,0,Haava jalassa,ei
+251145-994N,800174,10083,Postop alaraajakysely,22.5.2025 15.29.32,4,0,0,Tupakointi,ei_koskaan
+110551-916U,800212,10099,Preop alaraajakysely,29.5.2025 14.00.18,0,0,0,500 metrin kävely,ei_lainkaan
+110551-916U,800212,10099,Preop alaraajakysely,27.5.2025 14.00.18,1,0,0,Portaiden nousu,vaikeuksia
+110551-916U,800212,10099,Preop alaraajakysely,28.5.2025 14.00.18,2,0,0,Kipu levossa,kylla
+110551-916U,800212,10099,Preop alaraajakysely,25.5.2025 14.00.18,3,0,0,Haava jalassa,kylla
+110551-916U,800212,10099,Preop alaraajakysely,29.5.2025 14.00.18,4,0,0,Tupakointi,lopettanut
+110551-916U,800222,10099,Postop alaraajakysely,13.7.2025 9.15.18,0,0,0,500 metrin kävely,vaikeuksia
+110551-916U,800222,10099,Postop alaraajakysely,14.7.2025 9.15.18,1,0,0,Portaiden nousu,vaikeuksia
+110551-916U,800222,10099,Postop alaraajakysely,14.7.2025 9.15.18,2,0,0,Kipu levossa,ei
+110551-916U,800222,10099,Postop alaraajakysely,16.7.2025 9.15.18,3,0,0,Haava jalassa,ei
+110551-916U,800222,10099,Postop alaraajakysely,16.7.2025 9.15.18,4,0,0,Tupakointi,ei_koskaan
+070335-921N,800242,10126,Preop alaraajakysely,13.5.2019 11.10.10,0,0,0,500 metrin kävely,ei_lainkaan
+070335-921N,800242,10126,Preop alaraajakysely,13.5.2019 11.10.10,1,0,0,Portaiden nousu,ei_lainkaan
+070335-921N,800242,10126,Preop alaraajakysely,9.5.2019 11.10.10,2,0,0,Kipu levossa,kylla
+070335-921N,800242,10126,Preop alaraajakysely,8.5.2019 11.10.10,3,0,0,Haava jalassa,kylla
+070335-921N,800242,10126,Preop alaraajakysely,12.5.2019 11.10.10,4,0,0,Tupakointi,tupakoi
+070335-921N,800258,10126,Postop alaraajakysely,30.6.2019 14.39.36,0,0,0,500 metrin kävely,ei_vaikeuksia
+070335-921N,800258,10126,Postop alaraajakysely,28.6.2019 14.39.36,1,0,0,Portaiden nousu,ei_vaikeuksia
+070335-921N,800258,10126,Postop alaraajakysely,29.6.2019 14.39.36,2,0,0,Kipu levossa,ei
+070335-921N,800258,10126,Postop alaraajakysely,30.6.2019 14.39.36,3,0,0,Haava jalassa,ei
+070335-921N,800258,10126,Postop alaraajakysely,29.6.2019 14.39.36,4,0,0,Tupakointi,ei_koskaan
+150543-996X,800294,10139,Preop alaraajakysely,20.3.2025 14.25.04,0,0,0,500 metrin kävely,vaikeuksia
+150543-996X,800294,10139,Preop alaraajakysely,23.3.2025 14.25.04,1,0,0,Portaiden nousu,ei_lainkaan
+150543-996X,800294,10139,Preop alaraajakysely,21.3.2025 14.25.04,2,0,0,Kipu levossa,kylla
+150543-996X,800294,10139,Preop alaraajakysely,23.3.2025 14.25.04,3,0,0,Haava jalassa,kylla
+150543-996X,800294,10139,Preop alaraajakysely,19.3.2025 14.25.04,4,0,0,Tupakointi,lopettanut
+150543-996X,800305,10139,Postop alaraajakysely,18.6.2025 12.30.25,0,0,0,500 metrin kävely,ei_vaikeuksia
+150543-996X,800305,10139,Postop alaraajakysely,14.6.2025 12.30.25,1,0,0,Portaiden nousu,vaikeuksia
+150543-996X,800305,10139,Postop alaraajakysely,13.6.2025 12.30.25,2,0,0,Kipu levossa,ei
+150543-996X,800305,10139,Postop alaraajakysely,13.6.2025 12.30.25,3,0,0,Haava jalassa,ei
+150543-996X,800305,10139,Postop alaraajakysely,18.6.2025 12.30.25,4,0,0,Tupakointi,lopettanut
+101237-983C,800318,10147,Preop alaraajakysely,17.9.2023 11.36.55,0,0,0,500 metrin kävely,vaikeuksia
+101237-983C,800318,10147,Preop alaraajakysely,14.9.2023 11.36.55,1,0,0,Portaiden nousu,vaikeuksia
+101237-983C,800318,10147,Preop alaraajakysely,15.9.2023 11.36.55,2,0,0,Kipu levossa,ei
+101237-983C,800318,10147,Preop alaraajakysely,17.9.2023 11.36.55,3,0,0,Haava jalassa,kylla
+101237-983C,800318,10147,Preop alaraajakysely,14.9.2023 11.36.55,4,0,0,Tupakointi,tupakoi
+101237-983C,800328,10147,Postop alaraajakysely,9.12.2023 13.13.50,0,0,0,500 metrin kävely,vaikeuksia
+101237-983C,800328,10147,Postop alaraajakysely,11.12.2023 13.13.50,1,0,0,Portaiden nousu,vaikeuksia
+101237-983C,800328,10147,Postop alaraajakysely,10.12.2023 13.13.50,2,0,0,Kipu levossa,ei
+101237-983C,800328,10147,Postop alaraajakysely,11.12.2023 13.13.50,3,0,0,Haava jalassa,ei
+101237-983C,800328,10147,Postop alaraajakysely,11.12.2023 13.13.50,4,0,0,Tupakointi,tupakoi
+060739-9197,800348,10155,Preop alaraajakysely,19.4.2024 10.42.26,0,0,0,500 metrin kävely,vaikeuksia
+060739-9197,800348,10155,Preop alaraajakysely,14.4.2024 10.42.26,1,0,0,Portaiden nousu,ei_lainkaan
+060739-9197,800348,10155,Preop alaraajakysely,14.4.2024 10.42.26,2,0,0,Kipu levossa,ei
+060739-9197,800348,10155,Preop alaraajakysely,19.4.2024 10.42.26,3,0,0,Haava jalassa,ei
+060739-9197,800348,10155,Preop alaraajakysely,19.4.2024 10.42.26,4,0,0,Tupakointi,lopettanut
+060739-9197,800362,10155,Postop alaraajakysely,16.7.2024 12.59.29,0,0,0,500 metrin kävely,ei_vaikeuksia
+060739-9197,800362,10155,Postop alaraajakysely,13.7.2024 12.59.29,1,0,0,Portaiden nousu,vaikeuksia
+060739-9197,800362,10155,Postop alaraajakysely,15.7.2024 12.59.29,2,0,0,Kipu levossa,ei
+060739-9197,800362,10155,Postop alaraajakysely,13.7.2024 12.59.29,3,0,0,Haava jalassa,ei
+060739-9197,800362,10155,Postop alaraajakysely,14.7.2024 12.59.29,4,0,0,Tupakointi,tupakoi
+030842-965B,800388,10186,Preop alaraajakysely,3.1.2023 11.26.39,0,0,0,500 metrin kävely,ei_lainkaan
+030842-965B,800388,10186,Preop alaraajakysely,6.1.2023 11.26.39,1,0,0,Portaiden nousu,vaikeuksia
+030842-965B,800388,10186,Preop alaraajakysely,4.1.2023 11.26.39,2,0,0,Kipu levossa,kylla
+030842-965B,800388,10186,Preop alaraajakysely,5.1.2023 11.26.39,3,0,0,Haava jalassa,ei
+030842-965B,800388,10186,Preop alaraajakysely,5.1.2023 11.26.39,4,0,0,Tupakointi,ei_koskaan
+030842-965B,800397,10186,Postop alaraajakysely,20.3.2023 10.45.31,0,0,0,500 metrin kävely,vaikeuksia
+030842-965B,800397,10186,Postop alaraajakysely,21.3.2023 10.45.31,1,0,0,Portaiden nousu,ei_vaikeuksia
+030842-965B,800397,10186,Postop alaraajakysely,21.3.2023 10.45.31,2,0,0,Kipu levossa,ei
+030842-965B,800397,10186,Postop alaraajakysely,22.3.2023 10.45.31,3,0,0,Haava jalassa,ei
+030842-965B,800397,10186,Postop alaraajakysely,18.3.2023 10.45.31,4,0,0,Tupakointi,tupakoi
+080336-993W,800401,10189,Preop alaraajakysely,4.7.2022 13.37.41,0,0,0,500 metrin kävely,ei_lainkaan
+080336-993W,800401,10189,Preop alaraajakysely,1.7.2022 13.37.41,1,0,0,Portaiden nousu,ei_lainkaan
+080336-993W,800401,10189,Preop alaraajakysely,30.6.2022 13.37.41,2,0,0,Kipu levossa,kylla
+080336-993W,800401,10189,Preop alaraajakysely,4.7.2022 13.37.41,3,0,0,Haava jalassa,kylla
+080336-993W,800401,10189,Preop alaraajakysely,5.7.2022 13.37.41,4,0,0,Tupakointi,ei_koskaan
+080336-993W,800409,10189,Postop alaraajakysely,7.9.2022 12.06.39,0,0,0,500 metrin kävely,vaikeuksia
+080336-993W,800409,10189,Postop alaraajakysely,6.9.2022 12.06.39,1,0,0,Portaiden nousu,ei_vaikeuksia
+080336-993W,800409,10189,Postop alaraajakysely,3.9.2022 12.06.39,2,0,0,Kipu levossa,ei
+080336-993W,800409,10189,Postop alaraajakysely,8.9.2022 12.06.39,3,0,0,Haava jalassa,ei
+080336-993W,800409,10189,Postop alaraajakysely,3.9.2022 12.06.39,4,0,0,Tupakointi,tupakoi
+021150-977K,800412,10197,Preop alaraajakysely,16.12.2024 11.37.22,0,0,0,500 metrin kävely,vaikeuksia
+021150-977K,800412,10197,Preop alaraajakysely,11.12.2024 11.37.22,1,0,0,Portaiden nousu,ei_lainkaan
+021150-977K,800412,10197,Preop alaraajakysely,13.12.2024 11.37.22,2,0,0,Kipu levossa,kylla
+021150-977K,800412,10197,Preop alaraajakysely,13.12.2024 11.37.22,3,0,0,Haava jalassa,kylla
+021150-977K,800412,10197,Preop alaraajakysely,12.12.2024 11.37.22,4,0,0,Tupakointi,tupakoi
+021150-977K,800417,10197,Postop alaraajakysely,15.2.2025 9.38.43,0,0,0,500 metrin kävely,ei_vaikeuksia
+021150-977K,800417,10197,Postop alaraajakysely,18.2.2025 9.38.43,1,0,0,Portaiden nousu,vaikeuksia
+021150-977K,800417,10197,Postop alaraajakysely,19.2.2025 9.38.43,2,0,0,Kipu levossa,ei
+021150-977K,800417,10197,Postop alaraajakysely,18.2.2025 9.38.43,3,0,0,Haava jalassa,ei
+021150-977K,800417,10197,Postop alaraajakysely,16.2.2025 9.38.43,4,0,0,Tupakointi,lopettanut
+010641-989Y,800420,10199,Preop alaraajakysely,12.2.2021 13.31.06,0,0,0,500 metrin kävely,ei_lainkaan
+010641-989Y,800420,10199,Preop alaraajakysely,15.2.2021 13.31.06,1,0,0,Portaiden nousu,vaikeuksia
+010641-989Y,800420,10199,Preop alaraajakysely,14.2.2021 13.31.06,2,0,0,Kipu levossa,ei
+010641-989Y,800420,10199,Preop alaraajakysely,13.2.2021 13.31.06,3,0,0,Haava jalassa,kylla
+010641-989Y,800420,10199,Preop alaraajakysely,14.2.2021 13.31.06,4,0,0,Tupakointi,tupakoi
+010641-989Y,800428,10199,Postop alaraajakysely,22.4.2021 9.06.59,0,0,0,500 metrin kävely,vaikeuksia
+010641-989Y,800428,10199,Postop alaraajakysely,22.4.2021 9.06.59,1,0,0,Portaiden nousu,ei_vaikeuksia
+010641-989Y,800428,10199,Postop alaraajakysely,22.4.2021 9.06.59,2,0,0,Kipu levossa,ei
+010641-989Y,800428,10199,Postop alaraajakysely,23.4.2021 9.06.59,3,0,0,Haava jalassa,ei
+010641-989Y,800428,10199,Postop alaraajakysely,23.4.2021 9.06.59,4,0,0,Tupakointi,ei_koskaan
+140636-921V,800430,10200,Preop alaraajakysely,23.5.2022 10.32.16,0,0,0,500 metrin kävely,ei_lainkaan
+140636-921V,800430,10200,Preop alaraajakysely,18.5.2022 10.32.16,1,0,0,Portaiden nousu,vaikeuksia
+140636-921V,800430,10200,Preop alaraajakysely,18.5.2022 10.32.16,2,0,0,Kipu levossa,kylla
+140636-921V,800430,10200,Preop alaraajakysely,18.5.2022 10.32.16,3,0,0,Haava jalassa,ei
+140636-921V,800430,10200,Preop alaraajakysely,22.5.2022 10.32.16,4,0,0,Tupakointi,tupakoi
+140636-921V,800440,10200,Postop alaraajakysely,11.8.2022 11.31.58,0,0,0,500 metrin kävely,ei_vaikeuksia
+140636-921V,800440,10200,Postop alaraajakysely,7.8.2022 11.31.58,1,0,0,Portaiden nousu,ei_vaikeuksia
+140636-921V,800440,10200,Postop alaraajakysely,12.8.2022 11.31.58,2,0,0,Kipu levossa,ei
+140636-921V,800440,10200,Postop alaraajakysely,7.8.2022 11.31.58,3,0,0,Haava jalassa,ei
+140636-921V,800440,10200,Postop alaraajakysely,12.8.2022 11.31.58,4,0,0,Tupakointi,ei_koskaan
+270165-959X,800471,10209,Preop alaraajakysely,6.12.2023 11.14.20,0,0,0,500 metrin kävely,vaikeuksia
+270165-959X,800471,10209,Preop alaraajakysely,6.12.2023 11.14.20,1,0,0,Portaiden nousu,ei_lainkaan
+270165-959X,800471,10209,Preop alaraajakysely,8.12.2023 11.14.20,2,0,0,Kipu levossa,kylla
+270165-959X,800471,10209,Preop alaraajakysely,4.12.2023 11.14.20,3,0,0,Haava jalassa,ei
+270165-959X,800471,10209,Preop alaraajakysely,7.12.2023 11.14.20,4,0,0,Tupakointi,tupakoi
+270165-959X,800481,10209,Postop alaraajakysely,10.3.2024 8.05.19,0,0,0,500 metrin kävely,vaikeuksia
+270165-959X,800481,10209,Postop alaraajakysely,5.3.2024 8.05.19,1,0,0,Portaiden nousu,ei_vaikeuksia
+270165-959X,800481,10209,Postop alaraajakysely,5.3.2024 8.05.19,2,0,0,Kipu levossa,ei
+270165-959X,800481,10209,Postop alaraajakysely,9.3.2024 8.05.19,3,0,0,Haava jalassa,ei
+270165-959X,800481,10209,Postop alaraajakysely,6.3.2024 8.05.19,4,0,0,Tupakointi,ei_koskaan
+220146-9738,800485,10214,Preop alaraajakysely,4.6.2025 13.30.50,0,0,0,500 metrin kävely,vaikeuksia
+220146-9738,800485,10214,Preop alaraajakysely,7.6.2025 13.30.50,1,0,0,Portaiden nousu,vaikeuksia
+220146-9738,800485,10214,Preop alaraajakysely,8.6.2025 13.30.50,2,0,0,Kipu levossa,kylla
+220146-9738,800485,10214,Preop alaraajakysely,5.6.2025 13.30.50,3,0,0,Haava jalassa,ei
+220146-9738,800485,10214,Preop alaraajakysely,9.6.2025 13.30.50,4,0,0,Tupakointi,tupakoi
+220146-9738,800490,10214,Postop alaraajakysely,1.8.2025 11.03.39,0,0,0,500 metrin kävely,vaikeuksia
+220146-9738,800490,10214,Postop alaraajakysely,4.8.2025 11.03.39,1,0,0,Portaiden nousu,vaikeuksia
+220146-9738,800490,10214,Postop alaraajakysely,1.8.2025 11.03.39,2,0,0,Kipu levossa,ei
+220146-9738,800490,10214,Postop alaraajakysely,31.7.2025 11.03.39,3,0,0,Haava jalassa,ei
+220146-9738,800490,10214,Postop alaraajakysely,4.8.2025 11.03.39,4,0,0,Tupakointi,lopettanut
+100760-9120,800494,10225,Preop alaraajakysely,3.10.2020 10.15.17,0,0,0,500 metrin kävely,ei_lainkaan
+100760-9120,800494,10225,Preop alaraajakysely,7.10.2020 10.15.17,1,0,0,Portaiden nousu,vaikeuksia
+100760-9120,800494,10225,Preop alaraajakysely,7.10.2020 10.15.17,2,0,0,Kipu levossa,ei
+100760-9120,800494,10225,Preop alaraajakysely,6.10.2020 10.15.17,3,0,0,Haava jalassa,ei
+100760-9120,800494,10225,Preop alaraajakysely,3.10.2020 10.15.17,4,0,0,Tupakointi,ei_koskaan
+100760-9120,800504,10225,Postop alaraajakysely,22.12.2020 14.33.12,0,0,0,500 metrin kävely,ei_vaikeuksia
+100760-9120,800504,10225,Postop alaraajakysely,23.12.2020 14.33.12,1,0,0,Portaiden nousu,vaikeuksia
+100760-9120,800504,10225,Postop alaraajakysely,18.12.2020 14.33.12,2,0,0,Kipu levossa,ei
+100760-9120,800504,10225,Postop alaraajakysely,20.12.2020 14.33.12,3,0,0,Haava jalassa,ei
+100760-9120,800504,10225,Postop alaraajakysely,21.12.2020 14.33.12,4,0,0,Tupakointi,tupakoi
+281139-980L,800509,10232,Preop alaraajakysely,10.9.2020 13.37.54,0,0,0,500 metrin kävely,vaikeuksia
+281139-980L,800509,10232,Preop alaraajakysely,11.9.2020 13.37.54,1,0,0,Portaiden nousu,vaikeuksia
+281139-980L,800509,10232,Preop alaraajakysely,7.9.2020 13.37.54,2,0,0,Kipu levossa,kylla
+281139-980L,800509,10232,Preop alaraajakysely,8.9.2020 13.37.54,3,0,0,Haava jalassa,ei
+281139-980L,800509,10232,Preop alaraajakysely,12.9.2020 13.37.54,4,0,0,Tupakointi,tupakoi
+281139-980L,800516,10232,Postop alaraajakysely,5.11.2020 13.59.57,0,0,0,500 metrin kävely,vaikeuksia
+281139-980L,800516,10232,Postop alaraajakysely,5.11.2020 13.59.57,1,0,0,Portaiden nousu,ei_vaikeuksia
+281139-980L,800516,10232,Postop alaraajakysely,9.11.2020 13.59.57,2,0,0,Kipu levossa,ei
+281139-980L,800516,10232,Postop alaraajakysely,10.11.2020 13.59.57,3,0,0,Haava jalassa,ei
+281139-980L,800516,10232,Postop alaraajakysely,9.11.2020 13.59.57,4,0,0,Tupakointi,lopettanut
+100964-9019,800597,10265,Preop alaraajakysely,11.7.2019 10.48.57,0,0,0,500 metrin kävely,vaikeuksia
+100964-9019,800597,10265,Preop alaraajakysely,11.7.2019 10.48.57,1,0,0,Portaiden nousu,vaikeuksia
+100964-9019,800597,10265,Preop alaraajakysely,11.7.2019 10.48.57,2,0,0,Kipu levossa,kylla
+100964-9019,800597,10265,Preop alaraajakysely,11.7.2019 10.48.57,3,0,0,Haava jalassa,kylla
+100964-9019,800597,10265,Preop alaraajakysely,10.7.2019 10.48.57,4,0,0,Tupakointi,tupakoi
+100964-9019,800606,10265,Postop alaraajakysely,13.10.2019 13.06.38,0,0,0,500 metrin kävely,ei_vaikeuksia
+100964-9019,800606,10265,Postop alaraajakysely,13.10.2019 13.06.38,1,0,0,Portaiden nousu,vaikeuksia
+100964-9019,800606,10265,Postop alaraajakysely,14.10.2019 13.06.38,2,0,0,Kipu levossa,ei
+100964-9019,800606,10265,Postop alaraajakysely,17.10.2019 13.06.38,3,0,0,Haava jalassa,ei
+100964-9019,800606,10265,Postop alaraajakysely,17.10.2019 13.06.38,4,0,0,Tupakointi,ei_koskaan
+050247-941A,800610,10267,Preop alaraajakysely,21.2.2020 12.09.10,0,0,0,500 metrin kävely,vaikeuksia
+050247-941A,800610,10267,Preop alaraajakysely,22.2.2020 12.09.10,1,0,0,Portaiden nousu,vaikeuksia
+050247-941A,800610,10267,Preop alaraajakysely,18.2.2020 12.09.10,2,0,0,Kipu levossa,ei
+050247-941A,800610,10267,Preop alaraajakysely,20.2.2020 12.09.10,3,0,0,Haava jalassa,kylla
+050247-941A,800610,10267,Preop alaraajakysely,17.2.2020 12.09.10,4,0,0,Tupakointi,lopettanut
+050247-941A,800612,10267,Postop alaraajakysely,28.3.2020 12.09.20,0,0,0,500 metrin kävely,ei_vaikeuksia
+050247-941A,800612,10267,Postop alaraajakysely,27.3.2020 12.09.20,1,0,0,Portaiden nousu,vaikeuksia
+050247-941A,800612,10267,Postop alaraajakysely,30.3.2020 12.09.20,2,0,0,Kipu levossa,ei
+050247-941A,800612,10267,Postop alaraajakysely,30.3.2020 12.09.20,3,0,0,Haava jalassa,ei
+050247-941A,800612,10267,Postop alaraajakysely,25.3.2020 12.09.20,4,0,0,Tupakointi,lopettanut
+030546-9992,800627,10278,Preop alaraajakysely,24.5.2024 8.16.20,0,0,0,500 metrin kävely,ei_lainkaan
+030546-9992,800627,10278,Preop alaraajakysely,23.5.2024 8.16.20,1,0,0,Portaiden nousu,ei_lainkaan
+030546-9992,800627,10278,Preop alaraajakysely,23.5.2024 8.16.20,2,0,0,Kipu levossa,kylla
+030546-9992,800627,10278,Preop alaraajakysely,22.5.2024 8.16.20,3,0,0,Haava jalassa,ei
+030546-9992,800627,10278,Preop alaraajakysely,24.5.2024 8.16.20,4,0,0,Tupakointi,lopettanut
+030546-9992,800646,10278,Postop alaraajakysely,4.8.2024 8.28.11,0,0,0,500 metrin kävely,vaikeuksia
+030546-9992,800646,10278,Postop alaraajakysely,6.8.2024 8.28.11,1,0,0,Portaiden nousu,ei_vaikeuksia
+030546-9992,800646,10278,Postop alaraajakysely,5.8.2024 8.28.11,2,0,0,Kipu levossa,ei
+030546-9992,800646,10278,Postop alaraajakysely,5.8.2024 8.28.11,3,0,0,Haava jalassa,ei
+030546-9992,800646,10278,Postop alaraajakysely,6.8.2024 8.28.11,4,0,0,Tupakointi,ei_koskaan
+150950-918E,800680,10302,Preop alaraajakysely,29.6.2023 10.09.26,0,0,0,500 metrin kävely,vaikeuksia
+150950-918E,800680,10302,Preop alaraajakysely,30.6.2023 10.09.26,1,0,0,Portaiden nousu,ei_lainkaan
+150950-918E,800680,10302,Preop alaraajakysely,1.7.2023 10.09.26,2,0,0,Kipu levossa,kylla
+150950-918E,800680,10302,Preop alaraajakysely,3.7.2023 10.09.26,3,0,0,Haava jalassa,ei
+150950-918E,800680,10302,Preop alaraajakysely,3.7.2023 10.09.26,4,0,0,Tupakointi,lopettanut
+150950-918E,800689,10302,Postop alaraajakysely,8.8.2023 14.10.10,0,0,0,500 metrin kävely,ei_vaikeuksia
+150950-918E,800689,10302,Postop alaraajakysely,9.8.2023 14.10.10,1,0,0,Portaiden nousu,vaikeuksia
+150950-918E,800689,10302,Postop alaraajakysely,10.8.2023 14.10.10,2,0,0,Kipu levossa,ei
+150950-918E,800689,10302,Postop alaraajakysely,10.8.2023 14.10.10,3,0,0,Haava jalassa,ei
+150950-918E,800689,10302,Postop alaraajakysely,7.8.2023 14.10.10,4,0,0,Tupakointi,tupakoi
+160946-9536,800694,10304,Preop alaraajakysely,23.10.2019 9.17.12,0,0,0,500 metrin kävely,vaikeuksia
+160946-9536,800694,10304,Preop alaraajakysely,24.10.2019 9.17.12,1,0,0,Portaiden nousu,ei_lainkaan
+160946-9536,800694,10304,Preop alaraajakysely,25.10.2019 9.17.12,2,0,0,Kipu levossa,kylla
+160946-9536,800694,10304,Preop alaraajakysely,21.10.2019 9.17.12,3,0,0,Haava jalassa,ei
+160946-9536,800694,10304,Preop alaraajakysely,26.10.2019 9.17.12,4,0,0,Tupakointi,tupakoi
+160946-9536,800711,10304,Postop alaraajakysely,5.1.2020 15.04.25,0,0,0,500 metrin kävely,vaikeuksia
+160946-9536,800711,10304,Postop alaraajakysely,4.1.2020 15.04.25,1,0,0,Portaiden nousu,ei_vaikeuksia
+160946-9536,800711,10304,Postop alaraajakysely,6.1.2020 15.04.25,2,0,0,Kipu levossa,ei
+160946-9536,800711,10304,Postop alaraajakysely,1.1.2020 15.04.25,3,0,0,Haava jalassa,ei
+160946-9536,800711,10304,Postop alaraajakysely,4.1.2020 15.04.25,4,0,0,Tupakointi,ei_koskaan
+041143-932L,800778,10341,Preop alaraajakysely,16.5.2023 11.07.43,0,0,0,500 metrin kävely,ei_lainkaan
+041143-932L,800778,10341,Preop alaraajakysely,16.5.2023 11.07.43,1,0,0,Portaiden nousu,vaikeuksia
+041143-932L,800778,10341,Preop alaraajakysely,19.5.2023 11.07.43,2,0,0,Kipu levossa,ei
+041143-932L,800778,10341,Preop alaraajakysely,17.5.2023 11.07.43,3,0,0,Haava jalassa,ei
+041143-932L,800778,10341,Preop alaraajakysely,19.5.2023 11.07.43,4,0,0,Tupakointi,tupakoi
+041143-932L,800786,10341,Postop alaraajakysely,20.6.2023 11.41.56,0,0,0,500 metrin kävely,ei_vaikeuksia
+041143-932L,800786,10341,Postop alaraajakysely,17.6.2023 11.41.56,1,0,0,Portaiden nousu,ei_vaikeuksia
+041143-932L,800786,10341,Postop alaraajakysely,16.6.2023 11.41.56,2,0,0,Kipu levossa,ei
+041143-932L,800786,10341,Postop alaraajakysely,17.6.2023 11.41.56,3,0,0,Haava jalassa,ei
+041143-932L,800786,10341,Postop alaraajakysely,21.6.2023 11.41.56,4,0,0,Tupakointi,tupakoi
+130835-931W,800792,10351,Preop alaraajakysely,19.2.2021 11.12.50,0,0,0,500 metrin kävely,vaikeuksia
+130835-931W,800792,10351,Preop alaraajakysely,20.2.2021 11.12.50,1,0,0,Portaiden nousu,ei_lainkaan
+130835-931W,800792,10351,Preop alaraajakysely,20.2.2021 11.12.50,2,0,0,Kipu levossa,ei
+130835-931W,800792,10351,Preop alaraajakysely,16.2.2021 11.12.50,3,0,0,Haava jalassa,ei
+130835-931W,800792,10351,Preop alaraajakysely,19.2.2021 11.12.50,4,0,0,Tupakointi,ei_koskaan
+130835-931W,800796,10351,Postop alaraajakysely,4.5.2021 9.29.32,0,0,0,500 metrin kävely,vaikeuksia
+130835-931W,800796,10351,Postop alaraajakysely,4.5.2021 9.29.32,1,0,0,Portaiden nousu,ei_vaikeuksia
+130835-931W,800796,10351,Postop alaraajakysely,3.5.2021 9.29.32,2,0,0,Kipu levossa,ei
+130835-931W,800796,10351,Postop alaraajakysely,30.4.2021 9.29.32,3,0,0,Haava jalassa,ei
+130835-931W,800796,10351,Postop alaraajakysely,2.5.2021 9.29.32,4,0,0,Tupakointi,ei_koskaan
+221258-9682,800817,10361,Preop alaraajakysely,28.5.2021 13.51.30,0,0,0,500 metrin kävely,vaikeuksia
+221258-9682,800817,10361,Preop alaraajakysely,29.5.2021 13.51.30,1,0,0,Portaiden nousu,vaikeuksia
+221258-9682,800817,10361,Preop alaraajakysely,28.5.2021 13.51.30,2,0,0,Kipu levossa,ei
+221258-9682,800817,10361,Preop alaraajakysely,28.5.2021 13.51.30,3,0,0,Haava jalassa,kylla
+221258-9682,800817,10361,Preop alaraajakysely,28.5.2021 13.51.30,4,0,0,Tupakointi,lopettanut
+221258-9682,800822,10361,Postop alaraajakysely,3.8.2021 12.38.22,0,0,0,500 metrin kävely,ei_vaikeuksia
+221258-9682,800822,10361,Postop alaraajakysely,3.8.2021 12.38.22,1,0,0,Portaiden nousu,vaikeuksia
+221258-9682,800822,10361,Postop alaraajakysely,3.8.2021 12.38.22,2,0,0,Kipu levossa,ei
+221258-9682,800822,10361,Postop alaraajakysely,3.8.2021 12.38.22,3,0,0,Haava jalassa,ei
+221258-9682,800822,10361,Postop alaraajakysely,3.8.2021 12.38.22,4,0,0,Tupakointi,ei_koskaan
+250543-997D,800823,10368,Preop alaraajakysely,14.3.2021 10.28.23,0,0,0,500 metrin kävely,vaikeuksia
+250543-997D,800823,10368,Preop alaraajakysely,16.3.2021 10.28.23,1,0,0,Portaiden nousu,vaikeuksia
+250543-997D,800823,10368,Preop alaraajakysely,15.3.2021 10.28.23,2,0,0,Kipu levossa,kylla
+250543-997D,800823,10368,Preop alaraajakysely,14.3.2021 10.28.23,3,0,0,Haava jalassa,ei
+250543-997D,800823,10368,Preop alaraajakysely,16.3.2021 10.28.23,4,0,0,Tupakointi,ei_koskaan
+250543-997D,800829,10368,Postop alaraajakysely,7.6.2021 12.15.54,0,0,0,500 metrin kävely,vaikeuksia
+250543-997D,800829,10368,Postop alaraajakysely,9.6.2021 12.15.54,1,0,0,Portaiden nousu,vaikeuksia
+250543-997D,800829,10368,Postop alaraajakysely,8.6.2021 12.15.54,2,0,0,Kipu levossa,ei
+250543-997D,800829,10368,Postop alaraajakysely,4.6.2021 12.15.54,3,0,0,Haava jalassa,ei
+250543-997D,800829,10368,Postop alaraajakysely,4.6.2021 12.15.54,4,0,0,Tupakointi,ei_koskaan
+140856-931Y,800840,10379,Preop alaraajakysely,29.10.2024 9.09.15,0,0,0,500 metrin kävely,vaikeuksia
+140856-931Y,800840,10379,Preop alaraajakysely,3.11.2024 9.09.15,1,0,0,Portaiden nousu,ei_lainkaan
+140856-931Y,800840,10379,Preop alaraajakysely,1.11.2024 9.09.15,2,0,0,Kipu levossa,ei
+140856-931Y,800840,10379,Preop alaraajakysely,1.11.2024 9.09.15,3,0,0,Haava jalassa,ei
+140856-931Y,800840,10379,Preop alaraajakysely,2.11.2024 9.09.15,4,0,0,Tupakointi,tupakoi
+140856-931Y,800850,10379,Postop alaraajakysely,5.1.2025 14.38.15,0,0,0,500 metrin kävely,vaikeuksia
+140856-931Y,800850,10379,Postop alaraajakysely,1.1.2025 14.38.15,1,0,0,Portaiden nousu,vaikeuksia
+140856-931Y,800850,10379,Postop alaraajakysely,2.1.2025 14.38.15,2,0,0,Kipu levossa,ei
+140856-931Y,800850,10379,Postop alaraajakysely,5.1.2025 14.38.15,3,0,0,Haava jalassa,ei
+140856-931Y,800850,10379,Postop alaraajakysely,4.1.2025 14.38.15,4,0,0,Tupakointi,ei_koskaan
+210854-9630,800852,10383,Preop alaraajakysely,1.9.2021 9.27.24,0,0,0,500 metrin kävely,vaikeuksia
+210854-9630,800852,10383,Preop alaraajakysely,31.8.2021 9.27.24,1,0,0,Portaiden nousu,ei_lainkaan
+210854-9630,800852,10383,Preop alaraajakysely,31.8.2021 9.27.24,2,0,0,Kipu levossa,ei
+210854-9630,800852,10383,Preop alaraajakysely,28.8.2021 9.27.24,3,0,0,Haava jalassa,kylla
+210854-9630,800852,10383,Preop alaraajakysely,29.8.2021 9.27.24,4,0,0,Tupakointi,lopettanut
+210854-9630,800861,10383,Postop alaraajakysely,20.10.2021 13.47.40,0,0,0,500 metrin kävely,vaikeuksia
+210854-9630,800861,10383,Postop alaraajakysely,18.10.2021 13.47.40,1,0,0,Portaiden nousu,ei_vaikeuksia
+210854-9630,800861,10383,Postop alaraajakysely,21.10.2021 13.47.40,2,0,0,Kipu levossa,ei
+210854-9630,800861,10383,Postop alaraajakysely,21.10.2021 13.47.40,3,0,0,Haava jalassa,ei
+210854-9630,800861,10383,Postop alaraajakysely,17.10.2021 13.47.40,4,0,0,Tupakointi,ei_koskaan
+100948-978M,800867,10389,Preop alaraajakysely,3.8.2025 14.27.34,0,0,0,500 metrin kävely,ei_lainkaan
+100948-978M,800867,10389,Preop alaraajakysely,2.8.2025 14.27.34,1,0,0,Portaiden nousu,ei_lainkaan
+100948-978M,800867,10389,Preop alaraajakysely,3.8.2025 14.27.34,2,0,0,Kipu levossa,ei
+100948-978M,800867,10389,Preop alaraajakysely,3.8.2025 14.27.34,3,0,0,Haava jalassa,kylla
+100948-978M,800867,10389,Preop alaraajakysely,3.8.2025 14.27.34,4,0,0,Tupakointi,ei_koskaan
+100948-978M,800875,10389,Postop alaraajakysely,12.9.2025 14.25.24,0,0,0,500 metrin kävely,vaikeuksia
+100948-978M,800875,10389,Postop alaraajakysely,10.9.2025 14.25.24,1,0,0,Portaiden nousu,ei_vaikeuksia
+100948-978M,800875,10389,Postop alaraajakysely,12.9.2025 14.25.24,2,0,0,Kipu levossa,ei
+100948-978M,800875,10389,Postop alaraajakysely,13.9.2025 14.25.24,3,0,0,Haava jalassa,ei
+100948-978M,800875,10389,Postop alaraajakysely,12.9.2025 14.25.24,4,0,0,Tupakointi,tupakoi
+021254-987R,800923,10409,Preop alaraajakysely,11.10.2023 11.40.04,0,0,0,500 metrin kävely,vaikeuksia
+021254-987R,800923,10409,Preop alaraajakysely,12.10.2023 11.40.04,1,0,0,Portaiden nousu,ei_lainkaan
+021254-987R,800923,10409,Preop alaraajakysely,15.10.2023 11.40.04,2,0,0,Kipu levossa,kylla
+021254-987R,800923,10409,Preop alaraajakysely,12.10.2023 11.40.04,3,0,0,Haava jalassa,kylla
+021254-987R,800923,10409,Preop alaraajakysely,14.10.2023 11.40.04,4,0,0,Tupakointi,lopettanut
+021254-987R,800934,10409,Postop alaraajakysely,6.12.2023 9.05.13,0,0,0,500 metrin kävely,vaikeuksia
+021254-987R,800934,10409,Postop alaraajakysely,6.12.2023 9.05.13,1,0,0,Portaiden nousu,ei_vaikeuksia
+021254-987R,800934,10409,Postop alaraajakysely,7.12.2023 9.05.13,2,0,0,Kipu levossa,ei
+021254-987R,800934,10409,Postop alaraajakysely,4.12.2023 9.05.13,3,0,0,Haava jalassa,ei
+021254-987R,800934,10409,Postop alaraajakysely,7.12.2023 9.05.13,4,0,0,Tupakointi,tupakoi
+231149-949Y,800936,10414,Preop alaraajakysely,28.11.2019 14.14.45,0,0,0,500 metrin kävely,vaikeuksia
+231149-949Y,800936,10414,Preop alaraajakysely,27.11.2019 14.14.45,1,0,0,Portaiden nousu,ei_lainkaan
+231149-949Y,800936,10414,Preop alaraajakysely,26.11.2019 14.14.45,2,0,0,Kipu levossa,ei
+231149-949Y,800936,10414,Preop alaraajakysely,23.11.2019 14.14.45,3,0,0,Haava jalassa,kylla
+231149-949Y,800936,10414,Preop alaraajakysely,28.11.2019 14.14.45,4,0,0,Tupakointi,ei_koskaan
+231149-949Y,800941,10414,Postop alaraajakysely,23.2.2020 11.07.48,0,0,0,500 metrin kävely,ei_vaikeuksia
+231149-949Y,800941,10414,Postop alaraajakysely,27.2.2020 11.07.48,1,0,0,Portaiden nousu,ei_vaikeuksia
+231149-949Y,800941,10414,Postop alaraajakysely,25.2.2020 11.07.48,2,0,0,Kipu levossa,ei
+231149-949Y,800941,10414,Postop alaraajakysely,23.2.2020 11.07.48,3,0,0,Haava jalassa,ei
+231149-949Y,800941,10414,Postop alaraajakysely,26.2.2020 11.07.48,4,0,0,Tupakointi,lopettanut
+140526-927N,800981,10442,Preop alaraajakysely,14.3.2022 12.31.58,0,0,0,500 metrin kävely,vaikeuksia
+140526-927N,800981,10442,Preop alaraajakysely,18.3.2022 12.31.58,1,0,0,Portaiden nousu,vaikeuksia
+140526-927N,800981,10442,Preop alaraajakysely,18.3.2022 12.31.58,2,0,0,Kipu levossa,kylla
+140526-927N,800981,10442,Preop alaraajakysely,15.3.2022 12.31.58,3,0,0,Haava jalassa,kylla
+140526-927N,800981,10442,Preop alaraajakysely,17.3.2022 12.31.58,4,0,0,Tupakointi,tupakoi
+140526-927N,800986,10442,Postop alaraajakysely,21.4.2022 9.36.33,0,0,0,500 metrin kävely,vaikeuksia
+140526-927N,800986,10442,Postop alaraajakysely,26.4.2022 9.36.33,1,0,0,Portaiden nousu,ei_vaikeuksia
+140526-927N,800986,10442,Postop alaraajakysely,21.4.2022 9.36.33,2,0,0,Kipu levossa,ei
+140526-927N,800986,10442,Postop alaraajakysely,21.4.2022 9.36.33,3,0,0,Haava jalassa,ei
+140526-927N,800986,10442,Postop alaraajakysely,25.4.2022 9.36.33,4,0,0,Tupakointi,tupakoi
+020163-9256,801027,10472,Preop alaraajakysely,5.9.2023 12.07.20,0,0,0,500 metrin kävely,ei_lainkaan
+020163-9256,801027,10472,Preop alaraajakysely,8.9.2023 12.07.20,1,0,0,Portaiden nousu,ei_lainkaan
+020163-9256,801027,10472,Preop alaraajakysely,4.9.2023 12.07.20,2,0,0,Kipu levossa,kylla
+020163-9256,801027,10472,Preop alaraajakysely,8.9.2023 12.07.20,3,0,0,Haava jalassa,kylla
+020163-9256,801027,10472,Preop alaraajakysely,6.9.2023 12.07.20,4,0,0,Tupakointi,lopettanut
+020163-9256,801034,10472,Postop alaraajakysely,22.10.2023 12.06.29,0,0,0,500 metrin kävely,vaikeuksia
+020163-9256,801034,10472,Postop alaraajakysely,24.10.2023 12.06.29,1,0,0,Portaiden nousu,vaikeuksia
+020163-9256,801034,10472,Postop alaraajakysely,21.10.2023 12.06.29,2,0,0,Kipu levossa,ei
+020163-9256,801034,10472,Postop alaraajakysely,22.10.2023 12.06.29,3,0,0,Haava jalassa,ei
+020163-9256,801034,10472,Postop alaraajakysely,21.10.2023 12.06.29,4,0,0,Tupakointi,lopettanut
+100348-9917,801037,10482,Preop alaraajakysely,26.10.2025 14.14.01,0,0,0,500 metrin kävely,vaikeuksia
+100348-9917,801037,10482,Preop alaraajakysely,26.10.2025 14.14.01,1,0,0,Portaiden nousu,ei_lainkaan
+100348-9917,801037,10482,Preop alaraajakysely,24.10.2025 14.14.01,2,0,0,Kipu levossa,ei
+100348-9917,801037,10482,Preop alaraajakysely,22.10.2025 14.14.01,3,0,0,Haava jalassa,ei
+100348-9917,801037,10482,Preop alaraajakysely,23.10.2025 14.14.01,4,0,0,Tupakointi,lopettanut
+100348-9917,801047,10482,Postop alaraajakysely,10.12.2025 12.41.02,0,0,0,500 metrin kävely,ei_vaikeuksia
+100348-9917,801047,10482,Postop alaraajakysely,13.12.2025 12.41.02,1,0,0,Portaiden nousu,ei_vaikeuksia
+100348-9917,801047,10482,Postop alaraajakysely,13.12.2025 12.41.02,2,0,0,Kipu levossa,ei
+100348-9917,801047,10482,Postop alaraajakysely,10.12.2025 12.41.02,3,0,0,Haava jalassa,ei
+100348-9917,801047,10482,Postop alaraajakysely,10.12.2025 12.41.02,4,0,0,Tupakointi,tupakoi
+301065-948S,801071,10498,Preop alaraajakysely,29.1.2025 8.09.09,0,0,0,500 metrin kävely,ei_lainkaan
+301065-948S,801071,10498,Preop alaraajakysely,27.1.2025 8.09.09,1,0,0,Portaiden nousu,ei_lainkaan
+301065-948S,801071,10498,Preop alaraajakysely,29.1.2025 8.09.09,2,0,0,Kipu levossa,ei
+301065-948S,801071,10498,Preop alaraajakysely,30.1.2025 8.09.09,3,0,0,Haava jalassa,kylla
+301065-948S,801071,10498,Preop alaraajakysely,28.1.2025 8.09.09,4,0,0,Tupakointi,lopettanut
+301065-948S,801084,10498,Postop alaraajakysely,9.5.2025 14.46.54,0,0,0,500 metrin kävely,vaikeuksia
+301065-948S,801084,10498,Postop alaraajakysely,7.5.2025 14.46.54,1,0,0,Portaiden nousu,vaikeuksia
+301065-948S,801084,10498,Postop alaraajakysely,9.5.2025 14.46.54,2,0,0,Kipu levossa,ei
+301065-948S,801084,10498,Postop alaraajakysely,4.5.2025 14.46.54,3,0,0,Haava jalassa,ei
+301065-948S,801084,10498,Postop alaraajakysely,9.5.2025 14.46.54,4,0,0,Tupakointi,tupakoi
+070840-900A,801089,10505,Preop alaraajakysely,29.11.2020 15.03.39,0,0,0,500 metrin kävely,ei_lainkaan
+070840-900A,801089,10505,Preop alaraajakysely,30.11.2020 15.03.39,1,0,0,Portaiden nousu,ei_lainkaan
+070840-900A,801089,10505,Preop alaraajakysely,29.11.2020 15.03.39,2,0,0,Kipu levossa,ei
+070840-900A,801089,10505,Preop alaraajakysely,2.12.2020 15.03.39,3,0,0,Haava jalassa,kylla
+070840-900A,801089,10505,Preop alaraajakysely,2.12.2020 15.03.39,4,0,0,Tupakointi,tupakoi
+070840-900A,801098,10505,Postop alaraajakysely,3.2.2021 14.54.35,0,0,0,500 metrin kävely,ei_vaikeuksia
+070840-900A,801098,10505,Postop alaraajakysely,5.2.2021 14.54.35,1,0,0,Portaiden nousu,vaikeuksia
+070840-900A,801098,10505,Postop alaraajakysely,4.2.2021 14.54.35,2,0,0,Kipu levossa,ei
+070840-900A,801098,10505,Postop alaraajakysely,5.2.2021 14.54.35,3,0,0,Haava jalassa,ei
+070840-900A,801098,10505,Postop alaraajakysely,2.2.2021 14.54.35,4,0,0,Tupakointi,ei_koskaan
+250337-9303,801139,10522,Preop alaraajakysely,23.2.2021 12.58.21,0,0,0,500 metrin kävely,ei_lainkaan
+250337-9303,801139,10522,Preop alaraajakysely,23.2.2021 12.58.21,1,0,0,Portaiden nousu,ei_lainkaan
+250337-9303,801139,10522,Preop alaraajakysely,26.2.2021 12.58.21,2,0,0,Kipu levossa,kylla
+250337-9303,801139,10522,Preop alaraajakysely,21.2.2021 12.58.21,3,0,0,Haava jalassa,ei
+250337-9303,801139,10522,Preop alaraajakysely,21.2.2021 12.58.21,4,0,0,Tupakointi,tupakoi
+250337-9303,801150,10522,Postop alaraajakysely,31.5.2021 12.35.59,0,0,0,500 metrin kävely,ei_vaikeuksia
+250337-9303,801150,10522,Postop alaraajakysely,29.5.2021 12.35.59,1,0,0,Portaiden nousu,ei_vaikeuksia
+250337-9303,801150,10522,Postop alaraajakysely,31.5.2021 12.35.59,2,0,0,Kipu levossa,ei
+250337-9303,801150,10522,Postop alaraajakysely,1.6.2021 12.35.59,3,0,0,Haava jalassa,ei
+250337-9303,801150,10522,Postop alaraajakysely,2.6.2021 12.35.59,4,0,0,Tupakointi,lopettanut
+090646-9859,801166,10529,Preop alaraajakysely,21.11.2024 13.47.59,0,0,0,500 metrin kävely,vaikeuksia
+090646-9859,801166,10529,Preop alaraajakysely,26.11.2024 13.47.59,1,0,0,Portaiden nousu,vaikeuksia
+090646-9859,801166,10529,Preop alaraajakysely,22.11.2024 13.47.59,2,0,0,Kipu levossa,kylla
+090646-9859,801166,10529,Preop alaraajakysely,21.11.2024 13.47.59,3,0,0,Haava jalassa,ei
+090646-9859,801166,10529,Preop alaraajakysely,24.11.2024 13.47.59,4,0,0,Tupakointi,ei_koskaan
+090646-9859,801175,10529,Postop alaraajakysely,8.2.2025 12.09.37,0,0,0,500 metrin kävely,ei_vaikeuksia
+090646-9859,801175,10529,Postop alaraajakysely,10.2.2025 12.09.37,1,0,0,Portaiden nousu,vaikeuksia
+090646-9859,801175,10529,Postop alaraajakysely,8.2.2025 12.09.37,2,0,0,Kipu levossa,ei
+090646-9859,801175,10529,Postop alaraajakysely,9.2.2025 12.09.37,3,0,0,Haava jalassa,ei
+090646-9859,801175,10529,Postop alaraajakysely,7.2.2025 12.09.37,4,0,0,Tupakointi,ei_koskaan
+021172-982D,801178,10541,Preop alaraajakysely,21.9.2025 12.31.01,0,0,0,500 metrin kävely,vaikeuksia
+021172-982D,801178,10541,Preop alaraajakysely,22.9.2025 12.31.01,1,0,0,Portaiden nousu,ei_lainkaan
+021172-982D,801178,10541,Preop alaraajakysely,20.9.2025 12.31.01,2,0,0,Kipu levossa,ei
+021172-982D,801178,10541,Preop alaraajakysely,20.9.2025 12.31.01,3,0,0,Haava jalassa,kylla
+021172-982D,801178,10541,Preop alaraajakysely,25.9.2025 12.31.01,4,0,0,Tupakointi,lopettanut
+021172-982D,801186,10541,Postop alaraajakysely,18.11.2025 8.22.01,0,0,0,500 metrin kävely,ei_vaikeuksia
+021172-982D,801186,10541,Postop alaraajakysely,22.11.2025 8.22.01,1,0,0,Portaiden nousu,vaikeuksia
+021172-982D,801186,10541,Postop alaraajakysely,21.11.2025 8.22.01,2,0,0,Kipu levossa,ei
+021172-982D,801186,10541,Postop alaraajakysely,20.11.2025 8.22.01,3,0,0,Haava jalassa,ei
+021172-982D,801186,10541,Postop alaraajakysely,22.11.2025 8.22.01,4,0,0,Tupakointi,tupakoi
+211241-924L,801240,10574,Preop alaraajakysely,27.10.2024 12.20.07,0,0,0,500 metrin kävely,ei_lainkaan
+211241-924L,801240,10574,Preop alaraajakysely,27.10.2024 12.20.07,1,0,0,Portaiden nousu,vaikeuksia
+211241-924L,801240,10574,Preop alaraajakysely,26.10.2024 12.20.07,2,0,0,Kipu levossa,ei
+211241-924L,801240,10574,Preop alaraajakysely,27.10.2024 12.20.07,3,0,0,Haava jalassa,ei
+211241-924L,801240,10574,Preop alaraajakysely,22.10.2024 12.20.07,4,0,0,Tupakointi,tupakoi
+211241-924L,801251,10574,Postop alaraajakysely,7.1.2025 10.37.51,0,0,0,500 metrin kävely,ei_vaikeuksia
+211241-924L,801251,10574,Postop alaraajakysely,6.1.2025 10.37.51,1,0,0,Portaiden nousu,vaikeuksia
+211241-924L,801251,10574,Postop alaraajakysely,8.1.2025 10.37.51,2,0,0,Kipu levossa,ei
+211241-924L,801251,10574,Postop alaraajakysely,6.1.2025 10.37.51,3,0,0,Haava jalassa,ei
+211241-924L,801251,10574,Postop alaraajakysely,5.1.2025 10.37.51,4,0,0,Tupakointi,tupakoi
+011159-986J,801255,10575,Preop alaraajakysely,13.4.2019 14.19.59,0,0,0,500 metrin kävely,vaikeuksia
+011159-986J,801255,10575,Preop alaraajakysely,13.4.2019 14.19.59,1,0,0,Portaiden nousu,ei_lainkaan
+011159-986J,801255,10575,Preop alaraajakysely,13.4.2019 14.19.59,2,0,0,Kipu levossa,ei
+011159-986J,801255,10575,Preop alaraajakysely,12.4.2019 14.19.59,3,0,0,Haava jalassa,kylla
+011159-986J,801255,10575,Preop alaraajakysely,14.4.2019 14.19.59,4,0,0,Tupakointi,lopettanut
+011159-986J,801263,10575,Postop alaraajakysely,11.6.2019 10.14.20,0,0,0,500 metrin kävely,vaikeuksia
+011159-986J,801263,10575,Postop alaraajakysely,11.6.2019 10.14.20,1,0,0,Portaiden nousu,vaikeuksia
+011159-986J,801263,10575,Postop alaraajakysely,10.6.2019 10.14.20,2,0,0,Kipu levossa,ei
+011159-986J,801263,10575,Postop alaraajakysely,12.6.2019 10.14.20,3,0,0,Haava jalassa,ei
+011159-986J,801263,10575,Postop alaraajakysely,9.6.2019 10.14.20,4,0,0,Tupakointi,lopettanut
+040549-912N,801284,10582,Preop alaraajakysely,2.3.2021 10.56.22,0,0,0,500 metrin kävely,ei_lainkaan
+040549-912N,801284,10582,Preop alaraajakysely,28.2.2021 10.56.22,1,0,0,Portaiden nousu,ei_lainkaan
+040549-912N,801284,10582,Preop alaraajakysely,2.3.2021 10.56.22,2,0,0,Kipu levossa,ei
+040549-912N,801284,10582,Preop alaraajakysely,26.2.2021 10.56.22,3,0,0,Haava jalassa,ei
+040549-912N,801284,10582,Preop alaraajakysely,3.3.2021 10.56.22,4,0,0,Tupakointi,lopettanut
+040549-912N,801289,10582,Postop alaraajakysely,4.6.2021 8.23.08,0,0,0,500 metrin kävely,ei_vaikeuksia
+040549-912N,801289,10582,Postop alaraajakysely,2.6.2021 8.23.08,1,0,0,Portaiden nousu,ei_vaikeuksia
+040549-912N,801289,10582,Postop alaraajakysely,2.6.2021 8.23.08,2,0,0,Kipu levossa,ei
+040549-912N,801289,10582,Postop alaraajakysely,4.6.2021 8.23.08,3,0,0,Haava jalassa,ei
+040549-912N,801289,10582,Postop alaraajakysely,3.6.2021 8.23.08,4,0,0,Tupakointi,ei_koskaan
+260449-954D,801301,10594,Preop alaraajakysely,23.12.2019 12.37.10,0,0,0,500 metrin kävely,vaikeuksia
+260449-954D,801301,10594,Preop alaraajakysely,23.12.2019 12.37.10,1,0,0,Portaiden nousu,ei_lainkaan
+260449-954D,801301,10594,Preop alaraajakysely,21.12.2019 12.37.10,2,0,0,Kipu levossa,ei
+260449-954D,801301,10594,Preop alaraajakysely,24.12.2019 12.37.10,3,0,0,Haava jalassa,kylla
+260449-954D,801301,10594,Preop alaraajakysely,26.12.2019 12.37.10,4,0,0,Tupakointi,ei_koskaan
+260449-954D,801309,10594,Postop alaraajakysely,11.3.2020 9.28.04,0,0,0,500 metrin kävely,ei_vaikeuksia
+260449-954D,801309,10594,Postop alaraajakysely,7.3.2020 9.28.04,1,0,0,Portaiden nousu,vaikeuksia
+260449-954D,801309,10594,Postop alaraajakysely,11.3.2020 9.28.04,2,0,0,Kipu levossa,ei
+260449-954D,801309,10594,Postop alaraajakysely,6.3.2020 9.28.04,3,0,0,Haava jalassa,ei
+260449-954D,801309,10594,Postop alaraajakysely,7.3.2020 9.28.04,4,0,0,Tupakointi,ei_koskaan
+310835-970S,801313,10599,Preop alaraajakysely,17.1.2021 14.04.15,0,0,0,500 metrin kävely,ei_lainkaan
+310835-970S,801313,10599,Preop alaraajakysely,20.1.2021 14.04.15,1,0,0,Portaiden nousu,vaikeuksia
+310835-970S,801313,10599,Preop alaraajakysely,21.1.2021 14.04.15,2,0,0,Kipu levossa,kylla
+310835-970S,801313,10599,Preop alaraajakysely,21.1.2021 14.04.15,3,0,0,Haava jalassa,ei
+310835-970S,801313,10599,Preop alaraajakysely,19.1.2021 14.04.15,4,0,0,Tupakointi,lopettanut
+310835-970S,801316,10599,Postop alaraajakysely,11.3.2021 12.47.32,0,0,0,500 metrin kävely,vaikeuksia
+310835-970S,801316,10599,Postop alaraajakysely,13.3.2021 12.47.32,1,0,0,Portaiden nousu,ei_vaikeuksia
+310835-970S,801316,10599,Postop alaraajakysely,15.3.2021 12.47.32,2,0,0,Kipu levossa,ei
+310835-970S,801316,10599,Postop alaraajakysely,14.3.2021 12.47.32,3,0,0,Haava jalassa,ei
+310835-970S,801316,10599,Postop alaraajakysely,10.3.2021 12.47.32,4,0,0,Tupakointi,tupakoi
+160962-987D,801319,10606,Preop alaraajakysely,12.9.2025 13.57.50,0,0,0,500 metrin kävely,ei_lainkaan
+160962-987D,801319,10606,Preop alaraajakysely,13.9.2025 13.57.50,1,0,0,Portaiden nousu,ei_lainkaan
+160962-987D,801319,10606,Preop alaraajakysely,13.9.2025 13.57.50,2,0,0,Kipu levossa,kylla
+160962-987D,801319,10606,Preop alaraajakysely,11.9.2025 13.57.50,3,0,0,Haava jalassa,ei
+160962-987D,801319,10606,Preop alaraajakysely,11.9.2025 13.57.50,4,0,0,Tupakointi,tupakoi
+160962-987D,801329,10606,Postop alaraajakysely,17.10.2025 10.08.37,0,0,0,500 metrin kävely,ei_vaikeuksia
+160962-987D,801329,10606,Postop alaraajakysely,21.10.2025 10.08.37,1,0,0,Portaiden nousu,ei_vaikeuksia
+160962-987D,801329,10606,Postop alaraajakysely,19.10.2025 10.08.37,2,0,0,Kipu levossa,ei
+160962-987D,801329,10606,Postop alaraajakysely,20.10.2025 10.08.37,3,0,0,Haava jalassa,ei
+160962-987D,801329,10606,Postop alaraajakysely,21.10.2025 10.08.37,4,0,0,Tupakointi,ei_koskaan
+280830-981W,801331,10608,Preop alaraajakysely,3.8.2023 10.48.56,0,0,0,500 metrin kävely,ei_lainkaan
+280830-981W,801331,10608,Preop alaraajakysely,4.8.2023 10.48.56,1,0,0,Portaiden nousu,ei_lainkaan
+280830-981W,801331,10608,Preop alaraajakysely,2.8.2023 10.48.56,2,0,0,Kipu levossa,ei
+280830-981W,801331,10608,Preop alaraajakysely,2.8.2023 10.48.56,3,0,0,Haava jalassa,kylla
+280830-981W,801331,10608,Preop alaraajakysely,2.8.2023 10.48.56,4,0,0,Tupakointi,lopettanut
+280830-981W,801343,10608,Postop alaraajakysely,14.9.2023 13.43.23,0,0,0,500 metrin kävely,ei_vaikeuksia
+280830-981W,801343,10608,Postop alaraajakysely,13.9.2023 13.43.23,1,0,0,Portaiden nousu,vaikeuksia
+280830-981W,801343,10608,Postop alaraajakysely,17.9.2023 13.43.23,2,0,0,Kipu levossa,ei
+280830-981W,801343,10608,Postop alaraajakysely,17.9.2023 13.43.23,3,0,0,Haava jalassa,ei
+280830-981W,801343,10608,Postop alaraajakysely,18.9.2023 13.43.23,4,0,0,Tupakointi,tupakoi
+040462-9382,801360,10642,Preop alaraajakysely,8.7.2025 10.51.53,0,0,0,500 metrin kävely,vaikeuksia
+040462-9382,801360,10642,Preop alaraajakysely,9.7.2025 10.51.53,1,0,0,Portaiden nousu,ei_lainkaan
+040462-9382,801360,10642,Preop alaraajakysely,12.7.2025 10.51.53,2,0,0,Kipu levossa,kylla
+040462-9382,801360,10642,Preop alaraajakysely,7.7.2025 10.51.53,3,0,0,Haava jalassa,ei
+040462-9382,801360,10642,Preop alaraajakysely,10.7.2025 10.51.53,4,0,0,Tupakointi,tupakoi
+040462-9382,801370,10642,Postop alaraajakysely,7.9.2025 8.01.44,0,0,0,500 metrin kävely,vaikeuksia
+040462-9382,801370,10642,Postop alaraajakysely,12.9.2025 8.01.44,1,0,0,Portaiden nousu,ei_vaikeuksia
+040462-9382,801370,10642,Postop alaraajakysely,9.9.2025 8.01.44,2,0,0,Kipu levossa,ei
+040462-9382,801370,10642,Postop alaraajakysely,9.9.2025 8.01.44,3,0,0,Haava jalassa,ei
+040462-9382,801370,10642,Postop alaraajakysely,8.9.2025 8.01.44,4,0,0,Tupakointi,ei_koskaan
+220259-951P,801376,10647,Preop alaraajakysely,17.12.2023 11.53.12,0,0,0,500 metrin kävely,ei_lainkaan
+220259-951P,801376,10647,Preop alaraajakysely,19.12.2023 11.53.12,1,0,0,Portaiden nousu,ei_lainkaan
+220259-951P,801376,10647,Preop alaraajakysely,19.12.2023 11.53.12,2,0,0,Kipu levossa,kylla
+220259-951P,801376,10647,Preop alaraajakysely,19.12.2023 11.53.12,3,0,0,Haava jalassa,kylla
+220259-951P,801376,10647,Preop alaraajakysely,15.12.2023 11.53.12,4,0,0,Tupakointi,ei_koskaan
+220259-951P,801383,10647,Postop alaraajakysely,23.3.2024 9.08.49,0,0,0,500 metrin kävely,ei_vaikeuksia
+220259-951P,801383,10647,Postop alaraajakysely,19.3.2024 9.08.49,1,0,0,Portaiden nousu,vaikeuksia
+220259-951P,801383,10647,Postop alaraajakysely,23.3.2024 9.08.49,2,0,0,Kipu levossa,ei
+220259-951P,801383,10647,Postop alaraajakysely,23.3.2024 9.08.49,3,0,0,Haava jalassa,ei
+220259-951P,801383,10647,Postop alaraajakysely,18.3.2024 9.08.49,4,0,0,Tupakointi,lopettanut
+230741-9612,801393,10658,Preop alaraajakysely,20.10.2019 8.44.31,0,0,0,500 metrin kävely,vaikeuksia
+230741-9612,801393,10658,Preop alaraajakysely,18.10.2019 8.44.31,1,0,0,Portaiden nousu,vaikeuksia
+230741-9612,801393,10658,Preop alaraajakysely,15.10.2019 8.44.31,2,0,0,Kipu levossa,ei
+230741-9612,801393,10658,Preop alaraajakysely,19.10.2019 8.44.31,3,0,0,Haava jalassa,ei
+230741-9612,801393,10658,Preop alaraajakysely,15.10.2019 8.44.31,4,0,0,Tupakointi,tupakoi
+230741-9612,801407,10658,Postop alaraajakysely,27.12.2019 13.01.38,0,0,0,500 metrin kävely,ei_vaikeuksia
+230741-9612,801407,10658,Postop alaraajakysely,24.12.2019 13.01.38,1,0,0,Portaiden nousu,vaikeuksia
+230741-9612,801407,10658,Postop alaraajakysely,27.12.2019 13.01.38,2,0,0,Kipu levossa,ei
+230741-9612,801407,10658,Postop alaraajakysely,27.12.2019 13.01.38,3,0,0,Haava jalassa,ei
+230741-9612,801407,10658,Postop alaraajakysely,25.12.2019 13.01.38,4,0,0,Tupakointi,ei_koskaan
+280748-939C,801410,10674,Preop alaraajakysely,18.3.2021 15.23.54,0,0,0,500 metrin kävely,vaikeuksia
+280748-939C,801410,10674,Preop alaraajakysely,19.3.2021 15.23.54,1,0,0,Portaiden nousu,vaikeuksia
+280748-939C,801410,10674,Preop alaraajakysely,22.3.2021 15.23.54,2,0,0,Kipu levossa,ei
+280748-939C,801410,10674,Preop alaraajakysely,20.3.2021 15.23.54,3,0,0,Haava jalassa,ei
+280748-939C,801410,10674,Preop alaraajakysely,20.3.2021 15.23.54,4,0,0,Tupakointi,tupakoi
+280748-939C,801420,10674,Postop alaraajakysely,9.6.2021 11.42.49,0,0,0,500 metrin kävely,vaikeuksia
+280748-939C,801420,10674,Postop alaraajakysely,8.6.2021 11.42.49,1,0,0,Portaiden nousu,vaikeuksia
+280748-939C,801420,10674,Postop alaraajakysely,11.6.2021 11.42.49,2,0,0,Kipu levossa,ei
+280748-939C,801420,10674,Postop alaraajakysely,12.6.2021 11.42.49,3,0,0,Haava jalassa,ei
+280748-939C,801420,10674,Postop alaraajakysely,9.6.2021 11.42.49,4,0,0,Tupakointi,ei_koskaan
+020335-962S,801454,10694,Preop alaraajakysely,1.7.2020 9.55.30,0,0,0,500 metrin kävely,vaikeuksia
+020335-962S,801454,10694,Preop alaraajakysely,3.7.2020 9.55.30,1,0,0,Portaiden nousu,ei_lainkaan
+020335-962S,801454,10694,Preop alaraajakysely,1.7.2020 9.55.30,2,0,0,Kipu levossa,ei
+020335-962S,801454,10694,Preop alaraajakysely,1.7.2020 9.55.30,3,0,0,Haava jalassa,ei
+020335-962S,801454,10694,Preop alaraajakysely,3.7.2020 9.55.30,4,0,0,Tupakointi,lopettanut
+020335-962S,801465,10694,Postop alaraajakysely,5.10.2020 13.25.14,0,0,0,500 metrin kävely,vaikeuksia
+020335-962S,801465,10694,Postop alaraajakysely,10.10.2020 13.25.14,1,0,0,Portaiden nousu,ei_vaikeuksia
+020335-962S,801465,10694,Postop alaraajakysely,8.10.2020 13.25.14,2,0,0,Kipu levossa,ei
+020335-962S,801465,10694,Postop alaraajakysely,9.10.2020 13.25.14,3,0,0,Haava jalassa,ei
+020335-962S,801465,10694,Postop alaraajakysely,6.10.2020 13.25.14,4,0,0,Tupakointi,ei_koskaan
+261129-9293,801483,10704,Preop alaraajakysely,26.6.2019 15.03.30,0,0,0,500 metrin kävely,ei_lainkaan
+261129-9293,801483,10704,Preop alaraajakysely,28.6.2019 15.03.30,1,0,0,Portaiden nousu,ei_lainkaan
+261129-9293,801483,10704,Preop alaraajakysely,30.6.2019 15.03.30,2,0,0,Kipu levossa,ei
+261129-9293,801483,10704,Preop alaraajakysely,27.6.2019 15.03.30,3,0,0,Haava jalassa,kylla
+261129-9293,801483,10704,Preop alaraajakysely,29.6.2019 15.03.30,4,0,0,Tupakointi,tupakoi
+261129-9293,801486,10704,Postop alaraajakysely,3.8.2019 9.32.36,0,0,0,500 metrin kävely,ei_vaikeuksia
+261129-9293,801486,10704,Postop alaraajakysely,7.8.2019 9.32.36,1,0,0,Portaiden nousu,vaikeuksia
+261129-9293,801486,10704,Postop alaraajakysely,3.8.2019 9.32.36,2,0,0,Kipu levossa,ei
+261129-9293,801486,10704,Postop alaraajakysely,4.8.2019 9.32.36,3,0,0,Haava jalassa,ei
+261129-9293,801486,10704,Postop alaraajakysely,7.8.2019 9.32.36,4,0,0,Tupakointi,ei_koskaan
+140932-989E,801490,10709,Preop alaraajakysely,28.11.2022 8.06.41,0,0,0,500 metrin kävely,ei_lainkaan
+140932-989E,801490,10709,Preop alaraajakysely,30.11.2022 8.06.41,1,0,0,Portaiden nousu,vaikeuksia
+140932-989E,801490,10709,Preop alaraajakysely,30.11.2022 8.06.41,2,0,0,Kipu levossa,ei
+140932-989E,801490,10709,Preop alaraajakysely,30.11.2022 8.06.41,3,0,0,Haava jalassa,ei
+140932-989E,801490,10709,Preop alaraajakysely,30.11.2022 8.06.41,4,0,0,Tupakointi,tupakoi
+140932-989E,801504,10709,Postop alaraajakysely,14.1.2023 14.03.27,0,0,0,500 metrin kävely,vaikeuksia
+140932-989E,801504,10709,Postop alaraajakysely,17.1.2023 14.03.27,1,0,0,Portaiden nousu,vaikeuksia
+140932-989E,801504,10709,Postop alaraajakysely,16.1.2023 14.03.27,2,0,0,Kipu levossa,ei
+140932-989E,801504,10709,Postop alaraajakysely,15.1.2023 14.03.27,3,0,0,Haava jalassa,ei
+140932-989E,801504,10709,Postop alaraajakysely,16.1.2023 14.03.27,4,0,0,Tupakointi,tupakoi
+151237-9983,801509,10710,Preop alaraajakysely,16.1.2022 15.16.40,0,0,0,500 metrin kävely,vaikeuksia
+151237-9983,801509,10710,Preop alaraajakysely,17.1.2022 15.16.40,1,0,0,Portaiden nousu,ei_lainkaan
+151237-9983,801509,10710,Preop alaraajakysely,16.1.2022 15.16.40,2,0,0,Kipu levossa,ei
+151237-9983,801509,10710,Preop alaraajakysely,19.1.2022 15.16.40,3,0,0,Haava jalassa,ei
+151237-9983,801509,10710,Preop alaraajakysely,16.1.2022 15.16.40,4,0,0,Tupakointi,ei_koskaan
+151237-9983,801517,10710,Postop alaraajakysely,27.2.2022 11.25.47,0,0,0,500 metrin kävely,vaikeuksia
+151237-9983,801517,10710,Postop alaraajakysely,25.2.2022 11.25.47,1,0,0,Portaiden nousu,ei_vaikeuksia
+151237-9983,801517,10710,Postop alaraajakysely,1.3.2022 11.25.47,2,0,0,Kipu levossa,ei
+151237-9983,801517,10710,Postop alaraajakysely,27.2.2022 11.25.47,3,0,0,Haava jalassa,ei
+151237-9983,801517,10710,Postop alaraajakysely,1.3.2022 11.25.47,4,0,0,Tupakointi,tupakoi
+130156-933R,801551,10721,Preop alaraajakysely,30.1.2021 13.18.32,0,0,0,500 metrin kävely,vaikeuksia
+130156-933R,801551,10721,Preop alaraajakysely,2.2.2021 13.18.32,1,0,0,Portaiden nousu,vaikeuksia
+130156-933R,801551,10721,Preop alaraajakysely,2.2.2021 13.18.32,2,0,0,Kipu levossa,kylla
+130156-933R,801551,10721,Preop alaraajakysely,4.2.2021 13.18.32,3,0,0,Haava jalassa,ei
+130156-933R,801551,10721,Preop alaraajakysely,31.1.2021 13.18.32,4,0,0,Tupakointi,ei_koskaan
+130156-933R,801560,10721,Postop alaraajakysely,2.4.2021 13.49.55,0,0,0,500 metrin kävely,ei_vaikeuksia
+130156-933R,801560,10721,Postop alaraajakysely,1.4.2021 13.49.55,1,0,0,Portaiden nousu,vaikeuksia
+130156-933R,801560,10721,Postop alaraajakysely,29.3.2021 13.49.55,2,0,0,Kipu levossa,ei
+130156-933R,801560,10721,Postop alaraajakysely,29.3.2021 13.49.55,3,0,0,Haava jalassa,ei
+130156-933R,801560,10721,Postop alaraajakysely,2.4.2021 13.49.55,4,0,0,Tupakointi,ei_koskaan
+070639-9203,801576,10749,Preop alaraajakysely,19.10.2023 12.23.14,0,0,0,500 metrin kävely,ei_lainkaan
+070639-9203,801576,10749,Preop alaraajakysely,20.10.2023 12.23.14,1,0,0,Portaiden nousu,vaikeuksia
+070639-9203,801576,10749,Preop alaraajakysely,19.10.2023 12.23.14,2,0,0,Kipu levossa,ei
+070639-9203,801576,10749,Preop alaraajakysely,23.10.2023 12.23.14,3,0,0,Haava jalassa,kylla
+070639-9203,801576,10749,Preop alaraajakysely,22.10.2023 12.23.14,4,0,0,Tupakointi,lopettanut
+070639-9203,801580,10749,Postop alaraajakysely,11.12.2023 8.28.19,0,0,0,500 metrin kävely,ei_vaikeuksia
+070639-9203,801580,10749,Postop alaraajakysely,15.12.2023 8.28.19,1,0,0,Portaiden nousu,vaikeuksia
+070639-9203,801580,10749,Postop alaraajakysely,12.12.2023 8.28.19,2,0,0,Kipu levossa,ei
+070639-9203,801580,10749,Postop alaraajakysely,12.12.2023 8.28.19,3,0,0,Haava jalassa,ei
+070639-9203,801580,10749,Postop alaraajakysely,14.12.2023 8.28.19,4,0,0,Tupakointi,tupakoi
+280450-969E,801584,10750,Preop alaraajakysely,23.6.2025 13.20.51,0,0,0,500 metrin kävely,ei_lainkaan
+280450-969E,801584,10750,Preop alaraajakysely,20.6.2025 13.20.51,1,0,0,Portaiden nousu,vaikeuksia
+280450-969E,801584,10750,Preop alaraajakysely,22.6.2025 13.20.51,2,0,0,Kipu levossa,ei
+280450-969E,801584,10750,Preop alaraajakysely,22.6.2025 13.20.51,3,0,0,Haava jalassa,ei
+280450-969E,801584,10750,Preop alaraajakysely,20.6.2025 13.20.51,4,0,0,Tupakointi,lopettanut
+280450-969E,801595,10750,Postop alaraajakysely,15.8.2025 15.22.12,0,0,0,500 metrin kävely,vaikeuksia
+280450-969E,801595,10750,Postop alaraajakysely,15.8.2025 15.22.12,1,0,0,Portaiden nousu,ei_vaikeuksia
+280450-969E,801595,10750,Postop alaraajakysely,16.8.2025 15.22.12,2,0,0,Kipu levossa,ei
+280450-969E,801595,10750,Postop alaraajakysely,17.8.2025 15.22.12,3,0,0,Haava jalassa,ei
+280450-969E,801595,10750,Postop alaraajakysely,19.8.2025 15.22.12,4,0,0,Tupakointi,lopettanut
+310354-9832,801601,10752,Preop alaraajakysely,10.10.2024 8.12.02,0,0,0,500 metrin kävely,ei_lainkaan
+310354-9832,801601,10752,Preop alaraajakysely,13.10.2024 8.12.02,1,0,0,Portaiden nousu,vaikeuksia
+310354-9832,801601,10752,Preop alaraajakysely,12.10.2024 8.12.02,2,0,0,Kipu levossa,ei
+310354-9832,801601,10752,Preop alaraajakysely,13.10.2024 8.12.02,3,0,0,Haava jalassa,kylla
+310354-9832,801601,10752,Preop alaraajakysely,14.10.2024 8.12.02,4,0,0,Tupakointi,ei_koskaan
+310354-9832,801609,10752,Postop alaraajakysely,28.11.2024 11.32.56,0,0,0,500 metrin kävely,vaikeuksia
+310354-9832,801609,10752,Postop alaraajakysely,1.12.2024 11.32.56,1,0,0,Portaiden nousu,ei_vaikeuksia
+310354-9832,801609,10752,Postop alaraajakysely,2.12.2024 11.32.56,2,0,0,Kipu levossa,ei
+310354-9832,801609,10752,Postop alaraajakysely,2.12.2024 11.32.56,3,0,0,Haava jalassa,ei
+310354-9832,801609,10752,Postop alaraajakysely,27.11.2024 11.32.56,4,0,0,Tupakointi,tupakoi
+140936-902N,801625,10760,Preop alaraajakysely,13.6.2019 13.57.11,0,0,0,500 metrin kävely,vaikeuksia
+140936-902N,801625,10760,Preop alaraajakysely,12.6.2019 13.57.11,1,0,0,Portaiden nousu,ei_lainkaan
+140936-902N,801625,10760,Preop alaraajakysely,10.6.2019 13.57.11,2,0,0,Kipu levossa,kylla
+140936-902N,801625,10760,Preop alaraajakysely,12.6.2019 13.57.11,3,0,0,Haava jalassa,kylla
+140936-902N,801625,10760,Preop alaraajakysely,12.6.2019 13.57.11,4,0,0,Tupakointi,lopettanut
+140936-902N,801638,10760,Postop alaraajakysely,8.9.2019 14.15.19,0,0,0,500 metrin kävely,vaikeuksia
+140936-902N,801638,10760,Postop alaraajakysely,6.9.2019 14.15.19,1,0,0,Portaiden nousu,vaikeuksia
+140936-902N,801638,10760,Postop alaraajakysely,5.9.2019 14.15.19,2,0,0,Kipu levossa,ei
+140936-902N,801638,10760,Postop alaraajakysely,8.9.2019 14.15.19,3,0,0,Haava jalassa,ei
+140936-902N,801638,10760,Postop alaraajakysely,7.9.2019 14.15.19,4,0,0,Tupakointi,ei_koskaan
+111043-9563,801642,10761,Preop alaraajakysely,23.2.2021 11.30.13,0,0,0,500 metrin kävely,ei_lainkaan
+111043-9563,801642,10761,Preop alaraajakysely,25.2.2021 11.30.13,1,0,0,Portaiden nousu,vaikeuksia
+111043-9563,801642,10761,Preop alaraajakysely,26.2.2021 11.30.13,2,0,0,Kipu levossa,kylla
+111043-9563,801642,10761,Preop alaraajakysely,28.2.2021 11.30.13,3,0,0,Haava jalassa,ei
+111043-9563,801642,10761,Preop alaraajakysely,26.2.2021 11.30.13,4,0,0,Tupakointi,tupakoi
+111043-9563,801649,10761,Postop alaraajakysely,24.4.2021 10.06.34,0,0,0,500 metrin kävely,ei_vaikeuksia
+111043-9563,801649,10761,Postop alaraajakysely,24.4.2021 10.06.34,1,0,0,Portaiden nousu,ei_vaikeuksia
+111043-9563,801649,10761,Postop alaraajakysely,29.4.2021 10.06.34,2,0,0,Kipu levossa,ei
+111043-9563,801649,10761,Postop alaraajakysely,29.4.2021 10.06.34,3,0,0,Haava jalassa,ei
+111043-9563,801649,10761,Postop alaraajakysely,24.4.2021 10.06.34,4,0,0,Tupakointi,ei_koskaan
+160327-9755,801650,10767,Preop alaraajakysely,14.2.2021 8.40.48,0,0,0,500 metrin kävely,vaikeuksia
+160327-9755,801650,10767,Preop alaraajakysely,9.2.2021 8.40.48,1,0,0,Portaiden nousu,vaikeuksia
+160327-9755,801650,10767,Preop alaraajakysely,11.2.2021 8.40.48,2,0,0,Kipu levossa,kylla
+160327-9755,801650,10767,Preop alaraajakysely,9.2.2021 8.40.48,3,0,0,Haava jalassa,ei
+160327-9755,801650,10767,Preop alaraajakysely,12.2.2021 8.40.48,4,0,0,Tupakointi,tupakoi
+160327-9755,801658,10767,Postop alaraajakysely,20.4.2021 15.05.26,0,0,0,500 metrin kävely,vaikeuksia
+160327-9755,801658,10767,Postop alaraajakysely,18.4.2021 15.05.26,1,0,0,Portaiden nousu,ei_vaikeuksia
+160327-9755,801658,10767,Postop alaraajakysely,18.4.2021 15.05.26,2,0,0,Kipu levossa,ei
+160327-9755,801658,10767,Postop alaraajakysely,16.4.2021 15.05.26,3,0,0,Haava jalassa,ei
+160327-9755,801658,10767,Postop alaraajakysely,21.4.2021 15.05.26,4,0,0,Tupakointi,tupakoi
+220463-981A,801659,10770,Preop alaraajakysely,7.8.2024 12.07.37,0,0,0,500 metrin kävely,vaikeuksia
+220463-981A,801659,10770,Preop alaraajakysely,7.8.2024 12.07.37,1,0,0,Portaiden nousu,ei_lainkaan
+220463-981A,801659,10770,Preop alaraajakysely,7.8.2024 12.07.37,2,0,0,Kipu levossa,kylla
+220463-981A,801659,10770,Preop alaraajakysely,7.8.2024 12.07.37,3,0,0,Haava jalassa,kylla
+220463-981A,801659,10770,Preop alaraajakysely,4.8.2024 12.07.37,4,0,0,Tupakointi,lopettanut
+220463-981A,801669,10770,Postop alaraajakysely,29.10.2024 13.31.15,0,0,0,500 metrin kävely,vaikeuksia
+220463-981A,801669,10770,Postop alaraajakysely,26.10.2024 13.31.15,1,0,0,Portaiden nousu,vaikeuksia
+220463-981A,801669,10770,Postop alaraajakysely,25.10.2024 13.31.15,2,0,0,Kipu levossa,ei
+220463-981A,801669,10770,Postop alaraajakysely,26.10.2024 13.31.15,3,0,0,Haava jalassa,ei
+220463-981A,801669,10770,Postop alaraajakysely,29.10.2024 13.31.15,4,0,0,Tupakointi,tupakoi
+020942-975U,801671,10784,Preop alaraajakysely,21.9.2019 12.48.56,0,0,0,500 metrin kävely,vaikeuksia
+020942-975U,801671,10784,Preop alaraajakysely,19.9.2019 12.48.56,1,0,0,Portaiden nousu,vaikeuksia
+020942-975U,801671,10784,Preop alaraajakysely,24.9.2019 12.48.56,2,0,0,Kipu levossa,ei
+020942-975U,801671,10784,Preop alaraajakysely,20.9.2019 12.48.56,3,0,0,Haava jalassa,kylla
+020942-975U,801671,10784,Preop alaraajakysely,22.9.2019 12.48.56,4,0,0,Tupakointi,ei_koskaan
+020942-975U,801682,10784,Postop alaraajakysely,8.11.2019 11.53.43,0,0,0,500 metrin kävely,ei_vaikeuksia
+020942-975U,801682,10784,Postop alaraajakysely,6.11.2019 11.53.43,1,0,0,Portaiden nousu,ei_vaikeuksia
+020942-975U,801682,10784,Postop alaraajakysely,7.11.2019 11.53.43,2,0,0,Kipu levossa,ei
+020942-975U,801682,10784,Postop alaraajakysely,8.11.2019 11.53.43,3,0,0,Haava jalassa,ei
+020942-975U,801682,10784,Postop alaraajakysely,7.11.2019 11.53.43,4,0,0,Tupakointi,ei_koskaan
+120853-946C,801688,10791,Preop alaraajakysely,24.9.2020 13.28.27,0,0,0,500 metrin kävely,ei_lainkaan
+120853-946C,801688,10791,Preop alaraajakysely,21.9.2020 13.28.27,1,0,0,Portaiden nousu,ei_lainkaan
+120853-946C,801688,10791,Preop alaraajakysely,21.9.2020 13.28.27,2,0,0,Kipu levossa,kylla
+120853-946C,801688,10791,Preop alaraajakysely,23.9.2020 13.28.27,3,0,0,Haava jalassa,kylla
+120853-946C,801688,10791,Preop alaraajakysely,21.9.2020 13.28.27,4,0,0,Tupakointi,tupakoi
+120853-946C,801692,10791,Postop alaraajakysely,16.12.2020 9.54.09,0,0,0,500 metrin kävely,vaikeuksia
+120853-946C,801692,10791,Postop alaraajakysely,19.12.2020 9.54.09,1,0,0,Portaiden nousu,vaikeuksia
+120853-946C,801692,10791,Postop alaraajakysely,19.12.2020 9.54.09,2,0,0,Kipu levossa,ei
+120853-946C,801692,10791,Postop alaraajakysely,20.12.2020 9.54.09,3,0,0,Haava jalassa,ei
+120853-946C,801692,10791,Postop alaraajakysely,20.12.2020 9.54.09,4,0,0,Tupakointi,ei_koskaan
+140337-974D,801728,10805,Preop alaraajakysely,11.6.2020 15.57.00,0,0,0,500 metrin kävely,vaikeuksia
+140337-974D,801728,10805,Preop alaraajakysely,13.6.2020 15.57.00,1,0,0,Portaiden nousu,vaikeuksia
+140337-974D,801728,10805,Preop alaraajakysely,10.6.2020 15.57.00,2,0,0,Kipu levossa,kylla
+140337-974D,801728,10805,Preop alaraajakysely,15.6.2020 15.57.00,3,0,0,Haava jalassa,kylla
+140337-974D,801728,10805,Preop alaraajakysely,11.6.2020 15.57.00,4,0,0,Tupakointi,tupakoi
+140337-974D,801742,10805,Postop alaraajakysely,22.7.2020 11.25.12,0,0,0,500 metrin kävely,ei_vaikeuksia
+140337-974D,801742,10805,Postop alaraajakysely,20.7.2020 11.25.12,1,0,0,Portaiden nousu,ei_vaikeuksia
+140337-974D,801742,10805,Postop alaraajakysely,22.7.2020 11.25.12,2,0,0,Kipu levossa,ei
+140337-974D,801742,10805,Postop alaraajakysely,23.7.2020 11.25.12,3,0,0,Haava jalassa,ei
+140337-974D,801742,10805,Postop alaraajakysely,23.7.2020 11.25.12,4,0,0,Tupakointi,tupakoi
+080952-9062,801746,10807,Preop alaraajakysely,13.3.2025 10.26.52,0,0,0,500 metrin kävely,ei_lainkaan
+080952-9062,801746,10807,Preop alaraajakysely,14.3.2025 10.26.52,1,0,0,Portaiden nousu,vaikeuksia
+080952-9062,801746,10807,Preop alaraajakysely,15.3.2025 10.26.52,2,0,0,Kipu levossa,kylla
+080952-9062,801746,10807,Preop alaraajakysely,16.3.2025 10.26.52,3,0,0,Haava jalassa,ei
+080952-9062,801746,10807,Preop alaraajakysely,13.3.2025 10.26.52,4,0,0,Tupakointi,tupakoi
+080952-9062,801757,10807,Postop alaraajakysely,1.5.2025 9.31.22,0,0,0,500 metrin kävely,ei_vaikeuksia
+080952-9062,801757,10807,Postop alaraajakysely,2.5.2025 9.31.22,1,0,0,Portaiden nousu,ei_vaikeuksia
+080952-9062,801757,10807,Postop alaraajakysely,30.4.2025 9.31.22,2,0,0,Kipu levossa,ei
+080952-9062,801757,10807,Postop alaraajakysely,28.4.2025 9.31.22,3,0,0,Haava jalassa,ei
+080952-9062,801757,10807,Postop alaraajakysely,30.4.2025 9.31.22,4,0,0,Tupakointi,lopettanut
+170242-911T,801787,10835,Preop alaraajakysely,19.10.2023 12.12.36,0,0,0,500 metrin kävely,ei_lainkaan
+170242-911T,801787,10835,Preop alaraajakysely,17.10.2023 12.12.36,1,0,0,Portaiden nousu,vaikeuksia
+170242-911T,801787,10835,Preop alaraajakysely,21.10.2023 12.12.36,2,0,0,Kipu levossa,kylla
+170242-911T,801787,10835,Preop alaraajakysely,17.10.2023 12.12.36,3,0,0,Haava jalassa,kylla
+170242-911T,801787,10835,Preop alaraajakysely,17.10.2023 12.12.36,4,0,0,Tupakointi,tupakoi
+170242-911T,801798,10835,Postop alaraajakysely,5.12.2023 8.59.58,0,0,0,500 metrin kävely,ei_vaikeuksia
+170242-911T,801798,10835,Postop alaraajakysely,7.12.2023 8.59.58,1,0,0,Portaiden nousu,ei_vaikeuksia
+170242-911T,801798,10835,Postop alaraajakysely,5.12.2023 8.59.58,2,0,0,Kipu levossa,ei
+170242-911T,801798,10835,Postop alaraajakysely,4.12.2023 8.59.58,3,0,0,Haava jalassa,ei
+170242-911T,801798,10835,Postop alaraajakysely,7.12.2023 8.59.58,4,0,0,Tupakointi,ei_koskaan
+221157-9691,801835,10848,Preop alaraajakysely,29.6.2024 8.05.24,0,0,0,500 metrin kävely,ei_lainkaan
+221157-9691,801835,10848,Preop alaraajakysely,28.6.2024 8.05.24,1,0,0,Portaiden nousu,ei_lainkaan
+221157-9691,801835,10848,Preop alaraajakysely,28.6.2024 8.05.24,2,0,0,Kipu levossa,kylla
+221157-9691,801835,10848,Preop alaraajakysely,29.6.2024 8.05.24,3,0,0,Haava jalassa,ei
+221157-9691,801835,10848,Preop alaraajakysely,28.6.2024 8.05.24,4,0,0,Tupakointi,ei_koskaan
+221157-9691,801841,10848,Postop alaraajakysely,12.8.2024 9.24.17,0,0,0,500 metrin kävely,ei_vaikeuksia
+221157-9691,801841,10848,Postop alaraajakysely,15.8.2024 9.24.17,1,0,0,Portaiden nousu,ei_vaikeuksia
+221157-9691,801841,10848,Postop alaraajakysely,14.8.2024 9.24.17,2,0,0,Kipu levossa,ei
+221157-9691,801841,10848,Postop alaraajakysely,11.8.2024 9.24.17,3,0,0,Haava jalassa,ei
+221157-9691,801841,10848,Postop alaraajakysely,16.8.2024 9.24.17,4,0,0,Tupakointi,tupakoi
+180860-959F,801845,10850,Preop alaraajakysely,24.2.2022 9.18.18,0,0,0,500 metrin kävely,vaikeuksia
+180860-959F,801845,10850,Preop alaraajakysely,26.2.2022 9.18.18,1,0,0,Portaiden nousu,vaikeuksia
+180860-959F,801845,10850,Preop alaraajakysely,24.2.2022 9.18.18,2,0,0,Kipu levossa,kylla
+180860-959F,801845,10850,Preop alaraajakysely,24.2.2022 9.18.18,3,0,0,Haava jalassa,ei
+180860-959F,801845,10850,Preop alaraajakysely,21.2.2022 9.18.18,4,0,0,Tupakointi,ei_koskaan
+180860-959F,801853,10850,Postop alaraajakysely,17.5.2022 12.23.01,0,0,0,500 metrin kävely,vaikeuksia
+180860-959F,801853,10850,Postop alaraajakysely,18.5.2022 12.23.01,1,0,0,Portaiden nousu,vaikeuksia
+180860-959F,801853,10850,Postop alaraajakysely,21.5.2022 12.23.01,2,0,0,Kipu levossa,ei
+180860-959F,801853,10850,Postop alaraajakysely,22.5.2022 12.23.01,3,0,0,Haava jalassa,ei
+180860-959F,801853,10850,Postop alaraajakysely,20.5.2022 12.23.01,4,0,0,Tupakointi,tupakoi
+080159-9328,801854,10859,Preop alaraajakysely,12.9.2024 9.50.31,0,0,0,500 metrin kävely,vaikeuksia
+080159-9328,801854,10859,Preop alaraajakysely,15.9.2024 9.50.31,1,0,0,Portaiden nousu,ei_lainkaan
+080159-9328,801854,10859,Preop alaraajakysely,13.9.2024 9.50.31,2,0,0,Kipu levossa,ei
+080159-9328,801854,10859,Preop alaraajakysely,15.9.2024 9.50.31,3,0,0,Haava jalassa,ei
+080159-9328,801854,10859,Preop alaraajakysely,13.9.2024 9.50.31,4,0,0,Tupakointi,tupakoi
+080159-9328,801859,10859,Postop alaraajakysely,21.10.2024 10.55.04,0,0,0,500 metrin kävely,vaikeuksia
+080159-9328,801859,10859,Postop alaraajakysely,20.10.2024 10.55.04,1,0,0,Portaiden nousu,vaikeuksia
+080159-9328,801859,10859,Postop alaraajakysely,24.10.2024 10.55.04,2,0,0,Kipu levossa,ei
+080159-9328,801859,10859,Postop alaraajakysely,20.10.2024 10.55.04,3,0,0,Haava jalassa,ei
+080159-9328,801859,10859,Postop alaraajakysely,22.10.2024 10.55.04,4,0,0,Tupakointi,ei_koskaan
+261143-993S,801885,10876,Preop alaraajakysely,9.6.2023 8.42.24,0,0,0,500 metrin kävely,ei_lainkaan
+261143-993S,801885,10876,Preop alaraajakysely,9.6.2023 8.42.24,1,0,0,Portaiden nousu,ei_lainkaan
+261143-993S,801885,10876,Preop alaraajakysely,10.6.2023 8.42.24,2,0,0,Kipu levossa,kylla
+261143-993S,801885,10876,Preop alaraajakysely,11.6.2023 8.42.24,3,0,0,Haava jalassa,ei
+261143-993S,801885,10876,Preop alaraajakysely,7.6.2023 8.42.24,4,0,0,Tupakointi,tupakoi
+261143-993S,801894,10876,Postop alaraajakysely,15.8.2023 15.35.26,0,0,0,500 metrin kävely,ei_vaikeuksia
+261143-993S,801894,10876,Postop alaraajakysely,16.8.2023 15.35.26,1,0,0,Portaiden nousu,ei_vaikeuksia
+261143-993S,801894,10876,Postop alaraajakysely,15.8.2023 15.35.26,2,0,0,Kipu levossa,ei
+261143-993S,801894,10876,Postop alaraajakysely,15.8.2023 15.35.26,3,0,0,Haava jalassa,ei
+261143-993S,801894,10876,Postop alaraajakysely,18.8.2023 15.35.26,4,0,0,Tupakointi,ei_koskaan
+210646-946S,801896,10880,Preop alaraajakysely,5.8.2022 13.59.17,0,0,0,500 metrin kävely,vaikeuksia
+210646-946S,801896,10880,Preop alaraajakysely,5.8.2022 13.59.17,1,0,0,Portaiden nousu,vaikeuksia
+210646-946S,801896,10880,Preop alaraajakysely,2.8.2022 13.59.17,2,0,0,Kipu levossa,kylla
+210646-946S,801896,10880,Preop alaraajakysely,6.8.2022 13.59.17,3,0,0,Haava jalassa,kylla
+210646-946S,801896,10880,Preop alaraajakysely,4.8.2022 13.59.17,4,0,0,Tupakointi,ei_koskaan
+210646-946S,801906,10880,Postop alaraajakysely,1.10.2022 10.54.20,0,0,0,500 metrin kävely,ei_vaikeuksia
+210646-946S,801906,10880,Postop alaraajakysely,30.9.2022 10.54.20,1,0,0,Portaiden nousu,ei_vaikeuksia
+210646-946S,801906,10880,Postop alaraajakysely,27.9.2022 10.54.20,2,0,0,Kipu levossa,ei
+210646-946S,801906,10880,Postop alaraajakysely,1.10.2022 10.54.20,3,0,0,Haava jalassa,ei
+210646-946S,801906,10880,Postop alaraajakysely,26.9.2022 10.54.20,4,0,0,Tupakointi,lopettanut
+260260-9738,801913,10884,Preop alaraajakysely,9.1.2024 10.53.31,0,0,0,500 metrin kävely,ei_lainkaan
+260260-9738,801913,10884,Preop alaraajakysely,7.1.2024 10.53.31,1,0,0,Portaiden nousu,ei_lainkaan
+260260-9738,801913,10884,Preop alaraajakysely,11.1.2024 10.53.31,2,0,0,Kipu levossa,ei
+260260-9738,801913,10884,Preop alaraajakysely,7.1.2024 10.53.31,3,0,0,Haava jalassa,kylla
+260260-9738,801913,10884,Preop alaraajakysely,11.1.2024 10.53.31,4,0,0,Tupakointi,tupakoi
+260260-9738,801921,10884,Postop alaraajakysely,31.3.2024 15.49.48,0,0,0,500 metrin kävely,vaikeuksia
+260260-9738,801921,10884,Postop alaraajakysely,3.4.2024 15.49.48,1,0,0,Portaiden nousu,ei_vaikeuksia
+260260-9738,801921,10884,Postop alaraajakysely,30.3.2024 15.49.48,2,0,0,Kipu levossa,ei
+260260-9738,801921,10884,Postop alaraajakysely,31.3.2024 15.49.48,3,0,0,Haava jalassa,ei
+260260-9738,801921,10884,Postop alaraajakysely,3.4.2024 15.49.48,4,0,0,Tupakointi,lopettanut
+100939-916A,801974,10916,Preop alaraajakysely,27.3.2023 11.44.40,0,0,0,500 metrin kävely,ei_lainkaan
+100939-916A,801974,10916,Preop alaraajakysely,26.3.2023 11.44.40,1,0,0,Portaiden nousu,vaikeuksia
+100939-916A,801974,10916,Preop alaraajakysely,26.3.2023 11.44.40,2,0,0,Kipu levossa,ei
+100939-916A,801974,10916,Preop alaraajakysely,31.3.2023 11.44.40,3,0,0,Haava jalassa,ei
+100939-916A,801974,10916,Preop alaraajakysely,30.3.2023 11.44.40,4,0,0,Tupakointi,tupakoi
+100939-916A,801979,10916,Postop alaraajakysely,14.6.2023 8.27.09,0,0,0,500 metrin kävely,ei_vaikeuksia
+100939-916A,801979,10916,Postop alaraajakysely,15.6.2023 8.27.09,1,0,0,Portaiden nousu,vaikeuksia
+100939-916A,801979,10916,Postop alaraajakysely,16.6.2023 8.27.09,2,0,0,Kipu levossa,ei
+100939-916A,801979,10916,Postop alaraajakysely,12.6.2023 8.27.09,3,0,0,Haava jalassa,ei
+100939-916A,801979,10916,Postop alaraajakysely,16.6.2023 8.27.09,4,0,0,Tupakointi,lopettanut
+141240-944F,801983,10925,Preop alaraajakysely,10.7.2020 10.04.41,0,0,0,500 metrin kävely,vaikeuksia
+141240-944F,801983,10925,Preop alaraajakysely,9.7.2020 10.04.41,1,0,0,Portaiden nousu,ei_lainkaan
+141240-944F,801983,10925,Preop alaraajakysely,9.7.2020 10.04.41,2,0,0,Kipu levossa,kylla
+141240-944F,801983,10925,Preop alaraajakysely,10.7.2020 10.04.41,3,0,0,Haava jalassa,ei
+141240-944F,801983,10925,Preop alaraajakysely,9.7.2020 10.04.41,4,0,0,Tupakointi,tupakoi
+141240-944F,801996,10925,Postop alaraajakysely,25.8.2020 14.42.47,0,0,0,500 metrin kävely,vaikeuksia
+141240-944F,801996,10925,Postop alaraajakysely,24.8.2020 14.42.47,1,0,0,Portaiden nousu,vaikeuksia
+141240-944F,801996,10925,Postop alaraajakysely,25.8.2020 14.42.47,2,0,0,Kipu levossa,ei
+141240-944F,801996,10925,Postop alaraajakysely,22.8.2020 14.42.47,3,0,0,Haava jalassa,ei
+141240-944F,801996,10925,Postop alaraajakysely,26.8.2020 14.42.47,4,0,0,Tupakointi,tupakoi
+190560-9458,802015,10934,Preop alaraajakysely,31.7.2022 13.30.55,0,0,0,500 metrin kävely,vaikeuksia
+190560-9458,802015,10934,Preop alaraajakysely,2.8.2022 13.30.55,1,0,0,Portaiden nousu,vaikeuksia
+190560-9458,802015,10934,Preop alaraajakysely,30.7.2022 13.30.55,2,0,0,Kipu levossa,ei
+190560-9458,802015,10934,Preop alaraajakysely,28.7.2022 13.30.55,3,0,0,Haava jalassa,kylla
+190560-9458,802015,10934,Preop alaraajakysely,2.8.2022 13.30.55,4,0,0,Tupakointi,ei_koskaan
+190560-9458,802024,10934,Postop alaraajakysely,19.9.2022 14.13.40,0,0,0,500 metrin kävely,ei_vaikeuksia
+190560-9458,802024,10934,Postop alaraajakysely,18.9.2022 14.13.40,1,0,0,Portaiden nousu,ei_vaikeuksia
+190560-9458,802024,10934,Postop alaraajakysely,19.9.2022 14.13.40,2,0,0,Kipu levossa,ei
+190560-9458,802024,10934,Postop alaraajakysely,19.9.2022 14.13.40,3,0,0,Haava jalassa,ei
+190560-9458,802024,10934,Postop alaraajakysely,21.9.2022 14.13.40,4,0,0,Tupakointi,lopettanut
+021139-983X,802049,10941,Preop alaraajakysely,14.6.2020 9.14.02,0,0,0,500 metrin kävely,vaikeuksia
+021139-983X,802049,10941,Preop alaraajakysely,14.6.2020 9.14.02,1,0,0,Portaiden nousu,ei_lainkaan
+021139-983X,802049,10941,Preop alaraajakysely,10.6.2020 9.14.02,2,0,0,Kipu levossa,ei
+021139-983X,802049,10941,Preop alaraajakysely,11.6.2020 9.14.02,3,0,0,Haava jalassa,kylla
+021139-983X,802049,10941,Preop alaraajakysely,14.6.2020 9.14.02,4,0,0,Tupakointi,tupakoi
+021139-983X,802060,10941,Postop alaraajakysely,11.9.2020 8.18.49,0,0,0,500 metrin kävely,ei_vaikeuksia
+021139-983X,802060,10941,Postop alaraajakysely,14.9.2020 8.18.49,1,0,0,Portaiden nousu,ei_vaikeuksia
+021139-983X,802060,10941,Postop alaraajakysely,16.9.2020 8.18.49,2,0,0,Kipu levossa,ei
+021139-983X,802060,10941,Postop alaraajakysely,12.9.2020 8.18.49,3,0,0,Haava jalassa,ei
+021139-983X,802060,10941,Postop alaraajakysely,11.9.2020 8.18.49,4,0,0,Tupakointi,ei_koskaan
+150936-9606,802090,10962,Preop alaraajakysely,10.11.2024 12.31.03,0,0,0,500 metrin kävely,vaikeuksia
+150936-9606,802090,10962,Preop alaraajakysely,9.11.2024 12.31.03,1,0,0,Portaiden nousu,vaikeuksia
+150936-9606,802090,10962,Preop alaraajakysely,12.11.2024 12.31.03,2,0,0,Kipu levossa,kylla
+150936-9606,802090,10962,Preop alaraajakysely,12.11.2024 12.31.03,3,0,0,Haava jalassa,ei
+150936-9606,802090,10962,Preop alaraajakysely,10.11.2024 12.31.03,4,0,0,Tupakointi,tupakoi
+150936-9606,802093,10962,Postop alaraajakysely,8.2.2025 10.54.41,0,0,0,500 metrin kävely,vaikeuksia
+150936-9606,802093,10962,Postop alaraajakysely,10.2.2025 10.54.41,1,0,0,Portaiden nousu,ei_vaikeuksia
+150936-9606,802093,10962,Postop alaraajakysely,9.2.2025 10.54.41,2,0,0,Kipu levossa,ei
+150936-9606,802093,10962,Postop alaraajakysely,8.2.2025 10.54.41,3,0,0,Haava jalassa,ei
+150936-9606,802093,10962,Postop alaraajakysely,12.2.2025 10.54.41,4,0,0,Tupakointi,lopettanut
+211156-925P,802103,10979,Preop alaraajakysely,3.7.2024 15.39.34,0,0,0,500 metrin kävely,vaikeuksia
+211156-925P,802103,10979,Preop alaraajakysely,30.6.2024 15.39.34,1,0,0,Portaiden nousu,vaikeuksia
+211156-925P,802103,10979,Preop alaraajakysely,29.6.2024 15.39.34,2,0,0,Kipu levossa,ei
+211156-925P,802103,10979,Preop alaraajakysely,3.7.2024 15.39.34,3,0,0,Haava jalassa,ei
+211156-925P,802103,10979,Preop alaraajakysely,30.6.2024 15.39.34,4,0,0,Tupakointi,lopettanut
+211156-925P,802107,10979,Postop alaraajakysely,11.9.2024 8.54.05,0,0,0,500 metrin kävely,ei_vaikeuksia
+211156-925P,802107,10979,Postop alaraajakysely,12.9.2024 8.54.05,1,0,0,Portaiden nousu,vaikeuksia
+211156-925P,802107,10979,Postop alaraajakysely,12.9.2024 8.54.05,2,0,0,Kipu levossa,ei
+211156-925P,802107,10979,Postop alaraajakysely,12.9.2024 8.54.05,3,0,0,Haava jalassa,ei
+211156-925P,802107,10979,Postop alaraajakysely,12.9.2024 8.54.05,4,0,0,Tupakointi,tupakoi
+151142-9235,802145,10990,Preop alaraajakysely,31.8.2019 9.17.45,0,0,0,500 metrin kävely,ei_lainkaan
+151142-9235,802145,10990,Preop alaraajakysely,1.9.2019 9.17.45,1,0,0,Portaiden nousu,vaikeuksia
+151142-9235,802145,10990,Preop alaraajakysely,28.8.2019 9.17.45,2,0,0,Kipu levossa,ei
+151142-9235,802145,10990,Preop alaraajakysely,29.8.2019 9.17.45,3,0,0,Haava jalassa,ei
+151142-9235,802145,10990,Preop alaraajakysely,30.8.2019 9.17.45,4,0,0,Tupakointi,lopettanut
+151142-9235,802158,10990,Postop alaraajakysely,28.10.2019 10.42.31,0,0,0,500 metrin kävely,ei_vaikeuksia
+151142-9235,802158,10990,Postop alaraajakysely,29.10.2019 10.42.31,1,0,0,Portaiden nousu,vaikeuksia
+151142-9235,802158,10990,Postop alaraajakysely,27.10.2019 10.42.31,2,0,0,Kipu levossa,ei
+151142-9235,802158,10990,Postop alaraajakysely,29.10.2019 10.42.31,3,0,0,Haava jalassa,ei
+151142-9235,802158,10990,Postop alaraajakysely,26.10.2019 10.42.31,4,0,0,Tupakointi,lopettanut
+280775-938A,802160,11000,Preop alaraajakysely,16.8.2020 10.44.57,0,0,0,500 metrin kävely,vaikeuksia
+280775-938A,802160,11000,Preop alaraajakysely,14.8.2020 10.44.57,1,0,0,Portaiden nousu,ei_lainkaan
+280775-938A,802160,11000,Preop alaraajakysely,16.8.2020 10.44.57,2,0,0,Kipu levossa,ei
+280775-938A,802160,11000,Preop alaraajakysely,13.8.2020 10.44.57,3,0,0,Haava jalassa,kylla
+280775-938A,802160,11000,Preop alaraajakysely,16.8.2020 10.44.57,4,0,0,Tupakointi,tupakoi
+280775-938A,802172,11000,Postop alaraajakysely,14.10.2020 14.43.13,0,0,0,500 metrin kävely,vaikeuksia
+280775-938A,802172,11000,Postop alaraajakysely,16.10.2020 14.43.13,1,0,0,Portaiden nousu,ei_vaikeuksia
+280775-938A,802172,11000,Postop alaraajakysely,16.10.2020 14.43.13,2,0,0,Kipu levossa,ei
+280775-938A,802172,11000,Postop alaraajakysely,17.10.2020 14.43.13,3,0,0,Haava jalassa,ei
+280775-938A,802172,11000,Postop alaraajakysely,15.10.2020 14.43.13,4,0,0,Tupakointi,ei_koskaan
+241050-974V,802221,11022,Preop alaraajakysely,1.7.2021 13.44.03,0,0,0,500 metrin kävely,ei_lainkaan
+241050-974V,802221,11022,Preop alaraajakysely,30.6.2021 13.44.03,1,0,0,Portaiden nousu,ei_lainkaan
+241050-974V,802221,11022,Preop alaraajakysely,1.7.2021 13.44.03,2,0,0,Kipu levossa,kylla
+241050-974V,802221,11022,Preop alaraajakysely,2.7.2021 13.44.03,3,0,0,Haava jalassa,ei
+241050-974V,802221,11022,Preop alaraajakysely,2.7.2021 13.44.03,4,0,0,Tupakointi,tupakoi
+241050-974V,802229,11022,Postop alaraajakysely,29.9.2021 15.06.32,0,0,0,500 metrin kävely,ei_vaikeuksia
+241050-974V,802229,11022,Postop alaraajakysely,27.9.2021 15.06.32,1,0,0,Portaiden nousu,vaikeuksia
+241050-974V,802229,11022,Postop alaraajakysely,25.9.2021 15.06.32,2,0,0,Kipu levossa,ei
+241050-974V,802229,11022,Postop alaraajakysely,26.9.2021 15.06.32,3,0,0,Haava jalassa,ei
+241050-974V,802229,11022,Postop alaraajakysely,28.9.2021 15.06.32,4,0,0,Tupakointi,ei_koskaan
+020239-949K,802249,11030,Preop alaraajakysely,16.9.2021 8.05.03,0,0,0,500 metrin kävely,ei_lainkaan
+020239-949K,802249,11030,Preop alaraajakysely,17.9.2021 8.05.03,1,0,0,Portaiden nousu,vaikeuksia
+020239-949K,802249,11030,Preop alaraajakysely,12.9.2021 8.05.03,2,0,0,Kipu levossa,ei
+020239-949K,802249,11030,Preop alaraajakysely,12.9.2021 8.05.03,3,0,0,Haava jalassa,ei
+020239-949K,802249,11030,Preop alaraajakysely,17.9.2021 8.05.03,4,0,0,Tupakointi,tupakoi
+020239-949K,802265,11030,Postop alaraajakysely,10.12.2021 9.22.38,0,0,0,500 metrin kävely,vaikeuksia
+020239-949K,802265,11030,Postop alaraajakysely,5.12.2021 9.22.38,1,0,0,Portaiden nousu,ei_vaikeuksia
+020239-949K,802265,11030,Postop alaraajakysely,5.12.2021 9.22.38,2,0,0,Kipu levossa,ei
+020239-949K,802265,11030,Postop alaraajakysely,7.12.2021 9.22.38,3,0,0,Haava jalassa,ei
+020239-949K,802265,11030,Postop alaraajakysely,7.12.2021 9.22.38,4,0,0,Tupakointi,tupakoi
+210149-948K,802271,11031,Preop alaraajakysely,15.12.2024 13.14.08,0,0,0,500 metrin kävely,vaikeuksia
+210149-948K,802271,11031,Preop alaraajakysely,18.12.2024 13.14.08,1,0,0,Portaiden nousu,ei_lainkaan
+210149-948K,802271,11031,Preop alaraajakysely,19.12.2024 13.14.08,2,0,0,Kipu levossa,ei
+210149-948K,802271,11031,Preop alaraajakysely,18.12.2024 13.14.08,3,0,0,Haava jalassa,kylla
+210149-948K,802271,11031,Preop alaraajakysely,16.12.2024 13.14.08,4,0,0,Tupakointi,lopettanut
+210149-948K,802289,11031,Postop alaraajakysely,11.3.2025 8.12.27,0,0,0,500 metrin kävely,vaikeuksia
+210149-948K,802289,11031,Postop alaraajakysely,11.3.2025 8.12.27,1,0,0,Portaiden nousu,ei_vaikeuksia
+210149-948K,802289,11031,Postop alaraajakysely,8.3.2025 8.12.27,2,0,0,Kipu levossa,ei
+210149-948K,802289,11031,Postop alaraajakysely,11.3.2025 8.12.27,3,0,0,Haava jalassa,ei
+210149-948K,802289,11031,Postop alaraajakysely,6.3.2025 8.12.27,4,0,0,Tupakointi,ei_koskaan
+100744-928C,802290,11032,Preop alaraajakysely,27.8.2019 10.23.48,0,0,0,500 metrin kävely,ei_lainkaan
+100744-928C,802290,11032,Preop alaraajakysely,27.8.2019 10.23.48,1,0,0,Portaiden nousu,vaikeuksia
+100744-928C,802290,11032,Preop alaraajakysely,27.8.2019 10.23.48,2,0,0,Kipu levossa,ei
+100744-928C,802290,11032,Preop alaraajakysely,25.8.2019 10.23.48,3,0,0,Haava jalassa,ei
+100744-928C,802290,11032,Preop alaraajakysely,25.8.2019 10.23.48,4,0,0,Tupakointi,ei_koskaan
+100744-928C,802293,11032,Postop alaraajakysely,22.11.2019 11.49.23,0,0,0,500 metrin kävely,vaikeuksia
+100744-928C,802293,11032,Postop alaraajakysely,26.11.2019 11.49.23,1,0,0,Portaiden nousu,vaikeuksia
+100744-928C,802293,11032,Postop alaraajakysely,23.11.2019 11.49.23,2,0,0,Kipu levossa,ei
+100744-928C,802293,11032,Postop alaraajakysely,27.11.2019 11.49.23,3,0,0,Haava jalassa,ei
+100744-928C,802293,11032,Postop alaraajakysely,26.11.2019 11.49.23,4,0,0,Tupakointi,ei_koskaan
+140954-920W,802296,11043,Preop alaraajakysely,8.7.2021 11.56.31,0,0,0,500 metrin kävely,ei_lainkaan
+140954-920W,802296,11043,Preop alaraajakysely,4.7.2021 11.56.31,1,0,0,Portaiden nousu,vaikeuksia
+140954-920W,802296,11043,Preop alaraajakysely,7.7.2021 11.56.31,2,0,0,Kipu levossa,kylla
+140954-920W,802296,11043,Preop alaraajakysely,6.7.2021 11.56.31,3,0,0,Haava jalassa,ei
+140954-920W,802296,11043,Preop alaraajakysely,3.7.2021 11.56.31,4,0,0,Tupakointi,ei_koskaan
+140954-920W,802314,11043,Postop alaraajakysely,29.9.2021 13.25.44,0,0,0,500 metrin kävely,ei_vaikeuksia
+140954-920W,802314,11043,Postop alaraajakysely,28.9.2021 13.25.44,1,0,0,Portaiden nousu,vaikeuksia
+140954-920W,802314,11043,Postop alaraajakysely,2.10.2021 13.25.44,2,0,0,Kipu levossa,ei
+140954-920W,802314,11043,Postop alaraajakysely,1.10.2021 13.25.44,3,0,0,Haava jalassa,ei
+140954-920W,802314,11043,Postop alaraajakysely,1.10.2021 13.25.44,4,0,0,Tupakointi,lopettanut
+050664-929J,802320,11049,Preop alaraajakysely,19.4.2024 12.09.16,0,0,0,500 metrin kävely,vaikeuksia
+050664-929J,802320,11049,Preop alaraajakysely,20.4.2024 12.09.16,1,0,0,Portaiden nousu,vaikeuksia
+050664-929J,802320,11049,Preop alaraajakysely,22.4.2024 12.09.16,2,0,0,Kipu levossa,ei
+050664-929J,802320,11049,Preop alaraajakysely,21.4.2024 12.09.16,3,0,0,Haava jalassa,ei
+050664-929J,802320,11049,Preop alaraajakysely,20.4.2024 12.09.16,4,0,0,Tupakointi,lopettanut
+050664-929J,802335,11049,Postop alaraajakysely,1.7.2024 12.28.35,0,0,0,500 metrin kävely,vaikeuksia
+050664-929J,802335,11049,Postop alaraajakysely,6.7.2024 12.28.35,1,0,0,Portaiden nousu,ei_vaikeuksia
+050664-929J,802335,11049,Postop alaraajakysely,3.7.2024 12.28.35,2,0,0,Kipu levossa,ei
+050664-929J,802335,11049,Postop alaraajakysely,4.7.2024 12.28.35,3,0,0,Haava jalassa,ei
+050664-929J,802335,11049,Postop alaraajakysely,1.7.2024 12.28.35,4,0,0,Tupakointi,tupakoi
+171046-9983,802374,11065,Preop alaraajakysely,16.2.2024 8.25.30,0,0,0,500 metrin kävely,vaikeuksia
+171046-9983,802374,11065,Preop alaraajakysely,17.2.2024 8.25.30,1,0,0,Portaiden nousu,vaikeuksia
+171046-9983,802374,11065,Preop alaraajakysely,14.2.2024 8.25.30,2,0,0,Kipu levossa,ei
+171046-9983,802374,11065,Preop alaraajakysely,17.2.2024 8.25.30,3,0,0,Haava jalassa,ei
+171046-9983,802374,11065,Preop alaraajakysely,18.2.2024 8.25.30,4,0,0,Tupakointi,tupakoi
+171046-9983,802379,11065,Postop alaraajakysely,9.5.2024 12.15.54,0,0,0,500 metrin kävely,ei_vaikeuksia
+171046-9983,802379,11065,Postop alaraajakysely,9.5.2024 12.15.54,1,0,0,Portaiden nousu,ei_vaikeuksia
+171046-9983,802379,11065,Postop alaraajakysely,11.5.2024 12.15.54,2,0,0,Kipu levossa,ei
+171046-9983,802379,11065,Postop alaraajakysely,13.5.2024 12.15.54,3,0,0,Haava jalassa,ei
+171046-9983,802379,11065,Postop alaraajakysely,11.5.2024 12.15.54,4,0,0,Tupakointi,tupakoi
+290855-9876,802385,11068,Preop alaraajakysely,4.8.2023 9.39.02,0,0,0,500 metrin kävely,vaikeuksia
+290855-9876,802385,11068,Preop alaraajakysely,3.8.2023 9.39.02,1,0,0,Portaiden nousu,ei_lainkaan
+290855-9876,802385,11068,Preop alaraajakysely,2.8.2023 9.39.02,2,0,0,Kipu levossa,kylla
+290855-9876,802385,11068,Preop alaraajakysely,31.7.2023 9.39.02,3,0,0,Haava jalassa,ei
+290855-9876,802385,11068,Preop alaraajakysely,5.8.2023 9.39.02,4,0,0,Tupakointi,tupakoi
+290855-9876,802391,11068,Postop alaraajakysely,11.10.2023 11.09.33,0,0,0,500 metrin kävely,vaikeuksia
+290855-9876,802391,11068,Postop alaraajakysely,13.10.2023 11.09.33,1,0,0,Portaiden nousu,vaikeuksia
+290855-9876,802391,11068,Postop alaraajakysely,15.10.2023 11.09.33,2,0,0,Kipu levossa,ei
+290855-9876,802391,11068,Postop alaraajakysely,12.10.2023 11.09.33,3,0,0,Haava jalassa,ei
+290855-9876,802391,11068,Postop alaraajakysely,13.10.2023 11.09.33,4,0,0,Tupakointi,lopettanut
+110254-9476,802436,11094,Preop alaraajakysely,19.5.2021 14.39.20,0,0,0,500 metrin kävely,vaikeuksia
+110254-9476,802436,11094,Preop alaraajakysely,16.5.2021 14.39.20,1,0,0,Portaiden nousu,vaikeuksia
+110254-9476,802436,11094,Preop alaraajakysely,18.5.2021 14.39.20,2,0,0,Kipu levossa,ei
+110254-9476,802436,11094,Preop alaraajakysely,18.5.2021 14.39.20,3,0,0,Haava jalassa,ei
+110254-9476,802436,11094,Preop alaraajakysely,18.5.2021 14.39.20,4,0,0,Tupakointi,lopettanut
+110254-9476,802440,11094,Postop alaraajakysely,10.7.2021 15.27.54,0,0,0,500 metrin kävely,ei_vaikeuksia
+110254-9476,802440,11094,Postop alaraajakysely,9.7.2021 15.27.54,1,0,0,Portaiden nousu,ei_vaikeuksia
+110254-9476,802440,11094,Postop alaraajakysely,12.7.2021 15.27.54,2,0,0,Kipu levossa,ei
+110254-9476,802440,11094,Postop alaraajakysely,12.7.2021 15.27.54,3,0,0,Haava jalassa,ei
+110254-9476,802440,11094,Postop alaraajakysely,7.7.2021 15.27.54,4,0,0,Tupakointi,lopettanut
+130646-926Y,802445,11099,Preop alaraajakysely,5.1.2024 12.58.53,0,0,0,500 metrin kävely,ei_lainkaan
+130646-926Y,802445,11099,Preop alaraajakysely,9.1.2024 12.58.53,1,0,0,Portaiden nousu,vaikeuksia
+130646-926Y,802445,11099,Preop alaraajakysely,9.1.2024 12.58.53,2,0,0,Kipu levossa,ei
+130646-926Y,802445,11099,Preop alaraajakysely,5.1.2024 12.58.53,3,0,0,Haava jalassa,ei
+130646-926Y,802445,11099,Preop alaraajakysely,8.1.2024 12.58.53,4,0,0,Tupakointi,lopettanut
+130646-926Y,802462,11099,Postop alaraajakysely,5.3.2024 10.14.45,0,0,0,500 metrin kävely,vaikeuksia
+130646-926Y,802462,11099,Postop alaraajakysely,8.3.2024 10.14.45,1,0,0,Portaiden nousu,ei_vaikeuksia
+130646-926Y,802462,11099,Postop alaraajakysely,4.3.2024 10.14.45,2,0,0,Kipu levossa,ei
+130646-926Y,802462,11099,Postop alaraajakysely,7.3.2024 10.14.45,3,0,0,Haava jalassa,ei
+130646-926Y,802462,11099,Postop alaraajakysely,8.3.2024 10.14.45,4,0,0,Tupakointi,tupakoi
+040842-901X,802480,11110,Preop alaraajakysely,6.3.2020 8.17.31,0,0,0,500 metrin kävely,vaikeuksia
+040842-901X,802480,11110,Preop alaraajakysely,10.3.2020 8.17.31,1,0,0,Portaiden nousu,ei_lainkaan
+040842-901X,802480,11110,Preop alaraajakysely,10.3.2020 8.17.31,2,0,0,Kipu levossa,kylla
+040842-901X,802480,11110,Preop alaraajakysely,9.3.2020 8.17.31,3,0,0,Haava jalassa,ei
+040842-901X,802480,11110,Preop alaraajakysely,9.3.2020 8.17.31,4,0,0,Tupakointi,tupakoi
+040842-901X,802490,11110,Postop alaraajakysely,28.4.2020 12.26.24,0,0,0,500 metrin kävely,ei_vaikeuksia
+040842-901X,802490,11110,Postop alaraajakysely,29.4.2020 12.26.24,1,0,0,Portaiden nousu,vaikeuksia
+040842-901X,802490,11110,Postop alaraajakysely,26.4.2020 12.26.24,2,0,0,Kipu levossa,ei
+040842-901X,802490,11110,Postop alaraajakysely,29.4.2020 12.26.24,3,0,0,Haava jalassa,ei
+040842-901X,802490,11110,Postop alaraajakysely,29.4.2020 12.26.24,4,0,0,Tupakointi,lopettanut
+190245-962H,802497,11123,Preop alaraajakysely,14.7.2023 10.37.10,0,0,0,500 metrin kävely,vaikeuksia
+190245-962H,802497,11123,Preop alaraajakysely,15.7.2023 10.37.10,1,0,0,Portaiden nousu,ei_lainkaan
+190245-962H,802497,11123,Preop alaraajakysely,19.7.2023 10.37.10,2,0,0,Kipu levossa,kylla
+190245-962H,802497,11123,Preop alaraajakysely,17.7.2023 10.37.10,3,0,0,Haava jalassa,ei
+190245-962H,802497,11123,Preop alaraajakysely,18.7.2023 10.37.10,4,0,0,Tupakointi,lopettanut
+190245-962H,802503,11123,Postop alaraajakysely,28.9.2023 10.50.32,0,0,0,500 metrin kävely,vaikeuksia
+190245-962H,802503,11123,Postop alaraajakysely,1.10.2023 10.50.32,1,0,0,Portaiden nousu,vaikeuksia
+190245-962H,802503,11123,Postop alaraajakysely,28.9.2023 10.50.32,2,0,0,Kipu levossa,ei
+190245-962H,802503,11123,Postop alaraajakysely,3.10.2023 10.50.32,3,0,0,Haava jalassa,ei
+190245-962H,802503,11123,Postop alaraajakysely,28.9.2023 10.50.32,4,0,0,Tupakointi,ei_koskaan
+140736-926U,802504,11130,Preop alaraajakysely,28.7.2019 12.15.39,0,0,0,500 metrin kävely,ei_lainkaan
+140736-926U,802504,11130,Preop alaraajakysely,29.7.2019 12.15.39,1,0,0,Portaiden nousu,vaikeuksia
+140736-926U,802504,11130,Preop alaraajakysely,26.7.2019 12.15.39,2,0,0,Kipu levossa,kylla
+140736-926U,802504,11130,Preop alaraajakysely,30.7.2019 12.15.39,3,0,0,Haava jalassa,kylla
+140736-926U,802504,11130,Preop alaraajakysely,29.7.2019 12.15.39,4,0,0,Tupakointi,lopettanut
+140736-926U,802515,11130,Postop alaraajakysely,2.10.2019 10.01.42,0,0,0,500 metrin kävely,ei_vaikeuksia
+140736-926U,802515,11130,Postop alaraajakysely,30.9.2019 10.01.42,1,0,0,Portaiden nousu,vaikeuksia
+140736-926U,802515,11130,Postop alaraajakysely,3.10.2019 10.01.42,2,0,0,Kipu levossa,ei
+140736-926U,802515,11130,Postop alaraajakysely,4.10.2019 10.01.42,3,0,0,Haava jalassa,ei
+140736-926U,802515,11130,Postop alaraajakysely,4.10.2019 10.01.42,4,0,0,Tupakointi,ei_koskaan
+130545-971B,802521,11131,Preop alaraajakysely,21.11.2023 12.11.00,0,0,0,500 metrin kävely,vaikeuksia
+130545-971B,802521,11131,Preop alaraajakysely,22.11.2023 12.11.00,1,0,0,Portaiden nousu,vaikeuksia
+130545-971B,802521,11131,Preop alaraajakysely,20.11.2023 12.11.00,2,0,0,Kipu levossa,ei
+130545-971B,802521,11131,Preop alaraajakysely,21.11.2023 12.11.00,3,0,0,Haava jalassa,ei
+130545-971B,802521,11131,Preop alaraajakysely,18.11.2023 12.11.00,4,0,0,Tupakointi,lopettanut
+130545-971B,802537,11131,Postop alaraajakysely,31.12.2023 13.36.11,0,0,0,500 metrin kävely,vaikeuksia
+130545-971B,802537,11131,Postop alaraajakysely,2.1.2024 13.36.11,1,0,0,Portaiden nousu,ei_vaikeuksia
+130545-971B,802537,11131,Postop alaraajakysely,4.1.2024 13.36.11,2,0,0,Kipu levossa,ei
+130545-971B,802537,11131,Postop alaraajakysely,31.12.2023 13.36.11,3,0,0,Haava jalassa,ei
+130545-971B,802537,11131,Postop alaraajakysely,1.1.2024 13.36.11,4,0,0,Tupakointi,tupakoi
+150355-900A,802557,11146,Preop alaraajakysely,13.9.2020 13.33.46,0,0,0,500 metrin kävely,vaikeuksia
+150355-900A,802557,11146,Preop alaraajakysely,11.9.2020 13.33.46,1,0,0,Portaiden nousu,ei_lainkaan
+150355-900A,802557,11146,Preop alaraajakysely,12.9.2020 13.33.46,2,0,0,Kipu levossa,ei
+150355-900A,802557,11146,Preop alaraajakysely,9.9.2020 13.33.46,3,0,0,Haava jalassa,kylla
+150355-900A,802557,11146,Preop alaraajakysely,11.9.2020 13.33.46,4,0,0,Tupakointi,ei_koskaan
+150355-900A,802566,11146,Postop alaraajakysely,9.12.2020 8.25.48,0,0,0,500 metrin kävely,ei_vaikeuksia
+150355-900A,802566,11146,Postop alaraajakysely,10.12.2020 8.25.48,1,0,0,Portaiden nousu,ei_vaikeuksia
+150355-900A,802566,11146,Postop alaraajakysely,11.12.2020 8.25.48,2,0,0,Kipu levossa,ei
+150355-900A,802566,11146,Postop alaraajakysely,14.12.2020 8.25.48,3,0,0,Haava jalassa,ei
+150355-900A,802566,11146,Postop alaraajakysely,9.12.2020 8.25.48,4,0,0,Tupakointi,tupakoi
+051155-969J,802590,11178,Preop alaraajakysely,21.11.2023 13.49.48,0,0,0,500 metrin kävely,vaikeuksia
+051155-969J,802590,11178,Preop alaraajakysely,19.11.2023 13.49.48,1,0,0,Portaiden nousu,ei_lainkaan
+051155-969J,802590,11178,Preop alaraajakysely,20.11.2023 13.49.48,2,0,0,Kipu levossa,ei
+051155-969J,802590,11178,Preop alaraajakysely,18.11.2023 13.49.48,3,0,0,Haava jalassa,ei
+051155-969J,802590,11178,Preop alaraajakysely,20.11.2023 13.49.48,4,0,0,Tupakointi,ei_koskaan
+051155-969J,802601,11178,Postop alaraajakysely,25.2.2024 10.42.29,0,0,0,500 metrin kävely,ei_vaikeuksia
+051155-969J,802601,11178,Postop alaraajakysely,22.2.2024 10.42.29,1,0,0,Portaiden nousu,vaikeuksia
+051155-969J,802601,11178,Postop alaraajakysely,20.2.2024 10.42.29,2,0,0,Kipu levossa,ei
+051155-969J,802601,11178,Postop alaraajakysely,25.2.2024 10.42.29,3,0,0,Haava jalassa,ei
+051155-969J,802601,11178,Postop alaraajakysely,20.2.2024 10.42.29,4,0,0,Tupakointi,lopettanut
+101141-901Y,802616,11202,Preop alaraajakysely,10.4.2019 8.14.50,0,0,0,500 metrin kävely,vaikeuksia
+101141-901Y,802616,11202,Preop alaraajakysely,9.4.2019 8.14.50,1,0,0,Portaiden nousu,ei_lainkaan
+101141-901Y,802616,11202,Preop alaraajakysely,13.4.2019 8.14.50,2,0,0,Kipu levossa,ei
+101141-901Y,802616,11202,Preop alaraajakysely,11.4.2019 8.14.50,3,0,0,Haava jalassa,ei
+101141-901Y,802616,11202,Preop alaraajakysely,13.4.2019 8.14.50,4,0,0,Tupakointi,lopettanut
+101141-901Y,802627,11202,Postop alaraajakysely,21.6.2019 9.52.22,0,0,0,500 metrin kävely,vaikeuksia
+101141-901Y,802627,11202,Postop alaraajakysely,20.6.2019 9.52.22,1,0,0,Portaiden nousu,ei_vaikeuksia
+101141-901Y,802627,11202,Postop alaraajakysely,25.6.2019 9.52.22,2,0,0,Kipu levossa,ei
+101141-901Y,802627,11202,Postop alaraajakysely,22.6.2019 9.52.22,3,0,0,Haava jalassa,ei
+101141-901Y,802627,11202,Postop alaraajakysely,22.6.2019 9.52.22,4,0,0,Tupakointi,tupakoi
+230546-933U,802630,11203,Preop alaraajakysely,27.2.2021 12.59.45,0,0,0,500 metrin kävely,vaikeuksia
+230546-933U,802630,11203,Preop alaraajakysely,1.3.2021 12.59.45,1,0,0,Portaiden nousu,vaikeuksia
+230546-933U,802630,11203,Preop alaraajakysely,24.2.2021 12.59.45,2,0,0,Kipu levossa,ei
+230546-933U,802630,11203,Preop alaraajakysely,27.2.2021 12.59.45,3,0,0,Haava jalassa,ei
+230546-933U,802630,11203,Preop alaraajakysely,26.2.2021 12.59.45,4,0,0,Tupakointi,ei_koskaan
+230546-933U,802638,11203,Postop alaraajakysely,28.5.2021 10.08.39,0,0,0,500 metrin kävely,ei_vaikeuksia
+230546-933U,802638,11203,Postop alaraajakysely,28.5.2021 10.08.39,1,0,0,Portaiden nousu,ei_vaikeuksia
+230546-933U,802638,11203,Postop alaraajakysely,28.5.2021 10.08.39,2,0,0,Kipu levossa,ei
+230546-933U,802638,11203,Postop alaraajakysely,30.5.2021 10.08.39,3,0,0,Haava jalassa,ei
+230546-933U,802638,11203,Postop alaraajakysely,31.5.2021 10.08.39,4,0,0,Tupakointi,tupakoi
+190548-9477,802640,11218,Preop alaraajakysely,16.5.2023 10.50.12,0,0,0,500 metrin kävely,vaikeuksia
+190548-9477,802640,11218,Preop alaraajakysely,17.5.2023 10.50.12,1,0,0,Portaiden nousu,vaikeuksia
+190548-9477,802640,11218,Preop alaraajakysely,16.5.2023 10.50.12,2,0,0,Kipu levossa,ei
+190548-9477,802640,11218,Preop alaraajakysely,15.5.2023 10.50.12,3,0,0,Haava jalassa,ei
+190548-9477,802640,11218,Preop alaraajakysely,17.5.2023 10.50.12,4,0,0,Tupakointi,tupakoi
+190548-9477,802648,11218,Postop alaraajakysely,16.7.2023 14.54.35,0,0,0,500 metrin kävely,vaikeuksia
+190548-9477,802648,11218,Postop alaraajakysely,13.7.2023 14.54.35,1,0,0,Portaiden nousu,ei_vaikeuksia
+190548-9477,802648,11218,Postop alaraajakysely,16.7.2023 14.54.35,2,0,0,Kipu levossa,ei
+190548-9477,802648,11218,Postop alaraajakysely,14.7.2023 14.54.35,3,0,0,Haava jalassa,ei
+190548-9477,802648,11218,Postop alaraajakysely,13.7.2023 14.54.35,4,0,0,Tupakointi,ei_koskaan

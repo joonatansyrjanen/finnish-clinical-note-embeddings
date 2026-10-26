@@ -1,0 +1,62 @@
+henkilotunnus,multilab_potilas_id,tulos_id,naytteenotto_hetki,tutkimus_lyhenne,tutkimus_pitkanimi,loydos_tyyppi_selite,maara,loydos_positiivinen,kommentti_loydoskohtainen,mikrobi_whonet_selite
+260548-937D,3000036,900000577,12.4.2024 12.14.36,Pu -BaktVi,Märkänäytteen bakteeriviljely,Viljelylöydös,+,True,"Kefaleksiini = S, Kloksasilliini = S, Klindamysiini = S",Staphylococcus aureus
+260548-937D,3000036,900000577,12.4.2024 12.14.36,Pu -BaktVi,Märkänäytteen bakteeriviljely,Viljelylöydös,++,True,"Ampisilliini = R, Kefuroksiimi = S, Siprofloksasiini = S",Escherichia coli
+200439-940H,3000063,900001152,14.2.2021 11.32.42,Pu -BaktVi,Märkänäytteen bakteeriviljely,Viljelylöydös,++,True,"Ampisilliini = S, Kefuroksiimi = S, Trimetopriimi = R",Proteus mirabilis
+251145-994N,3000073,900001203,17.1.2025 13.57.51,Pu -BaktVi,Märkänäytteen bakteeriviljely,Viljelylöydös,,False,Ei kasvua,
+150249-9331,3000083,900001520,5.11.2019 12.12.18,Pu -BaktVi,Märkänäytteen bakteeriviljely,Viljelylöydös,+,True,"Ampisilliini = S, Vankomysiini = S",Enterococcus faecalis
+290947-913J,3000096,900001640,4.6.2021 14.10.53,Pu -BaktVi,Märkänäytteen bakteeriviljely,Viljelylöydös,+++,True,"Ampisilliini = S, Vankomysiini = S",Enterococcus faecalis
+150543-996X,3000135,900002219,15.1.2025 10.57.23,Pu -BaktVi,Märkänäytteen bakteeriviljely,Viljelylöydös,,False,Ei kasvua,
+060739-9197,3000153,900002622,11.3.2024 15.25.34,Pu -BaktVi,Märkänäytteen bakteeriviljely,Viljelylöydös,,False,Ei kasvua,
+200241-9303,3000176,900002983,27.11.2020 13.10.54,Pu -BaktVi,Märkänäytteen bakteeriviljely,Viljelylöydös,++,True,"Ampisilliini = R, Kefuroksiimi = S, Siprofloksasiini = S",Escherichia coli
+200241-9303,3000176,900002983,27.11.2020 13.10.54,Pu -BaktVi,Märkänäytteen bakteeriviljely,Viljelylöydös,+,True,"Kefaleksiini = S, Kloksasilliini = S, Klindamysiini = S",Staphylococcus aureus
+030842-965B,3000193,900003179,10.1.2023 11.52.08,Pu -BaktVi,Märkänäytteen bakteeriviljely,Viljelylöydös,+++,True,"Ampisilliini = R, Kefuroksiimi = S, Siprofloksasiini = S",Escherichia coli
+220146-9738,3000242,900004047,15.6.2025 8.40.57,U -BaktVi,Virtsan bakteeriviljely,Viljelylöydös,+++,True,"Ampisilliini = R, Kefuroksiimi = S, Siprofloksasiini = S",Escherichia coli
+010745-9717,3000294,900004993,19.8.2023 9.36.45,Pu -BaktVi,Märkänäytteen bakteeriviljely,Viljelylöydös,,False,Ei kasvua,
+090150-912X,3000348,900005883,21.9.2023 15.32.51,Pu -BaktVi,Märkänäytteen bakteeriviljely,Viljelylöydös,,False,Ei kasvua,
+041143-932L,3000368,900006149,16.5.2023 11.25.33,U -BaktVi,Virtsan bakteeriviljely,Viljelylöydös,,False,Ei kasvua,
+221258-9682,3000389,900006395,1.3.2021 11.00.03,Pu -BaktVi,Märkänäytteen bakteeriviljely,Viljelylöydös,,False,Ei kasvua,
+080159-997B,3000459,900007733,17.4.2022 9.16.29,Pu -BaktVi,Märkänäytteen bakteeriviljely,Viljelylöydös,++,True,"Ampisilliini = S, Kefuroksiimi = S, Trimetopriimi = R",Proteus mirabilis
+100348-9917,3000512,900008519,3.11.2025 9.03.02,Pu -BaktVi,Märkänäytteen bakteeriviljely,Viljelylöydös,+++,True,"Kefaleksiini = S, Kloksasilliini = S, Klindamysiini = S",Staphylococcus aureus
+100348-9917,3000512,900008519,3.11.2025 9.03.02,Pu -BaktVi,Märkänäytteen bakteeriviljely,Viljelylöydös,++,True,"Ampisilliini = S, Kefuroksiimi = S, Trimetopriimi = R",Proteus mirabilis
+290851-9532,3000537,900009055,23.11.2019 15.55.47,Pu -BaktVi,Märkänäytteen bakteeriviljely,Viljelylöydös,,False,Ei kasvua,
+250337-9303,3000548,900009272,5.3.2021 8.56.24,Pu -BaktVi,Märkänäytteen bakteeriviljely,Viljelylöydös,+,True,"Keftatsidiimi = S, Siprofloksasiini = S, Piperasilliini-tatsobaktaami = S",Pseudomonas aeruginosa
+250337-9303,3000548,900009272,5.3.2021 8.56.24,Pu -BaktVi,Märkänäytteen bakteeriviljely,Viljelylöydös,++,True,"Ampisilliini = S, Vankomysiini = S",Enterococcus faecalis
+290344-914Y,3000595,900009819,21.5.2021 15.37.02,Pu -BaktVi,Märkänäytteen bakteeriviljely,Viljelylöydös,+,True,"Keftatsidiimi = S, Siprofloksasiini = S, Piperasilliini-tatsobaktaami = S",Pseudomonas aeruginosa
+040549-912N,3000613,900010328,4.1.2021 15.48.38,Pu -BaktVi,Märkänäytteen bakteeriviljely,Viljelylöydös,,False,Ei kasvua,
+260449-954D,3000623,900010552,23.12.2019 9.35.56,U -BaktVi,Virtsan bakteeriviljely,Viljelylöydös,+++,True,"Ampisilliini = R, Kefuroksiimi = S, Siprofloksasiini = S",Escherichia coli
+260449-954D,3000623,900010552,23.12.2019 9.35.56,U -BaktVi,Virtsan bakteeriviljely,Viljelylöydös,+++,True,"Ampisilliini = S, Vankomysiini = S",Enterococcus faecalis
+280830-981W,3000638,900010834,7.5.2023 14.50.16,Pu -BaktVi,Märkänäytteen bakteeriviljely,Viljelylöydös,++,True,"Ampisilliini = S, Kefuroksiimi = S, Trimetopriimi = R",Proteus mirabilis
+040462-9382,3000658,900011171,21.5.2025 8.12.00,Pu -BaktVi,Märkänäytteen bakteeriviljely,Viljelylöydös,++,True,"Ampisilliini = S, Kefuroksiimi = S, Trimetopriimi = R",Proteus mirabilis
+040462-9382,3000658,900011171,21.5.2025 8.12.00,Pu -BaktVi,Märkänäytteen bakteeriviljely,Viljelylöydös,+++,True,"Ampisilliini = R, Kefuroksiimi = S, Siprofloksasiini = S",Escherichia coli
+220259-951P,3000665,900011285,27.10.2023 8.40.29,Pu -BaktVi,Märkänäytteen bakteeriviljely,Viljelylöydös,++,True,"Keftatsidiimi = S, Siprofloksasiini = S, Piperasilliini-tatsobaktaami = S",Pseudomonas aeruginosa
+220259-951P,3000665,900011285,27.10.2023 8.40.29,Pu -BaktVi,Märkänäytteen bakteeriviljely,Viljelylöydös,+++,True,"Kefaleksiini = S, Kloksasilliini = S, Klindamysiini = S",Staphylococcus aureus
+140936-902N,3000765,900013266,15.6.2019 10.34.57,U -BaktVi,Virtsan bakteeriviljely,Viljelylöydös,,False,Ei kasvua,
+160327-9755,3000775,900013395,11.11.2020 15.29.12,Pu -BaktVi,Märkänäytteen bakteeriviljely,Viljelylöydös,++,True,"Ampisilliini = S, Kefuroksiimi = S, Trimetopriimi = R",Proteus mirabilis
+160327-9755,3000775,900013395,11.11.2020 15.29.12,Pu -BaktVi,Märkänäytteen bakteeriviljely,Viljelylöydös,+++,True,"Ampisilliini = R, Kefuroksiimi = S, Siprofloksasiini = S",Escherichia coli
+160327-9755,3000775,900013461,16.2.2021 11.34.06,Pu -BaktVi,Märkänäytteen bakteeriviljely,Viljelylöydös,+,True,"Kefaleksiini = S, Kloksasilliini = S, Klindamysiini = S",Staphylococcus aureus
+220463-981A,3000777,900013506,13.7.2024 12.23.09,Pu -BaktVi,Märkänäytteen bakteeriviljely,Viljelylöydös,++,True,"Ampisilliini = S, Vankomysiini = S",Enterococcus faecalis
+220463-981A,3000777,900013506,13.7.2024 12.23.09,Pu -BaktVi,Märkänäytteen bakteeriviljely,Viljelylöydös,++,True,"Ampisilliini = R, Kefuroksiimi = S, Siprofloksasiini = S",Escherichia coli
+220463-981A,3000777,900013557,13.8.2024 10.50.48,Pu -BaktVi,Märkänäytteen bakteeriviljely,Viljelylöydös,++,True,"Ampisilliini = S, Vankomysiini = S",Enterococcus faecalis
+020942-975U,3000789,900013707,21.9.2019 11.27.52,Pu -BaktVi,Märkänäytteen bakteeriviljely,Viljelylöydös,,False,Ei kasvua,
+120853-946C,3000790,900013783,21.9.2020 10.24.14,U -BaktVi,Virtsan bakteeriviljely,Viljelylöydös,+++,True,"Ampisilliini = S, Kefuroksiimi = S, Trimetopriimi = R",Proteus mirabilis
+120853-946C,3000790,900013783,21.9.2020 10.24.14,U -BaktVi,Virtsan bakteeriviljely,Viljelylöydös,+,True,"Kefaleksiini = S, Kloksasilliini = S, Klindamysiini = S",Staphylococcus aureus
+060853-980L,3000832,900014360,28.10.2025 9.15.43,U -BaktVi,Virtsan bakteeriviljely,Viljelylöydös,,False,Ei kasvua,
+180860-959F,3000861,900014824,27.1.2022 8.46.01,Pu -BaktVi,Märkänäytteen bakteeriviljely,Viljelylöydös,,False,Ei kasvua,
+080159-9328,3000864,900014956,10.8.2024 10.17.40,Pu -BaktVi,Märkänäytteen bakteeriviljely,Viljelylöydös,++,True,"Ampisilliini = S, Vankomysiini = S",Enterococcus faecalis
+080159-9328,3000864,900014956,10.8.2024 10.17.40,Pu -BaktVi,Märkänäytteen bakteeriviljely,Viljelylöydös,+++,True,"Penisilliini = S, Klindamysiini = S",Streptococcus dysgalactiae
+100939-916A,3000905,900015857,28.1.2023 13.11.35,Pu -BaktVi,Märkänäytteen bakteeriviljely,Viljelylöydös,+++,True,"Ampisilliini = S, Kefuroksiimi = S, Trimetopriimi = R",Proteus mirabilis
+100939-916A,3000905,900015857,28.1.2023 13.11.35,Pu -BaktVi,Märkänäytteen bakteeriviljely,Viljelylöydös,++,True,"Penisilliini = S, Klindamysiini = S",Streptococcus dysgalactiae
+021139-983X,3000939,900016415,24.3.2020 14.56.00,Pu -BaktVi,Märkänäytteen bakteeriviljely,Viljelylöydös,,False,Ei kasvua,
+031266-967U,3000974,900016998,11.10.2022 10.38.12,U -BaktVi,Virtsan bakteeriviljely,Viljelylöydös,+,True,"Penisilliini = S, Klindamysiini = S",Streptococcus dysgalactiae
+260342-947K,3000995,900017354,14.6.2019 11.37.18,Pu -BaktVi,Märkänäytteen bakteeriviljely,Viljelylöydös,+,True,"Ampisilliini = S, Kefuroksiimi = S, Trimetopriimi = R",Proteus mirabilis
+241050-974V,3001026,900017856,17.3.2021 13.21.28,Pu -BaktVi,Märkänäytteen bakteeriviljely,Viljelylöydös,,False,Ei kasvua,
+171046-9983,3001087,900018981,25.12.2023 12.20.18,Pu -BaktVi,Märkänäytteen bakteeriviljely,Viljelylöydös,,False,Ei kasvua,
+130646-926Y,3001120,900019557,22.12.2023 10.33.58,Pu -BaktVi,Märkänäytteen bakteeriviljely,Viljelylöydös,++,True,"Ampisilliini = S, Kefuroksiimi = S, Trimetopriimi = R",Proteus mirabilis
+130646-926Y,3001120,900019557,22.12.2023 10.33.58,Pu -BaktVi,Märkänäytteen bakteeriviljely,Viljelylöydös,+++,True,"Kefaleksiini = S, Kloksasilliini = S, Klindamysiini = S",Staphylococcus aureus
+130545-971B,3001139,900020087,6.8.2023 10.52.23,Pu -BaktVi,Märkänäytteen bakteeriviljely,Viljelylöydös,+,True,"Ampisilliini = S, Kefuroksiimi = S, Trimetopriimi = R",Proteus mirabilis
+130545-971B,3001139,900020087,6.8.2023 10.52.23,Pu -BaktVi,Märkänäytteen bakteeriviljely,Viljelylöydös,+++,True,"Penisilliini = S, Klindamysiini = S",Streptococcus dysgalactiae
+260859-964J,3001153,900020324,20.11.2023 9.51.04,Pu -BaktVi,Märkänäytteen bakteeriviljely,Viljelylöydös,,False,Ei kasvua,
+150355-900A,3001158,900020367,9.7.2020 8.51.58,Pu -BaktVi,Märkänäytteen bakteeriviljely,Viljelylöydös,,False,Ei kasvua,
+051155-969J,3001186,900020819,15.10.2023 12.58.22,Pu -BaktVi,Märkänäytteen bakteeriviljely,Viljelylöydös,,False,Ei kasvua,
+270243-9326,3001219,900021316,12.10.2020 13.47.35,Pu -BaktVi,Märkänäytteen bakteeriviljely,Viljelylöydös,+,True,"Ampisilliini = S, Kefuroksiimi = S, Trimetopriimi = R",Proteus mirabilis
+270243-9326,3001219,900021316,12.10.2020 13.47.35,Pu -BaktVi,Märkänäytteen bakteeriviljely,Viljelylöydös,++,True,"Ampisilliini = S, Vankomysiini = S",Enterococcus faecalis

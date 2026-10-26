@@ -1,0 +1,989 @@
+henkilotunnus,ilmoitettu_alku_hetki,potilas_ika_vuosina,potilas_sukupuoli_koodi,diagnoosi_koodi,diagnoosi_selite,paivitys_hetki
+280660-967K,29.5.2023 10.31.26,62,1,I70.2,Raajojen valtimoiden ateroskleroosi,28.6.2023 10.31.26
+280660-967K,29.6.2015 10.31.26,62,1,I10,Essentiaalinen verenpainetauti,24.6.2023 10.31.26
+280660-967K,4.10.2020 10.31.26,62,1,E11.9,Tyypin 2 diabetes ilman komplikaatioita,23.6.2023 10.31.26
+280660-967K,26.11.2022 10.31.26,62,1,J44.9,"Keuhkoahtaumatauti, määrittämätön",25.6.2023 10.31.26
+070129-963V,23.3.2019 13.21.46,90,1,I70.2,Raajojen valtimoiden ateroskleroosi,12.4.2019 13.21.46
+070129-963V,4.6.2013 13.21.46,90,1,I10,Essentiaalinen verenpainetauti,25.3.2019 13.21.46
+070129-963V,5.6.2011 13.21.46,90,1,E11.9,Tyypin 2 diabetes ilman komplikaatioita,27.3.2019 13.21.46
+070129-963V,28.8.2011 13.21.46,90,1,E78.0,Puhdas hyperkolesterolemia,13.4.2019 13.21.46
+111251-9043,26.1.2024 14.41.51,72,2,I71.4,Vatsa-aortan aneurysma ilman mainintaa repeämästä,24.2.2024 14.41.51
+111251-9043,8.11.2016 14.41.51,72,2,J44.9,"Keuhkoahtaumatauti, määrittämätön",14.2.2024 14.41.51
+010847-984Y,20.4.2024 12.39.27,76,1,I70.2,Raajojen valtimoiden ateroskleroosi,18.5.2024 12.39.27
+010847-984Y,15.1.2020 12.39.27,76,1,I10,Essentiaalinen verenpainetauti,13.5.2024 12.39.27
+010847-984Y,28.12.2022 12.39.27,76,1,E11.9,Tyypin 2 diabetes ilman komplikaatioita,20.5.2024 12.39.27
+010847-984Y,28.1.2019 12.39.27,76,1,E78.0,Puhdas hyperkolesterolemia,20.5.2024 12.39.27
+010847-984Y,16.4.2022 12.39.27,76,1,F17.2,Tupakan aiheuttama riippuvuus,27.4.2024 12.39.27
+060742-970M,30.5.2020 9.53.14,77,1,I70.2,Raajojen valtimoiden ateroskleroosi,2.6.2020 9.53.14
+060742-970M,9.11.2016 9.53.14,77,1,I10,Essentiaalinen verenpainetauti,1.6.2020 9.53.14
+060742-970M,30.5.2019 9.53.14,77,1,E11.9,Tyypin 2 diabetes ilman komplikaatioita,20.6.2020 9.53.14
+060742-970M,22.9.2017 9.53.14,77,1,I25.1,Ateroskleroottinen sydänsairaus,9.6.2020 9.53.14
+060742-970M,11.12.2015 9.53.14,77,1,E78.0,Puhdas hyperkolesterolemia,17.6.2020 9.53.14
+110747-9749,12.6.2025 8.21.38,77,2,I70.2,Raajojen valtimoiden ateroskleroosi,9.7.2025 8.21.38
+110747-9749,20.5.2019 8.21.38,77,2,I10,Essentiaalinen verenpainetauti,28.6.2025 8.21.38
+161138-940A,29.12.2020 14.07.00,82,1,I71.4,Vatsa-aortan aneurysma ilman mainintaa repeämästä,16.1.2021 14.07.00
+161138-940A,31.1.2015 14.07.00,82,1,I25.1,Ateroskleroottinen sydänsairaus,28.1.2021 14.07.00
+161138-940A,9.12.2018 14.07.00,82,1,E78.0,Puhdas hyperkolesterolemia,15.1.2021 14.07.00
+161138-940A,7.5.2020 14.07.00,82,1,J44.9,"Keuhkoahtaumatauti, määrittämätön",13.1.2021 14.07.00
+161138-940A,25.10.2014 14.07.00,82,1,F17.2,Tupakan aiheuttama riippuvuus,7.1.2021 14.07.00
+161138-940A,8.8.2013 14.07.00,82,1,I48.9,"Eteisvärinä tai eteislepatus, määrittämätön",28.1.2021 14.07.00
+260548-937D,12.4.2024 12.14.36,75,2,I70.2,Raajojen valtimoiden ateroskleroosi,21.4.2024 12.14.36
+260548-937D,14.12.2022 12.14.36,75,2,I25.1,Ateroskleroottinen sydänsairaus,22.4.2024 12.14.36
+260548-937D,8.2.2016 12.14.36,75,2,N18.3,"Krooninen munuaistauti, vaihe 3",26.4.2024 12.14.36
+021154-906A,26.3.2021 11.47.58,66,1,I70.2,Raajojen valtimoiden ateroskleroosi,5.4.2021 11.47.58
+021154-906A,29.9.2016 11.47.58,66,1,I10,Essentiaalinen verenpainetauti,3.4.2021 11.47.58
+021154-906A,4.6.2013 11.47.58,66,1,E78.0,Puhdas hyperkolesterolemia,2.4.2021 11.47.58
+021154-906A,8.10.2013 11.47.58,66,1,N18.3,"Krooninen munuaistauti, vaihe 3",1.4.2021 11.47.58
+110550-9334,10.2.2025 14.19.57,74,2,I70.2,Raajojen valtimoiden ateroskleroosi,10.3.2025 14.19.57
+110550-9334,29.10.2021 14.19.57,74,2,I10,Essentiaalinen verenpainetauti,9.3.2025 14.19.57
+110550-9334,27.1.2018 14.19.57,74,2,I25.1,Ateroskleroottinen sydänsairaus,5.3.2025 14.19.57
+190847-9693,20.10.2023 11.23.00,76,1,I74.3,Alaraajan valtimon embolia ja tromboosi,11.11.2023 11.23.00
+190847-9693,14.6.2018 11.23.00,76,1,I48.9,"Eteisvärinä tai eteislepatus, määrittämätön",27.10.2023 11.23.00
+190847-9693,24.4.2023 11.23.00,76,1,I10,Essentiaalinen verenpainetauti,15.11.2023 11.23.00
+190847-9693,27.7.2016 11.23.00,76,1,I25.1,Ateroskleroottinen sydänsairaus,26.10.2023 11.23.00
+090667-977E,17.1.2022 12.57.36,54,2,I83.9,Alaraajan laskimolaajentumat ilman haavaumaa tai tulehdusta,2.2.2022 12.57.36
+211184-925X,21.5.2022 13.40.50,37,2,I83.9,Alaraajan laskimolaajentumat ilman haavaumaa tai tulehdusta,8.6.2022 13.40.50
+080853-9874,14.12.2022 12.42.00,69,2,I70.2,Raajojen valtimoiden ateroskleroosi,20.12.2022 12.42.00
+080853-9874,26.1.2018 12.42.00,69,2,I10,Essentiaalinen verenpainetauti,26.12.2022 12.42.00
+080853-9874,21.8.2019 12.42.00,69,2,E78.0,Puhdas hyperkolesterolemia,22.12.2022 12.42.00
+200439-940H,16.12.2020 14.57.31,81,1,I70.2,Raajojen valtimoiden ateroskleroosi,20.12.2020 14.57.31
+200439-940H,25.8.2019 14.57.31,81,1,I10,Essentiaalinen verenpainetauti,3.1.2021 14.57.31
+200439-940H,7.9.2020 14.57.31,81,1,E11.9,Tyypin 2 diabetes ilman komplikaatioita,13.1.2021 14.57.31
+200439-940H,12.1.2017 14.57.31,81,1,E78.0,Puhdas hyperkolesterolemia,9.1.2021 14.57.31
+200439-940H,7.9.2020 14.57.31,81,1,F17.2,Tupakan aiheuttama riippuvuus,7.1.2021 14.57.31
+090156-916L,19.12.2022 12.11.41,66,2,I70.2,Raajojen valtimoiden ateroskleroosi,12.1.2023 12.11.41
+090156-916L,26.2.2016 12.11.41,66,2,I10,Essentiaalinen verenpainetauti,19.12.2022 12.11.41
+090156-916L,21.6.2016 12.11.41,66,2,I25.1,Ateroskleroottinen sydänsairaus,14.1.2023 12.11.41
+090156-916L,9.12.2017 12.11.41,66,2,E78.0,Puhdas hyperkolesterolemia,17.1.2023 12.11.41
+090156-916L,6.8.2015 12.11.41,66,2,J44.9,"Keuhkoahtaumatauti, määrittämätön",21.12.2022 12.11.41
+251145-994N,17.1.2025 13.57.51,79,1,I70.2,Raajojen valtimoiden ateroskleroosi,9.2.2025 13.57.51
+251145-994N,6.11.2016 13.57.51,79,1,I10,Essentiaalinen verenpainetauti,30.1.2025 13.57.51
+251145-994N,3.1.2021 13.57.51,79,1,E11.9,Tyypin 2 diabetes ilman komplikaatioita,10.2.2025 13.57.51
+251145-994N,29.3.2017 13.57.51,79,1,I25.1,Ateroskleroottinen sydänsairaus,12.2.2025 13.57.51
+251145-994N,1.5.2022 13.57.51,79,1,E78.0,Puhdas hyperkolesterolemia,19.1.2025 13.57.51
+251145-994N,2.1.2019 13.57.51,79,1,N18.3,"Krooninen munuaistauti, vaihe 3",26.1.2025 13.57.51
+040557-968J,7.3.2025 10.01.51,67,1,I65.2,Kaulavaltimon tukos ja ahtauma,25.3.2025 10.01.51
+040557-968J,4.12.2018 10.01.51,67,1,F17.2,Tupakan aiheuttama riippuvuus,9.3.2025 10.01.51
+010668-9035,8.8.2021 12.30.07,53,1,I83.9,Alaraajan laskimolaajentumat ilman haavaumaa tai tulehdusta,15.8.2021 12.30.07
+180351-913M,9.4.2023 13.27.08,72,1,I71.4,Vatsa-aortan aneurysma ilman mainintaa repeämästä,15.4.2023 13.27.08
+180351-913M,21.1.2020 13.27.08,72,1,I10,Essentiaalinen verenpainetauti,15.4.2023 13.27.08
+180351-913M,10.9.2019 13.27.08,72,1,E78.0,Puhdas hyperkolesterolemia,12.4.2023 13.27.08
+180351-913M,27.4.2022 13.27.08,72,1,N18.3,"Krooninen munuaistauti, vaihe 3",3.5.2023 13.27.08
+180351-913M,24.2.2015 13.27.08,72,1,I48.9,"Eteisvärinä tai eteislepatus, määrittämätön",30.4.2023 13.27.08
+150249-9331,5.11.2019 12.12.18,70,1,I70.2,Raajojen valtimoiden ateroskleroosi,25.11.2019 12.12.18
+150249-9331,31.12.2013 12.12.18,70,1,E11.9,Tyypin 2 diabetes ilman komplikaatioita,24.11.2019 12.12.18
+150249-9331,28.6.2015 12.12.18,70,1,E78.0,Puhdas hyperkolesterolemia,29.11.2019 12.12.18
+150249-9331,4.2.2019 12.12.18,70,1,F17.2,Tupakan aiheuttama riippuvuus,29.11.2019 12.12.18
+110551-916U,13.2.2025 13.50.31,73,2,I70.2,Raajojen valtimoiden ateroskleroosi,14.2.2025 13.50.31
+110551-916U,27.10.2021 13.50.31,73,2,I25.1,Ateroskleroottinen sydänsairaus,11.3.2025 13.50.31
+290947-913J,4.6.2021 14.10.53,73,1,I70.2,Raajojen valtimoiden ateroskleroosi,10.6.2021 14.10.53
+290947-913J,13.8.2015 14.10.53,73,1,I25.1,Ateroskleroottinen sydänsairaus,24.6.2021 14.10.53
+290947-913J,18.2.2018 14.10.53,73,1,E78.0,Puhdas hyperkolesterolemia,9.6.2021 14.10.53
+290947-913J,10.7.2020 14.10.53,73,1,F17.2,Tupakan aiheuttama riippuvuus,4.7.2021 14.10.53
+010945-971U,3.11.2022 9.22.50,77,1,I65.2,Kaulavaltimon tukos ja ahtauma,8.11.2022 9.22.50
+010945-971U,5.12.2018 9.22.50,77,1,I10,Essentiaalinen verenpainetauti,18.11.2022 9.22.50
+010945-971U,20.6.2015 9.22.50,77,1,F17.2,Tupakan aiheuttama riippuvuus,21.11.2022 9.22.50
+300448-990W,7.12.2021 12.53.24,73,2,I70.2,Raajojen valtimoiden ateroskleroosi,9.12.2021 12.53.24
+300448-990W,14.12.2020 12.53.24,73,2,I25.1,Ateroskleroottinen sydänsairaus,13.12.2021 12.53.24
+300448-990W,26.6.2015 12.53.24,73,2,E78.0,Puhdas hyperkolesterolemia,26.12.2021 12.53.24
+300448-990W,9.1.2019 12.53.24,73,2,N18.3,"Krooninen munuaistauti, vaihe 3",6.1.2022 12.53.24
+300448-990W,9.8.2017 12.53.24,73,2,I48.9,"Eteisvärinä tai eteislepatus, määrittämätön",30.12.2021 12.53.24
+161151-907L,24.4.2019 11.22.54,67,1,I74.3,Alaraajan valtimon embolia ja tromboosi,17.5.2019 11.22.54
+161151-907L,14.11.2014 11.22.54,67,1,I48.9,"Eteisvärinä tai eteislepatus, määrittämätön",11.5.2019 11.22.54
+161151-907L,13.1.2016 11.22.54,67,1,I10,Essentiaalinen verenpainetauti,7.5.2019 11.22.54
+161151-907L,9.2.2016 11.22.54,67,1,I25.1,Ateroskleroottinen sydänsairaus,11.5.2019 11.22.54
+161151-907L,8.1.2012 11.22.54,67,1,E11.9,Tyypin 2 diabetes ilman komplikaatioita,9.5.2019 11.22.54
+070236-927A,5.12.2020 8.21.46,84,1,I70.2,Raajojen valtimoiden ateroskleroosi,30.12.2020 8.21.46
+070236-927A,29.7.2016 8.21.46,84,1,I10,Essentiaalinen verenpainetauti,26.12.2020 8.21.46
+070236-927A,12.2.2015 8.21.46,84,1,E11.9,Tyypin 2 diabetes ilman komplikaatioita,5.12.2020 8.21.46
+070236-927A,31.10.2017 8.21.46,84,1,E78.0,Puhdas hyperkolesterolemia,15.12.2020 8.21.46
+070236-927A,14.1.2013 8.21.46,84,1,F17.2,Tupakan aiheuttama riippuvuus,14.12.2020 8.21.46
+070335-921N,9.3.2019 8.05.59,84,2,I70.2,Raajojen valtimoiden ateroskleroosi,26.3.2019 8.05.59
+070335-921N,13.9.2017 8.05.59,84,2,I10,Essentiaalinen verenpainetauti,28.3.2019 8.05.59
+070335-921N,30.12.2010 8.05.59,84,2,E11.9,Tyypin 2 diabetes ilman komplikaatioita,27.3.2019 8.05.59
+070335-921N,4.3.2011 8.05.59,84,2,F17.2,Tupakan aiheuttama riippuvuus,24.3.2019 8.05.59
+030944-929H,12.7.2024 8.36.41,79,1,I70.2,Raajojen valtimoiden ateroskleroosi,31.7.2024 8.36.41
+030944-929H,6.11.2018 8.36.41,79,1,I10,Essentiaalinen verenpainetauti,21.7.2024 8.36.41
+030944-929H,6.4.2017 8.36.41,79,1,E78.0,Puhdas hyperkolesterolemia,28.7.2024 8.36.41
+030944-929H,5.8.2022 8.36.41,79,1,F17.2,Tupakan aiheuttama riippuvuus,8.8.2024 8.36.41
+040875-944U,21.6.2025 11.31.20,49,2,I65.2,Kaulavaltimon tukos ja ahtauma,22.6.2025 11.31.20
+040875-944U,16.9.2018 11.31.20,49,2,I10,Essentiaalinen verenpainetauti,7.7.2025 11.31.20
+040875-944U,9.7.2020 11.31.20,49,2,E78.0,Puhdas hyperkolesterolemia,28.6.2025 11.31.20
+040875-944U,26.3.2021 11.31.20,49,2,F17.2,Tupakan aiheuttama riippuvuus,3.7.2025 11.31.20
+190648-914Y,23.12.2020 11.24.44,72,1,I65.2,Kaulavaltimon tukos ja ahtauma,20.1.2021 11.24.44
+190648-914Y,18.3.2014 11.24.44,72,1,I10,Essentiaalinen verenpainetauti,17.1.2021 11.24.44
+190648-914Y,9.6.2019 11.24.44,72,1,E78.0,Puhdas hyperkolesterolemia,14.1.2021 11.24.44
+190648-914Y,13.6.2019 11.24.44,72,1,I25.1,Ateroskleroottinen sydänsairaus,1.1.2021 11.24.44
+190648-914Y,14.2.2017 11.24.44,72,1,I48.9,"Eteisvärinä tai eteislepatus, määrittämätön",13.1.2021 11.24.44
+150543-996X,15.1.2025 10.57.23,81,2,I70.2,Raajojen valtimoiden ateroskleroosi,4.2.2025 10.57.23
+150543-996X,1.9.2017 10.57.23,81,2,E11.9,Tyypin 2 diabetes ilman komplikaatioita,30.1.2025 10.57.23
+150543-996X,27.1.2023 10.57.23,81,2,E78.0,Puhdas hyperkolesterolemia,3.2.2025 10.57.23
+220272-962D,9.12.2022 14.48.47,50,1,I83.9,Alaraajan laskimolaajentumat ilman haavaumaa tai tulehdusta,8.1.2023 14.48.47
+220272-962D,10.3.2016 14.48.47,50,1,E78.0,Puhdas hyperkolesterolemia,8.1.2023 14.48.47
+200836-936U,14.7.2022 12.04.31,85,2,I70.2,Raajojen valtimoiden ateroskleroosi,10.8.2022 12.04.31
+200836-936U,19.9.2016 12.04.31,85,2,E11.9,Tyypin 2 diabetes ilman komplikaatioita,28.7.2022 12.04.31
+200836-936U,22.8.2014 12.04.31,85,2,F17.2,Tupakan aiheuttama riippuvuus,16.7.2022 12.04.31
+101237-983C,24.6.2023 11.46.24,85,2,I70.2,Raajojen valtimoiden ateroskleroosi,27.6.2023 11.46.24
+101237-983C,9.8.2017 11.46.24,85,2,I25.1,Ateroskleroottinen sydänsairaus,7.7.2023 11.46.24
+270143-948W,17.6.2019 10.03.01,76,1,I65.2,Kaulavaltimon tukos ja ahtauma,30.6.2019 10.03.01
+270143-948W,20.4.2016 10.03.01,76,1,E78.0,Puhdas hyperkolesterolemia,28.6.2019 10.03.01
+270143-948W,6.1.2014 10.03.01,76,1,I25.1,Ateroskleroottinen sydänsairaus,30.6.2019 10.03.01
+270143-948W,7.7.2013 10.03.01,76,1,F17.2,Tupakan aiheuttama riippuvuus,12.7.2019 10.03.01
+060739-9197,11.3.2024 15.25.34,84,2,I70.2,Raajojen valtimoiden ateroskleroosi,14.3.2024 15.25.34
+060739-9197,30.3.2019 15.25.34,84,2,E78.0,Puhdas hyperkolesterolemia,7.4.2024 15.25.34
+060171-990X,9.12.2019 13.57.55,48,2,I83.9,Alaraajan laskimolaajentumat ilman haavaumaa tai tulehdusta,28.12.2019 13.57.55
+061297-911Y,7.4.2024 11.43.58,26,1,I83.9,Alaraajan laskimolaajentumat ilman haavaumaa tai tulehdusta,9.4.2024 11.43.58
+201163-958X,6.10.2019 9.20.57,55,1,I83.9,Alaraajan laskimolaajentumat ilman haavaumaa tai tulehdusta,14.10.2019 9.20.57
+161257-9124,15.4.2023 12.30.45,65,1,I71.4,Vatsa-aortan aneurysma ilman mainintaa repeämästä,30.4.2023 12.30.45
+161257-9124,17.2.2019 12.30.45,65,1,I10,Essentiaalinen verenpainetauti,22.4.2023 12.30.45
+161257-9124,27.7.2017 12.30.45,65,1,I25.1,Ateroskleroottinen sydänsairaus,14.5.2023 12.30.45
+161257-9124,21.3.2018 12.30.45,65,1,J44.9,"Keuhkoahtaumatauti, määrittämätön",22.4.2023 12.30.45
+161257-9124,6.10.2020 12.30.45,65,1,I48.9,"Eteisvärinä tai eteislepatus, määrittämätön",19.4.2023 12.30.45
+100662-993A,26.7.2019 15.00.10,57,1,I70.2,Raajojen valtimoiden ateroskleroosi,12.8.2019 15.00.10
+100662-993A,24.6.2015 15.00.10,57,1,E11.9,Tyypin 2 diabetes ilman komplikaatioita,31.7.2019 15.00.10
+100662-993A,14.1.2012 15.00.10,57,1,J44.9,"Keuhkoahtaumatauti, määrittämätön",12.8.2019 15.00.10
+200241-9303,27.11.2020 13.10.54,79,1,I70.2,Raajojen valtimoiden ateroskleroosi,16.12.2020 13.10.54
+200241-9303,22.5.2013 13.10.54,79,1,I25.1,Ateroskleroottinen sydänsairaus,10.12.2020 13.10.54
+200241-9303,7.6.2013 13.10.54,79,1,E78.0,Puhdas hyperkolesterolemia,21.12.2020 13.10.54
+200241-9303,15.5.2019 13.10.54,79,1,F17.2,Tupakan aiheuttama riippuvuus,24.12.2020 13.10.54
+250339-994N,7.2.2019 12.43.49,79,2,I70.2,Raajojen valtimoiden ateroskleroosi,22.2.2019 12.43.49
+250339-994N,13.1.2012 12.43.49,79,2,I25.1,Ateroskleroottinen sydänsairaus,6.3.2019 12.43.49
+250339-994N,4.5.2014 12.43.49,79,2,F17.2,Tupakan aiheuttama riippuvuus,14.2.2019 12.43.49
+250339-994N,6.12.2015 12.43.49,79,2,J44.9,"Keuhkoahtaumatauti, määrittämätön",15.2.2019 12.43.49
+200850-932A,27.12.2020 12.28.06,70,2,I70.2,Raajojen valtimoiden ateroskleroosi,3.1.2021 12.28.06
+200850-932A,4.5.2017 12.28.06,70,2,I10,Essentiaalinen verenpainetauti,4.1.2021 12.28.06
+200850-932A,2.4.2016 12.28.06,70,2,F17.2,Tupakan aiheuttama riippuvuus,26.1.2021 12.28.06
+030842-965B,14.9.2022 10.39.54,80,1,I70.2,Raajojen valtimoiden ateroskleroosi,5.10.2022 10.39.54
+030842-965B,15.10.2020 10.39.54,80,1,I10,Essentiaalinen verenpainetauti,8.10.2022 10.39.54
+030842-965B,6.8.2017 10.39.54,80,1,E11.9,Tyypin 2 diabetes ilman komplikaatioita,22.9.2022 10.39.54
+030842-965B,24.1.2020 10.39.54,80,1,I25.1,Ateroskleroottinen sydänsairaus,11.10.2022 10.39.54
+080336-993W,14.6.2022 14.57.01,86,2,I70.2,Raajojen valtimoiden ateroskleroosi,12.7.2022 14.57.01
+080336-993W,8.3.2021 14.57.01,86,2,I10,Essentiaalinen verenpainetauti,28.6.2022 14.57.01
+080336-993W,18.8.2015 14.57.01,86,2,E11.9,Tyypin 2 diabetes ilman komplikaatioita,4.7.2022 14.57.01
+080336-993W,2.5.2021 14.57.01,86,2,I25.1,Ateroskleroottinen sydänsairaus,20.6.2022 14.57.01
+080336-993W,12.3.2015 14.57.01,86,2,N18.3,"Krooninen munuaistauti, vaihe 3",29.6.2022 14.57.01
+080336-993W,10.10.2018 14.57.01,86,2,F17.2,Tupakan aiheuttama riippuvuus,27.6.2022 14.57.01
+080336-993W,10.12.2020 14.57.01,86,2,I48.9,"Eteisvärinä tai eteislepatus, määrittämätön",1.7.2022 14.57.01
+080946-968H,18.3.2020 12.52.24,73,1,I70.2,Raajojen valtimoiden ateroskleroosi,18.3.2020 12.52.24
+080946-968H,11.3.2013 12.52.24,73,1,I10,Essentiaalinen verenpainetauti,7.4.2020 12.52.24
+021150-977K,11.12.2024 11.37.22,74,1,I74.3,Alaraajan valtimon embolia ja tromboosi,1.1.2025 11.37.22
+021150-977K,14.5.2023 11.37.22,74,1,I48.9,"Eteisvärinä tai eteislepatus, määrittämätön",15.12.2024 11.37.22
+021150-977K,5.11.2016 11.37.22,74,1,I25.1,Ateroskleroottinen sydänsairaus,13.12.2024 11.37.22
+010641-989Y,30.11.2020 14.51.18,79,1,I70.2,Raajojen valtimoiden ateroskleroosi,22.12.2020 14.51.18
+010641-989Y,23.4.2015 14.51.18,79,1,N18.3,"Krooninen munuaistauti, vaihe 3",10.12.2020 14.51.18
+140636-921V,30.3.2022 11.58.12,85,1,I70.2,Raajojen valtimoiden ateroskleroosi,10.4.2022 11.58.12
+140636-921V,29.5.2015 11.58.12,85,1,I10,Essentiaalinen verenpainetauti,7.4.2022 11.58.12
+140636-921V,24.2.2017 11.58.12,85,1,E11.9,Tyypin 2 diabetes ilman komplikaatioita,17.4.2022 11.58.12
+140636-921V,6.4.2017 11.58.12,85,1,J44.9,"Keuhkoahtaumatauti, määrittämätön",28.4.2022 11.58.12
+140636-921V,31.12.2019 11.58.12,85,1,I48.9,"Eteisvärinä tai eteislepatus, määrittämätön",15.4.2022 11.58.12
+161058-943S,14.7.2022 12.07.36,63,1,I83.9,Alaraajan laskimolaajentumat ilman haavaumaa tai tulehdusta,28.7.2022 12.07.36
+310566-908B,21.3.2025 11.04.09,58,2,I65.2,Kaulavaltimon tukos ja ahtauma,16.4.2025 11.04.09
+310566-908B,26.8.2023 11.04.09,58,2,I10,Essentiaalinen verenpainetauti,30.3.2025 11.04.09
+310566-908B,18.4.2019 11.04.09,58,2,E11.9,Tyypin 2 diabetes ilman komplikaatioita,30.3.2025 11.04.09
+310566-908B,30.4.2024 11.04.09,58,2,I48.9,"Eteisvärinä tai eteislepatus, määrittämätön",6.4.2025 11.04.09
+310566-908B,29.8.2019 11.04.09,58,2,F17.2,Tupakan aiheuttama riippuvuus,3.4.2025 11.04.09
+270165-959X,4.10.2023 12.24.20,58,2,I70.2,Raajojen valtimoiden ateroskleroosi,6.10.2023 12.24.20
+270165-959X,4.10.2019 12.24.20,58,2,E11.9,Tyypin 2 diabetes ilman komplikaatioita,6.10.2023 12.24.20
+270165-959X,7.8.2018 12.24.20,58,2,I25.1,Ateroskleroottinen sydänsairaus,15.10.2023 12.24.20
+270165-959X,16.8.2021 12.24.20,58,2,F17.2,Tupakan aiheuttama riippuvuus,26.10.2023 12.24.20
+220146-9738,19.4.2025 10.35.44,79,1,I70.2,Raajojen valtimoiden ateroskleroosi,30.4.2025 10.35.44
+220146-9738,26.3.2018 10.35.44,79,1,I10,Essentiaalinen verenpainetauti,29.4.2025 10.35.44
+220146-9738,10.10.2023 10.35.44,79,1,I48.9,"Eteisvärinä tai eteislepatus, määrittämätön",14.5.2025 10.35.44
+030545-927F,28.7.2022 12.12.31,77,1,I70.2,Raajojen valtimoiden ateroskleroosi,15.8.2022 12.12.31
+030545-927F,5.3.2018 12.12.31,77,1,I10,Essentiaalinen verenpainetauti,8.8.2022 12.12.31
+030545-927F,28.12.2016 12.12.31,77,1,I25.1,Ateroskleroottinen sydänsairaus,1.8.2022 12.12.31
+100760-9120,12.9.2020 12.47.13,60,1,I70.2,Raajojen valtimoiden ateroskleroosi,6.10.2020 12.47.13
+100760-9120,1.10.2017 12.47.13,60,1,I10,Essentiaalinen verenpainetauti,4.10.2020 12.47.13
+100760-9120,26.4.2016 12.47.13,60,1,N18.3,"Krooninen munuaistauti, vaihe 3",1.10.2020 12.47.13
+100760-9120,16.5.2020 12.47.13,60,1,J44.9,"Keuhkoahtaumatauti, määrittämätön",15.9.2020 12.47.13
+281139-980L,6.7.2020 13.42.03,80,2,I70.2,Raajojen valtimoiden ateroskleroosi,3.8.2020 13.42.03
+281139-980L,14.10.2018 13.42.03,80,2,E11.9,Tyypin 2 diabetes ilman komplikaatioita,14.7.2020 13.42.03
+281139-980L,1.8.2018 13.42.03,80,2,F17.2,Tupakan aiheuttama riippuvuus,29.7.2020 13.42.03
+281139-980L,7.10.2014 13.42.03,80,2,J44.9,"Keuhkoahtaumatauti, määrittämätön",13.7.2020 13.42.03
+311270-9712,28.2.2022 10.24.16,51,2,I83.9,Alaraajan laskimolaajentumat ilman haavaumaa tai tulehdusta,15.3.2022 10.24.16
+311270-9712,19.1.2020 10.24.16,51,2,E78.0,Puhdas hyperkolesterolemia,19.3.2022 10.24.16
+150396-914B,5.8.2024 14.35.41,28,2,I83.9,Alaraajan laskimolaajentumat ilman haavaumaa tai tulehdusta,7.8.2024 14.35.41
+010744-903S,16.6.2019 15.32.29,74,1,I70.2,Raajojen valtimoiden ateroskleroosi,7.7.2019 15.32.29
+010744-903S,19.3.2013 15.32.29,74,1,I10,Essentiaalinen verenpainetauti,17.6.2019 15.32.29
+010744-903S,19.6.2013 15.32.29,74,1,E78.0,Puhdas hyperkolesterolemia,24.6.2019 15.32.29
+010744-903S,14.8.2011 15.32.29,74,1,N18.3,"Krooninen munuaistauti, vaihe 3",9.7.2019 15.32.29
+010744-903S,11.9.2012 15.32.29,74,1,F17.2,Tupakan aiheuttama riippuvuus,29.6.2019 15.32.29
+091053-9506,19.1.2020 10.21.00,66,1,I71.4,Vatsa-aortan aneurysma ilman mainintaa repeämästä,17.2.2020 10.21.00
+091053-9506,8.1.2016 10.21.00,66,1,I25.1,Ateroskleroottinen sydänsairaus,10.2.2020 10.21.00
+090983-996L,26.1.2022 15.38.32,38,2,I83.9,Alaraajan laskimolaajentumat ilman haavaumaa tai tulehdusta,4.2.2022 15.38.32
+200252-954P,3.6.2021 11.44.45,69,1,I71.4,Vatsa-aortan aneurysma ilman mainintaa repeämästä,7.6.2021 11.44.45
+200252-954P,26.11.2014 11.44.45,69,1,E78.0,Puhdas hyperkolesterolemia,11.6.2021 11.44.45
+200252-954P,20.6.2020 11.44.45,69,1,F17.2,Tupakan aiheuttama riippuvuus,13.6.2021 11.44.45
+200252-954P,20.4.2013 11.44.45,69,1,I48.9,"Eteisvärinä tai eteislepatus, määrittämätön",22.6.2021 11.44.45
+100964-9019,2.6.2019 14.33.25,54,1,I70.2,Raajojen valtimoiden ateroskleroosi,19.6.2019 14.33.25
+100964-9019,24.4.2014 14.33.25,54,1,I10,Essentiaalinen verenpainetauti,7.6.2019 14.33.25
+100964-9019,2.7.2012 14.33.25,54,1,E11.9,Tyypin 2 diabetes ilman komplikaatioita,2.6.2019 14.33.25
+100964-9019,24.4.2013 14.33.25,54,1,I25.1,Ateroskleroottinen sydänsairaus,16.6.2019 14.33.25
+100964-9019,10.12.2017 14.33.25,54,1,N18.3,"Krooninen munuaistauti, vaihe 3",10.6.2019 14.33.25
+100964-9019,23.4.2014 14.33.25,54,1,F17.2,Tupakan aiheuttama riippuvuus,21.6.2019 14.33.25
+050247-941A,17.2.2020 12.09.10,73,2,I74.3,Alaraajan valtimon embolia ja tromboosi,16.3.2020 12.09.10
+050247-941A,12.9.2015 12.09.10,73,2,N18.3,"Krooninen munuaistauti, vaihe 3",13.3.2020 12.09.10
+220737-968L,2.7.2022 8.29.49,84,1,I65.2,Kaulavaltimon tukos ja ahtauma,17.7.2022 8.29.49
+220737-968L,13.12.2019 8.29.49,84,1,I10,Essentiaalinen verenpainetauti,27.7.2022 8.29.49
+010745-9717,19.8.2023 9.36.45,78,1,I70.2,Raajojen valtimoiden ateroskleroosi,23.8.2023 9.36.45
+010745-9717,20.6.2019 9.36.45,78,1,I25.1,Ateroskleroottinen sydänsairaus,2.9.2023 9.36.45
+010745-9717,14.12.2018 9.36.45,78,1,E78.0,Puhdas hyperkolesterolemia,2.9.2023 9.36.45
+010745-9717,29.5.2021 9.36.45,78,1,F17.2,Tupakan aiheuttama riippuvuus,7.9.2023 9.36.45
+030546-9992,19.2.2024 14.11.48,77,2,I70.2,Raajojen valtimoiden ateroskleroosi,16.3.2024 14.11.48
+030546-9992,9.11.2019 14.11.48,77,2,I25.1,Ateroskleroottinen sydänsairaus,5.3.2024 14.11.48
+030546-9992,24.6.2018 14.11.48,77,2,J44.9,"Keuhkoahtaumatauti, määrittämätön",1.3.2024 14.11.48
+150666-9196,11.9.2024 11.51.24,58,1,I70.2,Raajojen valtimoiden ateroskleroosi,19.9.2024 11.51.24
+150666-9196,21.12.2019 11.51.24,58,1,I10,Essentiaalinen verenpainetauti,27.9.2024 11.51.24
+150666-9196,7.2.2020 11.51.24,58,1,E11.9,Tyypin 2 diabetes ilman komplikaatioita,22.9.2024 11.51.24
+150666-9196,8.1.2021 11.51.24,58,1,I25.1,Ateroskleroottinen sydänsairaus,3.10.2024 11.51.24
+150666-9196,7.4.2023 11.51.24,58,1,F17.2,Tupakan aiheuttama riippuvuus,27.9.2024 11.51.24
+150458-930V,29.7.2020 15.00.54,62,1,I70.2,Raajojen valtimoiden ateroskleroosi,2.8.2020 15.00.54
+150458-930V,5.4.2014 15.00.54,62,1,I10,Essentiaalinen verenpainetauti,7.8.2020 15.00.54
+150458-930V,13.1.2016 15.00.54,62,1,N18.3,"Krooninen munuaistauti, vaihe 3",19.8.2020 15.00.54
+150458-930V,1.5.2019 15.00.54,62,1,F17.2,Tupakan aiheuttama riippuvuus,4.8.2020 15.00.54
+050772-9547,18.1.2022 15.29.38,49,2,I83.9,Alaraajan laskimolaajentumat ilman haavaumaa tai tulehdusta,18.1.2022 15.29.38
+180340-9555,15.6.2019 9.36.41,79,1,I71.4,Vatsa-aortan aneurysma ilman mainintaa repeämästä,15.6.2019 9.36.41
+180340-9555,16.4.2012 9.36.41,79,1,I10,Essentiaalinen verenpainetauti,17.6.2019 9.36.41
+180340-9555,23.10.2013 9.36.41,79,1,E78.0,Puhdas hyperkolesterolemia,28.6.2019 9.36.41
+180340-9555,22.7.2016 9.36.41,79,1,F17.2,Tupakan aiheuttama riippuvuus,15.7.2019 9.36.41
+180340-9555,28.12.2016 9.36.41,79,1,E11.9,Tyypin 2 diabetes ilman komplikaatioita,14.7.2019 9.36.41
+150950-918E,29.6.2023 10.09.26,72,1,I74.3,Alaraajan valtimon embolia ja tromboosi,10.7.2023 10.09.26
+150950-918E,21.10.2022 10.09.26,72,1,I10,Essentiaalinen verenpainetauti,11.7.2023 10.09.26
+150950-918E,19.12.2021 10.09.26,72,1,N18.3,"Krooninen munuaistauti, vaihe 3",25.7.2023 10.09.26
+160946-9536,29.7.2019 9.16.01,72,1,I70.2,Raajojen valtimoiden ateroskleroosi,4.8.2019 9.16.01
+160946-9536,23.10.2011 9.16.01,72,1,I10,Essentiaalinen verenpainetauti,28.8.2019 9.16.01
+160946-9536,10.11.2015 9.16.01,72,1,I25.1,Ateroskleroottinen sydänsairaus,6.8.2019 9.16.01
+221178-954Y,27.1.2023 14.57.49,44,1,I83.9,Alaraajan laskimolaajentumat ilman haavaumaa tai tulehdusta,19.2.2023 14.57.49
+291065-994L,11.4.2024 10.53.55,58,2,I83.9,Alaraajan laskimolaajentumat ilman haavaumaa tai tulehdusta,9.5.2024 10.53.55
+291241-9088,12.11.2019 9.47.18,77,1,I65.2,Kaulavaltimon tukos ja ahtauma,25.11.2019 9.47.18
+291241-9088,25.11.2018 9.47.18,77,1,I10,Essentiaalinen verenpainetauti,16.11.2019 9.47.18
+291241-9088,22.4.2018 9.47.18,77,1,E11.9,Tyypin 2 diabetes ilman komplikaatioita,21.11.2019 9.47.18
+310156-970J,25.12.2024 15.39.08,68,1,I71.4,Vatsa-aortan aneurysma ilman mainintaa repeämästä,25.12.2024 15.39.08
+310156-970J,6.5.2023 15.39.08,68,1,I25.1,Ateroskleroottinen sydänsairaus,26.12.2024 15.39.08
+310156-970J,18.11.2021 15.39.08,68,1,J44.9,"Keuhkoahtaumatauti, määrittämätön",29.12.2024 15.39.08
+080153-9786,29.7.2019 11.49.10,66,2,I83.9,Alaraajan laskimolaajentumat ilman haavaumaa tai tulehdusta,29.7.2019 11.49.10
+090150-912X,21.9.2023 15.32.51,73,1,I70.2,Raajojen valtimoiden ateroskleroosi,27.9.2023 15.32.51
+090150-912X,11.6.2022 15.32.51,73,1,I10,Essentiaalinen verenpainetauti,12.10.2023 15.32.51
+090150-912X,31.10.2019 15.32.51,73,1,I25.1,Ateroskleroottinen sydänsairaus,7.10.2023 15.32.51
+090150-912X,10.12.2021 15.32.51,73,1,E78.0,Puhdas hyperkolesterolemia,11.10.2023 15.32.51
+190756-917X,14.12.2019 11.22.56,63,2,I71.4,Vatsa-aortan aneurysma ilman mainintaa repeämästä,27.12.2019 11.22.56
+190756-917X,10.2.2016 11.22.56,63,2,I10,Essentiaalinen verenpainetauti,22.12.2019 11.22.56
+190756-917X,14.9.2016 11.22.56,63,2,E78.0,Puhdas hyperkolesterolemia,4.1.2020 11.22.56
+200964-9488,9.8.2022 12.42.28,57,2,I83.9,Alaraajan laskimolaajentumat ilman haavaumaa tai tulehdusta,27.8.2022 12.42.28
+200964-9488,18.1.2016 12.42.28,57,2,I10,Essentiaalinen verenpainetauti,27.8.2022 12.42.28
+041143-932L,14.5.2023 11.07.43,79,2,I74.3,Alaraajan valtimon embolia ja tromboosi,2.6.2023 11.07.43
+041143-932L,12.3.2021 11.07.43,79,2,I10,Essentiaalinen verenpainetauti,7.6.2023 11.07.43
+041143-932L,27.1.2023 11.07.43,79,2,I25.1,Ateroskleroottinen sydänsairaus,4.6.2023 11.07.43
+140772-9308,29.1.2020 8.42.49,47,1,I83.9,Alaraajan laskimolaajentumat ilman haavaumaa tai tulehdusta,3.2.2020 8.42.49
+130835-931W,15.2.2021 11.12.50,85,2,I74.3,Alaraajan valtimon embolia ja tromboosi,12.3.2021 11.12.50
+130835-931W,1.11.2020 11.12.50,85,2,I48.9,"Eteisvärinä tai eteislepatus, määrittämätön",19.2.2021 11.12.50
+130835-931W,24.11.2018 11.12.50,85,2,N18.3,"Krooninen munuaistauti, vaihe 3",14.3.2021 11.12.50
+050871-979K,31.3.2022 12.48.15,50,1,I65.2,Kaulavaltimon tukos ja ahtauma,20.4.2022 12.48.15
+050871-979K,19.4.2021 12.48.15,50,1,F17.2,Tupakan aiheuttama riippuvuus,19.4.2022 12.48.15
+221258-9682,1.3.2021 11.00.03,62,1,I70.2,Raajojen valtimoiden ateroskleroosi,30.3.2021 11.00.03
+221258-9682,20.6.2018 11.00.03,62,1,I10,Essentiaalinen verenpainetauti,1.3.2021 11.00.03
+221258-9682,22.4.2020 11.00.03,62,1,I25.1,Ateroskleroottinen sydänsairaus,7.3.2021 11.00.03
+250543-997D,11.3.2021 10.28.23,77,1,I74.3,Alaraajan valtimon embolia ja tromboosi,5.4.2021 10.28.23
+250543-997D,18.10.2020 10.28.23,77,1,I48.9,"Eteisvärinä tai eteislepatus, määrittämätön",19.3.2021 10.28.23
+250543-997D,11.10.2017 10.28.23,77,1,I10,Essentiaalinen verenpainetauti,19.3.2021 10.28.23
+250543-997D,26.2.2015 10.28.23,77,1,N18.3,"Krooninen munuaistauti, vaihe 3",14.3.2021 10.28.23
+180948-911M,21.9.2020 8.09.10,72,1,I71.4,Vatsa-aortan aneurysma ilman mainintaa repeämästä,25.9.2020 8.09.10
+180948-911M,18.2.2017 8.09.10,72,1,I25.1,Ateroskleroottinen sydänsairaus,16.10.2020 8.09.10
+180948-911M,8.6.2015 8.09.10,72,1,J44.9,"Keuhkoahtaumatauti, määrittämätön",17.10.2020 8.09.10
+180948-911M,16.12.2014 8.09.10,72,1,F17.2,Tupakan aiheuttama riippuvuus,3.10.2020 8.09.10
+180948-911M,29.10.2016 8.09.10,72,1,N18.3,"Krooninen munuaistauti, vaihe 3",18.10.2020 8.09.10
+140856-931Y,18.7.2024 8.28.29,67,2,I70.2,Raajojen valtimoiden ateroskleroosi,11.8.2024 8.28.29
+140856-931Y,16.9.2020 8.28.29,67,2,E11.9,Tyypin 2 diabetes ilman komplikaatioita,11.8.2024 8.28.29
+140856-931Y,8.3.2018 8.28.29,67,2,I25.1,Ateroskleroottinen sydänsairaus,25.7.2024 8.28.29
+140856-931Y,5.9.2019 8.28.29,67,2,I48.9,"Eteisvärinä tai eteislepatus, määrittämätön",10.8.2024 8.28.29
+210854-9630,28.8.2021 9.27.24,67,2,I74.3,Alaraajan valtimon embolia ja tromboosi,4.9.2021 9.27.24
+210854-9630,29.10.2014 9.27.24,67,2,I48.9,"Eteisvärinä tai eteislepatus, määrittämätön",9.9.2021 9.27.24
+210854-9630,26.6.2017 9.27.24,67,2,I10,Essentiaalinen verenpainetauti,29.8.2021 9.27.24
+100948-978M,30.5.2025 10.59.32,76,2,I70.2,Raajojen valtimoiden ateroskleroosi,6.6.2025 10.59.32
+100948-978M,28.3.2023 10.59.32,76,2,E11.9,Tyypin 2 diabetes ilman komplikaatioita,12.6.2025 10.59.32
+100948-978M,14.2.2022 10.59.32,76,2,E78.0,Puhdas hyperkolesterolemia,13.6.2025 10.59.32
+100948-978M,2.9.2021 10.59.32,76,2,F17.2,Tupakan aiheuttama riippuvuus,27.6.2025 10.59.32
+211162-946X,15.5.2025 14.10.49,62,1,I83.9,Alaraajan laskimolaajentumat ilman haavaumaa tai tulehdusta,19.5.2025 14.10.49
+160955-916A,16.2.2020 9.44.43,64,1,I70.2,Raajojen valtimoiden ateroskleroosi,27.2.2020 9.44.43
+160955-916A,22.1.2018 9.44.43,64,1,I10,Essentiaalinen verenpainetauti,2.3.2020 9.44.43
+160955-916A,18.12.2017 9.44.43,64,1,E78.0,Puhdas hyperkolesterolemia,4.3.2020 9.44.43
+160955-916A,5.2.2012 9.44.43,64,1,F17.2,Tupakan aiheuttama riippuvuus,24.2.2020 9.44.43
+160955-916A,1.10.2018 9.44.43,64,1,I48.9,"Eteisvärinä tai eteislepatus, määrittämätön",10.3.2020 9.44.43
+150339-955Y,10.8.2019 15.21.18,80,1,I65.2,Kaulavaltimon tukos ja ahtauma,19.8.2019 15.21.18
+150339-955Y,16.7.2012 15.21.18,80,1,E78.0,Puhdas hyperkolesterolemia,2.9.2019 15.21.18
+271255-916U,18.10.2020 12.42.57,64,1,I70.2,Raajojen valtimoiden ateroskleroosi,6.11.2020 12.42.57
+271255-916U,24.7.2015 12.42.57,64,1,I10,Essentiaalinen verenpainetauti,8.11.2020 12.42.57
+271255-916U,14.11.2015 12.42.57,64,1,E11.9,Tyypin 2 diabetes ilman komplikaatioita,7.11.2020 12.42.57
+271255-916U,7.4.2020 12.42.57,64,1,I25.1,Ateroskleroottinen sydänsairaus,27.10.2020 12.42.57
+271255-916U,8.4.2019 12.42.57,64,1,F17.2,Tupakan aiheuttama riippuvuus,12.11.2020 12.42.57
+271255-916U,31.1.2016 12.42.57,64,1,J44.9,"Keuhkoahtaumatauti, määrittämätön",19.10.2020 12.42.57
+130453-963B,3.11.2022 15.28.24,69,1,I71.4,Vatsa-aortan aneurysma ilman mainintaa repeämästä,30.11.2022 15.28.24
+130453-963B,17.2.2016 15.28.24,69,1,I10,Essentiaalinen verenpainetauti,23.11.2022 15.28.24
+130453-963B,11.2.2018 15.28.24,69,1,E78.0,Puhdas hyperkolesterolemia,23.11.2022 15.28.24
+021254-987R,19.8.2023 11.05.46,68,1,I70.2,Raajojen valtimoiden ateroskleroosi,8.9.2023 11.05.46
+021254-987R,4.6.2017 11.05.46,68,1,E11.9,Tyypin 2 diabetes ilman komplikaatioita,16.9.2023 11.05.46
+021254-987R,27.9.2020 11.05.46,68,1,E78.0,Puhdas hyperkolesterolemia,5.9.2023 11.05.46
+021254-987R,26.2.2017 11.05.46,68,1,F17.2,Tupakan aiheuttama riippuvuus,29.8.2023 11.05.46
+021254-987R,21.6.2016 11.05.46,68,1,J44.9,"Keuhkoahtaumatauti, määrittämätön",26.8.2023 11.05.46
+231149-949Y,22.8.2019 12.45.15,69,2,I70.2,Raajojen valtimoiden ateroskleroosi,21.9.2019 12.45.15
+231149-949Y,9.2.2013 12.45.15,69,2,I10,Essentiaalinen verenpainetauti,31.8.2019 12.45.15
+231149-949Y,7.7.2018 12.45.15,69,2,I48.9,"Eteisvärinä tai eteislepatus, määrittämätön",25.8.2019 12.45.15
+171053-989L,6.3.2024 10.40.49,70,2,I65.2,Kaulavaltimon tukos ja ahtauma,25.3.2024 10.40.49
+171053-989L,1.4.2021 10.40.49,70,2,I10,Essentiaalinen verenpainetauti,25.3.2024 10.40.49
+171053-989L,28.3.2021 10.40.49,70,2,I25.1,Ateroskleroottinen sydänsairaus,14.3.2024 10.40.49
+020347-927R,2.2.2020 10.31.23,72,2,I83.9,Alaraajan laskimolaajentumat ilman haavaumaa tai tulehdusta,23.2.2020 10.31.23
+020347-927R,5.10.2015 10.31.23,72,2,E78.0,Puhdas hyperkolesterolemia,12.2.2020 10.31.23
+281149-9153,9.4.2020 11.20.36,70,2,I70.2,Raajojen valtimoiden ateroskleroosi,16.4.2020 11.20.36
+281149-9153,4.8.2016 11.20.36,70,2,I10,Essentiaalinen verenpainetauti,22.4.2020 11.20.36
+281149-9153,1.9.2016 11.20.36,70,2,I25.1,Ateroskleroottinen sydänsairaus,14.4.2020 11.20.36
+281149-9153,24.12.2014 11.20.36,70,2,E78.0,Puhdas hyperkolesterolemia,28.4.2020 11.20.36
+281149-9153,25.9.2012 11.20.36,70,2,J44.9,"Keuhkoahtaumatauti, määrittämätön",13.4.2020 11.20.36
+281149-9153,6.10.2016 11.20.36,70,2,I48.9,"Eteisvärinä tai eteislepatus, määrittämätön",3.5.2020 11.20.36
+080159-997B,17.4.2022 9.16.29,63,1,I70.2,Raajojen valtimoiden ateroskleroosi,23.4.2022 9.16.29
+080159-997B,22.4.2017 9.16.29,63,1,I25.1,Ateroskleroottinen sydänsairaus,27.4.2022 9.16.29
+161044-992R,19.7.2024 9.03.25,79,1,I65.2,Kaulavaltimon tukos ja ahtauma,21.7.2024 9.03.25
+161044-992R,3.6.2020 9.03.25,79,1,I10,Essentiaalinen verenpainetauti,12.8.2024 9.03.25
+161044-992R,12.9.2018 9.03.25,79,1,E78.0,Puhdas hyperkolesterolemia,13.8.2024 9.03.25
+161044-992R,3.10.2020 9.03.25,79,1,I25.1,Ateroskleroottinen sydänsairaus,21.7.2024 9.03.25
+290940-918W,7.4.2020 8.59.38,79,2,I70.2,Raajojen valtimoiden ateroskleroosi,1.5.2020 8.59.38
+290940-918W,21.11.2015 8.59.38,79,2,E78.0,Puhdas hyperkolesterolemia,15.4.2020 8.59.38
+290940-918W,22.12.2016 8.59.38,79,2,N18.3,"Krooninen munuaistauti, vaihe 3",19.4.2020 8.59.38
+290940-918W,6.2.2017 8.59.38,79,2,I48.9,"Eteisvärinä tai eteislepatus, määrittämätön",2.5.2020 8.59.38
+140526-927N,13.3.2022 12.31.58,95,1,I74.3,Alaraajan valtimon embolia ja tromboosi,18.3.2022 12.31.58
+140526-927N,14.2.2021 12.31.58,95,1,E11.9,Tyypin 2 diabetes ilman komplikaatioita,30.3.2022 12.31.58
+021165-900Y,2.10.2019 13.03.24,53,2,I65.2,Kaulavaltimon tukos ja ahtauma,6.10.2019 13.03.24
+021165-900Y,25.2.2016 13.03.24,53,2,I10,Essentiaalinen verenpainetauti,22.10.2019 13.03.24
+021165-900Y,17.5.2016 13.03.24,53,2,E78.0,Puhdas hyperkolesterolemia,16.10.2019 13.03.24
+160344-981R,27.6.2022 13.35.43,78,2,I70.2,Raajojen valtimoiden ateroskleroosi,26.7.2022 13.35.43
+160344-981R,6.5.2016 13.35.43,78,2,I10,Essentiaalinen verenpainetauti,27.7.2022 13.35.43
+160344-981R,16.7.2018 13.35.43,78,2,I25.1,Ateroskleroottinen sydänsairaus,6.7.2022 13.35.43
+160344-981R,11.6.2019 13.35.43,78,2,I48.9,"Eteisvärinä tai eteislepatus, määrittämätön",12.7.2022 13.35.43
+040451-9077,22.5.2020 10.26.01,69,2,I83.9,Alaraajan laskimolaajentumat ilman haavaumaa tai tulehdusta,27.5.2020 10.26.01
+040451-9077,24.5.2014 10.26.01,69,2,I10,Essentiaalinen verenpainetauti,5.6.2020 10.26.01
+241156-920F,8.9.2024 13.33.55,67,2,I65.2,Kaulavaltimon tukos ja ahtauma,5.10.2024 13.33.55
+241156-920F,2.1.2021 13.33.55,67,2,I10,Essentiaalinen verenpainetauti,21.9.2024 13.33.55
+241156-920F,21.11.2018 13.33.55,67,2,F17.2,Tupakan aiheuttama riippuvuus,21.9.2024 13.33.55
+070246-920N,29.7.2024 10.10.12,78,1,I71.4,Vatsa-aortan aneurysma ilman mainintaa repeämästä,8.8.2024 10.10.12
+070246-920N,11.4.2020 10.10.12,78,1,I10,Essentiaalinen verenpainetauti,11.8.2024 10.10.12
+070246-920N,6.1.2017 10.10.12,78,1,I25.1,Ateroskleroottinen sydänsairaus,17.8.2024 10.10.12
+070246-920N,10.4.2017 10.10.12,78,1,E78.0,Puhdas hyperkolesterolemia,31.7.2024 10.10.12
+070246-920N,1.10.2016 10.10.12,78,1,N18.3,"Krooninen munuaistauti, vaihe 3",2.8.2024 10.10.12
+070246-920N,2.1.2024 10.10.12,78,1,E11.9,Tyypin 2 diabetes ilman komplikaatioita,12.8.2024 10.10.12
+020163-9256,25.7.2023 13.48.06,60,1,I70.2,Raajojen valtimoiden ateroskleroosi,18.8.2023 13.48.06
+020163-9256,28.6.2018 13.48.06,60,1,I10,Essentiaalinen verenpainetauti,18.8.2023 13.48.06
+020163-9256,13.3.2021 13.48.06,60,1,E11.9,Tyypin 2 diabetes ilman komplikaatioita,20.8.2023 13.48.06
+020163-9256,27.11.2022 13.48.06,60,1,I25.1,Ateroskleroottinen sydänsairaus,18.8.2023 13.48.06
+020163-9256,23.7.2018 13.48.06,60,1,E78.0,Puhdas hyperkolesterolemia,16.8.2023 13.48.06
+191264-9879,15.9.2020 10.33.41,55,2,I83.9,Alaraajan laskimolaajentumat ilman haavaumaa tai tulehdusta,15.9.2020 10.33.41
+191264-9879,19.5.2019 10.33.41,55,2,I10,Essentiaalinen verenpainetauti,21.9.2020 10.33.41
+171073-957R,25.12.2021 15.20.35,48,2,I83.9,Alaraajan laskimolaajentumat ilman haavaumaa tai tulehdusta,12.1.2022 15.20.35
+100348-9917,5.8.2025 8.56.11,77,1,I70.2,Raajojen valtimoiden ateroskleroosi,18.8.2025 8.56.11
+100348-9917,21.4.2022 8.56.11,77,1,I10,Essentiaalinen verenpainetauti,5.8.2025 8.56.11
+100348-9917,9.12.2023 8.56.11,77,1,J44.9,"Keuhkoahtaumatauti, määrittämätön",14.8.2025 8.56.11
+180251-9279,23.10.2019 12.24.46,68,1,I71.4,Vatsa-aortan aneurysma ilman mainintaa repeämästä,22.11.2019 12.24.46
+180251-9279,7.5.2016 12.24.46,68,1,I10,Essentiaalinen verenpainetauti,23.10.2019 12.24.46
+180251-9279,28.1.2016 12.24.46,68,1,E78.0,Puhdas hyperkolesterolemia,26.10.2019 12.24.46
+180251-9279,1.5.2015 12.24.46,68,1,J44.9,"Keuhkoahtaumatauti, määrittämätön",19.11.2019 12.24.46
+180251-9279,21.10.2014 12.24.46,68,1,I48.9,"Eteisvärinä tai eteislepatus, määrittämätön",15.11.2019 12.24.46
+250545-985J,6.9.2021 14.50.25,76,1,I65.2,Kaulavaltimon tukos ja ahtauma,17.9.2021 14.50.25
+250545-985J,4.11.2015 14.50.25,76,1,I10,Essentiaalinen verenpainetauti,12.9.2021 14.50.25
+301065-948S,26.12.2024 8.57.59,59,1,I70.2,Raajojen valtimoiden ateroskleroosi,1.1.2025 8.57.59
+301065-948S,24.1.2023 8.57.59,59,1,I10,Essentiaalinen verenpainetauti,24.1.2025 8.57.59
+301065-948S,7.4.2021 8.57.59,59,1,E78.0,Puhdas hyperkolesterolemia,25.1.2025 8.57.59
+300652-9453,14.8.2019 8.31.33,67,2,I70.2,Raajojen valtimoiden ateroskleroosi,3.9.2019 8.31.33
+300652-9453,19.7.2014 8.31.33,67,2,I10,Essentiaalinen verenpainetauti,8.9.2019 8.31.33
+300652-9453,17.3.2019 8.31.33,67,2,I25.1,Ateroskleroottinen sydänsairaus,24.8.2019 8.31.33
+300652-9453,4.6.2017 8.31.33,67,2,N18.3,"Krooninen munuaistauti, vaihe 3",4.9.2019 8.31.33
+070840-900A,29.11.2020 15.03.39,80,2,I74.3,Alaraajan valtimon embolia ja tromboosi,8.12.2020 15.03.39
+070840-900A,11.4.2020 15.03.39,80,2,I48.9,"Eteisvärinä tai eteislepatus, määrittämätön",18.12.2020 15.03.39
+070840-900A,26.12.2018 15.03.39,80,2,I10,Essentiaalinen verenpainetauti,29.12.2020 15.03.39
+070840-900A,13.9.2012 15.03.39,80,2,E11.9,Tyypin 2 diabetes ilman komplikaatioita,20.12.2020 15.03.39
+050459-925H,10.5.2022 13.38.18,63,2,I65.2,Kaulavaltimon tukos ja ahtauma,26.5.2022 13.38.18
+050459-925H,18.8.2017 13.38.18,63,2,I10,Essentiaalinen verenpainetauti,30.5.2022 13.38.18
+050459-925H,29.8.2014 13.38.18,63,2,F17.2,Tupakan aiheuttama riippuvuus,17.5.2022 13.38.18
+290851-9532,23.11.2019 15.55.47,68,2,I70.2,Raajojen valtimoiden ateroskleroosi,29.11.2019 15.55.47
+290851-9532,8.5.2013 15.55.47,68,2,E11.9,Tyypin 2 diabetes ilman komplikaatioita,22.12.2019 15.55.47
+290851-9532,6.5.2012 15.55.47,68,2,E78.0,Puhdas hyperkolesterolemia,12.12.2019 15.55.47
+290851-9532,4.8.2019 15.55.47,68,2,N18.3,"Krooninen munuaistauti, vaihe 3",18.12.2019 15.55.47
+290851-9532,3.2.2017 15.55.47,68,2,F17.2,Tupakan aiheuttama riippuvuus,24.11.2019 15.55.47
+190252-920Y,7.11.2024 12.44.16,72,1,I71.4,Vatsa-aortan aneurysma ilman mainintaa repeämästä,6.12.2024 12.44.16
+190252-920Y,23.1.2023 12.44.16,72,1,F17.2,Tupakan aiheuttama riippuvuus,10.11.2024 12.44.16
+250337-9303,8.1.2021 14.31.11,83,2,I70.2,Raajojen valtimoiden ateroskleroosi,11.1.2021 14.31.11
+250337-9303,19.10.2015 14.31.11,83,2,I10,Essentiaalinen verenpainetauti,11.1.2021 14.31.11
+250337-9303,28.7.2018 14.31.11,83,2,I25.1,Ateroskleroottinen sydänsairaus,27.1.2021 14.31.11
+250337-9303,15.9.2020 14.31.11,83,2,E78.0,Puhdas hyperkolesterolemia,28.1.2021 14.31.11
+250337-9303,15.7.2020 14.31.11,83,2,N18.3,"Krooninen munuaistauti, vaihe 3",18.1.2021 14.31.11
+051140-9790,3.5.2019 15.08.27,78,1,I71.4,Vatsa-aortan aneurysma ilman mainintaa repeämästä,19.5.2019 15.08.27
+051140-9790,5.3.2014 15.08.27,78,1,I10,Essentiaalinen verenpainetauti,11.5.2019 15.08.27
+051140-9790,28.7.2013 15.08.27,78,1,E78.0,Puhdas hyperkolesterolemia,18.5.2019 15.08.27
+051140-9790,18.3.2012 15.08.27,78,1,J44.9,"Keuhkoahtaumatauti, määrittämätön",11.5.2019 15.08.27
+051140-9790,30.3.2014 15.08.27,78,1,F17.2,Tupakan aiheuttama riippuvuus,7.5.2019 15.08.27
+051140-9790,14.6.2016 15.08.27,78,1,I48.9,"Eteisvärinä tai eteislepatus, määrittämätön",11.5.2019 15.08.27
+300844-921V,16.9.2021 8.52.28,77,1,I71.4,Vatsa-aortan aneurysma ilman mainintaa repeämästä,9.10.2021 8.52.28
+300844-921V,26.5.2020 8.52.28,77,1,E78.0,Puhdas hyperkolesterolemia,12.10.2021 8.52.28
+300844-921V,20.5.2014 8.52.28,77,1,J44.9,"Keuhkoahtaumatauti, määrittämätön",16.10.2021 8.52.28
+100848-9830,13.5.2023 10.55.01,74,2,I70.2,Raajojen valtimoiden ateroskleroosi,26.5.2023 10.55.01
+100848-9830,22.12.2016 10.55.01,74,2,I10,Essentiaalinen verenpainetauti,26.5.2023 10.55.01
+100848-9830,27.11.2019 10.55.01,74,2,E11.9,Tyypin 2 diabetes ilman komplikaatioita,10.6.2023 10.55.01
+100848-9830,17.7.2020 10.55.01,74,2,I25.1,Ateroskleroottinen sydänsairaus,15.5.2023 10.55.01
+090646-9859,21.11.2024 13.47.59,78,1,I74.3,Alaraajan valtimon embolia ja tromboosi,3.12.2024 13.47.59
+090646-9859,2.10.2023 13.47.59,78,1,E11.9,Tyypin 2 diabetes ilman komplikaatioita,6.12.2024 13.47.59
+090646-9859,15.4.2017 13.47.59,78,1,N18.3,"Krooninen munuaistauti, vaihe 3",8.12.2024 13.47.59
+060652-923W,18.8.2021 14.18.20,69,1,I71.4,Vatsa-aortan aneurysma ilman mainintaa repeämästä,13.9.2021 14.18.20
+060652-923W,20.8.2020 14.18.20,69,1,I10,Essentiaalinen verenpainetauti,11.9.2021 14.18.20
+060652-923W,22.5.2017 14.18.20,69,1,I25.1,Ateroskleroottinen sydänsairaus,22.8.2021 14.18.20
+060652-923W,24.12.2015 14.18.20,69,1,E78.0,Puhdas hyperkolesterolemia,18.8.2021 14.18.20
+060652-923W,6.9.2015 14.18.20,69,1,I48.9,"Eteisvärinä tai eteislepatus, määrittämätön",29.8.2021 14.18.20
+021172-982D,15.7.2025 13.39.19,52,2,I70.2,Raajojen valtimoiden ateroskleroosi,5.8.2025 13.39.19
+021172-982D,5.1.2019 13.39.19,52,2,I10,Essentiaalinen verenpainetauti,12.8.2025 13.39.19
+021172-982D,9.4.2020 13.39.19,52,2,E11.9,Tyypin 2 diabetes ilman komplikaatioita,29.7.2025 13.39.19
+021172-982D,25.5.2019 13.39.19,52,2,E78.0,Puhdas hyperkolesterolemia,31.7.2025 13.39.19
+021172-982D,30.12.2021 13.39.19,52,2,F17.2,Tupakan aiheuttama riippuvuus,3.8.2025 13.39.19
+180950-9447,5.2.2021 11.59.08,70,1,I65.2,Kaulavaltimon tukos ja ahtauma,7.2.2021 11.59.08
+180950-9447,11.10.2015 11.59.08,70,1,I10,Essentiaalinen verenpainetauti,11.2.2021 11.59.08
+180950-9447,21.8.2019 11.59.08,70,1,E78.0,Puhdas hyperkolesterolemia,28.2.2021 11.59.08
+020769-935W,10.3.2021 10.29.14,51,2,I83.9,Alaraajan laskimolaajentumat ilman haavaumaa tai tulehdusta,13.3.2021 10.29.14
+280775-9313,8.4.2022 15.32.13,46,2,I83.9,Alaraajan laskimolaajentumat ilman haavaumaa tai tulehdusta,1.5.2022 15.32.13
+290344-914Y,21.5.2021 15.37.02,77,1,I70.2,Raajojen valtimoiden ateroskleroosi,26.5.2021 15.37.02
+290344-914Y,3.8.2019 15.37.02,77,1,I10,Essentiaalinen verenpainetauti,20.6.2021 15.37.02
+290344-914Y,27.12.2014 15.37.02,77,1,I25.1,Ateroskleroottinen sydänsairaus,29.5.2021 15.37.02
+290344-914Y,19.4.2015 15.37.02,77,1,F17.2,Tupakan aiheuttama riippuvuus,16.6.2021 15.37.02
+290344-914Y,9.5.2017 15.37.02,77,1,I48.9,"Eteisvärinä tai eteislepatus, määrittämätön",13.6.2021 15.37.02
+110858-960F,2.7.2024 8.57.46,65,1,I70.2,Raajojen valtimoiden ateroskleroosi,12.7.2024 8.57.46
+110858-960F,24.6.2017 8.57.46,65,1,E11.9,Tyypin 2 diabetes ilman komplikaatioita,1.8.2024 8.57.46
+121061-9141,26.7.2022 9.25.13,60,1,I70.2,Raajojen valtimoiden ateroskleroosi,11.8.2022 9.25.13
+121061-9141,25.6.2019 9.25.13,60,1,I10,Essentiaalinen verenpainetauti,19.8.2022 9.25.13
+121061-9141,21.1.2016 9.25.13,60,1,E11.9,Tyypin 2 diabetes ilman komplikaatioita,5.8.2022 9.25.13
+121061-9141,9.7.2021 9.25.13,60,1,E78.0,Puhdas hyperkolesterolemia,20.8.2022 9.25.13
+121061-9141,20.12.2014 9.25.13,60,1,F17.2,Tupakan aiheuttama riippuvuus,29.7.2022 9.25.13
+121061-9141,22.2.2021 9.25.13,60,1,J44.9,"Keuhkoahtaumatauti, määrittämätön",17.8.2022 9.25.13
+211057-9266,2.2.2021 15.00.47,63,2,I83.9,Alaraajan laskimolaajentumat ilman haavaumaa tai tulehdusta,25.2.2021 15.00.47
+170483-934R,8.12.2019 11.46.08,36,2,I83.9,Alaraajan laskimolaajentumat ilman haavaumaa tai tulehdusta,4.1.2020 11.46.08
+211241-924L,22.10.2024 12.20.07,82,2,I74.3,Alaraajan valtimon embolia ja tromboosi,21.11.2024 12.20.07
+211241-924L,11.7.2020 12.20.07,82,2,I48.9,"Eteisvärinä tai eteislepatus, määrittämätön",6.11.2024 12.20.07
+211241-924L,17.5.2021 12.20.07,82,2,I10,Essentiaalinen verenpainetauti,29.10.2024 12.20.07
+011159-986J,7.3.2019 10.56.56,59,1,I70.2,Raajojen valtimoiden ateroskleroosi,16.3.2019 10.56.56
+011159-986J,28.1.2017 10.56.56,59,1,I10,Essentiaalinen verenpainetauti,24.3.2019 10.56.56
+011159-986J,29.2.2012 10.56.56,59,1,E11.9,Tyypin 2 diabetes ilman komplikaatioita,3.4.2019 10.56.56
+011159-986J,24.7.2017 10.56.56,59,1,I25.1,Ateroskleroottinen sydänsairaus,6.4.2019 10.56.56
+011159-986J,14.12.2013 10.56.56,59,1,N18.3,"Krooninen munuaistauti, vaihe 3",16.3.2019 10.56.56
+011159-986J,10.10.2015 10.56.56,59,1,F17.2,Tupakan aiheuttama riippuvuus,6.4.2019 10.56.56
+290542-907U,12.7.2019 14.10.18,77,1,I65.2,Kaulavaltimon tukos ja ahtauma,20.7.2019 14.10.18
+040549-912N,4.1.2021 15.48.38,71,1,I70.2,Raajojen valtimoiden ateroskleroosi,27.1.2021 15.48.38
+040549-912N,17.11.2019 15.48.38,71,1,I10,Essentiaalinen verenpainetauti,31.1.2021 15.48.38
+040549-912N,2.6.2013 15.48.38,71,1,E78.0,Puhdas hyperkolesterolemia,28.1.2021 15.48.38
+040549-912N,27.9.2018 15.48.38,71,1,F17.2,Tupakan aiheuttama riippuvuus,24.1.2021 15.48.38
+040549-912N,24.11.2018 15.48.38,71,1,I48.9,"Eteisvärinä tai eteislepatus, määrittämätön",25.1.2021 15.48.38
+241142-913M,27.9.2020 15.03.19,77,1,I71.4,Vatsa-aortan aneurysma ilman mainintaa repeämästä,27.10.2020 15.03.19
+241142-913M,27.3.2013 15.03.19,77,1,I10,Essentiaalinen verenpainetauti,6.10.2020 15.03.19
+241142-913M,9.5.2013 15.03.19,77,1,E78.0,Puhdas hyperkolesterolemia,25.10.2020 15.03.19
+241142-913M,26.11.2014 15.03.19,77,1,F17.2,Tupakan aiheuttama riippuvuus,30.9.2020 15.03.19
+151175-915D,30.7.2025 8.22.14,49,1,I83.9,Alaraajan laskimolaajentumat ilman haavaumaa tai tulehdusta,31.7.2025 8.22.14
+151175-915D,13.8.2022 8.22.14,49,1,I10,Essentiaalinen verenpainetauti,27.8.2025 8.22.14
+270883-947U,28.4.2023 14.36.06,39,2,I83.9,Alaraajan laskimolaajentumat ilman haavaumaa tai tulehdusta,20.5.2023 14.36.06
+260449-954D,21.12.2019 12.37.10,70,1,I74.3,Alaraajan valtimon embolia ja tromboosi,24.12.2019 12.37.10
+260449-954D,17.6.2015 12.37.10,70,1,I10,Essentiaalinen verenpainetauti,23.12.2019 12.37.10
+260449-954D,27.5.2012 12.37.10,70,1,E11.9,Tyypin 2 diabetes ilman komplikaatioita,15.1.2020 12.37.10
+310835-970S,13.11.2020 9.36.30,85,1,I70.2,Raajojen valtimoiden ateroskleroosi,30.11.2020 9.36.30
+310835-970S,2.6.2019 9.36.30,85,1,I10,Essentiaalinen verenpainetauti,29.11.2020 9.36.30
+310835-970S,11.2.2019 9.36.30,85,1,E11.9,Tyypin 2 diabetes ilman komplikaatioita,1.12.2020 9.36.30
+310835-970S,26.2.2016 9.36.30,85,1,E78.0,Puhdas hyperkolesterolemia,16.11.2020 9.36.30
+310835-970S,3.7.2018 9.36.30,85,1,F17.2,Tupakan aiheuttama riippuvuus,6.12.2020 9.36.30
+121148-9698,1.9.2023 10.03.37,74,2,I71.4,Vatsa-aortan aneurysma ilman mainintaa repeämästä,27.9.2023 10.03.37
+121148-9698,16.10.2016 10.03.37,74,2,I25.1,Ateroskleroottinen sydänsairaus,30.9.2023 10.03.37
+160962-987D,21.6.2025 15.51.00,62,1,I70.2,Raajojen valtimoiden ateroskleroosi,13.7.2025 15.51.00
+160962-987D,13.9.2017 15.51.00,62,1,I10,Essentiaalinen verenpainetauti,22.6.2025 15.51.00
+160962-987D,9.12.2023 15.51.00,62,1,E11.9,Tyypin 2 diabetes ilman komplikaatioita,2.7.2025 15.51.00
+160962-987D,28.11.2022 15.51.00,62,1,E78.0,Puhdas hyperkolesterolemia,24.6.2025 15.51.00
+160962-987D,23.11.2021 15.51.00,62,1,N18.3,"Krooninen munuaistauti, vaihe 3",5.7.2025 15.51.00
+280830-981W,7.5.2023 14.50.16,92,2,I70.2,Raajojen valtimoiden ateroskleroosi,6.6.2023 14.50.16
+280830-981W,7.9.2016 14.50.16,92,2,E11.9,Tyypin 2 diabetes ilman komplikaatioita,21.5.2023 14.50.16
+280830-981W,3.10.2019 14.50.16,92,2,I25.1,Ateroskleroottinen sydänsairaus,14.5.2023 14.50.16
+280830-981W,3.12.2017 14.50.16,92,2,E78.0,Puhdas hyperkolesterolemia,25.5.2023 14.50.16
+280830-981W,4.4.2019 14.50.16,92,2,F17.2,Tupakan aiheuttama riippuvuus,31.5.2023 14.50.16
+280830-981W,9.5.2021 14.50.16,92,2,J44.9,"Keuhkoahtaumatauti, määrittämätön",15.5.2023 14.50.16
+020245-957C,23.8.2019 12.42.39,74,1,I71.4,Vatsa-aortan aneurysma ilman mainintaa repeämästä,13.9.2019 12.42.39
+020245-957C,13.3.2016 12.42.39,74,1,I10,Essentiaalinen verenpainetauti,14.9.2019 12.42.39
+020245-957C,19.8.2012 12.42.39,74,1,E78.0,Puhdas hyperkolesterolemia,16.9.2019 12.42.39
+190733-932F,27.2.2024 14.54.33,90,1,I70.2,Raajojen valtimoiden ateroskleroosi,5.3.2024 14.54.33
+190733-932F,10.9.2021 14.54.33,90,1,N18.3,"Krooninen munuaistauti, vaihe 3",5.3.2024 14.54.33
+060952-938T,24.1.2023 9.31.09,70,2,I65.2,Kaulavaltimon tukos ja ahtauma,21.2.2023 9.31.09
+060952-938T,1.5.2020 9.31.09,70,2,I10,Essentiaalinen verenpainetauti,27.1.2023 9.31.09
+060952-938T,15.10.2016 9.31.09,70,2,F17.2,Tupakan aiheuttama riippuvuus,27.1.2023 9.31.09
+280744-926X,30.5.2021 11.03.21,76,1,I74.3,Alaraajan valtimon embolia ja tromboosi,3.6.2021 11.03.21
+280744-926X,26.8.2018 11.03.21,76,1,I25.1,Ateroskleroottinen sydänsairaus,8.6.2021 11.03.21
+240870-9344,5.8.2023 15.34.21,52,1,I83.9,Alaraajan laskimolaajentumat ilman haavaumaa tai tulehdusta,4.9.2023 15.34.21
+240870-9344,13.7.2019 15.34.21,52,1,I10,Essentiaalinen verenpainetauti,16.8.2023 15.34.21
+170291-916L,1.6.2024 13.46.51,33,2,I83.9,Alaraajan laskimolaajentumat ilman haavaumaa tai tulehdusta,23.6.2024 13.46.51
+041137-9388,22.1.2023 11.04.45,85,1,I71.4,Vatsa-aortan aneurysma ilman mainintaa repeämästä,12.2.2023 11.04.45
+041137-9388,16.4.2022 11.04.45,85,1,I25.1,Ateroskleroottinen sydänsairaus,3.2.2023 11.04.45
+041137-9388,24.12.2014 11.04.45,85,1,F17.2,Tupakan aiheuttama riippuvuus,1.2.2023 11.04.45
+041137-9388,12.7.2022 11.04.45,85,1,I48.9,"Eteisvärinä tai eteislepatus, määrittämätön",8.2.2023 11.04.45
+040462-9382,21.5.2025 8.12.00,63,1,I70.2,Raajojen valtimoiden ateroskleroosi,8.6.2025 8.12.00
+040462-9382,9.5.2022 8.12.00,63,1,I10,Essentiaalinen verenpainetauti,13.6.2025 8.12.00
+040462-9382,29.3.2018 8.12.00,63,1,I25.1,Ateroskleroottinen sydänsairaus,17.6.2025 8.12.00
+040462-9382,20.12.2018 8.12.00,63,1,F17.2,Tupakan aiheuttama riippuvuus,29.5.2025 8.12.00
+220259-951P,27.10.2023 8.40.29,64,1,I70.2,Raajojen valtimoiden ateroskleroosi,20.11.2023 8.40.29
+220259-951P,28.4.2020 8.40.29,64,1,N18.3,"Krooninen munuaistauti, vaihe 3",13.11.2023 8.40.29
+220259-951P,1.10.2020 8.40.29,64,1,F17.2,Tupakan aiheuttama riippuvuus,30.10.2023 8.40.29
+301052-9106,16.8.2019 14.33.49,66,1,I65.2,Kaulavaltimon tukos ja ahtauma,15.9.2019 14.33.49
+301052-9106,16.4.2019 14.33.49,66,1,I10,Essentiaalinen verenpainetauti,13.9.2019 14.33.49
+230741-9612,14.9.2019 14.49.34,78,1,I70.2,Raajojen valtimoiden ateroskleroosi,18.9.2019 14.49.34
+230741-9612,26.4.2019 14.49.34,78,1,I10,Essentiaalinen verenpainetauti,25.9.2019 14.49.34
+230741-9612,3.7.2013 14.49.34,78,1,F17.2,Tupakan aiheuttama riippuvuus,3.10.2019 14.49.34
+230741-9612,1.10.2016 14.49.34,78,1,I48.9,"Eteisvärinä tai eteislepatus, määrittämätön",18.9.2019 14.49.34
+011247-904L,14.7.2020 9.45.16,72,1,I70.2,Raajojen valtimoiden ateroskleroosi,11.8.2020 9.45.16
+011247-904L,2.4.2020 9.45.16,72,1,I10,Essentiaalinen verenpainetauti,25.7.2020 9.45.16
+011247-904L,12.8.2019 9.45.16,72,1,I48.9,"Eteisvärinä tai eteislepatus, määrittämätön",17.7.2020 9.45.16
+061049-927F,27.2.2025 12.53.36,75,1,I70.2,Raajojen valtimoiden ateroskleroosi,1.3.2025 12.53.36
+061049-927F,23.10.2018 12.53.36,75,1,I10,Essentiaalinen verenpainetauti,23.3.2025 12.53.36
+061049-927F,9.6.2019 12.53.36,75,1,E78.0,Puhdas hyperkolesterolemia,27.3.2025 12.53.36
+061049-927F,22.1.2019 12.53.36,75,1,J44.9,"Keuhkoahtaumatauti, määrittämätön",24.3.2025 12.53.36
+061049-927F,6.6.2019 12.53.36,75,1,I48.9,"Eteisvärinä tai eteislepatus, määrittämätön",12.3.2025 12.53.36
+091149-9897,22.9.2024 9.22.19,74,2,I71.4,Vatsa-aortan aneurysma ilman mainintaa repeämästä,27.9.2024 9.22.19
+091149-9897,10.7.2023 9.22.19,74,2,I10,Essentiaalinen verenpainetauti,30.9.2024 9.22.19
+091149-9897,4.10.2023 9.22.19,74,2,I25.1,Ateroskleroottinen sydänsairaus,7.10.2024 9.22.19
+091149-9897,1.12.2023 9.22.19,74,2,E78.0,Puhdas hyperkolesterolemia,7.10.2024 9.22.19
+280748-939C,18.3.2021 15.23.54,72,2,I74.3,Alaraajan valtimon embolia ja tromboosi,7.4.2021 15.23.54
+280748-939C,17.8.2013 15.23.54,72,2,I48.9,"Eteisvärinä tai eteislepatus, määrittämätön",14.4.2021 15.23.54
+280748-939C,22.7.2018 15.23.54,72,2,I10,Essentiaalinen verenpainetauti,6.4.2021 15.23.54
+280748-939C,4.1.2015 15.23.54,72,2,I25.1,Ateroskleroottinen sydänsairaus,22.3.2021 15.23.54
+200481-923T,10.12.2023 10.03.05,42,2,I83.9,Alaraajan laskimolaajentumat ilman haavaumaa tai tulehdusta,7.1.2024 10.03.05
+201160-901A,13.9.2021 13.16.36,60,1,I65.2,Kaulavaltimon tukos ja ahtauma,10.10.2021 13.16.36
+201160-901A,15.1.2014 13.16.36,60,1,I10,Essentiaalinen verenpainetauti,26.9.2021 13.16.36
+201160-901A,19.3.2015 13.16.36,60,1,E11.9,Tyypin 2 diabetes ilman komplikaatioita,2.10.2021 13.16.36
+201160-901A,30.4.2019 13.16.36,60,1,I25.1,Ateroskleroottinen sydänsairaus,30.9.2021 13.16.36
+201160-901A,1.7.2017 13.16.36,60,1,I48.9,"Eteisvärinä tai eteislepatus, määrittämätön",18.9.2021 13.16.36
+020153-9779,27.9.2022 11.31.21,69,1,I70.2,Raajojen valtimoiden ateroskleroosi,28.9.2022 11.31.21
+020153-9779,19.8.2017 11.31.21,69,1,I10,Essentiaalinen verenpainetauti,30.9.2022 11.31.21
+020153-9779,8.3.2017 11.31.21,69,1,E11.9,Tyypin 2 diabetes ilman komplikaatioita,26.10.2022 11.31.21
+020153-9779,10.7.2019 11.31.21,69,1,I25.1,Ateroskleroottinen sydänsairaus,21.10.2022 11.31.21
+020335-962S,22.5.2020 12.03.21,85,1,I70.2,Raajojen valtimoiden ateroskleroosi,16.6.2020 12.03.21
+020335-962S,21.11.2016 12.03.21,85,1,I10,Essentiaalinen verenpainetauti,25.5.2020 12.03.21
+020335-962S,17.10.2013 12.03.21,85,1,E11.9,Tyypin 2 diabetes ilman komplikaatioita,1.6.2020 12.03.21
+020335-962S,10.6.2016 12.03.21,85,1,I25.1,Ateroskleroottinen sydänsairaus,14.6.2020 12.03.21
+020335-962S,26.4.2017 12.03.21,85,1,F17.2,Tupakan aiheuttama riippuvuus,12.6.2020 12.03.21
+020335-962S,18.4.2019 12.03.21,85,1,J44.9,"Keuhkoahtaumatauti, määrittämätön",7.6.2020 12.03.21
+131246-980J,18.9.2023 10.00.17,76,2,I70.2,Raajojen valtimoiden ateroskleroosi,18.10.2023 10.00.17
+131246-980J,8.12.2022 10.00.17,76,2,E11.9,Tyypin 2 diabetes ilman komplikaatioita,23.9.2023 10.00.17
+131246-980J,31.7.2019 10.00.17,76,2,I25.1,Ateroskleroottinen sydänsairaus,5.10.2023 10.00.17
+131246-980J,5.1.2019 10.00.17,76,2,E78.0,Puhdas hyperkolesterolemia,30.9.2023 10.00.17
+171138-930M,29.4.2021 14.39.14,82,1,I71.4,Vatsa-aortan aneurysma ilman mainintaa repeämästä,8.5.2021 14.39.14
+171138-930M,13.2.2017 14.39.14,82,1,E78.0,Puhdas hyperkolesterolemia,13.5.2021 14.39.14
+261129-9293,26.6.2019 15.03.30,89,2,I74.3,Alaraajan valtimon embolia ja tromboosi,29.6.2019 15.03.30
+231181-9165,31.8.2024 14.24.57,42,1,I83.9,Alaraajan laskimolaajentumat ilman haavaumaa tai tulehdusta,22.9.2024 14.24.57
+140932-989E,28.10.2022 8.18.41,90,2,I70.2,Raajojen valtimoiden ateroskleroosi,11.11.2022 8.18.41
+140932-989E,20.7.2018 8.18.41,90,2,I10,Essentiaalinen verenpainetauti,30.10.2022 8.18.41
+140932-989E,17.2.2016 8.18.41,90,2,E11.9,Tyypin 2 diabetes ilman komplikaatioita,10.11.2022 8.18.41
+140932-989E,20.8.2019 8.18.41,90,2,E78.0,Puhdas hyperkolesterolemia,31.10.2022 8.18.41
+140932-989E,12.7.2020 8.18.41,90,2,F17.2,Tupakan aiheuttama riippuvuus,16.11.2022 8.18.41
+151237-9983,14.1.2022 15.16.40,84,2,I74.3,Alaraajan valtimon embolia ja tromboosi,14.1.2022 15.16.40
+151237-9983,25.8.2014 15.16.40,84,2,I48.9,"Eteisvärinä tai eteislepatus, määrittämätön",11.2.2022 15.16.40
+151237-9983,13.6.2016 15.16.40,84,2,I10,Essentiaalinen verenpainetauti,31.1.2022 15.16.40
+151237-9983,4.11.2017 15.16.40,84,2,E11.9,Tyypin 2 diabetes ilman komplikaatioita,24.1.2022 15.16.40
+151237-9983,5.10.2015 15.16.40,84,2,N18.3,"Krooninen munuaistauti, vaihe 3",24.1.2022 15.16.40
+220342-9171,23.12.2023 9.44.32,81,1,I71.4,Vatsa-aortan aneurysma ilman mainintaa repeämästä,31.12.2023 9.44.32
+220342-9171,18.10.2020 9.44.32,81,1,I10,Essentiaalinen verenpainetauti,22.1.2024 9.44.32
+220342-9171,11.11.2017 9.44.32,81,1,F17.2,Tupakan aiheuttama riippuvuus,6.1.2024 9.44.32
+101187-955K,11.4.2019 8.08.10,31,1,I83.9,Alaraajan laskimolaajentumat ilman haavaumaa tai tulehdusta,13.4.2019 8.08.10
+130156-933R,13.10.2020 14.08.47,64,2,I70.2,Raajojen valtimoiden ateroskleroosi,10.11.2020 14.08.47
+130156-933R,24.8.2012 14.08.47,64,2,I25.1,Ateroskleroottinen sydänsairaus,24.10.2020 14.08.47
+130156-933R,11.9.2013 14.08.47,64,2,E78.0,Puhdas hyperkolesterolemia,3.11.2020 14.08.47
+130156-933R,5.8.2018 14.08.47,64,2,I48.9,"Eteisvärinä tai eteislepatus, määrittämätön",26.10.2020 14.08.47
+110472-978E,23.3.2022 9.28.09,49,2,I83.9,Alaraajan laskimolaajentumat ilman haavaumaa tai tulehdusta,20.4.2022 9.28.09
+170644-935A,8.10.2022 8.57.11,78,2,I71.4,Vatsa-aortan aneurysma ilman mainintaa repeämästä,1.11.2022 8.57.11
+170644-935A,9.7.2018 8.57.11,78,2,I25.1,Ateroskleroottinen sydänsairaus,8.10.2022 8.57.11
+170644-935A,1.8.2016 8.57.11,78,2,E78.0,Puhdas hyperkolesterolemia,12.10.2022 8.57.11
+170644-935A,2.5.2019 8.57.11,78,2,F17.2,Tupakan aiheuttama riippuvuus,6.11.2022 8.57.11
+170644-935A,29.12.2018 8.57.11,78,2,I48.9,"Eteisvärinä tai eteislepatus, määrittämätön",20.10.2022 8.57.11
+170644-935A,11.2.2021 8.57.11,78,2,E11.9,Tyypin 2 diabetes ilman komplikaatioita,20.10.2022 8.57.11
+110257-946X,31.12.2023 8.42.06,66,2,I83.9,Alaraajan laskimolaajentumat ilman haavaumaa tai tulehdusta,23.1.2024 8.42.06
+130949-967F,31.7.2022 8.02.01,72,1,I71.4,Vatsa-aortan aneurysma ilman mainintaa repeämästä,1.8.2022 8.02.01
+130949-967F,20.11.2021 8.02.01,72,1,I25.1,Ateroskleroottinen sydänsairaus,17.8.2022 8.02.01
+130949-967F,9.12.2015 8.02.01,72,1,E78.0,Puhdas hyperkolesterolemia,12.8.2022 8.02.01
+070639-9203,18.10.2023 12.23.14,84,1,I74.3,Alaraajan valtimon embolia ja tromboosi,1.11.2023 12.23.14
+070639-9203,25.8.2018 12.23.14,84,1,I48.9,"Eteisvärinä tai eteislepatus, määrittämätön",9.11.2023 12.23.14
+070639-9203,20.11.2021 12.23.14,84,1,I10,Essentiaalinen verenpainetauti,16.11.2023 12.23.14
+070639-9203,20.1.2021 12.23.14,84,1,I25.1,Ateroskleroottinen sydänsairaus,19.10.2023 12.23.14
+280450-969E,20.6.2025 13.20.51,75,1,I74.3,Alaraajan valtimon embolia ja tromboosi,25.6.2025 13.20.51
+280450-969E,8.9.2021 13.20.51,75,1,I48.9,"Eteisvärinä tai eteislepatus, määrittämätön",9.7.2025 13.20.51
+280450-969E,15.4.2019 13.20.51,75,1,I25.1,Ateroskleroottinen sydänsairaus,11.7.2025 13.20.51
+310354-9832,9.10.2024 8.12.02,70,2,I74.3,Alaraajan valtimon embolia ja tromboosi,9.10.2024 8.12.02
+310354-9832,16.2.2017 8.12.02,70,2,I48.9,"Eteisvärinä tai eteislepatus, määrittämätön",9.10.2024 8.12.02
+310354-9832,19.3.2019 8.12.02,70,2,I10,Essentiaalinen verenpainetauti,25.10.2024 8.12.02
+150871-9492,28.7.2022 8.00.52,50,1,I83.9,Alaraajan laskimolaajentumat ilman haavaumaa tai tulehdusta,22.8.2022 8.00.52
+150871-9492,17.6.2021 8.00.52,50,1,I10,Essentiaalinen verenpainetauti,26.8.2022 8.00.52
+140936-902N,14.5.2019 13.00.35,82,1,I70.2,Raajojen valtimoiden ateroskleroosi,9.6.2019 13.00.35
+140936-902N,14.7.2016 13.00.35,82,1,E11.9,Tyypin 2 diabetes ilman komplikaatioita,10.6.2019 13.00.35
+140936-902N,8.6.2012 13.00.35,82,1,E78.0,Puhdas hyperkolesterolemia,18.5.2019 13.00.35
+140936-902N,12.12.2011 13.00.35,82,1,F17.2,Tupakan aiheuttama riippuvuus,19.5.2019 13.00.35
+140936-902N,19.11.2016 13.00.35,82,1,J44.9,"Keuhkoahtaumatauti, määrittämätön",29.5.2019 13.00.35
+140936-902N,27.8.2012 13.00.35,82,1,I48.9,"Eteisvärinä tai eteislepatus, määrittämätön",24.5.2019 13.00.35
+111043-9563,23.2.2021 11.30.13,77,2,I74.3,Alaraajan valtimon embolia ja tromboosi,27.2.2021 11.30.13
+111043-9563,16.6.2013 11.30.13,77,2,I48.9,"Eteisvärinä tai eteislepatus, määrittämätön",5.3.2021 11.30.13
+111043-9563,8.4.2020 11.30.13,77,2,I10,Essentiaalinen verenpainetauti,15.3.2021 11.30.13
+111043-9563,15.2.2018 11.30.13,77,2,I25.1,Ateroskleroottinen sydänsairaus,18.3.2021 11.30.13
+111043-9563,20.9.2016 11.30.13,77,2,E11.9,Tyypin 2 diabetes ilman komplikaatioita,23.3.2021 11.30.13
+111043-9563,10.8.2020 11.30.13,77,2,N18.3,"Krooninen munuaistauti, vaihe 3",4.3.2021 11.30.13
+160327-9755,11.11.2020 15.29.12,93,2,I70.2,Raajojen valtimoiden ateroskleroosi,20.11.2020 15.29.12
+160327-9755,14.8.2015 15.29.12,93,2,N18.3,"Krooninen munuaistauti, vaihe 3",17.11.2020 15.29.12
+160327-9755,6.12.2013 15.29.12,93,2,F17.2,Tupakan aiheuttama riippuvuus,9.12.2020 15.29.12
+160327-9755,2.7.2018 15.29.12,93,2,J44.9,"Keuhkoahtaumatauti, määrittämätön",3.12.2020 15.29.12
+220463-981A,13.7.2024 12.23.09,61,1,I70.2,Raajojen valtimoiden ateroskleroosi,18.7.2024 12.23.09
+220463-981A,10.8.2021 12.23.09,61,1,I25.1,Ateroskleroottinen sydänsairaus,19.7.2024 12.23.09
+220463-981A,17.5.2019 12.23.09,61,1,N18.3,"Krooninen munuaistauti, vaihe 3",12.8.2024 12.23.09
+241239-942L,4.12.2019 9.08.48,79,1,I71.4,Vatsa-aortan aneurysma ilman mainintaa repeämästä,15.12.2019 9.08.48
+241239-942L,14.4.2014 9.08.48,79,1,I10,Essentiaalinen verenpainetauti,3.1.2020 9.08.48
+241239-942L,25.10.2016 9.08.48,79,1,I25.1,Ateroskleroottinen sydänsairaus,20.12.2019 9.08.48
+241239-942L,3.12.2015 9.08.48,79,1,J44.9,"Keuhkoahtaumatauti, määrittämätön",3.1.2020 9.08.48
+171162-9449,28.1.2023 9.50.29,60,1,I70.2,Raajojen valtimoiden ateroskleroosi,12.2.2023 9.50.29
+171162-9449,6.12.2019 9.50.29,60,1,I25.1,Ateroskleroottinen sydänsairaus,14.2.2023 9.50.29
+171162-9449,16.4.2020 9.50.29,60,1,E78.0,Puhdas hyperkolesterolemia,20.2.2023 9.50.29
+020942-975U,19.9.2019 12.48.56,77,2,I74.3,Alaraajan valtimon embolia ja tromboosi,12.10.2019 12.48.56
+020942-975U,22.5.2014 12.48.56,77,2,I48.9,"Eteisvärinä tai eteislepatus, määrittämätön",28.9.2019 12.48.56
+020942-975U,16.1.2014 12.48.56,77,2,I10,Essentiaalinen verenpainetauti,20.9.2019 12.48.56
+120853-946C,19.9.2020 13.28.27,67,2,I74.3,Alaraajan valtimon embolia ja tromboosi,13.10.2020 13.28.27
+120853-946C,13.5.2014 13.28.27,67,2,I48.9,"Eteisvärinä tai eteislepatus, määrittämätön",1.10.2020 13.28.27
+120853-946C,7.12.2016 13.28.27,67,2,I10,Essentiaalinen verenpainetauti,16.10.2020 13.28.27
+120853-946C,20.6.2013 13.28.27,67,2,I25.1,Ateroskleroottinen sydänsairaus,26.9.2020 13.28.27
+140252-911E,16.5.2021 8.57.41,69,1,I70.2,Raajojen valtimoiden ateroskleroosi,11.6.2021 8.57.41
+140252-911E,9.3.2016 8.57.41,69,1,I10,Essentiaalinen verenpainetauti,28.5.2021 8.57.41
+140252-911E,18.1.2020 8.57.41,69,1,E11.9,Tyypin 2 diabetes ilman komplikaatioita,10.6.2021 8.57.41
+140252-911E,6.4.2020 8.57.41,69,1,E78.0,Puhdas hyperkolesterolemia,25.5.2021 8.57.41
+140252-911E,4.8.2015 8.57.41,69,1,J44.9,"Keuhkoahtaumatauti, määrittämätön",7.6.2021 8.57.41
+091275-9704,11.7.2020 11.13.17,44,2,I83.9,Alaraajan laskimolaajentumat ilman haavaumaa tai tulehdusta,4.8.2020 11.13.17
+091162-995S,6.5.2022 12.06.23,59,1,I65.2,Kaulavaltimon tukos ja ahtauma,9.5.2022 12.06.23
+091162-995S,18.2.2020 12.06.23,59,1,I10,Essentiaalinen verenpainetauti,29.5.2022 12.06.23
+091162-995S,26.12.2016 12.06.23,59,1,E78.0,Puhdas hyperkolesterolemia,1.6.2022 12.06.23
+091162-995S,6.12.2020 12.06.23,59,1,I25.1,Ateroskleroottinen sydänsairaus,14.5.2022 12.06.23
+140337-974D,10.6.2020 15.57.00,83,2,I74.3,Alaraajan valtimon embolia ja tromboosi,15.6.2020 15.57.00
+140337-974D,21.4.2012 15.57.00,83,2,I48.9,"Eteisvärinä tai eteislepatus, määrittämätön",21.6.2020 15.57.00
+140337-974D,18.1.2020 15.57.00,83,2,I10,Essentiaalinen verenpainetauti,11.6.2020 15.57.00
+080952-9062,21.1.2025 13.41.46,72,1,I70.2,Raajojen valtimoiden ateroskleroosi,5.2.2025 13.41.46
+080952-9062,18.3.2018 13.41.46,72,1,I10,Essentiaalinen verenpainetauti,18.2.2025 13.41.46
+080952-9062,4.3.2023 13.41.46,72,1,E78.0,Puhdas hyperkolesterolemia,16.2.2025 13.41.46
+080952-9062,3.4.2017 13.41.46,72,1,F17.2,Tupakan aiheuttama riippuvuus,15.2.2025 13.41.46
+100660-978A,14.8.2024 8.45.17,64,1,I71.4,Vatsa-aortan aneurysma ilman mainintaa repeämästä,15.8.2024 8.45.17
+100660-978A,10.4.2017 8.45.17,64,1,I10,Essentiaalinen verenpainetauti,19.8.2024 8.45.17
+100660-978A,6.4.2017 8.45.17,64,1,E78.0,Puhdas hyperkolesterolemia,25.8.2024 8.45.17
+121081-923F,3.1.2020 9.10.57,38,2,I83.9,Alaraajan laskimolaajentumat ilman haavaumaa tai tulehdusta,10.1.2020 9.10.57
+060853-980L,11.7.2025 9.46.01,71,1,I71.4,Vatsa-aortan aneurysma ilman mainintaa repeämästä,3.8.2025 9.46.01
+060853-980L,19.5.2023 9.46.01,71,1,E78.0,Puhdas hyperkolesterolemia,26.7.2025 9.46.01
+060853-980L,31.12.2023 9.46.01,71,1,F17.2,Tupakan aiheuttama riippuvuus,14.7.2025 9.46.01
+120855-913U,30.9.2020 12.37.47,65,2,I70.2,Raajojen valtimoiden ateroskleroosi,11.10.2020 12.37.47
+120855-913U,22.7.2019 12.37.47,65,2,I10,Essentiaalinen verenpainetauti,20.10.2020 12.37.47
+120855-913U,5.1.2014 12.37.47,65,2,E11.9,Tyypin 2 diabetes ilman komplikaatioita,24.10.2020 12.37.47
+120855-913U,4.2.2016 12.37.47,65,2,E78.0,Puhdas hyperkolesterolemia,11.10.2020 12.37.47
+120855-913U,17.9.2018 12.37.47,65,2,F17.2,Tupakan aiheuttama riippuvuus,12.10.2020 12.37.47
+120855-913U,31.7.2012 12.37.47,65,2,I48.9,"Eteisvärinä tai eteislepatus, määrittämätön",30.9.2020 12.37.47
+071252-922B,24.3.2024 15.44.19,71,1,I71.4,Vatsa-aortan aneurysma ilman mainintaa repeämästä,24.3.2024 15.44.19
+071252-922B,26.11.2016 15.44.19,71,1,I10,Essentiaalinen verenpainetauti,26.3.2024 15.44.19
+071252-922B,30.10.2023 15.44.19,71,1,E78.0,Puhdas hyperkolesterolemia,20.4.2024 15.44.19
+071252-922B,3.5.2016 15.44.19,71,1,F17.2,Tupakan aiheuttama riippuvuus,22.4.2024 15.44.19
+170242-911T,16.10.2023 12.12.36,81,2,I74.3,Alaraajan valtimon embolia ja tromboosi,3.11.2023 12.12.36
+170242-911T,13.8.2016 12.12.36,81,2,I10,Essentiaalinen verenpainetauti,25.10.2023 12.12.36
+120538-9197,20.5.2021 11.49.05,83,1,I65.2,Kaulavaltimon tukos ja ahtauma,12.6.2021 11.49.05
+120538-9197,1.9.2018 11.49.05,83,1,E78.0,Puhdas hyperkolesterolemia,8.6.2021 11.49.05
+120538-9197,21.10.2020 11.49.05,83,1,I25.1,Ateroskleroottinen sydänsairaus,17.6.2021 11.49.05
+200874-969P,12.12.2024 10.57.23,50,2,I83.9,Alaraajan laskimolaajentumat ilman haavaumaa tai tulehdusta,8.1.2025 10.57.23
+221157-9691,26.3.2024 15.24.24,66,1,I70.2,Raajojen valtimoiden ateroskleroosi,2.4.2024 15.24.24
+221157-9691,19.9.2023 15.24.24,66,1,I10,Essentiaalinen verenpainetauti,7.4.2024 15.24.24
+221157-9691,15.8.2020 15.24.24,66,1,I25.1,Ateroskleroottinen sydänsairaus,24.4.2024 15.24.24
+221157-9691,6.3.2016 15.24.24,66,1,F17.2,Tupakan aiheuttama riippuvuus,5.4.2024 15.24.24
+221157-9691,24.9.2021 15.24.24,66,1,I48.9,"Eteisvärinä tai eteislepatus, määrittämätön",17.4.2024 15.24.24
+180860-959F,27.1.2022 8.46.01,61,1,I70.2,Raajojen valtimoiden ateroskleroosi,23.2.2022 8.46.01
+180860-959F,25.6.2019 8.46.01,61,1,I10,Essentiaalinen verenpainetauti,26.2.2022 8.46.01
+180860-959F,6.9.2015 8.46.01,61,1,I25.1,Ateroskleroottinen sydänsairaus,22.2.2022 8.46.01
+180860-959F,3.2.2014 8.46.01,61,1,J44.9,"Keuhkoahtaumatauti, määrittämätön",5.2.2022 8.46.01
+220274-980H,21.5.2022 11.03.30,48,1,I83.9,Alaraajan laskimolaajentumat ilman haavaumaa tai tulehdusta,30.5.2022 11.03.30
+220274-980H,27.12.2021 11.03.30,48,1,E78.0,Puhdas hyperkolesterolemia,31.5.2022 11.03.30
+080159-9328,10.8.2024 10.17.40,65,1,I70.2,Raajojen valtimoiden ateroskleroosi,24.8.2024 10.17.40
+080159-9328,5.7.2018 10.17.40,65,1,E11.9,Tyypin 2 diabetes ilman komplikaatioita,6.9.2024 10.17.40
+080159-9328,23.7.2017 10.17.40,65,1,E78.0,Puhdas hyperkolesterolemia,31.8.2024 10.17.40
+080159-9328,19.11.2022 10.17.40,65,1,N18.3,"Krooninen munuaistauti, vaihe 3",20.8.2024 10.17.40
+080159-9328,22.8.2022 10.17.40,65,1,F17.2,Tupakan aiheuttama riippuvuus,18.8.2024 10.17.40
+061241-9315,11.2.2024 9.22.26,82,2,I70.2,Raajojen valtimoiden ateroskleroosi,2.3.2024 9.22.26
+061241-9315,5.5.2020 9.22.26,82,2,E11.9,Tyypin 2 diabetes ilman komplikaatioita,11.3.2024 9.22.26
+061241-9315,17.3.2020 9.22.26,82,2,I25.1,Ateroskleroottinen sydänsairaus,24.2.2024 9.22.26
+061241-9315,27.12.2020 9.22.26,82,2,F17.2,Tupakan aiheuttama riippuvuus,21.2.2024 9.22.26
+070276-934V,5.12.2023 15.00.57,47,2,I83.9,Alaraajan laskimolaajentumat ilman haavaumaa tai tulehdusta,22.12.2023 15.00.57
+261143-993S,14.5.2023 9.09.38,79,1,I70.2,Raajojen valtimoiden ateroskleroosi,6.6.2023 9.09.38
+261143-993S,25.3.2017 9.09.38,79,1,I10,Essentiaalinen verenpainetauti,25.5.2023 9.09.38
+261143-993S,28.3.2019 9.09.38,79,1,F17.2,Tupakan aiheuttama riippuvuus,4.6.2023 9.09.38
+210646-946S,2.8.2022 13.59.17,76,2,I74.3,Alaraajan valtimon embolia ja tromboosi,21.8.2022 13.59.17
+210646-946S,6.5.2021 13.59.17,76,2,I48.9,"Eteisvärinä tai eteislepatus, määrittämätön",11.8.2022 13.59.17
+260260-9738,6.1.2024 10.53.31,63,1,I74.3,Alaraajan valtimon embolia ja tromboosi,26.1.2024 10.53.31
+260260-9738,13.4.2023 10.53.31,63,1,I48.9,"Eteisvärinä tai eteislepatus, määrittämätön",4.2.2024 10.53.31
+260260-9738,2.9.2023 10.53.31,63,1,I10,Essentiaalinen verenpainetauti,5.2.2024 10.53.31
+260260-9738,12.9.2016 10.53.31,63,1,E11.9,Tyypin 2 diabetes ilman komplikaatioita,20.1.2024 10.53.31
+260260-9738,24.2.2017 10.53.31,63,1,N18.3,"Krooninen munuaistauti, vaihe 3",7.1.2024 10.53.31
+161147-9543,10.10.2019 14.13.26,71,1,I71.4,Vatsa-aortan aneurysma ilman mainintaa repeämästä,8.11.2019 14.13.26
+161147-9543,25.7.2014 14.13.26,71,1,I10,Essentiaalinen verenpainetauti,27.10.2019 14.13.26
+161147-9543,29.1.2016 14.13.26,71,1,E78.0,Puhdas hyperkolesterolemia,28.10.2019 14.13.26
+200958-949R,28.10.2024 9.10.49,66,2,I83.9,Alaraajan laskimolaajentumat ilman haavaumaa tai tulehdusta,5.11.2024 9.10.49
+200958-949R,24.3.2022 9.10.49,66,2,I10,Essentiaalinen verenpainetauti,7.11.2024 9.10.49
+100949-975T,31.10.2020 10.20.00,71,1,I71.4,Vatsa-aortan aneurysma ilman mainintaa repeämästä,9.11.2020 10.20.00
+100949-975T,18.6.2017 10.20.00,71,1,E78.0,Puhdas hyperkolesterolemia,1.11.2020 10.20.00
+101256-9795,13.11.2023 12.31.45,66,1,I65.2,Kaulavaltimon tukos ja ahtauma,28.11.2023 12.31.45
+101256-9795,19.8.2021 12.31.45,66,1,I10,Essentiaalinen verenpainetauti,10.12.2023 12.31.45
+101256-9795,16.12.2021 12.31.45,66,1,I25.1,Ateroskleroottinen sydänsairaus,13.12.2023 12.31.45
+091289-9835,7.11.2023 8.47.48,33,1,I83.9,Alaraajan laskimolaajentumat ilman haavaumaa tai tulehdusta,8.11.2023 8.47.48
+180852-945Y,4.5.2023 11.29.35,70,1,I65.2,Kaulavaltimon tukos ja ahtauma,3.6.2023 11.29.35
+180852-945Y,29.9.2020 11.29.35,70,1,I10,Essentiaalinen verenpainetauti,29.5.2023 11.29.35
+100939-916A,28.1.2023 13.11.35,83,1,I70.2,Raajojen valtimoiden ateroskleroosi,1.2.2023 13.11.35
+100939-916A,4.3.2015 13.11.35,83,1,I10,Essentiaalinen verenpainetauti,4.2.2023 13.11.35
+100939-916A,14.2.2022 13.11.35,83,1,F17.2,Tupakan aiheuttama riippuvuus,1.2.2023 13.11.35
+100939-916A,25.6.2015 13.11.35,83,1,I48.9,"Eteisvärinä tai eteislepatus, määrittämätön",16.2.2023 13.11.35
+141046-945E,14.4.2022 9.44.01,75,1,I70.2,Raajojen valtimoiden ateroskleroosi,19.4.2022 9.44.01
+141046-945E,23.10.2014 9.44.01,75,1,I10,Essentiaalinen verenpainetauti,14.5.2022 9.44.01
+141046-945E,18.2.2014 9.44.01,75,1,E11.9,Tyypin 2 diabetes ilman komplikaatioita,10.5.2022 9.44.01
+141046-945E,26.1.2018 9.44.01,75,1,N18.3,"Krooninen munuaistauti, vaihe 3",28.4.2022 9.44.01
+141240-944F,30.4.2020 8.51.25,79,1,I70.2,Raajojen valtimoiden ateroskleroosi,14.5.2020 8.51.25
+141240-944F,13.12.2013 8.51.25,79,1,I10,Essentiaalinen verenpainetauti,6.5.2020 8.51.25
+141240-944F,23.1.2016 8.51.25,79,1,E11.9,Tyypin 2 diabetes ilman komplikaatioita,6.5.2020 8.51.25
+141240-944F,10.12.2016 8.51.25,79,1,E78.0,Puhdas hyperkolesterolemia,26.5.2020 8.51.25
+160262-925S,12.7.2025 15.01.41,63,2,I83.9,Alaraajan laskimolaajentumat ilman haavaumaa tai tulehdusta,18.7.2025 15.01.41
+220450-917W,27.11.2023 8.57.28,73,1,I65.2,Kaulavaltimon tukos ja ahtauma,23.12.2023 8.57.28
+220450-917W,17.8.2021 8.57.28,73,1,I10,Essentiaalinen verenpainetauti,24.12.2023 8.57.28
+190560-9458,28.7.2022 13.30.55,62,1,I74.3,Alaraajan valtimon embolia ja tromboosi,4.8.2022 13.30.55
+190560-9458,26.2.2017 13.30.55,62,1,I48.9,"Eteisvärinä tai eteislepatus, määrittämätön",25.8.2022 13.30.55
+190560-9458,17.9.2015 13.30.55,62,1,I10,Essentiaalinen verenpainetauti,27.8.2022 13.30.55
+190560-9458,6.12.2020 13.30.55,62,1,E11.9,Tyypin 2 diabetes ilman komplikaatioita,17.8.2022 13.30.55
+190560-9458,7.4.2015 13.30.55,62,1,N18.3,"Krooninen munuaistauti, vaihe 3",9.8.2022 13.30.55
+090866-934D,25.7.2021 11.59.56,54,1,I83.9,Alaraajan laskimolaajentumat ilman haavaumaa tai tulehdusta,15.8.2021 11.59.56
+090866-934D,7.4.2021 11.59.56,54,1,I10,Essentiaalinen verenpainetauti,25.7.2021 11.59.56
+021139-983X,24.3.2020 14.56.00,80,1,I70.2,Raajojen valtimoiden ateroskleroosi,10.4.2020 14.56.00
+021139-983X,1.6.2015 14.56.00,80,1,I10,Essentiaalinen verenpainetauti,9.4.2020 14.56.00
+021139-983X,2.2.2015 14.56.00,80,1,E11.9,Tyypin 2 diabetes ilman komplikaatioita,1.4.2020 14.56.00
+021139-983X,26.11.2016 14.56.00,80,1,I25.1,Ateroskleroottinen sydänsairaus,15.4.2020 14.56.00
+021139-983X,9.11.2015 14.56.00,80,1,E78.0,Puhdas hyperkolesterolemia,29.3.2020 14.56.00
+210473-937U,9.3.2023 12.29.56,49,2,I83.9,Alaraajan laskimolaajentumat ilman haavaumaa tai tulehdusta,3.4.2023 12.29.56
+250757-9792,21.4.2019 9.04.26,61,2,I65.2,Kaulavaltimon tukos ja ahtauma,21.4.2019 9.04.26
+250757-9792,1.7.2017 9.04.26,61,2,I25.1,Ateroskleroottinen sydänsairaus,27.4.2019 9.04.26
+250757-9792,22.12.2011 9.04.26,61,2,F17.2,Tupakan aiheuttama riippuvuus,22.4.2019 9.04.26
+261244-953J,11.5.2024 15.54.57,79,1,I65.2,Kaulavaltimon tukos ja ahtauma,1.6.2024 15.54.57
+261244-953J,3.1.2019 15.54.57,79,1,I10,Essentiaalinen verenpainetauti,30.5.2024 15.54.57
+150936-9606,18.8.2024 10.03.09,87,1,I70.2,Raajojen valtimoiden ateroskleroosi,5.9.2024 10.03.09
+150936-9606,7.2.2018 10.03.09,87,1,I10,Essentiaalinen verenpainetauti,16.9.2024 10.03.09
+150936-9606,27.3.2017 10.03.09,87,1,I25.1,Ateroskleroottinen sydänsairaus,27.8.2024 10.03.09
+241062-986B,9.5.2025 14.02.56,62,2,I70.2,Raajojen valtimoiden ateroskleroosi,3.6.2025 14.02.56
+241062-986B,6.6.2023 14.02.56,62,2,F17.2,Tupakan aiheuttama riippuvuus,25.5.2025 14.02.56
+091245-907B,14.4.2021 13.14.12,75,1,I71.4,Vatsa-aortan aneurysma ilman mainintaa repeämästä,1.5.2021 13.14.12
+091245-907B,8.3.2020 13.14.12,75,1,J44.9,"Keuhkoahtaumatauti, määrittämätön",8.5.2021 13.14.12
+031266-967U,29.7.2022 10.35.53,55,1,I65.2,Kaulavaltimon tukos ja ahtauma,11.8.2022 10.35.53
+031266-967U,23.9.2018 10.35.53,55,1,I10,Essentiaalinen verenpainetauti,3.8.2022 10.35.53
+031266-967U,10.8.2017 10.35.53,55,1,E11.9,Tyypin 2 diabetes ilman komplikaatioita,23.8.2022 10.35.53
+031266-967U,24.9.2014 10.35.53,55,1,I25.1,Ateroskleroottinen sydänsairaus,19.8.2022 10.35.53
+211156-925P,28.6.2024 15.39.34,67,1,I74.3,Alaraajan valtimon embolia ja tromboosi,7.7.2024 15.39.34
+211156-925P,25.7.2021 15.39.34,67,1,I48.9,"Eteisvärinä tai eteislepatus, määrittämätön",8.7.2024 15.39.34
+211156-925P,3.4.2022 15.39.34,67,1,I10,Essentiaalinen verenpainetauti,22.7.2024 15.39.34
+211156-925P,1.1.2018 15.39.34,67,1,I25.1,Ateroskleroottinen sydänsairaus,24.7.2024 15.39.34
+270742-955P,8.12.2020 13.59.50,78,2,I71.4,Vatsa-aortan aneurysma ilman mainintaa repeämästä,18.12.2020 13.59.50
+270742-955P,17.11.2013 13.59.50,78,2,I10,Essentiaalinen verenpainetauti,24.12.2020 13.59.50
+270742-955P,11.1.2013 13.59.50,78,2,N18.3,"Krooninen munuaistauti, vaihe 3",29.12.2020 13.59.50
+161244-934F,10.4.2021 10.25.08,76,2,I65.2,Kaulavaltimon tukos ja ahtauma,17.4.2021 10.25.08
+161244-934F,8.9.2013 10.25.08,76,2,E78.0,Puhdas hyperkolesterolemia,2.5.2021 10.25.08
+151142-9235,27.8.2019 9.17.45,76,1,I74.3,Alaraajan valtimon embolia ja tromboosi,10.9.2019 9.17.45
+151142-9235,24.8.2012 9.17.45,76,1,I48.9,"Eteisvärinä tai eteislepatus, määrittämätön",3.9.2019 9.17.45
+151142-9235,1.2.2018 9.17.45,76,1,I10,Essentiaalinen verenpainetauti,7.9.2019 9.17.45
+151142-9235,15.7.2011 9.17.45,76,1,I25.1,Ateroskleroottinen sydänsairaus,29.8.2019 9.17.45
+260342-947K,14.6.2019 11.37.18,77,1,I70.2,Raajojen valtimoiden ateroskleroosi,30.6.2019 11.37.18
+260342-947K,12.1.2012 11.37.18,77,1,I10,Essentiaalinen verenpainetauti,20.6.2019 11.37.18
+260342-947K,26.6.2015 11.37.18,77,1,E11.9,Tyypin 2 diabetes ilman komplikaatioita,8.7.2019 11.37.18
+260342-947K,5.12.2014 11.37.18,77,1,I25.1,Ateroskleroottinen sydänsairaus,21.6.2019 11.37.18
+180543-951D,2.11.2022 11.17.27,79,1,I70.2,Raajojen valtimoiden ateroskleroosi,14.11.2022 11.17.27
+180543-951D,12.3.2018 11.17.27,79,1,E78.0,Puhdas hyperkolesterolemia,28.11.2022 11.17.27
+280775-938A,20.7.2020 14.36.22,44,2,I70.2,Raajojen valtimoiden ateroskleroosi,10.8.2020 14.36.22
+280775-938A,31.1.2016 14.36.22,44,2,I10,Essentiaalinen verenpainetauti,16.8.2020 14.36.22
+280775-938A,21.8.2013 14.36.22,44,2,I25.1,Ateroskleroottinen sydänsairaus,4.8.2020 14.36.22
+280775-938A,15.4.2015 14.36.22,44,2,N18.3,"Krooninen munuaistauti, vaihe 3",20.7.2020 14.36.22
+280775-938A,21.7.2015 14.36.22,44,2,J44.9,"Keuhkoahtaumatauti, määrittämätön",4.8.2020 14.36.22
+120742-921X,31.8.2020 14.46.11,78,1,I71.4,Vatsa-aortan aneurysma ilman mainintaa repeämästä,27.9.2020 14.46.11
+120742-921X,4.6.2017 14.46.11,78,1,I10,Essentiaalinen verenpainetauti,31.8.2020 14.46.11
+120742-921X,6.2.2016 14.46.11,78,1,E78.0,Puhdas hyperkolesterolemia,23.9.2020 14.46.11
+120742-921X,25.7.2013 14.46.11,78,1,J44.9,"Keuhkoahtaumatauti, määrittämätön",31.8.2020 14.46.11
+120742-921X,1.11.2017 14.46.11,78,1,F17.2,Tupakan aiheuttama riippuvuus,11.9.2020 14.46.11
+090754-9246,13.10.2024 13.10.17,70,1,I71.4,Vatsa-aortan aneurysma ilman mainintaa repeämästä,30.10.2024 13.10.17
+090754-9246,26.12.2017 13.10.17,70,1,I10,Essentiaalinen verenpainetauti,20.10.2024 13.10.17
+090754-9246,13.3.2017 13.10.17,70,1,I25.1,Ateroskleroottinen sydänsairaus,27.10.2024 13.10.17
+160370-922J,21.5.2024 12.16.32,54,1,I83.9,Alaraajan laskimolaajentumat ilman haavaumaa tai tulehdusta,19.6.2024 12.16.32
+160370-922J,12.4.2022 12.16.32,54,1,I10,Essentiaalinen verenpainetauti,11.6.2024 12.16.32
+160370-922J,30.8.2020 12.16.32,54,1,E78.0,Puhdas hyperkolesterolemia,23.5.2024 12.16.32
+080143-9977,5.6.2024 13.09.40,81,1,I71.4,Vatsa-aortan aneurysma ilman mainintaa repeämästä,27.6.2024 13.09.40
+080143-9977,27.3.2023 13.09.40,81,1,I10,Essentiaalinen verenpainetauti,9.6.2024 13.09.40
+080143-9977,20.10.2021 13.09.40,81,1,I25.1,Ateroskleroottinen sydänsairaus,18.6.2024 13.09.40
+080143-9977,6.3.2022 13.09.40,81,1,I48.9,"Eteisvärinä tai eteislepatus, määrittämätön",16.6.2024 13.09.40
+241050-974V,17.3.2021 13.21.28,70,2,I70.2,Raajojen valtimoiden ateroskleroosi,11.4.2021 13.21.28
+241050-974V,19.3.2018 13.21.28,70,2,I10,Essentiaalinen verenpainetauti,3.4.2021 13.21.28
+241050-974V,5.6.2016 13.21.28,70,2,E11.9,Tyypin 2 diabetes ilman komplikaatioita,12.4.2021 13.21.28
+241050-974V,9.10.2013 13.21.28,70,2,E78.0,Puhdas hyperkolesterolemia,4.4.2021 13.21.28
+170457-9407,13.10.2024 14.19.15,67,1,I71.4,Vatsa-aortan aneurysma ilman mainintaa repeämästä,26.10.2024 14.19.15
+170457-9407,15.1.2017 14.19.15,67,1,I10,Essentiaalinen verenpainetauti,24.10.2024 14.19.15
+170457-9407,25.12.2016 14.19.15,67,1,E11.9,Tyypin 2 diabetes ilman komplikaatioita,10.11.2024 14.19.15
+020239-949K,12.6.2021 11.01.55,82,1,I70.2,Raajojen valtimoiden ateroskleroosi,23.6.2021 11.01.55
+020239-949K,27.6.2017 11.01.55,82,1,E78.0,Puhdas hyperkolesterolemia,24.6.2021 11.01.55
+020239-949K,16.9.2014 11.01.55,82,1,F17.2,Tupakan aiheuttama riippuvuus,6.7.2021 11.01.55
+210149-948K,26.11.2024 10.38.32,75,2,I70.2,Raajojen valtimoiden ateroskleroosi,13.12.2024 10.38.32
+210149-948K,14.1.2023 10.38.32,75,2,I10,Essentiaalinen verenpainetauti,24.12.2024 10.38.32
+210149-948K,16.9.2020 10.38.32,75,2,E11.9,Tyypin 2 diabetes ilman komplikaatioita,12.12.2024 10.38.32
+210149-948K,13.5.2024 10.38.32,75,2,N18.3,"Krooninen munuaistauti, vaihe 3",26.12.2024 10.38.32
+100744-928C,26.5.2019 12.31.26,74,2,I70.2,Raajojen valtimoiden ateroskleroosi,24.6.2019 12.31.26
+100744-928C,13.8.2017 12.31.26,74,2,I10,Essentiaalinen verenpainetauti,4.6.2019 12.31.26
+100744-928C,20.9.2012 12.31.26,74,2,I48.9,"Eteisvärinä tai eteislepatus, määrittämätön",21.6.2019 12.31.26
+071029-9944,16.7.2019 15.38.52,89,2,I70.2,Raajojen valtimoiden ateroskleroosi,3.8.2019 15.38.52
+071029-9944,1.2.2015 15.38.52,89,2,I10,Essentiaalinen verenpainetauti,27.7.2019 15.38.52
+280625-932D,22.8.2020 8.40.13,95,1,I70.2,Raajojen valtimoiden ateroskleroosi,13.9.2020 8.40.13
+280625-932D,4.2.2018 8.40.13,95,1,I10,Essentiaalinen verenpainetauti,27.8.2020 8.40.13
+280625-932D,30.6.2012 8.40.13,95,1,E11.9,Tyypin 2 diabetes ilman komplikaatioita,21.9.2020 8.40.13
+280625-932D,21.7.2019 8.40.13,95,1,F17.2,Tupakan aiheuttama riippuvuus,14.9.2020 8.40.13
+280625-932D,24.5.2019 8.40.13,95,1,J44.9,"Keuhkoahtaumatauti, määrittämätön",25.8.2020 8.40.13
+211244-9485,23.4.2025 14.59.42,80,1,I70.2,Raajojen valtimoiden ateroskleroosi,16.5.2025 14.59.42
+211244-9485,29.3.2017 14.59.42,80,1,E11.9,Tyypin 2 diabetes ilman komplikaatioita,15.5.2025 14.59.42
+211244-9485,11.5.2021 14.59.42,80,1,E78.0,Puhdas hyperkolesterolemia,17.5.2025 14.59.42
+211244-9485,2.8.2020 14.59.42,80,1,F17.2,Tupakan aiheuttama riippuvuus,10.5.2025 14.59.42
+211244-9485,5.7.2022 14.59.42,80,1,J44.9,"Keuhkoahtaumatauti, määrittämätön",26.4.2025 14.59.42
+140954-920W,12.6.2021 13.57.11,66,2,I70.2,Raajojen valtimoiden ateroskleroosi,4.7.2021 13.57.11
+140954-920W,20.8.2016 13.57.11,66,2,I10,Essentiaalinen verenpainetauti,19.6.2021 13.57.11
+140954-920W,29.3.2019 13.57.11,66,2,E78.0,Puhdas hyperkolesterolemia,14.6.2021 13.57.11
+140954-920W,17.11.2016 13.57.11,66,2,N18.3,"Krooninen munuaistauti, vaihe 3",19.6.2021 13.57.11
+140954-920W,11.1.2018 13.57.11,66,2,I48.9,"Eteisvärinä tai eteislepatus, määrittämätön",18.6.2021 13.57.11
+050664-929J,27.1.2024 14.34.13,59,2,I70.2,Raajojen valtimoiden ateroskleroosi,1.2.2024 14.34.13
+050664-929J,14.7.2017 14.34.13,59,2,E11.9,Tyypin 2 diabetes ilman komplikaatioita,4.2.2024 14.34.13
+050664-929J,4.11.2022 14.34.13,59,2,J44.9,"Keuhkoahtaumatauti, määrittämätön",12.2.2024 14.34.13
+170565-961S,15.5.2024 13.02.45,58,2,I83.9,Alaraajan laskimolaajentumat ilman haavaumaa tai tulehdusta,15.5.2024 13.02.45
+120944-9256,17.1.2020 8.04.17,75,2,I65.2,Kaulavaltimon tukos ja ahtauma,10.2.2020 8.04.17
+120944-9256,11.3.2012 8.04.17,75,2,E78.0,Puhdas hyperkolesterolemia,22.1.2020 8.04.17
+120944-9256,14.5.2014 8.04.17,75,2,I25.1,Ateroskleroottinen sydänsairaus,3.2.2020 8.04.17
+240556-914E,22.8.2022 13.44.48,66,1,I70.2,Raajojen valtimoiden ateroskleroosi,27.8.2022 13.44.48
+240556-914E,17.1.2020 13.44.48,66,1,I10,Essentiaalinen verenpainetauti,3.9.2022 13.44.48
+240556-914E,3.7.2019 13.44.48,66,1,E78.0,Puhdas hyperkolesterolemia,5.9.2022 13.44.48
+240556-914E,5.5.2019 13.44.48,66,1,J44.9,"Keuhkoahtaumatauti, määrittämätön",9.9.2022 13.44.48
+171046-9983,25.12.2023 12.20.18,77,2,I70.2,Raajojen valtimoiden ateroskleroosi,9.1.2024 12.20.18
+171046-9983,2.5.2016 12.20.18,77,2,I10,Essentiaalinen verenpainetauti,6.1.2024 12.20.18
+171046-9983,25.1.2021 12.20.18,77,2,E11.9,Tyypin 2 diabetes ilman komplikaatioita,9.1.2024 12.20.18
+171046-9983,31.8.2022 12.20.18,77,2,I25.1,Ateroskleroottinen sydänsairaus,24.1.2024 12.20.18
+171046-9983,4.11.2017 12.20.18,77,2,E78.0,Puhdas hyperkolesterolemia,30.12.2023 12.20.18
+171046-9983,9.12.2021 12.20.18,77,2,F17.2,Tupakan aiheuttama riippuvuus,30.12.2023 12.20.18
+290855-9876,16.4.2023 12.30.36,67,1,I70.2,Raajojen valtimoiden ateroskleroosi,27.4.2023 12.30.36
+290855-9876,9.7.2015 12.30.36,67,1,I10,Essentiaalinen verenpainetauti,16.5.2023 12.30.36
+170973-980N,9.8.2019 14.55.23,45,2,I83.9,Alaraajan laskimolaajentumat ilman haavaumaa tai tulehdusta,2.9.2019 14.55.23
+210142-9561,4.12.2020 14.21.05,78,1,I83.9,Alaraajan laskimolaajentumat ilman haavaumaa tai tulehdusta,15.12.2020 14.21.05
+280954-952Y,9.7.2021 15.07.11,66,1,I71.4,Vatsa-aortan aneurysma ilman mainintaa repeämästä,16.7.2021 15.07.11
+280954-952Y,16.3.2015 15.07.11,66,1,I10,Essentiaalinen verenpainetauti,1.8.2021 15.07.11
+280954-952Y,5.10.2015 15.07.11,66,1,E78.0,Puhdas hyperkolesterolemia,31.7.2021 15.07.11
+111241-9898,17.9.2022 12.29.33,80,1,I65.2,Kaulavaltimon tukos ja ahtauma,9.10.2022 12.29.33
+111241-9898,19.7.2019 12.29.33,80,1,E78.0,Puhdas hyperkolesterolemia,8.10.2022 12.29.33
+111241-9898,11.3.2016 12.29.33,80,1,I25.1,Ateroskleroottinen sydänsairaus,26.9.2022 12.29.33
+111241-9898,14.11.2014 12.29.33,80,1,F17.2,Tupakan aiheuttama riippuvuus,10.10.2022 12.29.33
+110254-9476,16.5.2021 14.39.20,67,2,I74.3,Alaraajan valtimon embolia ja tromboosi,4.6.2021 14.39.20
+110254-9476,4.11.2019 14.39.20,67,2,I48.9,"Eteisvärinä tai eteislepatus, määrittämätön",24.5.2021 14.39.20
+110254-9476,23.5.2014 14.39.20,67,2,I10,Essentiaalinen verenpainetauti,23.5.2021 14.39.20
+110254-9476,16.10.2020 14.39.20,67,2,I25.1,Ateroskleroottinen sydänsairaus,4.6.2021 14.39.20
+110254-9476,3.8.2016 14.39.20,67,2,E11.9,Tyypin 2 diabetes ilman komplikaatioita,6.6.2021 14.39.20
+130646-926Y,22.12.2023 10.33.58,77,1,I70.2,Raajojen valtimoiden ateroskleroosi,17.1.2024 10.33.58
+130646-926Y,6.12.2020 10.33.58,77,1,E78.0,Puhdas hyperkolesterolemia,17.1.2024 10.33.58
+130646-926Y,29.6.2022 10.33.58,77,1,N18.3,"Krooninen munuaistauti, vaihe 3",25.12.2023 10.33.58
+130646-926Y,19.9.2018 10.33.58,77,1,J44.9,"Keuhkoahtaumatauti, määrittämätön",6.1.2024 10.33.58
+301268-968T,20.5.2019 14.32.02,50,2,I83.9,Alaraajan laskimolaajentumat ilman haavaumaa tai tulehdusta,4.6.2019 14.32.02
+061149-940P,25.12.2023 14.27.47,74,2,I71.4,Vatsa-aortan aneurysma ilman mainintaa repeämästä,13.1.2024 14.27.47
+061149-940P,22.6.2022 14.27.47,74,2,I10,Essentiaalinen verenpainetauti,30.12.2023 14.27.47
+061149-940P,18.9.2016 14.27.47,74,2,I25.1,Ateroskleroottinen sydänsairaus,31.12.2023 14.27.47
+061149-940P,15.8.2020 14.27.47,74,2,E78.0,Puhdas hyperkolesterolemia,11.1.2024 14.27.47
+061149-940P,24.10.2016 14.27.47,74,2,J44.9,"Keuhkoahtaumatauti, määrittämätön",18.1.2024 14.27.47
+040842-901X,15.1.2020 15.39.16,77,2,I70.2,Raajojen valtimoiden ateroskleroosi,18.1.2020 15.39.16
+040842-901X,10.10.2013 15.39.16,77,2,I10,Essentiaalinen verenpainetauti,13.2.2020 15.39.16
+040842-901X,25.11.2015 15.39.16,77,2,E78.0,Puhdas hyperkolesterolemia,4.2.2020 15.39.16
+040842-901X,20.1.2016 15.39.16,77,2,N18.3,"Krooninen munuaistauti, vaihe 3",13.2.2020 15.39.16
+040842-901X,29.8.2019 15.39.16,77,2,F17.2,Tupakan aiheuttama riippuvuus,23.1.2020 15.39.16
+021041-950K,1.9.2021 13.45.14,79,1,I71.4,Vatsa-aortan aneurysma ilman mainintaa repeämästä,8.9.2021 13.45.14
+021041-950K,11.2.2014 13.45.14,79,1,I10,Essentiaalinen verenpainetauti,7.9.2021 13.45.14
+190245-962H,5.6.2023 14.55.49,78,1,I70.2,Raajojen valtimoiden ateroskleroosi,12.6.2023 14.55.49
+190245-962H,23.11.2015 14.55.49,78,1,I10,Essentiaalinen verenpainetauti,8.6.2023 14.55.49
+190245-962H,20.10.2015 14.55.49,78,1,F17.2,Tupakan aiheuttama riippuvuus,23.6.2023 14.55.49
+140736-926U,8.4.2019 14.05.45,82,1,I70.2,Raajojen valtimoiden ateroskleroosi,4.5.2019 14.05.45
+140736-926U,12.8.2016 14.05.45,82,1,I10,Essentiaalinen verenpainetauti,29.4.2019 14.05.45
+140736-926U,4.9.2012 14.05.45,82,1,I25.1,Ateroskleroottinen sydänsairaus,13.4.2019 14.05.45
+140736-926U,7.6.2016 14.05.45,82,1,E78.0,Puhdas hyperkolesterolemia,7.5.2019 14.05.45
+130545-971B,6.8.2023 10.52.23,78,2,I70.2,Raajojen valtimoiden ateroskleroosi,28.8.2023 10.52.23
+130545-971B,27.3.2021 10.52.23,78,2,I25.1,Ateroskleroottinen sydänsairaus,5.9.2023 10.52.23
+130545-971B,28.5.2015 10.52.23,78,2,E78.0,Puhdas hyperkolesterolemia,25.8.2023 10.52.23
+130545-971B,11.1.2021 10.52.23,78,2,I48.9,"Eteisvärinä tai eteislepatus, määrittämätön",21.8.2023 10.52.23
+160259-953W,15.10.2024 12.27.30,65,2,I65.2,Kaulavaltimon tukos ja ahtauma,3.11.2024 12.27.30
+160259-953W,8.6.2022 12.27.30,65,2,I10,Essentiaalinen verenpainetauti,18.10.2024 12.27.30
+160259-953W,27.12.2023 12.27.30,65,2,E78.0,Puhdas hyperkolesterolemia,13.11.2024 12.27.30
+160259-953W,1.11.2017 12.27.30,65,2,E11.9,Tyypin 2 diabetes ilman komplikaatioita,25.10.2024 12.27.30
+160259-953W,1.5.2023 12.27.30,65,2,F17.2,Tupakan aiheuttama riippuvuus,14.11.2024 12.27.30
+080548-9839,5.3.2021 11.51.52,72,1,I71.4,Vatsa-aortan aneurysma ilman mainintaa repeämästä,4.4.2021 11.51.52
+080548-9839,31.3.2013 11.51.52,72,1,E78.0,Puhdas hyperkolesterolemia,14.3.2021 11.51.52
+080548-9839,1.2.2015 11.51.52,72,1,F17.2,Tupakan aiheuttama riippuvuus,1.4.2021 11.51.52
+300852-979T,5.8.2021 10.03.20,68,2,I83.9,Alaraajan laskimolaajentumat ilman haavaumaa tai tulehdusta,3.9.2021 10.03.20
+300852-979T,22.9.2015 10.03.20,68,2,I10,Essentiaalinen verenpainetauti,20.8.2021 10.03.20
+260859-964J,20.11.2023 9.51.04,64,1,I70.2,Raajojen valtimoiden ateroskleroosi,20.12.2023 9.51.04
+260859-964J,9.10.2016 9.51.04,64,1,I10,Essentiaalinen verenpainetauti,26.11.2023 9.51.04
+150355-900A,9.7.2020 8.51.58,65,2,I70.2,Raajojen valtimoiden ateroskleroosi,2.8.2020 8.51.58
+150355-900A,27.9.2018 8.51.58,65,2,I10,Essentiaalinen verenpainetauti,21.7.2020 8.51.58
+150355-900A,12.6.2017 8.51.58,65,2,E11.9,Tyypin 2 diabetes ilman komplikaatioita,6.8.2020 8.51.58
+150355-900A,19.3.2017 8.51.58,65,2,I25.1,Ateroskleroottinen sydänsairaus,13.7.2020 8.51.58
+150355-900A,22.4.2013 8.51.58,65,2,E78.0,Puhdas hyperkolesterolemia,27.7.2020 8.51.58
+080933-9076,2.9.2020 9.46.12,86,1,I71.4,Vatsa-aortan aneurysma ilman mainintaa repeämästä,14.9.2020 9.46.12
+080933-9076,5.6.2015 9.46.12,86,1,I10,Essentiaalinen verenpainetauti,12.9.2020 9.46.12
+080933-9076,16.12.2018 9.46.12,86,1,I25.1,Ateroskleroottinen sydänsairaus,19.9.2020 9.46.12
+080933-9076,18.9.2017 9.46.12,86,1,E78.0,Puhdas hyperkolesterolemia,4.9.2020 9.46.12
+030382-965M,14.2.2023 13.31.36,40,1,I83.9,Alaraajan laskimolaajentumat ilman haavaumaa tai tulehdusta,18.2.2023 13.31.36
+041141-957W,21.6.2021 8.57.57,79,1,I65.2,Kaulavaltimon tukos ja ahtauma,11.7.2021 8.57.57
+041141-957W,10.7.2015 8.57.57,79,1,I10,Essentiaalinen verenpainetauti,20.7.2021 8.57.57
+041141-957W,24.10.2017 8.57.57,79,1,E78.0,Puhdas hyperkolesterolemia,8.7.2021 8.57.57
+041141-957W,17.3.2019 8.57.57,79,1,E11.9,Tyypin 2 diabetes ilman komplikaatioita,14.7.2021 8.57.57
+150530-902J,28.6.2021 14.43.52,91,2,I70.2,Raajojen valtimoiden ateroskleroosi,30.6.2021 14.43.52
+150530-902J,5.5.2018 14.43.52,91,2,E78.0,Puhdas hyperkolesterolemia,17.7.2021 14.43.52
+150530-902J,20.6.2019 14.43.52,91,2,I48.9,"Eteisvärinä tai eteislepatus, määrittämätön",19.7.2021 14.43.52
+190255-9922,16.6.2023 11.22.20,68,1,I71.4,Vatsa-aortan aneurysma ilman mainintaa repeämästä,3.7.2023 11.22.20
+190255-9922,9.9.2017 11.22.20,68,1,I10,Essentiaalinen verenpainetauti,19.6.2023 11.22.20
+190255-9922,19.4.2018 11.22.20,68,1,E78.0,Puhdas hyperkolesterolemia,10.7.2023 11.22.20
+190255-9922,15.6.2018 11.22.20,68,1,F17.2,Tupakan aiheuttama riippuvuus,16.7.2023 11.22.20
+040952-9286,23.8.2024 15.23.06,71,1,I70.2,Raajojen valtimoiden ateroskleroosi,27.8.2024 15.23.06
+040952-9286,20.3.2021 15.23.06,71,1,I10,Essentiaalinen verenpainetauti,16.9.2024 15.23.06
+040952-9286,22.6.2021 15.23.06,71,1,I25.1,Ateroskleroottinen sydänsairaus,5.9.2024 15.23.06
+040952-9286,4.3.2019 15.23.06,71,1,E78.0,Puhdas hyperkolesterolemia,9.9.2024 15.23.06
+271160-9447,19.3.2020 13.39.01,59,2,I70.2,Raajojen valtimoiden ateroskleroosi,12.4.2020 13.39.01
+271160-9447,23.1.2019 13.39.01,59,2,I10,Essentiaalinen verenpainetauti,20.3.2020 13.39.01
+051155-969J,15.10.2023 12.58.22,67,2,I70.2,Raajojen valtimoiden ateroskleroosi,22.10.2023 12.58.22
+051155-969J,6.1.2018 12.58.22,67,2,J44.9,"Keuhkoahtaumatauti, määrittämätön",5.11.2023 12.58.22
+071256-951A,22.4.2021 12.16.38,64,2,I71.4,Vatsa-aortan aneurysma ilman mainintaa repeämästä,13.5.2021 12.16.38
+071256-951A,21.8.2020 12.16.38,64,2,I25.1,Ateroskleroottinen sydänsairaus,21.5.2021 12.16.38
+071256-951A,17.10.2020 12.16.38,64,2,E78.0,Puhdas hyperkolesterolemia,22.4.2021 12.16.38
+071256-951A,21.5.2013 12.16.38,64,2,J44.9,"Keuhkoahtaumatauti, määrittämätön",21.5.2021 12.16.38
+080246-938W,26.5.2025 13.17.58,79,1,I71.4,Vatsa-aortan aneurysma ilman mainintaa repeämästä,24.6.2025 13.17.58
+080246-938W,31.12.2024 13.17.58,79,1,I10,Essentiaalinen verenpainetauti,4.6.2025 13.17.58
+080246-938W,22.2.2024 13.17.58,79,1,E78.0,Puhdas hyperkolesterolemia,25.6.2025 13.17.58
+080246-938W,16.2.2020 13.17.58,79,1,J44.9,"Keuhkoahtaumatauti, määrittämätön",17.6.2025 13.17.58
+080562-978R,22.6.2024 8.37.37,62,2,I65.2,Kaulavaltimon tukos ja ahtauma,6.7.2024 8.37.37
+090251-9430,12.10.2019 11.12.05,68,2,I71.4,Vatsa-aortan aneurysma ilman mainintaa repeämästä,8.11.2019 11.12.05
+090251-9430,21.10.2018 11.12.05,68,2,J44.9,"Keuhkoahtaumatauti, määrittämätön",22.10.2019 11.12.05
+090251-9430,24.5.2012 11.12.05,68,2,F17.2,Tupakan aiheuttama riippuvuus,14.10.2019 11.12.05
+090251-9430,25.3.2017 11.12.05,68,2,N18.3,"Krooninen munuaistauti, vaihe 3",26.10.2019 11.12.05
+090251-9430,13.1.2012 11.12.05,68,2,E11.9,Tyypin 2 diabetes ilman komplikaatioita,5.11.2019 11.12.05
+101141-901Y,21.3.2019 11.47.31,77,2,I70.2,Raajojen valtimoiden ateroskleroosi,27.3.2019 11.47.31
+101141-901Y,28.8.2011 11.47.31,77,2,N18.3,"Krooninen munuaistauti, vaihe 3",13.4.2019 11.47.31
+101141-901Y,13.3.2011 11.47.31,77,2,F17.2,Tupakan aiheuttama riippuvuus,23.3.2019 11.47.31
+230546-933U,13.1.2021 11.58.11,74,1,I70.2,Raajojen valtimoiden ateroskleroosi,16.1.2021 11.58.11
+230546-933U,5.7.2014 11.58.11,74,1,I10,Essentiaalinen verenpainetauti,10.2.2021 11.58.11
+230546-933U,7.2.2019 11.58.11,74,1,I25.1,Ateroskleroottinen sydänsairaus,7.2.2021 11.58.11
+270243-9326,12.10.2020 13.47.35,77,2,I70.2,Raajojen valtimoiden ateroskleroosi,19.10.2020 13.47.35
+270243-9326,6.6.2020 13.47.35,77,2,I10,Essentiaalinen verenpainetauti,31.10.2020 13.47.35
+270243-9326,19.9.2012 13.47.35,77,2,E11.9,Tyypin 2 diabetes ilman komplikaatioita,25.10.2020 13.47.35
+270243-9326,13.1.2014 13.47.35,77,2,I25.1,Ateroskleroottinen sydänsairaus,22.10.2020 13.47.35
+270243-9326,7.12.2016 13.47.35,77,2,E78.0,Puhdas hyperkolesterolemia,18.10.2020 13.47.35
+270243-9326,16.3.2018 13.47.35,77,2,N18.3,"Krooninen munuaistauti, vaihe 3",24.10.2020 13.47.35
+270243-9326,23.2.2015 13.47.35,77,2,F17.2,Tupakan aiheuttama riippuvuus,12.10.2020 13.47.35
+261153-970L,21.1.2023 12.22.49,69,1,I65.2,Kaulavaltimon tukos ja ahtauma,25.1.2023 12.22.49
+261153-970L,19.6.2016 12.22.49,69,1,I10,Essentiaalinen verenpainetauti,25.1.2023 12.22.49
+261153-970L,17.12.2015 12.22.49,69,1,E11.9,Tyypin 2 diabetes ilman komplikaatioita,7.2.2023 12.22.49
+261153-970L,28.11.2020 12.22.49,69,1,F17.2,Tupakan aiheuttama riippuvuus,25.1.2023 12.22.49
+190548-9477,27.2.2023 12.20.08,74,2,I70.2,Raajojen valtimoiden ateroskleroosi,9.3.2023 12.20.08
+190548-9477,11.5.2019 12.20.08,74,2,I10,Essentiaalinen verenpainetauti,9.3.2023 12.20.08
+190548-9477,24.9.2016 12.20.08,74,2,F17.2,Tupakan aiheuttama riippuvuus,7.3.2023 12.20.08
+211252-959K,13.11.2024 8.45.10,71,2,I70.2,Raajojen valtimoiden ateroskleroosi,13.11.2024 8.45.10
+211252-959K,15.5.2021 8.45.10,71,2,I10,Essentiaalinen verenpainetauti,19.11.2024 8.45.10
+211252-959K,11.7.2020 8.45.10,71,2,I25.1,Ateroskleroottinen sydänsairaus,16.11.2024 8.45.10
+211252-959K,16.12.2017 8.45.10,71,2,E78.0,Puhdas hyperkolesterolemia,5.12.2024 8.45.10
