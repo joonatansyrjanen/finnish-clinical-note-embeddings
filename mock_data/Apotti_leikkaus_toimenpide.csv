@@ -1,481 +1,502 @@
-henkilotunnus,operaatio_id,shjakso_id,operaatio_pvm,toimenpide_selite,toimenpide_puolisuus_selite
-280660-967K,3000001,50000016,sunnuntai 17. syyskuuta 2023,Yleisanestesia,
-280660-967K,3000001,50000016,sunnuntai 17. syyskuuta 2023,Reisi-polvitaivevaltimon ohitusleikkaus laskimosiirteellä,Oikea
-070129-963V,3000008,50000036,keskiviikko 1. toukokuuta 2019,Paikallispuudutus,
-070129-963V,3000008,50000036,keskiviikko 1. toukokuuta 2019,Reisivaltimon pallolaajennus ja stenttaus,Oikea
-070129-963V,3000008,50000036,keskiviikko 1. toukokuuta 2019,Läpivalaisu,
-010847-984Y,3000014,50000096,lauantai 10. elokuuta 2024,Paikallispuudutus,
-010847-984Y,3000014,50000096,lauantai 10. elokuuta 2024,Reisivaltimon pallolaajennus ja stenttaus,Oikea
-010847-984Y,3000014,50000096,lauantai 10. elokuuta 2024,Läpivalaisu,
-060742-970M,3000016,50000121,tiistai 16. kesäkuuta 2020,Paikallispuudutus,
-060742-970M,3000016,50000121,tiistai 16. kesäkuuta 2020,Reisivaltimon pallolaajennus ja stenttaus,Vasen
-060742-970M,3000016,50000121,tiistai 16. kesäkuuta 2020,Läpivalaisu,
-260548-937D,3000022,50000175,lauantai 15. kesäkuuta 2024,Spinaalipuudutus,
-260548-937D,3000022,50000175,lauantai 15. kesäkuuta 2024,Reisi-polvitaivevaltimon ohitusleikkaus laskimosiirteellä,Oikea
-021154-906A,3000028,50000203,maanantai 28. kesäkuuta 2021,Paikallispuudutus,
-021154-906A,3000028,50000203,maanantai 28. kesäkuuta 2021,Reisivaltimon pallolaajennus ja stenttaus,Vasen
-021154-906A,3000028,50000203,maanantai 28. kesäkuuta 2021,Läpivalaisu,
-110550-9334,3000029,50000224,tiistai 13. toukokuuta 2025,Yleisanestesia,
-110550-9334,3000029,50000224,tiistai 13. toukokuuta 2025,Säären amputaatio,Vasen
-190847-9693,3000033,50000248,perjantai 20. lokakuuta 2023,Yleisanestesia,
-190847-9693,3000033,50000248,perjantai 20. lokakuuta 2023,Alaraajavaltimon trombembolektomia,Vasen
-090667-977E,3000037,50000270,torstai 17. maaliskuuta 2022,Paikallispuudutus,
-090667-977E,3000037,50000270,torstai 17. maaliskuuta 2022,Ison kehräslaskimon radiotaajuusablaatio,Vasen
-090667-977E,3000037,50000270,torstai 17. maaliskuuta 2022,Läpivalaisu,
-211184-925X,3000043,50000287,perjantai 19. elokuuta 2022,Paikallispuudutus,
-211184-925X,3000043,50000287,perjantai 19. elokuuta 2022,Ison kehräslaskimon radiotaajuusablaatio,Vasen
-211184-925X,3000043,50000287,perjantai 19. elokuuta 2022,Läpivalaisu,
-200439-940H,3000049,50000323,perjantai 12. helmikuuta 2021,Spinaalipuudutus,
-200439-940H,3000049,50000323,perjantai 12. helmikuuta 2021,Säären amputaatio,Oikea
-251145-994N,3000052,50000356,keskiviikko 12. maaliskuuta 2025,Spinaalipuudutus,
-251145-994N,3000052,50000356,keskiviikko 12. maaliskuuta 2025,Säären amputaatio,Vasen
-010668-9035,3000053,50000396,keskiviikko 6. lokakuuta 2021,Paikallispuudutus,
-010668-9035,3000053,50000396,keskiviikko 6. lokakuuta 2021,Ison kehräslaskimon radiotaajuusablaatio,Oikea
-010668-9035,3000053,50000396,keskiviikko 6. lokakuuta 2021,Läpivalaisu,
-180351-913M,3000056,50000418,lauantai 6. toukokuuta 2023,Yleisanestesia,
-180351-913M,3000056,50000418,lauantai 6. toukokuuta 2023,Vatsa-aortan aneurysman stenttigraftihoito (EVAR),
-180351-913M,3000056,50000418,lauantai 6. toukokuuta 2023,Läpivalaisu,
-110551-916U,3000062,50000458,perjantai 6. kesäkuuta 2025,Spinaalipuudutus,
-110551-916U,3000062,50000458,perjantai 6. kesäkuuta 2025,Reisi-polvitaivevaltimon ohitusleikkaus laskimosiirteellä,Oikea
-010945-971U,3000064,50000499,torstai 8. joulukuuta 2022,Yleisanestesia,
-010945-971U,3000064,50000499,torstai 8. joulukuuta 2022,Kaulavaltimon endarterektomia,Oikea
-070335-921N,3000067,50000571,maanantai 13. toukokuuta 2019,Paikallispuudutus,
-070335-921N,3000067,50000571,maanantai 13. toukokuuta 2019,Reisivaltimon pallolaajennus ja stenttaus,Vasen
-070335-921N,3000067,50000571,maanantai 13. toukokuuta 2019,Läpivalaisu,
-040875-944U,3000073,50000617,perjantai 1. elokuuta 2025,Yleisanestesia,
-040875-944U,3000073,50000617,perjantai 1. elokuuta 2025,Kaulavaltimon endarterektomia,Oikea
-190648-914Y,3000074,50000640,keskiviikko 10. maaliskuuta 2021,Paikallispuudutus,
-190648-914Y,3000074,50000640,keskiviikko 10. maaliskuuta 2021,Kaulavaltimon endarterektomia,Oikea
-150543-996X,3000076,50000665,lauantai 22. maaliskuuta 2025,Paikallispuudutus,
-150543-996X,3000076,50000665,lauantai 22. maaliskuuta 2025,Reisivaltimon pallolaajennus ja stenttaus,Vasen
-150543-996X,3000076,50000665,lauantai 22. maaliskuuta 2025,Läpivalaisu,
-220272-962D,3000081,50000684,perjantai 3. maaliskuuta 2023,Paikallispuudutus,
-220272-962D,3000081,50000684,perjantai 3. maaliskuuta 2023,Ison kehräslaskimon radiotaajuusablaatio,Vasen
-220272-962D,3000081,50000684,perjantai 3. maaliskuuta 2023,Läpivalaisu,
-101237-983C,3000082,50000720,perjantai 22. syyskuuta 2023,Spinaalipuudutus,
-101237-983C,3000082,50000720,perjantai 22. syyskuuta 2023,Reisi-polvitaivevaltimon ohitusleikkaus laskimosiirteellä,Oikea
-270143-948W,3000087,50000743,perjantai 11. lokakuuta 2019,Yleisanestesia,
-270143-948W,3000087,50000743,perjantai 11. lokakuuta 2019,Kaulavaltimon endarterektomia,Vasen
-060739-9197,3000088,50000765,sunnuntai 21. huhtikuuta 2024,Paikallispuudutus,
-060739-9197,3000088,50000765,sunnuntai 21. huhtikuuta 2024,Reisivaltimon pallolaajennus ja stenttaus,Vasen
-060739-9197,3000088,50000765,sunnuntai 21. huhtikuuta 2024,Läpivalaisu,
-060171-990X,3000090,50000783,lauantai 22. helmikuuta 2020,Paikallispuudutus,
-060171-990X,3000090,50000783,lauantai 22. helmikuuta 2020,Ison kehräslaskimon radiotaajuusablaatio,Oikea
-060171-990X,3000090,50000783,lauantai 22. helmikuuta 2020,Läpivalaisu,
-161257-9124,3000093,50000831,lauantai 8. heinäkuuta 2023,Yleisanestesia,
-161257-9124,3000093,50000831,lauantai 8. heinäkuuta 2023,Vatsa-aortan aneurysman korjaus Y-proteesilla,
-030842-965B,3000094,50000934,sunnuntai 8. tammikuuta 2023,Yleisanestesia,
-030842-965B,3000094,50000934,sunnuntai 8. tammikuuta 2023,Reisi-polvitaivevaltimon ohitusleikkaus laskimosiirteellä,Oikea
-080336-993W,3000098,50000955,tiistai 5. heinäkuuta 2022,Yleisanestesia,
-080336-993W,3000098,50000955,tiistai 5. heinäkuuta 2022,Reisi-polvitaivevaltimon ohitusleikkaus laskimosiirteellä,Vasen
-021150-977K,3000101,50000991,keskiviikko 11. joulukuuta 2024,Yleisanestesia,
-021150-977K,3000101,50000991,keskiviikko 11. joulukuuta 2024,Alaraajavaltimon trombembolektomia,Oikea
-010641-989Y,3000107,50001013,tiistai 16. helmikuuta 2021,Paikallispuudutus,
-010641-989Y,3000107,50001013,tiistai 16. helmikuuta 2021,Reisivaltimon pallolaajennus ja stenttaus,Vasen
-010641-989Y,3000107,50001013,tiistai 16. helmikuuta 2021,Läpivalaisu,
-140636-921V,3000112,50001032,keskiviikko 25. toukokuuta 2022,Paikallispuudutus,
-140636-921V,3000112,50001032,keskiviikko 25. toukokuuta 2022,Reisivaltimon pallolaajennus ja stenttaus,Vasen
-140636-921V,3000112,50001032,keskiviikko 25. toukokuuta 2022,Läpivalaisu,
-161058-943S,3000115,50001049,torstai 8. syyskuuta 2022,Paikallispuudutus,
-161058-943S,3000115,50001049,torstai 8. syyskuuta 2022,Ison kehräslaskimon radiotaajuusablaatio,Oikea
-161058-943S,3000115,50001049,torstai 8. syyskuuta 2022,Läpivalaisu,
-310566-908B,3000117,50001064,tiistai 6. toukokuuta 2025,Paikallispuudutus,
-310566-908B,3000117,50001064,tiistai 6. toukokuuta 2025,Kaulavaltimon endarterektomia,Oikea
-270165-959X,3000121,50001085,perjantai 8. joulukuuta 2023,Paikallispuudutus,
-270165-959X,3000121,50001085,perjantai 8. joulukuuta 2023,Reisivaltimon pallolaajennus ja stenttaus,Oikea
-270165-959X,3000121,50001085,perjantai 8. joulukuuta 2023,Läpivalaisu,
-220146-9738,3000125,50001105,perjantai 13. kesäkuuta 2025,Spinaalipuudutus,
-220146-9738,3000125,50001105,perjantai 13. kesäkuuta 2025,Reisi-polvitaivevaltimon ohitusleikkaus laskimosiirteellä,Oikea
-100760-9120,3000126,50001147,perjantai 9. lokakuuta 2020,Paikallispuudutus,
-100760-9120,3000126,50001147,perjantai 9. lokakuuta 2020,Reisivaltimon pallolaajennus ja stenttaus,Oikea
-100760-9120,3000126,50001147,perjantai 9. lokakuuta 2020,Läpivalaisu,
-281139-980L,3000133,50001165,keskiviikko 16. syyskuuta 2020,Paikallispuudutus,
-281139-980L,3000133,50001165,keskiviikko 16. syyskuuta 2020,Reisivaltimon pallolaajennus ja stenttaus,Oikea
-281139-980L,3000133,50001165,keskiviikko 16. syyskuuta 2020,Läpivalaisu,
-311270-9712,3000138,50001182,tiistai 5. huhtikuuta 2022,Paikallispuudutus,
-311270-9712,3000138,50001182,tiistai 5. huhtikuuta 2022,Ison kehräslaskimon radiotaajuusablaatio,Vasen
-311270-9712,3000138,50001182,tiistai 5. huhtikuuta 2022,Läpivalaisu,
-150396-914B,3000145,50001203,lauantai 12. lokakuuta 2024,Paikallispuudutus,
-150396-914B,3000145,50001203,lauantai 12. lokakuuta 2024,Ison kehräslaskimon radiotaajuusablaatio,Oikea
-150396-914B,3000145,50001203,lauantai 12. lokakuuta 2024,Läpivalaisu,
-091053-9506,3000147,50001226,lauantai 29. helmikuuta 2020,Yleisanestesia,
-091053-9506,3000147,50001226,lauantai 29. helmikuuta 2020,Vatsa-aortan aneurysman korjaus Y-proteesilla,
-090983-996L,3000154,50001258,keskiviikko 6. huhtikuuta 2022,Paikallispuudutus,
-090983-996L,3000154,50001258,keskiviikko 6. huhtikuuta 2022,Ison kehräslaskimon radiotaajuusablaatio,Oikea
-090983-996L,3000154,50001258,keskiviikko 6. huhtikuuta 2022,Läpivalaisu,
-200252-954P,3000157,50001280,keskiviikko 23. kesäkuuta 2021,Yleisanestesia,
-200252-954P,3000157,50001280,keskiviikko 23. kesäkuuta 2021,Vatsa-aortan aneurysman stenttigraftihoito (EVAR),
-200252-954P,3000157,50001280,keskiviikko 23. kesäkuuta 2021,Läpivalaisu,
-100964-9019,3000158,50001302,maanantai 22. heinäkuuta 2019,Spinaalipuudutus,
-100964-9019,3000158,50001302,maanantai 22. heinäkuuta 2019,Säären amputaatio,Oikea
-050247-941A,3000164,50001319,maanantai 17. helmikuuta 2020,Yleisanestesia,
-050247-941A,3000164,50001319,maanantai 17. helmikuuta 2020,Alaraajavaltimon trombembolektomia,Vasen
-220737-968L,3000171,50001336,perjantai 29. heinäkuuta 2022,Yleisanestesia,
-220737-968L,3000171,50001336,perjantai 29. heinäkuuta 2022,Kaulavaltimon endarterektomia,Oikea
-030546-9992,3000172,50001380,torstai 30. toukokuuta 2024,Paikallispuudutus,
-030546-9992,3000172,50001380,torstai 30. toukokuuta 2024,Reisivaltimon pallolaajennus ja stenttaus,Oikea
-030546-9992,3000172,50001380,torstai 30. toukokuuta 2024,Läpivalaisu,
-050772-9547,3000177,50001431,sunnuntai 20. maaliskuuta 2022,Paikallispuudutus,
-050772-9547,3000177,50001431,sunnuntai 20. maaliskuuta 2022,Ison kehräslaskimon radiotaajuusablaatio,Oikea
-050772-9547,3000177,50001431,sunnuntai 20. maaliskuuta 2022,Läpivalaisu,
-180340-9555,3000181,50001448,maanantai 12. elokuuta 2019,Yleisanestesia,
-180340-9555,3000181,50001448,maanantai 12. elokuuta 2019,Vatsa-aortan aneurysman korjaus Y-proteesilla,
-150950-918E,3000184,50001467,torstai 29. kesäkuuta 2023,Yleisanestesia,
-150950-918E,3000184,50001467,torstai 29. kesäkuuta 2023,Alaraajavaltimon trombembolektomia,Oikea
-160946-9536,3000191,50001478,torstai 24. lokakuuta 2019,Paikallispuudutus,
-160946-9536,3000191,50001478,torstai 24. lokakuuta 2019,Reisivaltimon pallolaajennus ja stenttaus,Oikea
-160946-9536,3000191,50001478,torstai 24. lokakuuta 2019,Läpivalaisu,
-291241-9088,3000192,50001510,lauantai 14. joulukuuta 2019,Yleisanestesia,
-291241-9088,3000192,50001510,lauantai 14. joulukuuta 2019,Kaulavaltimon endarterektomia,Oikea
-310156-970J,3000195,50001532,keskiviikko 19. helmikuuta 2025,Yleisanestesia,
-310156-970J,3000195,50001532,keskiviikko 19. helmikuuta 2025,Vatsa-aortan aneurysman korjaus Y-proteesilla,
-080153-9786,3000199,50001553,torstai 24. lokakuuta 2019,Paikallispuudutus,
-080153-9786,3000199,50001553,torstai 24. lokakuuta 2019,Ison kehräslaskimon radiotaajuusablaatio,Vasen
-080153-9786,3000199,50001553,torstai 24. lokakuuta 2019,Läpivalaisu,
-190756-917X,3000204,50001585,tiistai 10. maaliskuuta 2020,Yleisanestesia,
-190756-917X,3000204,50001585,tiistai 10. maaliskuuta 2020,Vatsa-aortan aneurysman korjaus Y-proteesilla,
-200964-9488,3000207,50001602,sunnuntai 6. marraskuuta 2022,Paikallispuudutus,
-200964-9488,3000207,50001602,sunnuntai 6. marraskuuta 2022,Ison kehräslaskimon radiotaajuusablaatio,Oikea
-200964-9488,3000207,50001602,sunnuntai 6. marraskuuta 2022,Läpivalaisu,
-041143-932L,3000211,50001629,sunnuntai 14. toukokuuta 2023,Yleisanestesia,
-041143-932L,3000211,50001629,sunnuntai 14. toukokuuta 2023,Alaraajavaltimon trombembolektomia,Oikea
-130835-931W,3000214,50001664,maanantai 15. helmikuuta 2021,Yleisanestesia,
-130835-931W,3000214,50001664,maanantai 15. helmikuuta 2021,Alaraajavaltimon trombembolektomia,Oikea
-050871-979K,3000221,50001689,perjantai 17. kesäkuuta 2022,Yleisanestesia,
-050871-979K,3000221,50001689,perjantai 17. kesäkuuta 2022,Kaulavaltimon endarterektomia,Oikea
-221258-9682,3000228,50001706,torstai 10. kesäkuuta 2021,Spinaalipuudutus,
-221258-9682,3000228,50001706,torstai 10. kesäkuuta 2021,Reisi-polvitaivevaltimon ohitusleikkaus laskimosiirteellä,Oikea
-250543-997D,3000230,50001723,torstai 11. maaliskuuta 2021,Yleisanestesia,
-250543-997D,3000230,50001723,torstai 11. maaliskuuta 2021,Alaraajavaltimon trombembolektomia,Vasen
-180948-911M,3000235,50001735,maanantai 4. tammikuuta 2021,Yleisanestesia,
-180948-911M,3000235,50001735,maanantai 4. tammikuuta 2021,Vatsa-aortan aneurysman stenttigraftihoito (EVAR),
-180948-911M,3000235,50001735,maanantai 4. tammikuuta 2021,Läpivalaisu,
-140856-931Y,3000236,50001754,perjantai 8. marraskuuta 2024,Spinaalipuudutus,
-140856-931Y,3000236,50001754,perjantai 8. marraskuuta 2024,Reisi-polvitaivevaltimon ohitusleikkaus laskimosiirteellä,Oikea
-210854-9630,3000238,50001769,lauantai 28. elokuuta 2021,Yleisanestesia,
-210854-9630,3000238,50001769,lauantai 28. elokuuta 2021,Alaraajavaltimon trombembolektomia,Vasen
-100948-978M,3000241,50001791,tiistai 5. elokuuta 2025,Spinaalipuudutus,
-100948-978M,3000241,50001791,tiistai 5. elokuuta 2025,Reisi-polvitaivevaltimon ohitusleikkaus laskimosiirteellä,Vasen
-211162-946X,3000246,50001810,tiistai 29. heinäkuuta 2025,Paikallispuudutus,
-211162-946X,3000246,50001810,tiistai 29. heinäkuuta 2025,Ison kehräslaskimon radiotaajuusablaatio,Vasen
-211162-946X,3000246,50001810,tiistai 29. heinäkuuta 2025,Läpivalaisu,
-150339-955Y,3000250,50001849,torstai 3. lokakuuta 2019,Paikallispuudutus,
-150339-955Y,3000250,50001849,torstai 3. lokakuuta 2019,Kaulavaltimon endarterektomia,Vasen
-130453-963B,3000251,50001893,tiistai 31. tammikuuta 2023,Yleisanestesia,
-130453-963B,3000251,50001893,tiistai 31. tammikuuta 2023,Vatsa-aortan aneurysman stenttigraftihoito (EVAR),
-130453-963B,3000251,50001893,tiistai 31. tammikuuta 2023,Läpivalaisu,
-021254-987R,3000258,50001921,torstai 19. lokakuuta 2023,Spinaalipuudutus,
-021254-987R,3000258,50001921,torstai 19. lokakuuta 2023,Reisi-polvitaivevaltimon ohitusleikkaus laskimosiirteellä,Vasen
-231149-949Y,3000264,50001944,lauantai 7. joulukuuta 2019,Spinaalipuudutus,
-231149-949Y,3000264,50001944,lauantai 7. joulukuuta 2019,Reisi-polvitaivevaltimon ohitusleikkaus laskimosiirteellä,Vasen
-171053-989L,3000271,50001973,sunnuntai 30. kesäkuuta 2024,Paikallispuudutus,
-171053-989L,3000271,50001973,sunnuntai 30. kesäkuuta 2024,Kaulavaltimon endarterektomia,Vasen
-020347-927R,3000277,50001992,sunnuntai 3. toukokuuta 2020,Paikallispuudutus,
-020347-927R,3000277,50001992,sunnuntai 3. toukokuuta 2020,Ison kehräslaskimon radiotaajuusablaatio,Oikea
-020347-927R,3000277,50001992,sunnuntai 3. toukokuuta 2020,Läpivalaisu,
-161044-992R,3000280,50002045,perjantai 9. elokuuta 2024,Yleisanestesia,
-161044-992R,3000280,50002045,perjantai 9. elokuuta 2024,Kaulavaltimon endarterektomia,Vasen
-140526-927N,3000287,50002082,sunnuntai 13. maaliskuuta 2022,Yleisanestesia,
-140526-927N,3000287,50002082,sunnuntai 13. maaliskuuta 2022,Alaraajavaltimon trombembolektomia,Oikea
-021165-900Y,3000292,50002099,lauantai 26. lokakuuta 2019,Paikallispuudutus,
-021165-900Y,3000292,50002099,lauantai 26. lokakuuta 2019,Kaulavaltimon endarterektomia,Oikea
-040451-9077,3000295,50002137,perjantai 24. heinäkuuta 2020,Paikallispuudutus,
-040451-9077,3000295,50002137,perjantai 24. heinäkuuta 2020,Ison kehräslaskimon radiotaajuusablaatio,Vasen
-040451-9077,3000295,50002137,perjantai 24. heinäkuuta 2020,Läpivalaisu,
-241156-920F,3000297,50002166,keskiviikko 11. joulukuuta 2024,Paikallispuudutus,
-241156-920F,3000297,50002166,keskiviikko 11. joulukuuta 2024,Kaulavaltimon endarterektomia,Oikea
-020163-9256,3000301,50002208,perjantai 8. syyskuuta 2023,Spinaalipuudutus,
-020163-9256,3000301,50002208,perjantai 8. syyskuuta 2023,Säären amputaatio,Oikea
-100348-9917,3000304,50002255,lauantai 1. marraskuuta 2025,Yleisanestesia,
-100348-9917,3000304,50002255,lauantai 1. marraskuuta 2025,Reisi-polvitaivevaltimon ohitusleikkaus laskimosiirteellä,Oikea
-180251-9279,3000309,50002268,keskiviikko 13. marraskuuta 2019,Yleisanestesia,
-180251-9279,3000309,50002268,keskiviikko 13. marraskuuta 2019,Vatsa-aortan aneurysman korjaus Y-proteesilla,
-250545-985J,3000311,50002295,maanantai 27. syyskuuta 2021,Yleisanestesia,
-250545-985J,3000311,50002295,maanantai 27. syyskuuta 2021,Kaulavaltimon endarterektomia,Oikea
-301065-948S,3000316,50002329,tiistai 4. helmikuuta 2025,Paikallispuudutus,
-301065-948S,3000316,50002329,tiistai 4. helmikuuta 2025,Reisivaltimon pallolaajennus ja stenttaus,Vasen
-301065-948S,3000316,50002329,tiistai 4. helmikuuta 2025,Läpivalaisu,
-070840-900A,3000317,50002369,sunnuntai 29. marraskuuta 2020,Yleisanestesia,
-070840-900A,3000317,50002369,sunnuntai 29. marraskuuta 2020,Alaraajavaltimon trombembolektomia,Oikea
-050459-925H,3000320,50002378,lauantai 11. kesäkuuta 2022,Yleisanestesia,
-050459-925H,3000320,50002378,lauantai 11. kesäkuuta 2022,Kaulavaltimon endarterektomia,Vasen
-190252-920Y,3000321,50002421,keskiviikko 18. joulukuuta 2024,Yleisanestesia,
-190252-920Y,3000321,50002421,keskiviikko 18. joulukuuta 2024,Vatsa-aortan aneurysman korjaus Y-proteesilla,
-250337-9303,3000325,50002439,keskiviikko 3. maaliskuuta 2021,Paikallispuudutus,
-250337-9303,3000325,50002439,keskiviikko 3. maaliskuuta 2021,Reisivaltimon pallolaajennus ja stenttaus,Oikea
-250337-9303,3000325,50002439,keskiviikko 3. maaliskuuta 2021,Läpivalaisu,
-051140-9790,3000332,50002461,sunnuntai 7. heinäkuuta 2019,Yleisanestesia,
-051140-9790,3000332,50002461,sunnuntai 7. heinäkuuta 2019,Vatsa-aortan aneurysman stenttigraftihoito (EVAR),
-051140-9790,3000332,50002461,sunnuntai 7. heinäkuuta 2019,Läpivalaisu,
-090646-9859,3000336,50002520,torstai 21. marraskuuta 2024,Yleisanestesia,
-090646-9859,3000336,50002520,torstai 21. marraskuuta 2024,Alaraajavaltimon trombembolektomia,Oikea
-021172-982D,3000339,50002564,keskiviikko 1. lokakuuta 2025,Yleisanestesia,
-021172-982D,3000339,50002564,keskiviikko 1. lokakuuta 2025,Säären amputaatio,Oikea
-020769-935W,3000345,50002621,keskiviikko 7. huhtikuuta 2021,Paikallispuudutus,
-020769-935W,3000345,50002621,keskiviikko 7. huhtikuuta 2021,Ison kehräslaskimon radiotaajuusablaatio,Oikea
-020769-935W,3000345,50002621,keskiviikko 7. huhtikuuta 2021,Läpivalaisu,
-211057-9266,3000349,50002693,maanantai 22. helmikuuta 2021,Paikallispuudutus,
-211057-9266,3000349,50002693,maanantai 22. helmikuuta 2021,Ison kehräslaskimon radiotaajuusablaatio,Oikea
-211057-9266,3000349,50002693,maanantai 22. helmikuuta 2021,Läpivalaisu,
-170483-934R,3000350,50002711,tiistai 7. tammikuuta 2020,Paikallispuudutus,
-170483-934R,3000350,50002711,tiistai 7. tammikuuta 2020,Ison kehräslaskimon radiotaajuusablaatio,Vasen
-170483-934R,3000350,50002711,tiistai 7. tammikuuta 2020,Läpivalaisu,
-211241-924L,3000351,50002727,tiistai 22. lokakuuta 2024,Yleisanestesia,
-211241-924L,3000351,50002727,tiistai 22. lokakuuta 2024,Alaraajavaltimon trombembolektomia,Oikea
-011159-986J,3000353,50002745,perjantai 12. huhtikuuta 2019,Yleisanestesia,
-011159-986J,3000353,50002745,perjantai 12. huhtikuuta 2019,Reisi-polvitaivevaltimon ohitusleikkaus laskimosiirteellä,Oikea
-290542-907U,3000355,50002775,sunnuntai 20. lokakuuta 2019,Paikallispuudutus,
-290542-907U,3000355,50002775,sunnuntai 20. lokakuuta 2019,Kaulavaltimon endarterektomia,Oikea
-040549-912N,3000358,50002788,tiistai 9. maaliskuuta 2021,Spinaalipuudutus,
-040549-912N,3000358,50002788,tiistai 9. maaliskuuta 2021,Reisi-polvitaivevaltimon ohitusleikkaus laskimosiirteellä,Oikea
-151175-915D,3000364,50002832,perjantai 29. elokuuta 2025,Paikallispuudutus,
-151175-915D,3000364,50002832,perjantai 29. elokuuta 2025,Ison kehräslaskimon radiotaajuusablaatio,Oikea
-151175-915D,3000364,50002832,perjantai 29. elokuuta 2025,Läpivalaisu,
-260449-954D,3000371,50002849,lauantai 21. joulukuuta 2019,Yleisanestesia,
-260449-954D,3000371,50002849,lauantai 21. joulukuuta 2019,Alaraajavaltimon trombembolektomia,Vasen
-310835-970S,3000377,50002866,lauantai 30. tammikuuta 2021,Yleisanestesia,
-310835-970S,3000377,50002866,lauantai 30. tammikuuta 2021,Reisi-polvitaivevaltimon ohitusleikkaus laskimosiirteellä,Oikea
-160962-987D,3000380,50002912,maanantai 15. syyskuuta 2025,Spinaalipuudutus,
-160962-987D,3000380,50002912,maanantai 15. syyskuuta 2025,Reisi-polvitaivevaltimon ohitusleikkaus laskimosiirteellä,Oikea
-280830-981W,3000383,50002937,tiistai 8. elokuuta 2023,Paikallispuudutus,
-280830-981W,3000383,50002937,tiistai 8. elokuuta 2023,Reisivaltimon pallolaajennus ja stenttaus,Vasen
-280830-981W,3000383,50002937,tiistai 8. elokuuta 2023,Läpivalaisu,
-240870-9344,3000386,50003018,perjantai 27. lokakuuta 2023,Paikallispuudutus,
-240870-9344,3000386,50003018,perjantai 27. lokakuuta 2023,Ison kehräslaskimon radiotaajuusablaatio,Oikea
-240870-9344,3000386,50003018,perjantai 27. lokakuuta 2023,Läpivalaisu,
-040462-9382,3000389,50003063,sunnuntai 20. heinäkuuta 2025,Spinaalipuudutus,
-040462-9382,3000389,50003063,sunnuntai 20. heinäkuuta 2025,Reisi-polvitaivevaltimon ohitusleikkaus laskimosiirteellä,Vasen
-220259-951P,3000393,50003085,keskiviikko 27. joulukuuta 2023,Paikallispuudutus,
-220259-951P,3000393,50003085,keskiviikko 27. joulukuuta 2023,Reisivaltimon pallolaajennus ja stenttaus,Vasen
-220259-951P,3000393,50003085,keskiviikko 27. joulukuuta 2023,Läpivalaisu,
-301052-9106,3000395,50003103,sunnuntai 15. syyskuuta 2019,Paikallispuudutus,
-301052-9106,3000395,50003103,sunnuntai 15. syyskuuta 2019,Kaulavaltimon endarterektomia,Vasen
-230741-9612,3000397,50003130,maanantai 28. lokakuuta 2019,Spinaalipuudutus,
-230741-9612,3000397,50003130,maanantai 28. lokakuuta 2019,Reisi-polvitaivevaltimon ohitusleikkaus laskimosiirteellä,Vasen
-280748-939C,3000398,50003193,torstai 18. maaliskuuta 2021,Yleisanestesia,
-280748-939C,3000398,50003193,torstai 18. maaliskuuta 2021,Alaraajavaltimon trombembolektomia,Oikea
-200481-923T,3000405,50003208,tiistai 2. tammikuuta 2024,Paikallispuudutus,
-200481-923T,3000405,50003208,tiistai 2. tammikuuta 2024,Ison kehräslaskimon radiotaajuusablaatio,Oikea
-200481-923T,3000405,50003208,tiistai 2. tammikuuta 2024,Läpivalaisu,
-201160-901A,3000406,50003227,perjantai 31. joulukuuta 2021,Paikallispuudutus,
-201160-901A,3000406,50003227,perjantai 31. joulukuuta 2021,Kaulavaltimon endarterektomia,Oikea
-020335-962S,3000409,50003260,maanantai 13. heinäkuuta 2020,Paikallispuudutus,
-020335-962S,3000409,50003260,maanantai 13. heinäkuuta 2020,Reisivaltimon pallolaajennus ja stenttaus,Oikea
-020335-962S,3000409,50003260,maanantai 13. heinäkuuta 2020,Läpivalaisu,
-171138-930M,3000412,50003300,perjantai 14. toukokuuta 2021,Yleisanestesia,
-171138-930M,3000412,50003300,perjantai 14. toukokuuta 2021,Vatsa-aortan aneurysman stenttigraftihoito (EVAR),
-171138-930M,3000412,50003300,perjantai 14. toukokuuta 2021,Läpivalaisu,
-261129-9293,3000416,50003328,keskiviikko 26. kesäkuuta 2019,Yleisanestesia,
-261129-9293,3000416,50003328,keskiviikko 26. kesäkuuta 2019,Alaraajavaltimon trombembolektomia,Vasen
-140932-989E,3000423,50003348,maanantai 5. joulukuuta 2022,Paikallispuudutus,
-140932-989E,3000423,50003348,maanantai 5. joulukuuta 2022,Reisivaltimon pallolaajennus ja stenttaus,Oikea
-140932-989E,3000423,50003348,maanantai 5. joulukuuta 2022,Läpivalaisu,
-151237-9983,3000426,50003371,perjantai 14. tammikuuta 2022,Yleisanestesia,
-151237-9983,3000426,50003371,perjantai 14. tammikuuta 2022,Alaraajavaltimon trombembolektomia,Vasen
-220342-9171,3000431,50003384,keskiviikko 7. helmikuuta 2024,Yleisanestesia,
-220342-9171,3000431,50003384,keskiviikko 7. helmikuuta 2024,Vatsa-aortan aneurysman stenttigraftihoito (EVAR),
-220342-9171,3000431,50003384,keskiviikko 7. helmikuuta 2024,Läpivalaisu,
-101187-955K,3000436,50003396,keskiviikko 1. toukokuuta 2019,Paikallispuudutus,
-101187-955K,3000436,50003396,keskiviikko 1. toukokuuta 2019,Ison kehräslaskimon radiotaajuusablaatio,Vasen
-101187-955K,3000436,50003396,keskiviikko 1. toukokuuta 2019,Läpivalaisu,
-130156-933R,3000439,50003418,keskiviikko 10. helmikuuta 2021,Paikallispuudutus,
-130156-933R,3000439,50003418,keskiviikko 10. helmikuuta 2021,Reisivaltimon pallolaajennus ja stenttaus,Vasen
-130156-933R,3000439,50003418,keskiviikko 10. helmikuuta 2021,Läpivalaisu,
-170644-935A,3000445,50003452,perjantai 30. joulukuuta 2022,Yleisanestesia,
-170644-935A,3000445,50003452,perjantai 30. joulukuuta 2022,Vatsa-aortan aneurysman korjaus Y-proteesilla,
-070639-9203,3000447,50003508,keskiviikko 18. lokakuuta 2023,Yleisanestesia,
-070639-9203,3000447,50003508,keskiviikko 18. lokakuuta 2023,Alaraajavaltimon trombembolektomia,Vasen
-280450-969E,3000450,50003524,perjantai 20. kesäkuuta 2025,Yleisanestesia,
-280450-969E,3000450,50003524,perjantai 20. kesäkuuta 2025,Alaraajavaltimon trombembolektomia,Vasen
-310354-9832,3000454,50003539,keskiviikko 9. lokakuuta 2024,Yleisanestesia,
-310354-9832,3000454,50003539,keskiviikko 9. lokakuuta 2024,Alaraajavaltimon trombembolektomia,Oikea
-150871-9492,3000459,50003551,torstai 6. lokakuuta 2022,Paikallispuudutus,
-150871-9492,3000459,50003551,torstai 6. lokakuuta 2022,Ison kehräslaskimon radiotaajuusablaatio,Oikea
-150871-9492,3000459,50003551,torstai 6. lokakuuta 2022,Läpivalaisu,
-140936-902N,3000466,50003573,torstai 13. kesäkuuta 2019,Paikallispuudutus,
-140936-902N,3000466,50003573,torstai 13. kesäkuuta 2019,Reisivaltimon pallolaajennus ja stenttaus,Oikea
-140936-902N,3000466,50003573,torstai 13. kesäkuuta 2019,Läpivalaisu,
-111043-9563,3000472,50003596,tiistai 23. helmikuuta 2021,Yleisanestesia,
-111043-9563,3000472,50003596,tiistai 23. helmikuuta 2021,Alaraajavaltimon trombembolektomia,Vasen
-160327-9755,3000474,50003610,sunnuntai 14. helmikuuta 2021,Paikallispuudutus,
-160327-9755,3000474,50003610,sunnuntai 14. helmikuuta 2021,Reisivaltimon pallolaajennus ja stenttaus,Vasen
-160327-9755,3000474,50003610,sunnuntai 14. helmikuuta 2021,Läpivalaisu,
-220463-981A,3000478,50003639,sunnuntai 11. elokuuta 2024,Yleisanestesia,
-220463-981A,3000478,50003639,sunnuntai 11. elokuuta 2024,Säären amputaatio,Oikea
-020942-975U,3000484,50003698,torstai 19. syyskuuta 2019,Yleisanestesia,
-020942-975U,3000484,50003698,torstai 19. syyskuuta 2019,Alaraajavaltimon trombembolektomia,Vasen
-120853-946C,3000490,50003716,lauantai 19. syyskuuta 2020,Yleisanestesia,
-120853-946C,3000490,50003716,lauantai 19. syyskuuta 2020,Alaraajavaltimon trombembolektomia,Vasen
-091275-9704,3000496,50003755,torstai 29. lokakuuta 2020,Paikallispuudutus,
-091275-9704,3000496,50003755,torstai 29. lokakuuta 2020,Ison kehräslaskimon radiotaajuusablaatio,Vasen
-091275-9704,3000496,50003755,torstai 29. lokakuuta 2020,Läpivalaisu,
-091162-995S,3000503,50003786,lauantai 3. syyskuuta 2022,Yleisanestesia,
-091162-995S,3000503,50003786,lauantai 3. syyskuuta 2022,Kaulavaltimon endarterektomia,Vasen
-140337-974D,3000506,50003811,keskiviikko 10. kesäkuuta 2020,Yleisanestesia,
-140337-974D,3000506,50003811,keskiviikko 10. kesäkuuta 2020,Alaraajavaltimon trombembolektomia,Oikea
-080952-9062,3000508,50003823,sunnuntai 16. maaliskuuta 2025,Paikallispuudutus,
-080952-9062,3000508,50003823,sunnuntai 16. maaliskuuta 2025,Reisivaltimon pallolaajennus ja stenttaus,Oikea
-080952-9062,3000508,50003823,sunnuntai 16. maaliskuuta 2025,Läpivalaisu,
-121081-923F,3000511,50003874,keskiviikko 29. huhtikuuta 2020,Paikallispuudutus,
-121081-923F,3000511,50003874,keskiviikko 29. huhtikuuta 2020,Ison kehräslaskimon radiotaajuusablaatio,Oikea
-121081-923F,3000511,50003874,keskiviikko 29. huhtikuuta 2020,Läpivalaisu,
-060853-980L,3000515,50003893,sunnuntai 26. lokakuuta 2025,Yleisanestesia,
-060853-980L,3000515,50003893,sunnuntai 26. lokakuuta 2025,Vatsa-aortan aneurysman korjaus Y-proteesilla,
-170242-911T,3000521,50003947,maanantai 16. lokakuuta 2023,Yleisanestesia,
-170242-911T,3000521,50003947,maanantai 16. lokakuuta 2023,Alaraajavaltimon trombembolektomia,Vasen
-120538-9197,3000523,50003969,torstai 1. heinäkuuta 2021,Paikallispuudutus,
-120538-9197,3000523,50003969,torstai 1. heinäkuuta 2021,Kaulavaltimon endarterektomia,Vasen
-200874-969P,3000528,50003987,keskiviikko 1. tammikuuta 2025,Paikallispuudutus,
-200874-969P,3000528,50003987,keskiviikko 1. tammikuuta 2025,Ison kehräslaskimon radiotaajuusablaatio,Vasen
-200874-969P,3000528,50003987,keskiviikko 1. tammikuuta 2025,Läpivalaisu,
-221157-9691,3000530,50004009,keskiviikko 3. heinäkuuta 2024,Spinaalipuudutus,
-221157-9691,3000530,50004009,keskiviikko 3. heinäkuuta 2024,Reisi-polvitaivevaltimon ohitusleikkaus laskimosiirteellä,Oikea
-180860-959F,3000532,50004032,perjantai 4. maaliskuuta 2022,Yleisanestesia,
-180860-959F,3000532,50004032,perjantai 4. maaliskuuta 2022,Säären amputaatio,Oikea
-080159-9328,3000537,50004071,keskiviikko 18. syyskuuta 2024,Yleisanestesia,
-080159-9328,3000537,50004071,keskiviikko 18. syyskuuta 2024,Reisi-polvitaivevaltimon ohitusleikkaus laskimosiirteellä,Oikea
-070276-934V,3000541,50004105,perjantai 9. helmikuuta 2024,Paikallispuudutus,
-070276-934V,3000541,50004105,perjantai 9. helmikuuta 2024,Ison kehräslaskimon radiotaajuusablaatio,Oikea
-070276-934V,3000541,50004105,perjantai 9. helmikuuta 2024,Läpivalaisu,
-261143-993S,3000542,50004123,tiistai 13. kesäkuuta 2023,Yleisanestesia,
-261143-993S,3000542,50004123,tiistai 13. kesäkuuta 2023,Reisi-polvitaivevaltimon ohitusleikkaus laskimosiirteellä,Oikea
-210646-946S,3000545,50004144,tiistai 2. elokuuta 2022,Yleisanestesia,
-210646-946S,3000545,50004144,tiistai 2. elokuuta 2022,Alaraajavaltimon trombembolektomia,Vasen
-260260-9738,3000550,50004158,lauantai 6. tammikuuta 2024,Yleisanestesia,
-260260-9738,3000550,50004158,lauantai 6. tammikuuta 2024,Alaraajavaltimon trombembolektomia,Vasen
-161147-9543,3000556,50004168,maanantai 9. joulukuuta 2019,Yleisanestesia,
-161147-9543,3000556,50004168,maanantai 9. joulukuuta 2019,Vatsa-aortan aneurysman korjaus Y-proteesilla,
-100949-975T,3000563,50004190,perjantai 15. tammikuuta 2021,Yleisanestesia,
-100949-975T,3000563,50004190,perjantai 15. tammikuuta 2021,Vatsa-aortan aneurysman stenttigraftihoito (EVAR),
-100949-975T,3000563,50004190,perjantai 15. tammikuuta 2021,Läpivalaisu,
-091289-9835,3000567,50004228,torstai 25. tammikuuta 2024,Paikallispuudutus,
-091289-9835,3000567,50004228,torstai 25. tammikuuta 2024,Ison kehräslaskimon radiotaajuusablaatio,Oikea
-091289-9835,3000567,50004228,torstai 25. tammikuuta 2024,Läpivalaisu,
-180852-945Y,3000568,50004255,tiistai 1. elokuuta 2023,Paikallispuudutus,
-180852-945Y,3000568,50004255,tiistai 1. elokuuta 2023,Kaulavaltimon endarterektomia,Vasen
-100939-916A,3000569,50004281,torstai 6. huhtikuuta 2023,Yleisanestesia,
-100939-916A,3000569,50004281,torstai 6. huhtikuuta 2023,Säären amputaatio,Vasen
-141240-944F,3000572,50004313,torstai 9. heinäkuuta 2020,Yleisanestesia,
-141240-944F,3000572,50004313,torstai 9. heinäkuuta 2020,Säären amputaatio,Oikea
-160262-925S,3000579,50004330,keskiviikko 17. syyskuuta 2025,Paikallispuudutus,
-160262-925S,3000579,50004330,keskiviikko 17. syyskuuta 2025,Ison kehräslaskimon radiotaajuusablaatio,Vasen
-160262-925S,3000579,50004330,keskiviikko 17. syyskuuta 2025,Läpivalaisu,
-190560-9458,3000585,50004352,torstai 28. heinäkuuta 2022,Yleisanestesia,
-190560-9458,3000585,50004352,torstai 28. heinäkuuta 2022,Alaraajavaltimon trombembolektomia,Oikea
-090866-934D,3000591,50004366,perjantai 22. lokakuuta 2021,Paikallispuudutus,
-090866-934D,3000591,50004366,perjantai 22. lokakuuta 2021,Ison kehräslaskimon radiotaajuusablaatio,Vasen
-090866-934D,3000591,50004366,perjantai 22. lokakuuta 2021,Läpivalaisu,
-021139-983X,3000597,50004381,sunnuntai 14. kesäkuuta 2020,Paikallispuudutus,
-021139-983X,3000597,50004381,sunnuntai 14. kesäkuuta 2020,Reisivaltimon pallolaajennus ja stenttaus,Oikea
-021139-983X,3000597,50004381,sunnuntai 14. kesäkuuta 2020,Läpivalaisu,
-250757-9792,3000599,50004394,keskiviikko 15. toukokuuta 2019,Yleisanestesia,
-250757-9792,3000599,50004394,keskiviikko 15. toukokuuta 2019,Kaulavaltimon endarterektomia,Oikea
-261244-953J,3000601,50004422,maanantai 22. heinäkuuta 2024,Paikallispuudutus,
-261244-953J,3000601,50004422,maanantai 22. heinäkuuta 2024,Kaulavaltimon endarterektomia,Vasen
-150936-9606,3000608,50004443,lauantai 16. marraskuuta 2024,Yleisanestesia,
-150936-9606,3000608,50004443,lauantai 16. marraskuuta 2024,Reisi-polvitaivevaltimon ohitusleikkaus laskimosiirteellä,Oikea
-031266-967U,3000614,50004518,sunnuntai 9. lokakuuta 2022,Yleisanestesia,
-031266-967U,3000614,50004518,sunnuntai 9. lokakuuta 2022,Kaulavaltimon endarterektomia,Oikea
-211156-925P,3000619,50004539,perjantai 28. kesäkuuta 2024,Yleisanestesia,
-211156-925P,3000619,50004539,perjantai 28. kesäkuuta 2024,Alaraajavaltimon trombembolektomia,Oikea
-270742-955P,3000624,50004548,lauantai 27. helmikuuta 2021,Yleisanestesia,
-270742-955P,3000624,50004548,lauantai 27. helmikuuta 2021,Vatsa-aortan aneurysman stenttigraftihoito (EVAR),
-270742-955P,3000624,50004548,lauantai 27. helmikuuta 2021,Läpivalaisu,
-161244-934F,3000631,50004570,sunnuntai 4. heinäkuuta 2021,Paikallispuudutus,
-161244-934F,3000631,50004570,sunnuntai 4. heinäkuuta 2021,Kaulavaltimon endarterektomia,Vasen
-151142-9235,3000636,50004593,tiistai 27. elokuuta 2019,Yleisanestesia,
-151142-9235,3000636,50004593,tiistai 27. elokuuta 2019,Alaraajavaltimon trombembolektomia,Vasen
-280775-938A,3000641,50004635,sunnuntai 23. elokuuta 2020,Paikallispuudutus,
-280775-938A,3000641,50004635,sunnuntai 23. elokuuta 2020,Reisivaltimon pallolaajennus ja stenttaus,Vasen
-280775-938A,3000641,50004635,sunnuntai 23. elokuuta 2020,Läpivalaisu,
-090754-9246,3000646,50004669,perjantai 7. helmikuuta 2025,Yleisanestesia,
-090754-9246,3000646,50004669,perjantai 7. helmikuuta 2025,Vatsa-aortan aneurysman stenttigraftihoito (EVAR),
-090754-9246,3000646,50004669,perjantai 7. helmikuuta 2025,Läpivalaisu,
-160370-922J,3000647,50004685,perjantai 16. elokuuta 2024,Paikallispuudutus,
-160370-922J,3000647,50004685,perjantai 16. elokuuta 2024,Ison kehräslaskimon radiotaajuusablaatio,Vasen
-160370-922J,3000647,50004685,perjantai 16. elokuuta 2024,Läpivalaisu,
-080143-9977,3000648,50004703,perjantai 30. elokuuta 2024,Yleisanestesia,
-080143-9977,3000648,50004703,perjantai 30. elokuuta 2024,Vatsa-aortan aneurysman korjaus Y-proteesilla,
-241050-974V,3000653,50004723,perjantai 2. heinäkuuta 2021,Spinaalipuudutus,
-241050-974V,3000653,50004723,perjantai 2. heinäkuuta 2021,Säären amputaatio,Oikea
-170457-9407,3000654,50004745,maanantai 11. marraskuuta 2024,Yleisanestesia,
-170457-9407,3000654,50004745,maanantai 11. marraskuuta 2024,Vatsa-aortan aneurysman stenttigraftihoito (EVAR),
-170457-9407,3000654,50004745,maanantai 11. marraskuuta 2024,Läpivalaisu,
-020239-949K,3000658,50004776,torstai 23. syyskuuta 2021,Paikallispuudutus,
-020239-949K,3000658,50004776,torstai 23. syyskuuta 2021,Reisivaltimon pallolaajennus ja stenttaus,Oikea
-020239-949K,3000658,50004776,torstai 23. syyskuuta 2021,Läpivalaisu,
-210149-948K,3000663,50004789,keskiviikko 18. joulukuuta 2024,Paikallispuudutus,
-210149-948K,3000663,50004789,keskiviikko 18. joulukuuta 2024,Reisivaltimon pallolaajennus ja stenttaus,Vasen
-210149-948K,3000663,50004789,keskiviikko 18. joulukuuta 2024,Läpivalaisu,
-100744-928C,3000668,50004805,tiistai 3. syyskuuta 2019,Paikallispuudutus,
-100744-928C,3000668,50004805,tiistai 3. syyskuuta 2019,Reisivaltimon pallolaajennus ja stenttaus,Vasen
-100744-928C,3000668,50004805,tiistai 3. syyskuuta 2019,Läpivalaisu,
-140954-920W,3000669,50004882,perjantai 16. heinäkuuta 2021,Paikallispuudutus,
-140954-920W,3000669,50004882,perjantai 16. heinäkuuta 2021,Reisivaltimon pallolaajennus ja stenttaus,Vasen
-140954-920W,3000669,50004882,perjantai 16. heinäkuuta 2021,Läpivalaisu,
-050664-929J,3000674,50004914,torstai 2. toukokuuta 2024,Paikallispuudutus,
-050664-929J,3000674,50004914,torstai 2. toukokuuta 2024,Reisivaltimon pallolaajennus ja stenttaus,Vasen
-050664-929J,3000674,50004914,torstai 2. toukokuuta 2024,Läpivalaisu,
-170565-961S,3000677,50004933,maanantai 1. heinäkuuta 2024,Paikallispuudutus,
-170565-961S,3000677,50004933,maanantai 1. heinäkuuta 2024,Ison kehräslaskimon radiotaajuusablaatio,Vasen
-170565-961S,3000677,50004933,maanantai 1. heinäkuuta 2024,Läpivalaisu,
-120944-9256,3000684,50004962,sunnuntai 5. huhtikuuta 2020,Paikallispuudutus,
-120944-9256,3000684,50004962,sunnuntai 5. huhtikuuta 2020,Kaulavaltimon endarterektomia,Oikea
-171046-9983,3000691,50004996,tiistai 20. helmikuuta 2024,Paikallispuudutus,
-171046-9983,3000691,50004996,tiistai 20. helmikuuta 2024,Reisivaltimon pallolaajennus ja stenttaus,Vasen
-171046-9983,3000691,50004996,tiistai 20. helmikuuta 2024,Läpivalaisu,
-290855-9876,3000692,50005020,lauantai 12. elokuuta 2023,Yleisanestesia,
-290855-9876,3000692,50005020,lauantai 12. elokuuta 2023,Reisi-polvitaivevaltimon ohitusleikkaus laskimosiirteellä,Vasen
-170973-980N,3000694,50005039,torstai 24. lokakuuta 2019,Paikallispuudutus,
-170973-980N,3000694,50005039,torstai 24. lokakuuta 2019,Ison kehräslaskimon radiotaajuusablaatio,Vasen
-170973-980N,3000694,50005039,torstai 24. lokakuuta 2019,Läpivalaisu,
-210142-9561,3000700,50005057,keskiviikko 3. helmikuuta 2021,Paikallispuudutus,
-210142-9561,3000700,50005057,keskiviikko 3. helmikuuta 2021,Ison kehräslaskimon radiotaajuusablaatio,Vasen
-210142-9561,3000700,50005057,keskiviikko 3. helmikuuta 2021,Läpivalaisu,
-280954-952Y,3000705,50005083,tiistai 31. elokuuta 2021,Yleisanestesia,
-280954-952Y,3000705,50005083,tiistai 31. elokuuta 2021,Vatsa-aortan aneurysman korjaus Y-proteesilla,
-110254-9476,3000709,50005124,sunnuntai 16. toukokuuta 2021,Yleisanestesia,
-110254-9476,3000709,50005124,sunnuntai 16. toukokuuta 2021,Alaraajavaltimon trombembolektomia,Vasen
-130646-926Y,3000715,50005145,maanantai 15. tammikuuta 2024,Paikallispuudutus,
-130646-926Y,3000715,50005145,maanantai 15. tammikuuta 2024,Reisivaltimon pallolaajennus ja stenttaus,Vasen
-130646-926Y,3000715,50005145,maanantai 15. tammikuuta 2024,Läpivalaisu,
-301268-968T,3000719,50005170,maanantai 3. kesäkuuta 2019,Paikallispuudutus,
-301268-968T,3000719,50005170,maanantai 3. kesäkuuta 2019,Ison kehräslaskimon radiotaajuusablaatio,Vasen
-301268-968T,3000719,50005170,maanantai 3. kesäkuuta 2019,Läpivalaisu,
-040842-901X,3000720,50005220,tiistai 17. maaliskuuta 2020,Paikallispuudutus,
-040842-901X,3000720,50005220,tiistai 17. maaliskuuta 2020,Reisivaltimon pallolaajennus ja stenttaus,Oikea
-040842-901X,3000720,50005220,tiistai 17. maaliskuuta 2020,Läpivalaisu,
-190245-962H,3000727,50005256,lauantai 22. heinäkuuta 2023,Paikallispuudutus,
-190245-962H,3000727,50005256,lauantai 22. heinäkuuta 2023,Reisivaltimon pallolaajennus ja stenttaus,Oikea
-190245-962H,3000727,50005256,lauantai 22. heinäkuuta 2023,Läpivalaisu,
-140736-926U,3000733,50005276,maanantai 29. heinäkuuta 2019,Paikallispuudutus,
-140736-926U,3000733,50005276,maanantai 29. heinäkuuta 2019,Reisivaltimon pallolaajennus ja stenttaus,Vasen
-140736-926U,3000733,50005276,maanantai 29. heinäkuuta 2019,Läpivalaisu,
-130545-971B,3000737,50005290,keskiviikko 22. marraskuuta 2023,Paikallispuudutus,
-130545-971B,3000737,50005290,keskiviikko 22. marraskuuta 2023,Reisivaltimon pallolaajennus ja stenttaus,Oikea
-130545-971B,3000737,50005290,keskiviikko 22. marraskuuta 2023,Läpivalaisu,
-300852-979T,3000744,50005354,keskiviikko 1. syyskuuta 2021,Paikallispuudutus,
-300852-979T,3000744,50005354,keskiviikko 1. syyskuuta 2021,Ison kehräslaskimon radiotaajuusablaatio,Oikea
-300852-979T,3000744,50005354,keskiviikko 1. syyskuuta 2021,Läpivalaisu,
-150355-900A,3000749,50005397,perjantai 18. syyskuuta 2020,Yleisanestesia,
-150355-900A,3000749,50005397,perjantai 18. syyskuuta 2020,Säären amputaatio,Oikea
-030382-965M,3000754,50005435,perjantai 19. toukokuuta 2023,Paikallispuudutus,
-030382-965M,3000754,50005435,perjantai 19. toukokuuta 2023,Ison kehräslaskimon radiotaajuusablaatio,Oikea
-030382-965M,3000754,50005435,perjantai 19. toukokuuta 2023,Läpivalaisu,
-041141-957W,3000760,50005452,sunnuntai 1. elokuuta 2021,Paikallispuudutus,
-041141-957W,3000760,50005452,sunnuntai 1. elokuuta 2021,Kaulavaltimon endarterektomia,Vasen
-051155-969J,3000765,50005548,perjantai 24. marraskuuta 2023,Paikallispuudutus,
-051155-969J,3000765,50005548,perjantai 24. marraskuuta 2023,Reisivaltimon pallolaajennus ja stenttaus,Vasen
-051155-969J,3000765,50005548,perjantai 24. marraskuuta 2023,Läpivalaisu,
-080246-938W,3000767,50005597,perjantai 25. heinäkuuta 2025,Yleisanestesia,
-080246-938W,3000767,50005597,perjantai 25. heinäkuuta 2025,Vatsa-aortan aneurysman stenttigraftihoito (EVAR),
-080246-938W,3000767,50005597,perjantai 25. heinäkuuta 2025,Läpivalaisu,
-101141-901Y,3000768,50005657,perjantai 19. huhtikuuta 2019,Paikallispuudutus,
-101141-901Y,3000768,50005657,perjantai 19. huhtikuuta 2019,Reisivaltimon pallolaajennus ja stenttaus,Oikea
-101141-901Y,3000768,50005657,perjantai 19. huhtikuuta 2019,Läpivalaisu,
-230546-933U,3000769,50005681,sunnuntai 28. helmikuuta 2021,Paikallispuudutus,
-230546-933U,3000769,50005681,sunnuntai 28. helmikuuta 2021,Reisivaltimon pallolaajennus ja stenttaus,Vasen
-230546-933U,3000769,50005681,sunnuntai 28. helmikuuta 2021,Läpivalaisu,
-190548-9477,3000773,50005725,lauantai 27. toukokuuta 2023,Paikallispuudutus,
-190548-9477,3000773,50005725,lauantai 27. toukokuuta 2023,Reisivaltimon pallolaajennus ja stenttaus,Oikea
-190548-9477,3000773,50005725,lauantai 27. toukokuuta 2023,Läpivalaisu,
+henkilotunnus;operaatio_id;shjakso_id;operaatio_pvm;paatoimenpide;toimenpide_koodi;toimenpide_selite;toimenpide_tyyppi;toimenpide_lisakoodit_lista;toimenpide_lisakoodit_selite;toimenpide_puolisuus_koodi;toimenpide_puolisuus_selite
+MOCK_5142277;6bff0d964b28a3945d372a6f04ceff87349f22ef634607412bb2efbe3765fc38;6fdc85bf5f5b4671ff171035625902d53334f0605e9039ea7e0e9fa779acb808;2023-06-25;true;PEH20;Reisi-polvitaivevaltimon ohitusleikkaus laskimosiirteellä;kirurginen;ZXA00;Oikea puoli;ZXA00;Oikea puoli
+MOCK_5142277;6bff0d964b28a3945d372a6f04ceff87349f22ef634607412bb2efbe3765fc38;6fdc85bf5f5b4671ff171035625902d53334f0605e9039ea7e0e9fa779acb808;2023-06-25;false;WAB20;Spinaalipuudutus;anestesia;;;;
+MOCK_8676651;3fd4e5313960c10e7a1e08cf37184cd86a1d5f6b13a699b04f4d884093578f65;9aad492dc26843565c6e32cf7c8c3ae7bb535245cb88da8dfa87e67818e96616;2023-03-24;true;PEH20;Reisi-polvitaivevaltimon ohitusleikkaus laskimosiirteellä;kirurginen;ZXA00;Oikea puoli;ZXA00;Oikea puoli
+MOCK_8676651;3fd4e5313960c10e7a1e08cf37184cd86a1d5f6b13a699b04f4d884093578f65;9aad492dc26843565c6e32cf7c8c3ae7bb535245cb88da8dfa87e67818e96616;2023-03-24;false;WAB20;Spinaalipuudutus;anestesia;;;;
+MOCK_8846768;b00d6570647882bf736a2bb56c0a49e69a6791cd12d0645521dbda9931962f75;57a2ccdb42919a4cf66064f91742c52e7107cbaf882404020a50dbea18ef9d5f;2022-12-23;true;PHD16;Ison kehräslaskimon radiotaajuusablaatio;endovaskulaarinen;ZXA10, XRA10;Vasen puoli, Läpivalaisu;ZXA10;Vasen puoli
+MOCK_8846768;b00d6570647882bf736a2bb56c0a49e69a6791cd12d0645521dbda9931962f75;57a2ccdb42919a4cf66064f91742c52e7107cbaf882404020a50dbea18ef9d5f;2022-12-23;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_8846768;b00d6570647882bf736a2bb56c0a49e69a6791cd12d0645521dbda9931962f75;57a2ccdb42919a4cf66064f91742c52e7107cbaf882404020a50dbea18ef9d5f;2022-12-23;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_5742155;67fef044873af60926dddbcbf46f59302816534317152c0fa677216c628c0b25;05263a06499fac9bd6b43dabb15112add7b70358ec6200a5bfe07b86135b5d26;2024-04-21;true;PDG22;Vatsa-aortan aneurysman korjaus Y-proteesilla;kirurginen;;;;
+MOCK_5742155;67fef044873af60926dddbcbf46f59302816534317152c0fa677216c628c0b25;05263a06499fac9bd6b43dabb15112add7b70358ec6200a5bfe07b86135b5d26;2024-04-21;false;WAA20;Yleisanestesia;anestesia;;;;
+MOCK_6437659;ce93143f84130cfea87737a2de08397173347557f1f8b18909e6ec024d05d894;4ef68bdda301820f9f30e0955c0f9ff88ed757b7e39f43b804b867c0f33557a9;2021-08-17;true;PHD16;Ison kehräslaskimon radiotaajuusablaatio;endovaskulaarinen;ZXA10, XRA10;Vasen puoli, Läpivalaisu;ZXA10;Vasen puoli
+MOCK_6437659;ce93143f84130cfea87737a2de08397173347557f1f8b18909e6ec024d05d894;4ef68bdda301820f9f30e0955c0f9ff88ed757b7e39f43b804b867c0f33557a9;2021-08-17;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_6437659;ce93143f84130cfea87737a2de08397173347557f1f8b18909e6ec024d05d894;4ef68bdda301820f9f30e0955c0f9ff88ed757b7e39f43b804b867c0f33557a9;2021-08-17;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_3211590;777bc914540bbef967249534930893889ee69cc19b88bbe0166dff3ce5dedff6;9b4c4e26a8770bfff775c762dcce82c1649faa8e41266b0aa44d247a00873152;2020-02-13;true;PEH20;Reisi-polvitaivevaltimon ohitusleikkaus laskimosiirteellä;kirurginen;ZXA10;Vasen puoli;ZXA10;Vasen puoli
+MOCK_3211590;777bc914540bbef967249534930893889ee69cc19b88bbe0166dff3ce5dedff6;9b4c4e26a8770bfff775c762dcce82c1649faa8e41266b0aa44d247a00873152;2020-02-13;false;WAB20;Spinaalipuudutus;anestesia;;;;
+MOCK_9084265;98fb41ab5ee589d883eaa47ade61ae86d301cc8613802cef9471c102cf38567c;f1ab2d2fbe3b1d6a476a3c7ea3800bd7e4db06e1155b808cea9a24cc248e9830;2020-11-21;true;NGQ19;Säären amputaatio;kirurginen;ZXA10;Vasen puoli;ZXA10;Vasen puoli
+MOCK_9084265;98fb41ab5ee589d883eaa47ade61ae86d301cc8613802cef9471c102cf38567c;f1ab2d2fbe3b1d6a476a3c7ea3800bd7e4db06e1155b808cea9a24cc248e9830;2020-11-21;false;WAB20;Spinaalipuudutus;anestesia;;;;
+MOCK_8201245;c95cca13c5aceafaebb7762a7b2af27f75c760c8bf1885cc10f30ac1f8dc8dd9;c2b5da2ac7211e6aa7c2f1f482c7c8754fbdd943ba09bc5d72d0c7dce7df9886;2019-12-27;true;NGQ19;Säären amputaatio;kirurginen;ZXA10;Vasen puoli;ZXA10;Vasen puoli
+MOCK_8201245;c95cca13c5aceafaebb7762a7b2af27f75c760c8bf1885cc10f30ac1f8dc8dd9;c2b5da2ac7211e6aa7c2f1f482c7c8754fbdd943ba09bc5d72d0c7dce7df9886;2019-12-27;false;WAA20;Yleisanestesia;anestesia;;;;
+MOCK_4673880;745cc2468c9f7472bd1cad3c144948734ca4e63bbe3d857dd61752e3c9e03499;541576a753393cf50c50aa4799db2da77f6f21aa01ebb650e24e2b5ef663bc76;2022-11-26;true;PEH20;Reisi-polvitaivevaltimon ohitusleikkaus laskimosiirteellä;kirurginen;ZXA00;Oikea puoli;ZXA00;Oikea puoli
+MOCK_4673880;745cc2468c9f7472bd1cad3c144948734ca4e63bbe3d857dd61752e3c9e03499;541576a753393cf50c50aa4799db2da77f6f21aa01ebb650e24e2b5ef663bc76;2022-11-26;false;WAA20;Yleisanestesia;anestesia;;;;
+MOCK_1837440;8b68f44ad3803d6c73aead160c2edb6b7e011545b547fb91cd16d9ebd2dfa348;c5f18e8e61e94af9faf76a3879925ec68ee0a369b072e45ce0fa45cd00b50771;2023-11-04;true;PDG22;Vatsa-aortan aneurysman korjaus Y-proteesilla;kirurginen;;;;
+MOCK_1837440;8b68f44ad3803d6c73aead160c2edb6b7e011545b547fb91cd16d9ebd2dfa348;c5f18e8e61e94af9faf76a3879925ec68ee0a369b072e45ce0fa45cd00b50771;2023-11-04;false;WAA20;Yleisanestesia;anestesia;;;;
+MOCK_6824329;665249eb364ce14b1d361909116fe84981b1d47420919c28fc8d500e79460d44;a9dcfded9ad925aab3ad6108395d393012170fa909511cf1c72212adc6ce7797;2019-10-09;true;PHD16;Ison kehräslaskimon radiotaajuusablaatio;endovaskulaarinen;ZXA10, XRA10;Vasen puoli, Läpivalaisu;ZXA10;Vasen puoli
+MOCK_6824329;665249eb364ce14b1d361909116fe84981b1d47420919c28fc8d500e79460d44;a9dcfded9ad925aab3ad6108395d393012170fa909511cf1c72212adc6ce7797;2019-10-09;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_6824329;665249eb364ce14b1d361909116fe84981b1d47420919c28fc8d500e79460d44;a9dcfded9ad925aab3ad6108395d393012170fa909511cf1c72212adc6ce7797;2019-10-09;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_8168606;10e98f516a1756d2857c50f37065f3c289be219cd0ae51bd74b52b8181360954;52383629bb5a5b3a685f5fea5c57922b999dc8c7f1cd7bd9b7d86e3bbd9d256b;2019-04-16;true;PEH20;Reisi-polvitaivevaltimon ohitusleikkaus laskimosiirteellä;kirurginen;ZXA10;Vasen puoli;ZXA10;Vasen puoli
+MOCK_8168606;10e98f516a1756d2857c50f37065f3c289be219cd0ae51bd74b52b8181360954;52383629bb5a5b3a685f5fea5c57922b999dc8c7f1cd7bd9b7d86e3bbd9d256b;2019-04-16;false;WAB20;Spinaalipuudutus;anestesia;;;;
+MOCK_6249954;0a8dcd4418a1da7dd2cdbefe9241167ea3a51fd29e9f382e17a7af12a8f73d68;8ce93dd9f6256173420cde8f3977d8e35ecd120bc2c57c3ac1003b564cc8a8dc;2021-12-12;true;PAF21;Kaulavaltimon endarterektomia;kirurginen;ZXA10;Vasen puoli;ZXA10;Vasen puoli
+MOCK_6249954;0a8dcd4418a1da7dd2cdbefe9241167ea3a51fd29e9f382e17a7af12a8f73d68;8ce93dd9f6256173420cde8f3977d8e35ecd120bc2c57c3ac1003b564cc8a8dc;2021-12-12;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_6930909;d7a685a6bcfc7c14f33b62049972e2d90dd130c054551eaa502fc642bc54e66f;a8c0e76b08884fa4348a8341581a685761db36fc0d3361d439f752fb2146788c;2019-09-06;true;PEQ10;Reisivaltimon pallolaajennus ja stenttaus;endovaskulaarinen;ZXA10, XRA10;Vasen puoli, Läpivalaisu;ZXA10;Vasen puoli
+MOCK_6930909;d7a685a6bcfc7c14f33b62049972e2d90dd130c054551eaa502fc642bc54e66f;a8c0e76b08884fa4348a8341581a685761db36fc0d3361d439f752fb2146788c;2019-09-06;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_6930909;d7a685a6bcfc7c14f33b62049972e2d90dd130c054551eaa502fc642bc54e66f;a8c0e76b08884fa4348a8341581a685761db36fc0d3361d439f752fb2146788c;2019-09-06;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_7374709;d79e62f09904664d20c2bcaaf8690d882537414705da94f8e1c4aae6546e8027;5b3ab0c979615310e5bb9afca080fad4fe53009e9920f5adc9e1f9a3bbc88545;2021-07-11;true;PAF21;Kaulavaltimon endarterektomia;kirurginen;ZXA00;Oikea puoli;ZXA00;Oikea puoli
+MOCK_7374709;d79e62f09904664d20c2bcaaf8690d882537414705da94f8e1c4aae6546e8027;5b3ab0c979615310e5bb9afca080fad4fe53009e9920f5adc9e1f9a3bbc88545;2021-07-11;false;WAA20;Yleisanestesia;anestesia;;;;
+MOCK_5951382;07cb870366e5f1675fb80927796b38a731628ea06cc1ce0e924913a537b5b803;1de63abb9cf1106cb62299e6bd41d82d811b832c38735d6bc3c673420e22b768;2023-06-19;true;PHD16;Ison kehräslaskimon radiotaajuusablaatio;endovaskulaarinen;ZXA00, XRA10;Oikea puoli, Läpivalaisu;ZXA00;Oikea puoli
+MOCK_5951382;07cb870366e5f1675fb80927796b38a731628ea06cc1ce0e924913a537b5b803;1de63abb9cf1106cb62299e6bd41d82d811b832c38735d6bc3c673420e22b768;2023-06-19;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_5951382;07cb870366e5f1675fb80927796b38a731628ea06cc1ce0e924913a537b5b803;1de63abb9cf1106cb62299e6bd41d82d811b832c38735d6bc3c673420e22b768;2023-06-19;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_6886361;46ae8d3e2ab7e73cd75fd2c1a9cb006f5f2f03f4e7f97941ad79b39b5aade41a;592a9dee881ee9b9c2bf7b244dc60391f075347aeb83cb2be3bb89687b8551d6;2025-01-22;true;PEH20;Reisi-polvitaivevaltimon ohitusleikkaus laskimosiirteellä;kirurginen;ZXA10;Vasen puoli;ZXA10;Vasen puoli
+MOCK_6886361;46ae8d3e2ab7e73cd75fd2c1a9cb006f5f2f03f4e7f97941ad79b39b5aade41a;592a9dee881ee9b9c2bf7b244dc60391f075347aeb83cb2be3bb89687b8551d6;2025-01-22;false;WAB20;Spinaalipuudutus;anestesia;;;;
+MOCK_7026871;74f1d70c1c2939cb297dd35b40df81d6985fef83a3d74ad53c76fb0630b0b07b;b82ca3de561412fbd301b9541bc28b56b71a42da5cdfc208c1665967b3a38cd8;2020-09-19;true;PHD16;Ison kehräslaskimon radiotaajuusablaatio;endovaskulaarinen;ZXA10, XRA10;Vasen puoli, Läpivalaisu;ZXA10;Vasen puoli
+MOCK_7026871;74f1d70c1c2939cb297dd35b40df81d6985fef83a3d74ad53c76fb0630b0b07b;b82ca3de561412fbd301b9541bc28b56b71a42da5cdfc208c1665967b3a38cd8;2020-09-19;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_7026871;74f1d70c1c2939cb297dd35b40df81d6985fef83a3d74ad53c76fb0630b0b07b;b82ca3de561412fbd301b9541bc28b56b71a42da5cdfc208c1665967b3a38cd8;2020-09-19;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_6943388;5577067a6eaf9c17f79af5c84e656d86d7251510b02328fa91ca8a4ed69d19af;33292e7d84522bdfb375147d6df3aeaf495a212070d81c2683e59982ff0a0dee;2020-01-11;true;PHD16;Ison kehräslaskimon radiotaajuusablaatio;endovaskulaarinen;ZXA00, XRA10;Oikea puoli, Läpivalaisu;ZXA00;Oikea puoli
+MOCK_6943388;5577067a6eaf9c17f79af5c84e656d86d7251510b02328fa91ca8a4ed69d19af;33292e7d84522bdfb375147d6df3aeaf495a212070d81c2683e59982ff0a0dee;2020-01-11;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_6943388;5577067a6eaf9c17f79af5c84e656d86d7251510b02328fa91ca8a4ed69d19af;33292e7d84522bdfb375147d6df3aeaf495a212070d81c2683e59982ff0a0dee;2020-01-11;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_9013153;dbffd210c23cf534986422b47c3b55f1a5f81e212f9462081f877f3aec39f041;c1747f9509b95a681aa9244d4f2b575d6f8e3b5e194dda7381e7eac6c95f81c8;2022-03-26;true;PHD16;Ison kehräslaskimon radiotaajuusablaatio;endovaskulaarinen;ZXA10, XRA10;Vasen puoli, Läpivalaisu;ZXA10;Vasen puoli
+MOCK_9013153;dbffd210c23cf534986422b47c3b55f1a5f81e212f9462081f877f3aec39f041;c1747f9509b95a681aa9244d4f2b575d6f8e3b5e194dda7381e7eac6c95f81c8;2022-03-26;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_9013153;dbffd210c23cf534986422b47c3b55f1a5f81e212f9462081f877f3aec39f041;c1747f9509b95a681aa9244d4f2b575d6f8e3b5e194dda7381e7eac6c95f81c8;2022-03-26;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_4801244;fc11e3cf5293071733f08339d0542aab9f21f44147b94226891cade632c24308;54cfc7fdbb4865f6def97d7d17b018a9f2334f1ab0f7b845da2c258fdc8f0967;2019-08-02;true;PEQ10;Reisivaltimon pallolaajennus ja stenttaus;endovaskulaarinen;ZXA10, XRA10;Vasen puoli, Läpivalaisu;ZXA10;Vasen puoli
+MOCK_4801244;fc11e3cf5293071733f08339d0542aab9f21f44147b94226891cade632c24308;54cfc7fdbb4865f6def97d7d17b018a9f2334f1ab0f7b845da2c258fdc8f0967;2019-08-02;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_4801244;fc11e3cf5293071733f08339d0542aab9f21f44147b94226891cade632c24308;54cfc7fdbb4865f6def97d7d17b018a9f2334f1ab0f7b845da2c258fdc8f0967;2019-08-02;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_6651715;502d6597e1b7cf253151315b78835d9cd36cc3a618f73b1b13f49ae466ceb40d;8c9f3859c2600e36ee94c3f7b2bcd6edbf17eefe22d2319ac41aaf115d66825e;2019-03-18;true;PEQ10;Reisivaltimon pallolaajennus ja stenttaus;endovaskulaarinen;ZXA00, XRA10;Oikea puoli, Läpivalaisu;ZXA00;Oikea puoli
+MOCK_6651715;502d6597e1b7cf253151315b78835d9cd36cc3a618f73b1b13f49ae466ceb40d;8c9f3859c2600e36ee94c3f7b2bcd6edbf17eefe22d2319ac41aaf115d66825e;2019-03-18;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_6651715;502d6597e1b7cf253151315b78835d9cd36cc3a618f73b1b13f49ae466ceb40d;8c9f3859c2600e36ee94c3f7b2bcd6edbf17eefe22d2319ac41aaf115d66825e;2019-03-18;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_3068929;050473a131c620cc61fd41dbe67bfafa7759b80c4335c6746cb6edd8f29f5223;c075379cdfeab9c23ae9952d847c9c6e7b74322cb8052990dc420e7d70239e3d;2020-07-21;true;PEQ10;Reisivaltimon pallolaajennus ja stenttaus;endovaskulaarinen;ZXA00, XRA10;Oikea puoli, Läpivalaisu;ZXA00;Oikea puoli
+MOCK_3068929;050473a131c620cc61fd41dbe67bfafa7759b80c4335c6746cb6edd8f29f5223;c075379cdfeab9c23ae9952d847c9c6e7b74322cb8052990dc420e7d70239e3d;2020-07-21;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_3068929;050473a131c620cc61fd41dbe67bfafa7759b80c4335c6746cb6edd8f29f5223;c075379cdfeab9c23ae9952d847c9c6e7b74322cb8052990dc420e7d70239e3d;2020-07-21;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_5329491;5bfc8bbf8b0313593b190ce6df164d0e216751e7aff5178db220f302f6ab1da5;f0ff7679fb3f1f0d804d78365390b327f8ca3c98c419871f6a57b59060d6a093;2019-02-05;true;PEE10;Alaraajavaltimon trombembolektomia;kirurginen;ZXA10;Vasen puoli;ZXA10;Vasen puoli
+MOCK_5329491;5bfc8bbf8b0313593b190ce6df164d0e216751e7aff5178db220f302f6ab1da5;f0ff7679fb3f1f0d804d78365390b327f8ca3c98c419871f6a57b59060d6a093;2019-02-05;false;WAA20;Yleisanestesia;anestesia;;;;
+MOCK_8110427;f6153fc213322d92df174a08e8d74167de930448d02505176966bf4d037b842f;a8a76a08987ace68fef732c60ac82c125bf9faa4eb5402cdf812d5a220e9bf2c;2019-06-27;true;PAF21;Kaulavaltimon endarterektomia;kirurginen;ZXA10;Vasen puoli;ZXA10;Vasen puoli
+MOCK_8110427;f6153fc213322d92df174a08e8d74167de930448d02505176966bf4d037b842f;a8a76a08987ace68fef732c60ac82c125bf9faa4eb5402cdf812d5a220e9bf2c;2019-06-27;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_1344298;cf11f2bf5a6c133d422dd62c145f0c2e36f7f3c70093bb3d1e60ef13eaa30681;e043fcf1313388a68dc6057811d9c734b26ef9f2e1529666a45e8f82fcd4dc15;2023-03-03;true;PDG22;Vatsa-aortan aneurysman korjaus Y-proteesilla;kirurginen;;;;
+MOCK_1344298;cf11f2bf5a6c133d422dd62c145f0c2e36f7f3c70093bb3d1e60ef13eaa30681;e043fcf1313388a68dc6057811d9c734b26ef9f2e1529666a45e8f82fcd4dc15;2023-03-03;false;WAA20;Yleisanestesia;anestesia;;;;
+MOCK_4876057;d7f683e553c576552c42e862d3a5ee1dd0f68831def2a689b4c88393f940a21e;07b226e04f4f672c67765e6e03aba9b806815fae726fecaf8e5dbd399365d479;2020-02-08;true;PAF21;Kaulavaltimon endarterektomia;kirurginen;ZXA00;Oikea puoli;ZXA00;Oikea puoli
+MOCK_4876057;d7f683e553c576552c42e862d3a5ee1dd0f68831def2a689b4c88393f940a21e;07b226e04f4f672c67765e6e03aba9b806815fae726fecaf8e5dbd399365d479;2020-02-08;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_5815206;532895c251da536ae031c840ade1196f04fea21f57d712af945a6307174de78c;565ed4ab5a224b0dd0eec4a6033015d6ccc769ce7801931749d38a278e179316;2022-12-24;true;PHD16;Ison kehräslaskimon radiotaajuusablaatio;endovaskulaarinen;ZXA00, XRA10;Oikea puoli, Läpivalaisu;ZXA00;Oikea puoli
+MOCK_5815206;532895c251da536ae031c840ade1196f04fea21f57d712af945a6307174de78c;565ed4ab5a224b0dd0eec4a6033015d6ccc769ce7801931749d38a278e179316;2022-12-24;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_5815206;532895c251da536ae031c840ade1196f04fea21f57d712af945a6307174de78c;565ed4ab5a224b0dd0eec4a6033015d6ccc769ce7801931749d38a278e179316;2022-12-24;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_4221603;2e2cb69f1d28c5cad499a0f7710ce36d34cf7ca63d81e35f0e56375f93b3c7f9;40312cb16cfc11ecc02bd01647544118b2cb50f193f0fad1a4d079bfbf48bc23;2022-04-16;true;PAF21;Kaulavaltimon endarterektomia;kirurginen;ZXA10;Vasen puoli;ZXA10;Vasen puoli
+MOCK_4221603;2e2cb69f1d28c5cad499a0f7710ce36d34cf7ca63d81e35f0e56375f93b3c7f9;40312cb16cfc11ecc02bd01647544118b2cb50f193f0fad1a4d079bfbf48bc23;2022-04-16;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_5802428;7597da91430350d5a7f310dab95d324b6ece6eb2407ea7b556c45b44049540e5;d34998f9e222314260e55f4df33653fb05af66b88231826b7330f97fa2f7dfe1;2023-08-25;true;PHD16;Ison kehräslaskimon radiotaajuusablaatio;endovaskulaarinen;ZXA00, XRA10;Oikea puoli, Läpivalaisu;ZXA00;Oikea puoli
+MOCK_5802428;7597da91430350d5a7f310dab95d324b6ece6eb2407ea7b556c45b44049540e5;d34998f9e222314260e55f4df33653fb05af66b88231826b7330f97fa2f7dfe1;2023-08-25;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_5802428;7597da91430350d5a7f310dab95d324b6ece6eb2407ea7b556c45b44049540e5;d34998f9e222314260e55f4df33653fb05af66b88231826b7330f97fa2f7dfe1;2023-08-25;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_4346462;3e6e1c22f816733e11e000fb1fda5e6b428bcd6e7c23648cd2a194e6036facfd;14b2db6f5847fcecf562e7b5bedd264daf3f076ae03740bbeb1efa6d8dd47251;2024-09-15;true;PAF21;Kaulavaltimon endarterektomia;kirurginen;ZXA00;Oikea puoli;ZXA00;Oikea puoli
+MOCK_4346462;3e6e1c22f816733e11e000fb1fda5e6b428bcd6e7c23648cd2a194e6036facfd;14b2db6f5847fcecf562e7b5bedd264daf3f076ae03740bbeb1efa6d8dd47251;2024-09-15;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_7377022;06621d0fdfde0ed7e703ae7dc370f32247f15028f288878f62e86ffc415666f0;eadb3f5676e46c94674a4c269f1d71b1c2b11d26ef20a1ae2d2d9f948ca2ba4a;2020-07-03;true;PEQ10;Reisivaltimon pallolaajennus ja stenttaus;endovaskulaarinen;ZXA10, XRA10;Vasen puoli, Läpivalaisu;ZXA10;Vasen puoli
+MOCK_7377022;06621d0fdfde0ed7e703ae7dc370f32247f15028f288878f62e86ffc415666f0;eadb3f5676e46c94674a4c269f1d71b1c2b11d26ef20a1ae2d2d9f948ca2ba4a;2020-07-03;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_7377022;06621d0fdfde0ed7e703ae7dc370f32247f15028f288878f62e86ffc415666f0;eadb3f5676e46c94674a4c269f1d71b1c2b11d26ef20a1ae2d2d9f948ca2ba4a;2020-07-03;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_5051818;0df84b7213ae61b9bbc2278929aabcdd8b1b4069e7343c22ffa60f5be4272abd;21b41c39b5cd2d21800adf2e9f3639e01d4b19a60c793e4115bae010301ac68d;2023-10-02;true;PEE10;Alaraajavaltimon trombembolektomia;kirurginen;ZXA00;Oikea puoli;ZXA00;Oikea puoli
+MOCK_5051818;0df84b7213ae61b9bbc2278929aabcdd8b1b4069e7343c22ffa60f5be4272abd;21b41c39b5cd2d21800adf2e9f3639e01d4b19a60c793e4115bae010301ac68d;2023-10-02;false;WAA20;Yleisanestesia;anestesia;;;;
+MOCK_2125973;8abb826e7ba23f795959ac2809b566120646e59eab7fcbf1dbba40272cf39e11;c75139087569b9ad80723e2306960ff44f8fe25e8403b36ac7948b63a41289a9;2020-09-18;true;PEQ10;Reisivaltimon pallolaajennus ja stenttaus;endovaskulaarinen;ZXA10, XRA10;Vasen puoli, Läpivalaisu;ZXA10;Vasen puoli
+MOCK_2125973;8abb826e7ba23f795959ac2809b566120646e59eab7fcbf1dbba40272cf39e11;c75139087569b9ad80723e2306960ff44f8fe25e8403b36ac7948b63a41289a9;2020-09-18;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_2125973;8abb826e7ba23f795959ac2809b566120646e59eab7fcbf1dbba40272cf39e11;c75139087569b9ad80723e2306960ff44f8fe25e8403b36ac7948b63a41289a9;2020-09-18;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_1685557;0bb18c9bcf4616859c8ec63e7057235bd2b8df54faef60d6cda99cfcf2a3b316;fc3b27432345cb9c3f0947aa2424d0529dc8989b542a0ff4b09c3841ec321dba;2019-10-01;true;PAF21;Kaulavaltimon endarterektomia;kirurginen;ZXA00;Oikea puoli;ZXA00;Oikea puoli
+MOCK_1685557;0bb18c9bcf4616859c8ec63e7057235bd2b8df54faef60d6cda99cfcf2a3b316;fc3b27432345cb9c3f0947aa2424d0529dc8989b542a0ff4b09c3841ec321dba;2019-10-01;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_9117140;a70ce8327b3dc955eded6337b3bcc531d54ccad27761945e498207960716ff4d;f20bd0644ce6e23aab36cbc1ba465462fe1a98364d51f2bfedadbef40ee5f6e6;2020-12-24;true;PEQ10;Reisivaltimon pallolaajennus ja stenttaus;endovaskulaarinen;ZXA00, XRA10;Oikea puoli, Läpivalaisu;ZXA00;Oikea puoli
+MOCK_9117140;a70ce8327b3dc955eded6337b3bcc531d54ccad27761945e498207960716ff4d;f20bd0644ce6e23aab36cbc1ba465462fe1a98364d51f2bfedadbef40ee5f6e6;2020-12-24;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_9117140;a70ce8327b3dc955eded6337b3bcc531d54ccad27761945e498207960716ff4d;f20bd0644ce6e23aab36cbc1ba465462fe1a98364d51f2bfedadbef40ee5f6e6;2020-12-24;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_5660089;d512a17165fde0c8817160ee16cc84f7585cf09c7e982daa161b358f9fe1b81d;3a1616392ce795e7b34041bb3427f524e6898c3673211468a1176b91435506ed;2022-11-07;true;PHD16;Ison kehräslaskimon radiotaajuusablaatio;endovaskulaarinen;ZXA10, XRA10;Vasen puoli, Läpivalaisu;ZXA10;Vasen puoli
+MOCK_5660089;d512a17165fde0c8817160ee16cc84f7585cf09c7e982daa161b358f9fe1b81d;3a1616392ce795e7b34041bb3427f524e6898c3673211468a1176b91435506ed;2022-11-07;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_5660089;d512a17165fde0c8817160ee16cc84f7585cf09c7e982daa161b358f9fe1b81d;3a1616392ce795e7b34041bb3427f524e6898c3673211468a1176b91435506ed;2022-11-07;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_3324756;cd435371d077bc2e2a087e8cf8da2b1efc6961814ac610281bdbfb863958c958;0c3162ae85e41375cfd6dbdc788fa52ed35a9acefe55e90948ac635f4673fd85;2019-12-23;true;PEQ10;Reisivaltimon pallolaajennus ja stenttaus;endovaskulaarinen;ZXA10, XRA10;Vasen puoli, Läpivalaisu;ZXA10;Vasen puoli
+MOCK_3324756;cd435371d077bc2e2a087e8cf8da2b1efc6961814ac610281bdbfb863958c958;0c3162ae85e41375cfd6dbdc788fa52ed35a9acefe55e90948ac635f4673fd85;2019-12-23;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_3324756;cd435371d077bc2e2a087e8cf8da2b1efc6961814ac610281bdbfb863958c958;0c3162ae85e41375cfd6dbdc788fa52ed35a9acefe55e90948ac635f4673fd85;2019-12-23;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_2788530;400786b93d52670fd85f576eb3b677c6c93fd27c64f0f0e0dc7bc7349fab489f;4c17e7c845b58390331b1b1ad34943181dcfcedf8b2812010edaddc8c2cd0f53;2019-09-02;true;PEQ10;Reisivaltimon pallolaajennus ja stenttaus;endovaskulaarinen;ZXA00, XRA10;Oikea puoli, Läpivalaisu;ZXA00;Oikea puoli
+MOCK_2788530;400786b93d52670fd85f576eb3b677c6c93fd27c64f0f0e0dc7bc7349fab489f;4c17e7c845b58390331b1b1ad34943181dcfcedf8b2812010edaddc8c2cd0f53;2019-09-02;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_2788530;400786b93d52670fd85f576eb3b677c6c93fd27c64f0f0e0dc7bc7349fab489f;4c17e7c845b58390331b1b1ad34943181dcfcedf8b2812010edaddc8c2cd0f53;2019-09-02;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_7196078;f301a6b5433ee9a22316f60f3332a76d8d0c19a1d223f26d1129982d57e2e065;a2eb2de5166a959735a1b9f6e39ef704f140f5de2be2ee5602240f4704d3216f;2019-08-16;true;PAF21;Kaulavaltimon endarterektomia;kirurginen;ZXA00;Oikea puoli;ZXA00;Oikea puoli
+MOCK_7196078;f301a6b5433ee9a22316f60f3332a76d8d0c19a1d223f26d1129982d57e2e065;a2eb2de5166a959735a1b9f6e39ef704f140f5de2be2ee5602240f4704d3216f;2019-08-16;false;WAA20;Yleisanestesia;anestesia;;;;
+MOCK_2815475;8d2b9c78b5f86001d68b655c296faec92c312d97653659227412175843955046;4aad3ce0325d9439ac01f63c2735867366c849894037c56a980cd1f2d3f4bdb9;2024-07-19;true;PHD16;Ison kehräslaskimon radiotaajuusablaatio;endovaskulaarinen;ZXA10, XRA10;Vasen puoli, Läpivalaisu;ZXA10;Vasen puoli
+MOCK_2815475;8d2b9c78b5f86001d68b655c296faec92c312d97653659227412175843955046;4aad3ce0325d9439ac01f63c2735867366c849894037c56a980cd1f2d3f4bdb9;2024-07-19;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_2815475;8d2b9c78b5f86001d68b655c296faec92c312d97653659227412175843955046;4aad3ce0325d9439ac01f63c2735867366c849894037c56a980cd1f2d3f4bdb9;2024-07-19;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_4541906;c73232c893c836674178579e3030bbda6980524f161a22a959ebe16647476e59;bf46af7cde406c9c38b319af03ae4760bdf01448f527d7c0d3cc94c1533b2d78;2025-02-21;true;PHD16;Ison kehräslaskimon radiotaajuusablaatio;endovaskulaarinen;ZXA10, XRA10;Vasen puoli, Läpivalaisu;ZXA10;Vasen puoli
+MOCK_4541906;c73232c893c836674178579e3030bbda6980524f161a22a959ebe16647476e59;bf46af7cde406c9c38b319af03ae4760bdf01448f527d7c0d3cc94c1533b2d78;2025-02-21;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_4541906;c73232c893c836674178579e3030bbda6980524f161a22a959ebe16647476e59;bf46af7cde406c9c38b319af03ae4760bdf01448f527d7c0d3cc94c1533b2d78;2025-02-21;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_3614655;94ad9ab355838fbdd4163f4192c47f34be294334c6953511233aa2690c2301bb;a6c471690c5e6e33ea47d8604966de138833d30598c2ee8e9aeb444115b39a0b;2024-05-07;true;PHD16;Ison kehräslaskimon radiotaajuusablaatio;endovaskulaarinen;ZXA10, XRA10;Vasen puoli, Läpivalaisu;ZXA10;Vasen puoli
+MOCK_3614655;94ad9ab355838fbdd4163f4192c47f34be294334c6953511233aa2690c2301bb;a6c471690c5e6e33ea47d8604966de138833d30598c2ee8e9aeb444115b39a0b;2024-05-07;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_3614655;94ad9ab355838fbdd4163f4192c47f34be294334c6953511233aa2690c2301bb;a6c471690c5e6e33ea47d8604966de138833d30598c2ee8e9aeb444115b39a0b;2024-05-07;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_2743090;3e6deb5ae8e912aba73ecb6200bf54fb3bb756250e7471178f23fc91ebb2d16c;eb102218efaa6f3751e44778666110edb3504793ddb9120012608c47cb2d9149;2024-02-14;true;PEE10;Alaraajavaltimon trombembolektomia;kirurginen;ZXA10;Vasen puoli;ZXA10;Vasen puoli
+MOCK_2743090;3e6deb5ae8e912aba73ecb6200bf54fb3bb756250e7471178f23fc91ebb2d16c;eb102218efaa6f3751e44778666110edb3504793ddb9120012608c47cb2d9149;2024-02-14;false;WAA20;Yleisanestesia;anestesia;;;;
+MOCK_9377439;2e8904ec7f2664f852f24fd38215f98b11a3d0d88d762c19f1259e946f671b4b;0a268a8d07d51ee28fb0670c8875c25345495527d8f377b6ecc8ea285ee8ad84;2022-03-07;true;PHD16;Ison kehräslaskimon radiotaajuusablaatio;endovaskulaarinen;ZXA10, XRA10;Vasen puoli, Läpivalaisu;ZXA10;Vasen puoli
+MOCK_9377439;2e8904ec7f2664f852f24fd38215f98b11a3d0d88d762c19f1259e946f671b4b;0a268a8d07d51ee28fb0670c8875c25345495527d8f377b6ecc8ea285ee8ad84;2022-03-07;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_9377439;2e8904ec7f2664f852f24fd38215f98b11a3d0d88d762c19f1259e946f671b4b;0a268a8d07d51ee28fb0670c8875c25345495527d8f377b6ecc8ea285ee8ad84;2022-03-07;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_9629544;8aa8e402e8b2ed8b9f78cceae502552d65fd364c24ac3bfcab1bd4b79bcbc39d;a7d85ac82958246b30bbc26d6e0ecc070e3116c07e256114d9701ee568978fe5;2025-02-08;true;PHD16;Ison kehräslaskimon radiotaajuusablaatio;endovaskulaarinen;ZXA00, XRA10;Oikea puoli, Läpivalaisu;ZXA00;Oikea puoli
+MOCK_9629544;8aa8e402e8b2ed8b9f78cceae502552d65fd364c24ac3bfcab1bd4b79bcbc39d;a7d85ac82958246b30bbc26d6e0ecc070e3116c07e256114d9701ee568978fe5;2025-02-08;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_9629544;8aa8e402e8b2ed8b9f78cceae502552d65fd364c24ac3bfcab1bd4b79bcbc39d;a7d85ac82958246b30bbc26d6e0ecc070e3116c07e256114d9701ee568978fe5;2025-02-08;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_3087253;330af1019f9a87d0d03af2a4a0aa901d447bb1d5443bd45fa22f738eebe99fa6;9c39f7e9f8200f4781d21e323850d27b3d68bca7543842b1a4307855622fac12;2019-05-27;true;PEQ10;Reisivaltimon pallolaajennus ja stenttaus;endovaskulaarinen;ZXA10, XRA10;Vasen puoli, Läpivalaisu;ZXA10;Vasen puoli
+MOCK_3087253;330af1019f9a87d0d03af2a4a0aa901d447bb1d5443bd45fa22f738eebe99fa6;9c39f7e9f8200f4781d21e323850d27b3d68bca7543842b1a4307855622fac12;2019-05-27;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_3087253;330af1019f9a87d0d03af2a4a0aa901d447bb1d5443bd45fa22f738eebe99fa6;9c39f7e9f8200f4781d21e323850d27b3d68bca7543842b1a4307855622fac12;2019-05-27;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_1794403;0fe7a74465bc329d9633f6132c26706b14ea5b52fe0e91b5a3edb68ecae11f31;36557bdd289004360c2609a17e083376a9d492042be35a00780b4b224179758f;2022-01-20;true;PAF21;Kaulavaltimon endarterektomia;kirurginen;ZXA00;Oikea puoli;ZXA00;Oikea puoli
+MOCK_1794403;0fe7a74465bc329d9633f6132c26706b14ea5b52fe0e91b5a3edb68ecae11f31;36557bdd289004360c2609a17e083376a9d492042be35a00780b4b224179758f;2022-01-20;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_6303530;6e0af88e0ca93e4015bc3bf617e45a379464413e33fb69dda60b4be7ddc7623f;a684f4d8530ecc81c3ac516dbcf76ec1d80b92ecc3d48c747f8a72f380d9024c;2021-03-15;true;PEE10;Alaraajavaltimon trombembolektomia;kirurginen;ZXA10;Vasen puoli;ZXA10;Vasen puoli
+MOCK_6303530;6e0af88e0ca93e4015bc3bf617e45a379464413e33fb69dda60b4be7ddc7623f;a684f4d8530ecc81c3ac516dbcf76ec1d80b92ecc3d48c747f8a72f380d9024c;2021-03-15;false;WAA20;Yleisanestesia;anestesia;;;;
+MOCK_7775470;30e4e04e498895875eae3d4a1401213f2ccf0541ea66993ecb65817c0d5a6840;7897b01061eba3541eeea5504a36e0c5d1e9fb79f8f7497e8416a4034b35b48d;2022-06-11;true;PDG22;Vatsa-aortan aneurysman korjaus Y-proteesilla;kirurginen;;;;
+MOCK_7775470;30e4e04e498895875eae3d4a1401213f2ccf0541ea66993ecb65817c0d5a6840;7897b01061eba3541eeea5504a36e0c5d1e9fb79f8f7497e8416a4034b35b48d;2022-06-11;false;WAA20;Yleisanestesia;anestesia;;;;
+MOCK_3664059;b84576d91e9640d3c6e3067910ef188989ec7f3a0dbcb07539179a4a588e569e;e9faf7335d98dc190ea1d5ac4d136989a7995eb500e10a3ce34e27684efd2aab;2025-01-13;true;PEE10;Alaraajavaltimon trombembolektomia;kirurginen;ZXA10;Vasen puoli;ZXA10;Vasen puoli
+MOCK_3664059;b84576d91e9640d3c6e3067910ef188989ec7f3a0dbcb07539179a4a588e569e;e9faf7335d98dc190ea1d5ac4d136989a7995eb500e10a3ce34e27684efd2aab;2025-01-13;false;WAA20;Yleisanestesia;anestesia;;;;
+MOCK_6914514;fa41b6e244422daf27149ccc33ba5ab6c120122c72e31b28db65fd696a306d63;f6135223ccb0d6ee2599fa86d466846bb60a5a2c1c1d984306e25bb4f37d46f1;2023-03-19;true;PHD16;Ison kehräslaskimon radiotaajuusablaatio;endovaskulaarinen;ZXA00, XRA10;Oikea puoli, Läpivalaisu;ZXA00;Oikea puoli
+MOCK_6914514;fa41b6e244422daf27149ccc33ba5ab6c120122c72e31b28db65fd696a306d63;f6135223ccb0d6ee2599fa86d466846bb60a5a2c1c1d984306e25bb4f37d46f1;2023-03-19;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_6914514;fa41b6e244422daf27149ccc33ba5ab6c120122c72e31b28db65fd696a306d63;f6135223ccb0d6ee2599fa86d466846bb60a5a2c1c1d984306e25bb4f37d46f1;2023-03-19;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_5854999;1091e8d8011c97d0aa9f99a5b83221624844767b9071f21038a6dede4f257669;35f67380446823a90121af57090206ac7b1afdc7f34237d8ae14f15de43c46b3;2019-04-07;true;PEE10;Alaraajavaltimon trombembolektomia;kirurginen;ZXA10;Vasen puoli;ZXA10;Vasen puoli
+MOCK_5854999;1091e8d8011c97d0aa9f99a5b83221624844767b9071f21038a6dede4f257669;35f67380446823a90121af57090206ac7b1afdc7f34237d8ae14f15de43c46b3;2019-04-07;false;WAA20;Yleisanestesia;anestesia;;;;
+MOCK_8286395;f209cd4aa98ad19a6c1bf7c816236d4ee1fa89df92f60f9df6faebf070bd6d20;d4b1ba9dc4e6c18f41ddfb108713b86623cce9182d7c19a648a313605c7d9035;2022-08-03;true;PEQ10;Reisivaltimon pallolaajennus ja stenttaus;endovaskulaarinen;ZXA10, XRA10;Vasen puoli, Läpivalaisu;ZXA10;Vasen puoli
+MOCK_8286395;f209cd4aa98ad19a6c1bf7c816236d4ee1fa89df92f60f9df6faebf070bd6d20;d4b1ba9dc4e6c18f41ddfb108713b86623cce9182d7c19a648a313605c7d9035;2022-08-03;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_8286395;f209cd4aa98ad19a6c1bf7c816236d4ee1fa89df92f60f9df6faebf070bd6d20;d4b1ba9dc4e6c18f41ddfb108713b86623cce9182d7c19a648a313605c7d9035;2022-08-03;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_7891867;4f3f0bc3839cba69e04c0032e492b2b815dcb9a7261252860adef41f2d2838d7;6cd3fa81d76c5936838ac2ead5ebad1c42bfa64bd48d64b2ca08397c9e6f2ea4;2024-11-13;true;NGQ19;Säären amputaatio;kirurginen;ZXA10;Vasen puoli;ZXA10;Vasen puoli
+MOCK_7891867;4f3f0bc3839cba69e04c0032e492b2b815dcb9a7261252860adef41f2d2838d7;6cd3fa81d76c5936838ac2ead5ebad1c42bfa64bd48d64b2ca08397c9e6f2ea4;2024-11-13;false;WAB20;Spinaalipuudutus;anestesia;;;;
+MOCK_1404711;ab403e9434cc6da4ff40082d3f0ad7cf918fce0768f93a8a447f5203ff32edf0;af0575f84f8a8fa7e66eb2c955b66af73ac36a9b93591d4a81a6defb6ee2044e;2025-07-27;true;PDQ22;Vatsa-aortan aneurysman stenttigraftihoito (EVAR);endovaskulaarinen;XRA10;Läpivalaisu;;
+MOCK_1404711;ab403e9434cc6da4ff40082d3f0ad7cf918fce0768f93a8a447f5203ff32edf0;af0575f84f8a8fa7e66eb2c955b66af73ac36a9b93591d4a81a6defb6ee2044e;2025-07-27;false;WAA20;Yleisanestesia;anestesia;;;;
+MOCK_1404711;ab403e9434cc6da4ff40082d3f0ad7cf918fce0768f93a8a447f5203ff32edf0;af0575f84f8a8fa7e66eb2c955b66af73ac36a9b93591d4a81a6defb6ee2044e;2025-07-27;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_9522127;d0dd9f319558b67006f05887ea54720b8da1bf40ff3e303654e06b26001b6d23;7ef28f470c9b58505976483d2e7e8fa9469f1360c704aadca368e47e09145228;2022-08-07;true;NGQ19;Säären amputaatio;kirurginen;ZXA10;Vasen puoli;ZXA10;Vasen puoli
+MOCK_9522127;d0dd9f319558b67006f05887ea54720b8da1bf40ff3e303654e06b26001b6d23;7ef28f470c9b58505976483d2e7e8fa9469f1360c704aadca368e47e09145228;2022-08-07;false;WAB20;Spinaalipuudutus;anestesia;;;;
+MOCK_4166470;70942d4dbe7e8ad01de2a58dd29149f142e9deacb0269fab3e3a18510d6e6c31;4b46f583986fc0405063738a9ed481e9c8cb24a50cca5c3ac18e6664c22f17f3;2025-04-03;true;PEH20;Reisi-polvitaivevaltimon ohitusleikkaus laskimosiirteellä;kirurginen;ZXA00;Oikea puoli;ZXA00;Oikea puoli
+MOCK_4166470;70942d4dbe7e8ad01de2a58dd29149f142e9deacb0269fab3e3a18510d6e6c31;4b46f583986fc0405063738a9ed481e9c8cb24a50cca5c3ac18e6664c22f17f3;2025-04-03;false;WAB20;Spinaalipuudutus;anestesia;;;;
+MOCK_6888777;3084754a7fe5defd13806fac99fe1f057de45dfbdde538a39b64fa04e5cd5703;3ddc1a062f0338450641b79028b17b498278739b43126730a910ed484a6b9570;2020-08-06;true;NGQ19;Säären amputaatio;kirurginen;ZXA10;Vasen puoli;ZXA10;Vasen puoli
+MOCK_6888777;3084754a7fe5defd13806fac99fe1f057de45dfbdde538a39b64fa04e5cd5703;3ddc1a062f0338450641b79028b17b498278739b43126730a910ed484a6b9570;2020-08-06;false;WAA20;Yleisanestesia;anestesia;;;;
+MOCK_5189951;8268e320e46ba67462f92ccdc9a04ffa9e69a4d1d6ca7d0a1bb4e61bf1f3b453;5ee6ef4de5fcfdb3c7fe78bcb26ab95df64b8768e2bbbab06e90b5b9117d7c49;2024-08-19;true;PEQ10;Reisivaltimon pallolaajennus ja stenttaus;endovaskulaarinen;ZXA00, XRA10;Oikea puoli, Läpivalaisu;ZXA00;Oikea puoli
+MOCK_5189951;8268e320e46ba67462f92ccdc9a04ffa9e69a4d1d6ca7d0a1bb4e61bf1f3b453;5ee6ef4de5fcfdb3c7fe78bcb26ab95df64b8768e2bbbab06e90b5b9117d7c49;2024-08-19;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_5189951;8268e320e46ba67462f92ccdc9a04ffa9e69a4d1d6ca7d0a1bb4e61bf1f3b453;5ee6ef4de5fcfdb3c7fe78bcb26ab95df64b8768e2bbbab06e90b5b9117d7c49;2024-08-19;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_4625334;2509cdbab3c15614817da2a7299c6524f19c38f90154a0a216b77473895e4089;b31e72b48c2214ba72c4202edc1a00ef5ad79363183ca98a21bc39a155e7d702;2024-01-15;true;PEH20;Reisi-polvitaivevaltimon ohitusleikkaus laskimosiirteellä;kirurginen;ZXA00;Oikea puoli;ZXA00;Oikea puoli
+MOCK_4625334;2509cdbab3c15614817da2a7299c6524f19c38f90154a0a216b77473895e4089;b31e72b48c2214ba72c4202edc1a00ef5ad79363183ca98a21bc39a155e7d702;2024-01-15;false;WAA20;Yleisanestesia;anestesia;;;;
+MOCK_5232615;0bcb3819229f9c20b7fbaedd304723437d7387f8f3c91b0605f48c2e4e185e78;82dd719a1b76fcaf7686d454b783744299adafb5ecf2726b4176c3843c63b07a;2020-08-09;true;PHD16;Ison kehräslaskimon radiotaajuusablaatio;endovaskulaarinen;ZXA10, XRA10;Vasen puoli, Läpivalaisu;ZXA10;Vasen puoli
+MOCK_5232615;0bcb3819229f9c20b7fbaedd304723437d7387f8f3c91b0605f48c2e4e185e78;82dd719a1b76fcaf7686d454b783744299adafb5ecf2726b4176c3843c63b07a;2020-08-09;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_5232615;0bcb3819229f9c20b7fbaedd304723437d7387f8f3c91b0605f48c2e4e185e78;82dd719a1b76fcaf7686d454b783744299adafb5ecf2726b4176c3843c63b07a;2020-08-09;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_4532390;d89f57466a699484bfab2761a5639ed182f1a37cb51d2f112ceab5792f3514f8;efaeb21cc0656da5a3c13b31055b4964747d5dde343a6204fa94a6de0b9f305a;2022-01-20;true;PDQ22;Vatsa-aortan aneurysman stenttigraftihoito (EVAR);endovaskulaarinen;XRA10;Läpivalaisu;;
+MOCK_4532390;d89f57466a699484bfab2761a5639ed182f1a37cb51d2f112ceab5792f3514f8;efaeb21cc0656da5a3c13b31055b4964747d5dde343a6204fa94a6de0b9f305a;2022-01-20;false;WAA20;Yleisanestesia;anestesia;;;;
+MOCK_4532390;d89f57466a699484bfab2761a5639ed182f1a37cb51d2f112ceab5792f3514f8;efaeb21cc0656da5a3c13b31055b4964747d5dde343a6204fa94a6de0b9f305a;2022-01-20;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_6840132;f762c631e14d22bd532d6d1d61721bedc2c7c901963bd85a519510e653736b33;b098681da3f0f5764703f80d46fdb19112414883607bf69f445b3cc8941015c9;2020-06-15;true;PAF21;Kaulavaltimon endarterektomia;kirurginen;ZXA10;Vasen puoli;ZXA10;Vasen puoli
+MOCK_6840132;f762c631e14d22bd532d6d1d61721bedc2c7c901963bd85a519510e653736b33;b098681da3f0f5764703f80d46fdb19112414883607bf69f445b3cc8941015c9;2020-06-15;false;WAA20;Yleisanestesia;anestesia;;;;
+MOCK_2408039;ed5393ea3c59379ce2dcb62e7e74a9c84633a0712352a21bea6de1d80fa610f1;594fbc59a0c65973115a27556eedca23ae1bc5d3a7225b5e9aaa7a85442ba0c2;2022-12-19;true;PEQ10;Reisivaltimon pallolaajennus ja stenttaus;endovaskulaarinen;ZXA00, XRA10;Oikea puoli, Läpivalaisu;ZXA00;Oikea puoli
+MOCK_2408039;ed5393ea3c59379ce2dcb62e7e74a9c84633a0712352a21bea6de1d80fa610f1;594fbc59a0c65973115a27556eedca23ae1bc5d3a7225b5e9aaa7a85442ba0c2;2022-12-19;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_2408039;ed5393ea3c59379ce2dcb62e7e74a9c84633a0712352a21bea6de1d80fa610f1;594fbc59a0c65973115a27556eedca23ae1bc5d3a7225b5e9aaa7a85442ba0c2;2022-12-19;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_8637607;3763d411abff8721b6eb091c1248ad1ef23653bfdfff663b603705b9108e4ffc;b4387489857f0244bb1fbafbcbd97b0ba4657862c203c7971ba81f745ed1886d;2021-09-26;true;PEQ10;Reisivaltimon pallolaajennus ja stenttaus;endovaskulaarinen;ZXA10, XRA10;Vasen puoli, Läpivalaisu;ZXA10;Vasen puoli
+MOCK_8637607;3763d411abff8721b6eb091c1248ad1ef23653bfdfff663b603705b9108e4ffc;b4387489857f0244bb1fbafbcbd97b0ba4657862c203c7971ba81f745ed1886d;2021-09-26;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_8637607;3763d411abff8721b6eb091c1248ad1ef23653bfdfff663b603705b9108e4ffc;b4387489857f0244bb1fbafbcbd97b0ba4657862c203c7971ba81f745ed1886d;2021-09-26;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_8126717;ed305a335e636cae4ef8513aeb8e2a4b6a1189d6a5312d4b304ad0c58019e77c;703399836eae28e6b7755cfa938ab32422d93819bf5a85443152b318c2f5c601;2024-08-26;true;PDQ22;Vatsa-aortan aneurysman stenttigraftihoito (EVAR);endovaskulaarinen;XRA10;Läpivalaisu;;
+MOCK_8126717;ed305a335e636cae4ef8513aeb8e2a4b6a1189d6a5312d4b304ad0c58019e77c;703399836eae28e6b7755cfa938ab32422d93819bf5a85443152b318c2f5c601;2024-08-26;false;WAA20;Yleisanestesia;anestesia;;;;
+MOCK_8126717;ed305a335e636cae4ef8513aeb8e2a4b6a1189d6a5312d4b304ad0c58019e77c;703399836eae28e6b7755cfa938ab32422d93819bf5a85443152b318c2f5c601;2024-08-26;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_5168065;a1b6ad56e3c696ff09ecd840ba7b3c16ba1f36229bc242927649483a01886870;e03626ba8ac740b3e7d09dca335253e5fe9a52f47daafba1f6ea61378a238343;2020-10-07;true;PHD16;Ison kehräslaskimon radiotaajuusablaatio;endovaskulaarinen;ZXA00, XRA10;Oikea puoli, Läpivalaisu;ZXA00;Oikea puoli
+MOCK_5168065;a1b6ad56e3c696ff09ecd840ba7b3c16ba1f36229bc242927649483a01886870;e03626ba8ac740b3e7d09dca335253e5fe9a52f47daafba1f6ea61378a238343;2020-10-07;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_5168065;a1b6ad56e3c696ff09ecd840ba7b3c16ba1f36229bc242927649483a01886870;e03626ba8ac740b3e7d09dca335253e5fe9a52f47daafba1f6ea61378a238343;2020-10-07;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_6778765;bb371ff31877d8790f3f2a8850f5ffb380399f44fb23e28fece721178a7f01ca;a52730fd1fe067062f93a81d87250bbf2522f6d323d110ff6d6275bb16ecdc4a;2020-04-03;true;PEQ10;Reisivaltimon pallolaajennus ja stenttaus;endovaskulaarinen;ZXA10, XRA10;Vasen puoli, Läpivalaisu;ZXA10;Vasen puoli
+MOCK_6778765;bb371ff31877d8790f3f2a8850f5ffb380399f44fb23e28fece721178a7f01ca;a52730fd1fe067062f93a81d87250bbf2522f6d323d110ff6d6275bb16ecdc4a;2020-04-03;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_6778765;bb371ff31877d8790f3f2a8850f5ffb380399f44fb23e28fece721178a7f01ca;a52730fd1fe067062f93a81d87250bbf2522f6d323d110ff6d6275bb16ecdc4a;2020-04-03;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_6989375;e5dfb3d489764c8f769e5c2f07810ae6fd571e680f650cc08a4f8ad816519e1d;a4cd07818770a2b31eae6c0eb74c14df9eec41d3363338e85ec54de5c2701b88;2019-06-29;true;PEQ10;Reisivaltimon pallolaajennus ja stenttaus;endovaskulaarinen;ZXA10, XRA10;Vasen puoli, Läpivalaisu;ZXA10;Vasen puoli
+MOCK_6989375;e5dfb3d489764c8f769e5c2f07810ae6fd571e680f650cc08a4f8ad816519e1d;a4cd07818770a2b31eae6c0eb74c14df9eec41d3363338e85ec54de5c2701b88;2019-06-29;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_6989375;e5dfb3d489764c8f769e5c2f07810ae6fd571e680f650cc08a4f8ad816519e1d;a4cd07818770a2b31eae6c0eb74c14df9eec41d3363338e85ec54de5c2701b88;2019-06-29;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_8549368;cdde2bcd8f4483c61545b8cfa0946ac7fb763088f6b8349bc86d6ad95754493e;d44f69d6e676a23836412ad41331934db44d289584a1cf660ce4ffd8a2b52781;2021-12-15;true;PDG22;Vatsa-aortan aneurysman korjaus Y-proteesilla;kirurginen;;;;
+MOCK_8549368;cdde2bcd8f4483c61545b8cfa0946ac7fb763088f6b8349bc86d6ad95754493e;d44f69d6e676a23836412ad41331934db44d289584a1cf660ce4ffd8a2b52781;2021-12-15;false;WAA20;Yleisanestesia;anestesia;;;;
+MOCK_1762434;521f1d6f8304fb2843e27e4c87f3961a3a1ae39d000dd788d8af65efd0c890fc;eac9322b0787c44014a21232221cea529880409bbd47490f8aaf2a89527712ff;2025-10-31;true;PHD16;Ison kehräslaskimon radiotaajuusablaatio;endovaskulaarinen;ZXA00, XRA10;Oikea puoli, Läpivalaisu;ZXA00;Oikea puoli
+MOCK_1762434;521f1d6f8304fb2843e27e4c87f3961a3a1ae39d000dd788d8af65efd0c890fc;eac9322b0787c44014a21232221cea529880409bbd47490f8aaf2a89527712ff;2025-10-31;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_1762434;521f1d6f8304fb2843e27e4c87f3961a3a1ae39d000dd788d8af65efd0c890fc;eac9322b0787c44014a21232221cea529880409bbd47490f8aaf2a89527712ff;2025-10-31;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_7650751;bc9ec7a8182f23b57c4104669ac0298a36f4ab16ef4dd7e615e620242af78dc1;d2320990aa3347866abae83e14ff60d6dcb496dba3df2046d357f49fa1fc2ccc;2022-10-02;true;PEQ10;Reisivaltimon pallolaajennus ja stenttaus;endovaskulaarinen;ZXA00, XRA10;Oikea puoli, Läpivalaisu;ZXA00;Oikea puoli
+MOCK_7650751;bc9ec7a8182f23b57c4104669ac0298a36f4ab16ef4dd7e615e620242af78dc1;d2320990aa3347866abae83e14ff60d6dcb496dba3df2046d357f49fa1fc2ccc;2022-10-02;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_7650751;bc9ec7a8182f23b57c4104669ac0298a36f4ab16ef4dd7e615e620242af78dc1;d2320990aa3347866abae83e14ff60d6dcb496dba3df2046d357f49fa1fc2ccc;2022-10-02;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_3248485;612bfa2b60287d7a2e6fa36253784fccac5924bcbf1679bfde2440b66594b9f0;8e35f0439b0dbfceebf574766b48bdb56c16a64630bd82a3c80c59f7b549c8ab;2020-08-18;true;PEQ10;Reisivaltimon pallolaajennus ja stenttaus;endovaskulaarinen;ZXA10, XRA10;Vasen puoli, Läpivalaisu;ZXA10;Vasen puoli
+MOCK_3248485;612bfa2b60287d7a2e6fa36253784fccac5924bcbf1679bfde2440b66594b9f0;8e35f0439b0dbfceebf574766b48bdb56c16a64630bd82a3c80c59f7b549c8ab;2020-08-18;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_3248485;612bfa2b60287d7a2e6fa36253784fccac5924bcbf1679bfde2440b66594b9f0;8e35f0439b0dbfceebf574766b48bdb56c16a64630bd82a3c80c59f7b549c8ab;2020-08-18;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_1918592;3bc76cceedd52b21ac615855d2d55ab56604ed0dd4e4412a541765c5d793b304;50f2d2be15b170453960cd5eda8e3e4c2582c1b467f66ed4a45c46a4300b3ab7;2020-09-20;true;PEE10;Alaraajavaltimon trombembolektomia;kirurginen;ZXA10;Vasen puoli;ZXA10;Vasen puoli
+MOCK_1918592;3bc76cceedd52b21ac615855d2d55ab56604ed0dd4e4412a541765c5d793b304;50f2d2be15b170453960cd5eda8e3e4c2582c1b467f66ed4a45c46a4300b3ab7;2020-09-20;false;WAA20;Yleisanestesia;anestesia;;;;
+MOCK_3550382;e169ef77c570dbe9ab657a78420963658df8d9e3f4fed8e61ea44474512a6108;61864a22902be2f4aca3ac919eeb04020206c475e0a59135baad9e38348daa8a;2021-02-13;true;PEH20;Reisi-polvitaivevaltimon ohitusleikkaus laskimosiirteellä;kirurginen;ZXA10;Vasen puoli;ZXA10;Vasen puoli
+MOCK_3550382;e169ef77c570dbe9ab657a78420963658df8d9e3f4fed8e61ea44474512a6108;61864a22902be2f4aca3ac919eeb04020206c475e0a59135baad9e38348daa8a;2021-02-13;false;WAA20;Yleisanestesia;anestesia;;;;
+MOCK_9448759;fdba14d4007172270032455105b740737d99a92c0f081536b740b586c50635a1;1053fef67c67279778734858a3919c0f71a73893129016ead16a4f8f50ace474;2022-05-02;true;PAF21;Kaulavaltimon endarterektomia;kirurginen;ZXA10;Vasen puoli;ZXA10;Vasen puoli
+MOCK_9448759;fdba14d4007172270032455105b740737d99a92c0f081536b740b586c50635a1;1053fef67c67279778734858a3919c0f71a73893129016ead16a4f8f50ace474;2022-05-02;false;WAA20;Yleisanestesia;anestesia;;;;
+MOCK_3538596;8ca3767536655b460cb4100ea9a423e44a979a054f3345e30fb32b6443838fc2;e5253ec1c640a0616f213f13d64033d12055cd47038d902b385cdfb6ed57b2b8;2022-09-30;true;PAF21;Kaulavaltimon endarterektomia;kirurginen;ZXA10;Vasen puoli;ZXA10;Vasen puoli
+MOCK_3538596;8ca3767536655b460cb4100ea9a423e44a979a054f3345e30fb32b6443838fc2;e5253ec1c640a0616f213f13d64033d12055cd47038d902b385cdfb6ed57b2b8;2022-09-30;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_4043782;503ffb626ff6652bcf57d48419b59ef8c7c379b2e6f2ac838809a5aa89a57712;37fcf2e3b4eea5cfa4df8324bbf917b2923eaa1e990048ee05c7e201580992ef;2021-04-20;true;PDQ22;Vatsa-aortan aneurysman stenttigraftihoito (EVAR);endovaskulaarinen;XRA10;Läpivalaisu;;
+MOCK_4043782;503ffb626ff6652bcf57d48419b59ef8c7c379b2e6f2ac838809a5aa89a57712;37fcf2e3b4eea5cfa4df8324bbf917b2923eaa1e990048ee05c7e201580992ef;2021-04-20;false;WAA20;Yleisanestesia;anestesia;;;;
+MOCK_4043782;503ffb626ff6652bcf57d48419b59ef8c7c379b2e6f2ac838809a5aa89a57712;37fcf2e3b4eea5cfa4df8324bbf917b2923eaa1e990048ee05c7e201580992ef;2021-04-20;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_5908189;317d36767f2e524a37a76d4708b44ae9840226ee712c7af180d1a04273655865;1d2c7ad559ff56d9706713d0a70216e69fe52b4519d8569d39e3d9af25e06e96;2023-04-16;true;NGQ19;Säären amputaatio;kirurginen;ZXA10;Vasen puoli;ZXA10;Vasen puoli
+MOCK_5908189;317d36767f2e524a37a76d4708b44ae9840226ee712c7af180d1a04273655865;1d2c7ad559ff56d9706713d0a70216e69fe52b4519d8569d39e3d9af25e06e96;2023-04-16;false;WAA20;Yleisanestesia;anestesia;;;;
+MOCK_7303785;eac39e30655949d59b4742002cb49dd1ec538245de3b59f81c622ee8af01088b;d5e61de61e151d36bf4e47de46eed32075865afd984177ad319fbe9fb98091b5;2020-08-24;true;PHD16;Ison kehräslaskimon radiotaajuusablaatio;endovaskulaarinen;ZXA10, XRA10;Vasen puoli, Läpivalaisu;ZXA10;Vasen puoli
+MOCK_7303785;eac39e30655949d59b4742002cb49dd1ec538245de3b59f81c622ee8af01088b;d5e61de61e151d36bf4e47de46eed32075865afd984177ad319fbe9fb98091b5;2020-08-24;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_7303785;eac39e30655949d59b4742002cb49dd1ec538245de3b59f81c622ee8af01088b;d5e61de61e151d36bf4e47de46eed32075865afd984177ad319fbe9fb98091b5;2020-08-24;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_9730630;e7afdfb51b2fcf11605e4bfb13b995854131820153b0348c217f4f8b8ae7e052;196ed4588850282610e34c8a7b8874110392c890ca205aa19ebeba06154cc0c1;2024-07-31;true;PDQ22;Vatsa-aortan aneurysman stenttigraftihoito (EVAR);endovaskulaarinen;XRA10;Läpivalaisu;;
+MOCK_9730630;e7afdfb51b2fcf11605e4bfb13b995854131820153b0348c217f4f8b8ae7e052;196ed4588850282610e34c8a7b8874110392c890ca205aa19ebeba06154cc0c1;2024-07-31;false;WAA20;Yleisanestesia;anestesia;;;;
+MOCK_9730630;e7afdfb51b2fcf11605e4bfb13b995854131820153b0348c217f4f8b8ae7e052;196ed4588850282610e34c8a7b8874110392c890ca205aa19ebeba06154cc0c1;2024-07-31;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_9308693;983b091a08db0316d45b279b645baa51f53a2203136479523f7980909f823e17;1ae86377a572a8dcb6debdf1bda3568ea34c3683b8f5389160dbd2906aa4d8ad;2022-07-25;true;PHD16;Ison kehräslaskimon radiotaajuusablaatio;endovaskulaarinen;ZXA10, XRA10;Vasen puoli, Läpivalaisu;ZXA10;Vasen puoli
+MOCK_9308693;983b091a08db0316d45b279b645baa51f53a2203136479523f7980909f823e17;1ae86377a572a8dcb6debdf1bda3568ea34c3683b8f5389160dbd2906aa4d8ad;2022-07-25;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_9308693;983b091a08db0316d45b279b645baa51f53a2203136479523f7980909f823e17;1ae86377a572a8dcb6debdf1bda3568ea34c3683b8f5389160dbd2906aa4d8ad;2022-07-25;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_5887083;c9d23fa5f7975d01d9c0f0fdeacd29686972a6e30e200dc51f4f9d36f1da50da;3610b0bd4d1c0796257b582ca39354f8b8ac108896fdf6dd61ffefacdb2571f4;2021-06-11;true;PHD16;Ison kehräslaskimon radiotaajuusablaatio;endovaskulaarinen;ZXA00, XRA10;Oikea puoli, Läpivalaisu;ZXA00;Oikea puoli
+MOCK_5887083;c9d23fa5f7975d01d9c0f0fdeacd29686972a6e30e200dc51f4f9d36f1da50da;3610b0bd4d1c0796257b582ca39354f8b8ac108896fdf6dd61ffefacdb2571f4;2021-06-11;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_5887083;c9d23fa5f7975d01d9c0f0fdeacd29686972a6e30e200dc51f4f9d36f1da50da;3610b0bd4d1c0796257b582ca39354f8b8ac108896fdf6dd61ffefacdb2571f4;2021-06-11;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_3180370;98b6637a611179192e7a2f2df557434e8f33a03e69472583fcd8d7b65bc94e87;143ae9308997cb318ea2aee9c2334bb98e40ec2b1cef513c9e02fa99798d1e7b;2020-04-05;true;PEE10;Alaraajavaltimon trombembolektomia;kirurginen;ZXA10;Vasen puoli;ZXA10;Vasen puoli
+MOCK_3180370;98b6637a611179192e7a2f2df557434e8f33a03e69472583fcd8d7b65bc94e87;143ae9308997cb318ea2aee9c2334bb98e40ec2b1cef513c9e02fa99798d1e7b;2020-04-05;false;WAA20;Yleisanestesia;anestesia;;;;
+MOCK_5280044;cd80ed256318d49349f4cffb025d20661f42cc4651f5d042b81963a269fad34c;1b86459d6c6aa6f6c27ece0c41b3d5739273418e297879da6aef19a9264728c6;2023-03-11;true;PEQ10;Reisivaltimon pallolaajennus ja stenttaus;endovaskulaarinen;ZXA00, XRA10;Oikea puoli, Läpivalaisu;ZXA00;Oikea puoli
+MOCK_5280044;cd80ed256318d49349f4cffb025d20661f42cc4651f5d042b81963a269fad34c;1b86459d6c6aa6f6c27ece0c41b3d5739273418e297879da6aef19a9264728c6;2023-03-11;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_5280044;cd80ed256318d49349f4cffb025d20661f42cc4651f5d042b81963a269fad34c;1b86459d6c6aa6f6c27ece0c41b3d5739273418e297879da6aef19a9264728c6;2023-03-11;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_4541215;61ab5efdb0d4c9fdec92b5cc082505acb656bee18a3524104c921f22b1b54524;fcf5dbe36a3386b8634f4c2e44d13bf609e9780c5c11f2397dd64b774a0a7c96;2020-03-05;true;PDG22;Vatsa-aortan aneurysman korjaus Y-proteesilla;kirurginen;;;;
+MOCK_4541215;61ab5efdb0d4c9fdec92b5cc082505acb656bee18a3524104c921f22b1b54524;fcf5dbe36a3386b8634f4c2e44d13bf609e9780c5c11f2397dd64b774a0a7c96;2020-03-05;false;WAA20;Yleisanestesia;anestesia;;;;
+MOCK_2144069;05cc697afc18e0346b61fc4be18fa1d86e842822e21e0e0e3bdee3bbc9b5a901;d2e030a725419171b4b7484e508ca0ad2b0f5f0bf3b4397a4cf62ad4bf4754fb;2020-02-03;true;PEQ10;Reisivaltimon pallolaajennus ja stenttaus;endovaskulaarinen;ZXA00, XRA10;Oikea puoli, Läpivalaisu;ZXA00;Oikea puoli
+MOCK_2144069;05cc697afc18e0346b61fc4be18fa1d86e842822e21e0e0e3bdee3bbc9b5a901;d2e030a725419171b4b7484e508ca0ad2b0f5f0bf3b4397a4cf62ad4bf4754fb;2020-02-03;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_2144069;05cc697afc18e0346b61fc4be18fa1d86e842822e21e0e0e3bdee3bbc9b5a901;d2e030a725419171b4b7484e508ca0ad2b0f5f0bf3b4397a4cf62ad4bf4754fb;2020-02-03;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_2124860;157893a0c372ba09fd4b8846747c26744d4d94e2b7cc2ffdac0870b09eac5f30;08ad42a37c6a8331c4219d7bab715008af410fffc66c9bb0a6543e54ef234b2a;2022-03-27;true;PEE10;Alaraajavaltimon trombembolektomia;kirurginen;ZXA00;Oikea puoli;ZXA00;Oikea puoli
+MOCK_2124860;157893a0c372ba09fd4b8846747c26744d4d94e2b7cc2ffdac0870b09eac5f30;08ad42a37c6a8331c4219d7bab715008af410fffc66c9bb0a6543e54ef234b2a;2022-03-27;false;WAA20;Yleisanestesia;anestesia;;;;
+MOCK_8792924;562ada445a1a5994e75d579667f765c06e7324212530d918d42761cbf978ccb5;802527f4ccb7f10a39eea59b63b01afd7283e16c986f64d30bb1f1144b358097;2019-09-10;true;PHD16;Ison kehräslaskimon radiotaajuusablaatio;endovaskulaarinen;ZXA10, XRA10;Vasen puoli, Läpivalaisu;ZXA10;Vasen puoli
+MOCK_8792924;562ada445a1a5994e75d579667f765c06e7324212530d918d42761cbf978ccb5;802527f4ccb7f10a39eea59b63b01afd7283e16c986f64d30bb1f1144b358097;2019-09-10;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_8792924;562ada445a1a5994e75d579667f765c06e7324212530d918d42761cbf978ccb5;802527f4ccb7f10a39eea59b63b01afd7283e16c986f64d30bb1f1144b358097;2019-09-10;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_8855019;26c41650c70ccad00abe9fab9474b6f0163991c04ba04300aff6ccb6938e8cbe;b9c8405127b57b05749a6ccae3a12df4b5fae2c07f9380729811d06cfe1608c5;2021-06-16;true;NGQ19;Säären amputaatio;kirurginen;ZXA10;Vasen puoli;ZXA10;Vasen puoli
+MOCK_8855019;26c41650c70ccad00abe9fab9474b6f0163991c04ba04300aff6ccb6938e8cbe;b9c8405127b57b05749a6ccae3a12df4b5fae2c07f9380729811d06cfe1608c5;2021-06-16;false;WAB20;Spinaalipuudutus;anestesia;;;;
+MOCK_4153035;7762f10a7fd74130c7368baba06cc4961f0a8081a0f958a9638596168239397e;e681cdc10a310ecca1415fede0b44d6c975943201384bd39928eea6fdaaa3b9a;2025-04-22;true;PEQ10;Reisivaltimon pallolaajennus ja stenttaus;endovaskulaarinen;ZXA10, XRA10;Vasen puoli, Läpivalaisu;ZXA10;Vasen puoli
+MOCK_4153035;7762f10a7fd74130c7368baba06cc4961f0a8081a0f958a9638596168239397e;e681cdc10a310ecca1415fede0b44d6c975943201384bd39928eea6fdaaa3b9a;2025-04-22;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_4153035;7762f10a7fd74130c7368baba06cc4961f0a8081a0f958a9638596168239397e;e681cdc10a310ecca1415fede0b44d6c975943201384bd39928eea6fdaaa3b9a;2025-04-22;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_9234351;cdb5b2e53df03335970b46aa9af4cb1f0bf063f6bd9c44cc635c5ce99c3137e6;21c8025e9071bd2518490614c25d3146d7da9de8293334ffb3a6bbed1f789aab;2021-07-16;true;PAF21;Kaulavaltimon endarterektomia;kirurginen;ZXA00;Oikea puoli;ZXA00;Oikea puoli
+MOCK_9234351;cdb5b2e53df03335970b46aa9af4cb1f0bf063f6bd9c44cc635c5ce99c3137e6;21c8025e9071bd2518490614c25d3146d7da9de8293334ffb3a6bbed1f789aab;2021-07-16;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_2069097;4b83b11ca60f2f6de4ebe94576fb34acf0183e08e63263a4da7097c8e39e74ec;862c537fe78854a06a2c4b8cb48fe897b645a81b5f915fe92d10db25ce00f877;2020-12-08;true;PHD16;Ison kehräslaskimon radiotaajuusablaatio;endovaskulaarinen;ZXA10, XRA10;Vasen puoli, Läpivalaisu;ZXA10;Vasen puoli
+MOCK_2069097;4b83b11ca60f2f6de4ebe94576fb34acf0183e08e63263a4da7097c8e39e74ec;862c537fe78854a06a2c4b8cb48fe897b645a81b5f915fe92d10db25ce00f877;2020-12-08;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_2069097;4b83b11ca60f2f6de4ebe94576fb34acf0183e08e63263a4da7097c8e39e74ec;862c537fe78854a06a2c4b8cb48fe897b645a81b5f915fe92d10db25ce00f877;2020-12-08;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_9560178;0795df9a729b8cfe15f934f871f448007d539660a2e7ee84a2f0ebbe1e03f961;5235cc18c8d2865b568cc683c1ee6cd6ac7882eabbf2e7a805d2e068864fd8cb;2022-09-14;true;PEE10;Alaraajavaltimon trombembolektomia;kirurginen;ZXA10;Vasen puoli;ZXA10;Vasen puoli
+MOCK_9560178;0795df9a729b8cfe15f934f871f448007d539660a2e7ee84a2f0ebbe1e03f961;5235cc18c8d2865b568cc683c1ee6cd6ac7882eabbf2e7a805d2e068864fd8cb;2022-09-14;false;WAA20;Yleisanestesia;anestesia;;;;
+MOCK_8344317;e4cc1223f2ce357b0a40d52688b6dc75a444a8586937137879ff58d8e5bdc9e5;236d91e3bc11170c2251b78070d8b9ac712e64a6e2676b3441a4fc734c70e602;2022-06-17;true;PHD16;Ison kehräslaskimon radiotaajuusablaatio;endovaskulaarinen;ZXA10, XRA10;Vasen puoli, Läpivalaisu;ZXA10;Vasen puoli
+MOCK_8344317;e4cc1223f2ce357b0a40d52688b6dc75a444a8586937137879ff58d8e5bdc9e5;236d91e3bc11170c2251b78070d8b9ac712e64a6e2676b3441a4fc734c70e602;2022-06-17;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_8344317;e4cc1223f2ce357b0a40d52688b6dc75a444a8586937137879ff58d8e5bdc9e5;236d91e3bc11170c2251b78070d8b9ac712e64a6e2676b3441a4fc734c70e602;2022-06-17;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_2516095;0a3f3092f19ae6d16bf4e9cb02b7807ff5b7a9b9d52d2f6428c89eee93d9f256;177173d0ff1938313bd5df051cb8786c1ac6196f05fbb55f19af299a9ee2536b;2020-05-04;true;PHD16;Ison kehräslaskimon radiotaajuusablaatio;endovaskulaarinen;ZXA00, XRA10;Oikea puoli, Läpivalaisu;ZXA00;Oikea puoli
+MOCK_2516095;0a3f3092f19ae6d16bf4e9cb02b7807ff5b7a9b9d52d2f6428c89eee93d9f256;177173d0ff1938313bd5df051cb8786c1ac6196f05fbb55f19af299a9ee2536b;2020-05-04;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_2516095;0a3f3092f19ae6d16bf4e9cb02b7807ff5b7a9b9d52d2f6428c89eee93d9f256;177173d0ff1938313bd5df051cb8786c1ac6196f05fbb55f19af299a9ee2536b;2020-05-04;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_4429210;f664b52ad8b11aacf7c924c5db92f5f9d366d76b7f48621fca2d137b0637fb3a;62524e1bdb6bc15cf7e884dca8a5917129dc760d9300859554f15369eaa6bb9b;2021-07-30;true;PHD16;Ison kehräslaskimon radiotaajuusablaatio;endovaskulaarinen;ZXA00, XRA10;Oikea puoli, Läpivalaisu;ZXA00;Oikea puoli
+MOCK_4429210;f664b52ad8b11aacf7c924c5db92f5f9d366d76b7f48621fca2d137b0637fb3a;62524e1bdb6bc15cf7e884dca8a5917129dc760d9300859554f15369eaa6bb9b;2021-07-30;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_4429210;f664b52ad8b11aacf7c924c5db92f5f9d366d76b7f48621fca2d137b0637fb3a;62524e1bdb6bc15cf7e884dca8a5917129dc760d9300859554f15369eaa6bb9b;2021-07-30;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_1303715;e2edc15dfaad360a6c048776fa48d6f1c190bed558c504dccdf91d9bb62eff4c;b60c9265c874974aae1bc610a0025aea30e1ec49425fcdde00f3855abb7f15ee;2024-03-21;true;PHD16;Ison kehräslaskimon radiotaajuusablaatio;endovaskulaarinen;ZXA10, XRA10;Vasen puoli, Läpivalaisu;ZXA10;Vasen puoli
+MOCK_1303715;e2edc15dfaad360a6c048776fa48d6f1c190bed558c504dccdf91d9bb62eff4c;b60c9265c874974aae1bc610a0025aea30e1ec49425fcdde00f3855abb7f15ee;2024-03-21;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_1303715;e2edc15dfaad360a6c048776fa48d6f1c190bed558c504dccdf91d9bb62eff4c;b60c9265c874974aae1bc610a0025aea30e1ec49425fcdde00f3855abb7f15ee;2024-03-21;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_4880014;fc764984bb976c968a1188be37b686809c764fbbb7a488f716e70062bdb8aaeb;b0a06d1b92ff54ca43813d743305cd07efe0293b30177feee6c07d8eaa78e32f;2024-04-07;true;PEH20;Reisi-polvitaivevaltimon ohitusleikkaus laskimosiirteellä;kirurginen;ZXA00;Oikea puoli;ZXA00;Oikea puoli
+MOCK_4880014;fc764984bb976c968a1188be37b686809c764fbbb7a488f716e70062bdb8aaeb;b0a06d1b92ff54ca43813d743305cd07efe0293b30177feee6c07d8eaa78e32f;2024-04-07;false;WAA20;Yleisanestesia;anestesia;;;;
+MOCK_2396226;0938ada0278e61be0f993188d1d63ecbeb416fe59af347364ae979d129933d09;748133f9576eb37ac7a940082717a5a8b7c7d8506b7119ae8e95e6edba7df99e;2023-01-23;true;PHD16;Ison kehräslaskimon radiotaajuusablaatio;endovaskulaarinen;ZXA10, XRA10;Vasen puoli, Läpivalaisu;ZXA10;Vasen puoli
+MOCK_2396226;0938ada0278e61be0f993188d1d63ecbeb416fe59af347364ae979d129933d09;748133f9576eb37ac7a940082717a5a8b7c7d8506b7119ae8e95e6edba7df99e;2023-01-23;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_2396226;0938ada0278e61be0f993188d1d63ecbeb416fe59af347364ae979d129933d09;748133f9576eb37ac7a940082717a5a8b7c7d8506b7119ae8e95e6edba7df99e;2023-01-23;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_1830847;9843898d848e5e0178a594762a161b4637150b17f796ab20c22cf132682ae110;3841402996376d8f785e958b31f69351d57a0001dca7108ce59d8055981aab2a;2022-03-27;true;PAF21;Kaulavaltimon endarterektomia;kirurginen;ZXA00;Oikea puoli;ZXA00;Oikea puoli
+MOCK_1830847;9843898d848e5e0178a594762a161b4637150b17f796ab20c22cf132682ae110;3841402996376d8f785e958b31f69351d57a0001dca7108ce59d8055981aab2a;2022-03-27;false;WAA20;Yleisanestesia;anestesia;;;;
+MOCK_1650920;4696b2af99b9215a11379a6e1a37d10b07af2d44f7e106222dbfe730ce673ecc;bf24fa62afbe489d478f39ea29a145ae80a9be705f14446b94a0fd68532d0862;2024-11-27;true;PHD16;Ison kehräslaskimon radiotaajuusablaatio;endovaskulaarinen;ZXA10, XRA10;Vasen puoli, Läpivalaisu;ZXA10;Vasen puoli
+MOCK_1650920;4696b2af99b9215a11379a6e1a37d10b07af2d44f7e106222dbfe730ce673ecc;bf24fa62afbe489d478f39ea29a145ae80a9be705f14446b94a0fd68532d0862;2024-11-27;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_1650920;4696b2af99b9215a11379a6e1a37d10b07af2d44f7e106222dbfe730ce673ecc;bf24fa62afbe489d478f39ea29a145ae80a9be705f14446b94a0fd68532d0862;2024-11-27;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_3514464;e82aaada81cdd9a975005465bd34cdd75d4797168992a6ada2c76f2f08951d07;09a265087e0db701478f9fa0ad34b1b5209e9ae7638bee79deeceb8e8df30a0c;2023-06-29;true;PEE10;Alaraajavaltimon trombembolektomia;kirurginen;ZXA10;Vasen puoli;ZXA10;Vasen puoli
+MOCK_3514464;e82aaada81cdd9a975005465bd34cdd75d4797168992a6ada2c76f2f08951d07;09a265087e0db701478f9fa0ad34b1b5209e9ae7638bee79deeceb8e8df30a0c;2023-06-29;false;WAA20;Yleisanestesia;anestesia;;;;
+MOCK_6176800;fcc3c795276637df2799555148f2d46ef0e0dac626bf3411638d5fabd90f6835;2b4bc1426d45d478866a7b3feface4988c71a63682f00fb5f2e736730eb48bc1;2025-02-24;true;PAF21;Kaulavaltimon endarterektomia;kirurginen;ZXA10;Vasen puoli;ZXA10;Vasen puoli
+MOCK_6176800;fcc3c795276637df2799555148f2d46ef0e0dac626bf3411638d5fabd90f6835;2b4bc1426d45d478866a7b3feface4988c71a63682f00fb5f2e736730eb48bc1;2025-02-24;false;WAA20;Yleisanestesia;anestesia;;;;
+MOCK_5496703;afe9fc6ce86ad57c4a00e67304908c768ca76e7734d9dadc081ae3462a470f94;f361251424001babb2e08d39cec85742e82cf64b9d0654986e0ed88dd2e2f317;2021-01-21;true;PEE10;Alaraajavaltimon trombembolektomia;kirurginen;ZXA00;Oikea puoli;ZXA00;Oikea puoli
+MOCK_5496703;afe9fc6ce86ad57c4a00e67304908c768ca76e7734d9dadc081ae3462a470f94;f361251424001babb2e08d39cec85742e82cf64b9d0654986e0ed88dd2e2f317;2021-01-21;false;WAA20;Yleisanestesia;anestesia;;;;
+MOCK_1575593;8d86e9e08703e9035fc96e751a59c7590905425118934c898a9e02ee90329223;366c0c91a04a6a58b99165b32322dccb3c2a5f55bf0fb2c346958d1fc91e1d5d;2023-05-01;true;NGQ19;Säären amputaatio;kirurginen;ZXA00;Oikea puoli;ZXA00;Oikea puoli
+MOCK_1575593;8d86e9e08703e9035fc96e751a59c7590905425118934c898a9e02ee90329223;366c0c91a04a6a58b99165b32322dccb3c2a5f55bf0fb2c346958d1fc91e1d5d;2023-05-01;false;WAA20;Yleisanestesia;anestesia;;;;
+MOCK_5260583;6b3c408bbd4a75079b3e18d9c337eee6ab20db54ead500cf24b5cee00dfc664c;ca1f761bb169ca01d2578e4e2fb64b1133003493f7767986b287cb12ddee3103;2023-05-19;true;PAF21;Kaulavaltimon endarterektomia;kirurginen;ZXA10;Vasen puoli;ZXA10;Vasen puoli
+MOCK_5260583;6b3c408bbd4a75079b3e18d9c337eee6ab20db54ead500cf24b5cee00dfc664c;ca1f761bb169ca01d2578e4e2fb64b1133003493f7767986b287cb12ddee3103;2023-05-19;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_9203734;eb0fa1df1fc47c5d1978584121c9586fc0afc960c0c29da8c726599b1b4dad44;974a82463446866b0c09ab2af5bc9951520f6e5ff96bca8a2ebe4255bea442f8;2023-06-25;true;PEE10;Alaraajavaltimon trombembolektomia;kirurginen;ZXA10;Vasen puoli;ZXA10;Vasen puoli
+MOCK_9203734;eb0fa1df1fc47c5d1978584121c9586fc0afc960c0c29da8c726599b1b4dad44;974a82463446866b0c09ab2af5bc9951520f6e5ff96bca8a2ebe4255bea442f8;2023-06-25;false;WAA20;Yleisanestesia;anestesia;;;;
+MOCK_3203731;98091e51a6b725d762399227baf944b2e809b7d7d169536c02fb0d1918a4cc10;04e32fc5bc277765c2ab0483a97eb92bb89c65b7f4b45b971b01825b0572c9e3;2019-09-05;true;PEH20;Reisi-polvitaivevaltimon ohitusleikkaus laskimosiirteellä;kirurginen;ZXA10;Vasen puoli;ZXA10;Vasen puoli
+MOCK_3203731;98091e51a6b725d762399227baf944b2e809b7d7d169536c02fb0d1918a4cc10;04e32fc5bc277765c2ab0483a97eb92bb89c65b7f4b45b971b01825b0572c9e3;2019-09-05;false;WAA20;Yleisanestesia;anestesia;;;;
+MOCK_6552225;6b424b1b6210e36bcfd9d7ca9e9473339a387767ba9a1110b3361d6b83bca42e;4489e7d24b270da6c0e15c8dd16866f76f402fd540088ec29073775aeee70ced;2021-02-14;true;PEQ10;Reisivaltimon pallolaajennus ja stenttaus;endovaskulaarinen;ZXA10, XRA10;Vasen puoli, Läpivalaisu;ZXA10;Vasen puoli
+MOCK_6552225;6b424b1b6210e36bcfd9d7ca9e9473339a387767ba9a1110b3361d6b83bca42e;4489e7d24b270da6c0e15c8dd16866f76f402fd540088ec29073775aeee70ced;2021-02-14;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_6552225;6b424b1b6210e36bcfd9d7ca9e9473339a387767ba9a1110b3361d6b83bca42e;4489e7d24b270da6c0e15c8dd16866f76f402fd540088ec29073775aeee70ced;2021-02-14;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_5227875;1bb7028c85e9986e97933ce8b2220dcaae6c565d334fc98287deaa964312aa90;bb14b2d0b49aad7086cc17330d05a278c897bb85b0e5b96f2c1a436e51a65a05;2020-11-14;true;PEQ10;Reisivaltimon pallolaajennus ja stenttaus;endovaskulaarinen;ZXA00, XRA10;Oikea puoli, Läpivalaisu;ZXA00;Oikea puoli
+MOCK_5227875;1bb7028c85e9986e97933ce8b2220dcaae6c565d334fc98287deaa964312aa90;bb14b2d0b49aad7086cc17330d05a278c897bb85b0e5b96f2c1a436e51a65a05;2020-11-14;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_5227875;1bb7028c85e9986e97933ce8b2220dcaae6c565d334fc98287deaa964312aa90;bb14b2d0b49aad7086cc17330d05a278c897bb85b0e5b96f2c1a436e51a65a05;2020-11-14;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_9003544;93682825cfef2d2eea409809f30bcf83115760d7d946b2c52522378336e54a4b;fb862c06f10325b8ce16971d9792acad96744a1857d74e994cebd0630d2583bf;2019-03-13;true;PHD16;Ison kehräslaskimon radiotaajuusablaatio;endovaskulaarinen;ZXA00, XRA10;Oikea puoli, Läpivalaisu;ZXA00;Oikea puoli
+MOCK_9003544;93682825cfef2d2eea409809f30bcf83115760d7d946b2c52522378336e54a4b;fb862c06f10325b8ce16971d9792acad96744a1857d74e994cebd0630d2583bf;2019-03-13;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_9003544;93682825cfef2d2eea409809f30bcf83115760d7d946b2c52522378336e54a4b;fb862c06f10325b8ce16971d9792acad96744a1857d74e994cebd0630d2583bf;2019-03-13;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_3184295;24d46c8cd6fcccbdaccd6b8050c203a2895b589a17ed4d7c175c7e675348702c;8f4bc999a691605848411946965d1a4fa43cfcdbb742c8019fd0acc0285b523f;2022-02-26;true;PEH20;Reisi-polvitaivevaltimon ohitusleikkaus laskimosiirteellä;kirurginen;ZXA00;Oikea puoli;ZXA00;Oikea puoli
+MOCK_3184295;24d46c8cd6fcccbdaccd6b8050c203a2895b589a17ed4d7c175c7e675348702c;8f4bc999a691605848411946965d1a4fa43cfcdbb742c8019fd0acc0285b523f;2022-02-26;false;WAB20;Spinaalipuudutus;anestesia;;;;
+MOCK_8320863;344261e19205ff01b1c9d2159e7fdddc3b8d98bf461f7c777932221b0c272218;17e9480cdddea3e8918cf40441ea2a3d9636802ff0c35983a04bfdaa25ac5b06;2025-07-26;true;PHD16;Ison kehräslaskimon radiotaajuusablaatio;endovaskulaarinen;ZXA00, XRA10;Oikea puoli, Läpivalaisu;ZXA00;Oikea puoli
+MOCK_8320863;344261e19205ff01b1c9d2159e7fdddc3b8d98bf461f7c777932221b0c272218;17e9480cdddea3e8918cf40441ea2a3d9636802ff0c35983a04bfdaa25ac5b06;2025-07-26;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_8320863;344261e19205ff01b1c9d2159e7fdddc3b8d98bf461f7c777932221b0c272218;17e9480cdddea3e8918cf40441ea2a3d9636802ff0c35983a04bfdaa25ac5b06;2025-07-26;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_4247585;b8a68d0bd22be13df026ba856b81cc253dd889d2a8a6e444ac3653f2a7ef8f93;4b12adb88f0090af537b36a570b1dbb500854b6f5f82545f087803f252bc7b83;2021-08-09;true;PAF21;Kaulavaltimon endarterektomia;kirurginen;ZXA10;Vasen puoli;ZXA10;Vasen puoli
+MOCK_4247585;b8a68d0bd22be13df026ba856b81cc253dd889d2a8a6e444ac3653f2a7ef8f93;4b12adb88f0090af537b36a570b1dbb500854b6f5f82545f087803f252bc7b83;2021-08-09;false;WAA20;Yleisanestesia;anestesia;;;;
+MOCK_8432487;4dfe866cc767673136497284d1834e4a04d508a76ecb4f3d1fc928e105ab9b1e;3d39a9793d7f04251c4bea00bb70b1e986e7416701ce6e1f7e33eb519c1ff5b0;2022-03-03;true;PEQ10;Reisivaltimon pallolaajennus ja stenttaus;endovaskulaarinen;ZXA00, XRA10;Oikea puoli, Läpivalaisu;ZXA00;Oikea puoli
+MOCK_8432487;4dfe866cc767673136497284d1834e4a04d508a76ecb4f3d1fc928e105ab9b1e;3d39a9793d7f04251c4bea00bb70b1e986e7416701ce6e1f7e33eb519c1ff5b0;2022-03-03;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_8432487;4dfe866cc767673136497284d1834e4a04d508a76ecb4f3d1fc928e105ab9b1e;3d39a9793d7f04251c4bea00bb70b1e986e7416701ce6e1f7e33eb519c1ff5b0;2022-03-03;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_8472760;4d9faf37909bb2aa65afffeb8ba014e6adafc01ac5c69f9b3f9c59f26643ae89;5a0f06231a1f5dadae8693edc81dccdf255d099dd0f8b0aec6528c1a14e5e7f6;2022-08-02;true;PEE10;Alaraajavaltimon trombembolektomia;kirurginen;ZXA10;Vasen puoli;ZXA10;Vasen puoli
+MOCK_8472760;4d9faf37909bb2aa65afffeb8ba014e6adafc01ac5c69f9b3f9c59f26643ae89;5a0f06231a1f5dadae8693edc81dccdf255d099dd0f8b0aec6528c1a14e5e7f6;2022-08-02;false;WAA20;Yleisanestesia;anestesia;;;;
+MOCK_2711736;4126cf209c3f43987145b383759ff914ef202e086d63b3a68e7c9a35f7608462;ad5b9add90368b6ded9986b14156471e05562a3d9f4e4691eb587c6075e3d208;2020-12-20;true;NGQ19;Säären amputaatio;kirurginen;ZXA00;Oikea puoli;ZXA00;Oikea puoli
+MOCK_2711736;4126cf209c3f43987145b383759ff914ef202e086d63b3a68e7c9a35f7608462;ad5b9add90368b6ded9986b14156471e05562a3d9f4e4691eb587c6075e3d208;2020-12-20;false;WAA20;Yleisanestesia;anestesia;;;;
+MOCK_6297244;9081f6fd1748c7e3f340f221205439009e0b8e11fee68422ababe3bfb27b41d0;70fd0af1dba4dd15dc347b36ef41690d4bb06255065edba8c8ca8b1533341524;2022-06-29;true;PAF21;Kaulavaltimon endarterektomia;kirurginen;ZXA10;Vasen puoli;ZXA10;Vasen puoli
+MOCK_6297244;9081f6fd1748c7e3f340f221205439009e0b8e11fee68422ababe3bfb27b41d0;70fd0af1dba4dd15dc347b36ef41690d4bb06255065edba8c8ca8b1533341524;2022-06-29;false;WAA20;Yleisanestesia;anestesia;;;;
+MOCK_9569340;43dab36c4f45f3e2d98f82166ffd2b3ea8114a3a1bb002bcc5a54560326e4064;728a579a38cebfd0dc0a041b8a46bf7af5e6d1d2af71f6e9df8d3047238db808;2021-02-03;true;PAF21;Kaulavaltimon endarterektomia;kirurginen;ZXA00;Oikea puoli;ZXA00;Oikea puoli
+MOCK_9569340;43dab36c4f45f3e2d98f82166ffd2b3ea8114a3a1bb002bcc5a54560326e4064;728a579a38cebfd0dc0a041b8a46bf7af5e6d1d2af71f6e9df8d3047238db808;2021-02-03;false;WAA20;Yleisanestesia;anestesia;;;;
+MOCK_8424436;a5e18fc98edf6f60a6ff7fb80d8fc70b8f9583c775b2e4d4b8ef50f633b8aac4;1a994c9767b658dcfdeaed5ab7bbe3bde80581dbb4375bcde81eaabe3ee550c1;2025-05-15;true;PEQ10;Reisivaltimon pallolaajennus ja stenttaus;endovaskulaarinen;ZXA10, XRA10;Vasen puoli, Läpivalaisu;ZXA10;Vasen puoli
+MOCK_8424436;a5e18fc98edf6f60a6ff7fb80d8fc70b8f9583c775b2e4d4b8ef50f633b8aac4;1a994c9767b658dcfdeaed5ab7bbe3bde80581dbb4375bcde81eaabe3ee550c1;2025-05-15;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_8424436;a5e18fc98edf6f60a6ff7fb80d8fc70b8f9583c775b2e4d4b8ef50f633b8aac4;1a994c9767b658dcfdeaed5ab7bbe3bde80581dbb4375bcde81eaabe3ee550c1;2025-05-15;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_3288125;2ae70d353763260711eb712df2f55515cf309b92017128a3c09d2e927d729601;5310aa776919cf92786ecf6c0b87ee810873ae446a33522c1e32411658310cbf;2022-05-22;true;PHD16;Ison kehräslaskimon radiotaajuusablaatio;endovaskulaarinen;ZXA00, XRA10;Oikea puoli, Läpivalaisu;ZXA00;Oikea puoli
+MOCK_3288125;2ae70d353763260711eb712df2f55515cf309b92017128a3c09d2e927d729601;5310aa776919cf92786ecf6c0b87ee810873ae446a33522c1e32411658310cbf;2022-05-22;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_3288125;2ae70d353763260711eb712df2f55515cf309b92017128a3c09d2e927d729601;5310aa776919cf92786ecf6c0b87ee810873ae446a33522c1e32411658310cbf;2022-05-22;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_5919668;8ba55a58efb2a3baeaf7adc13796fb5b8ce131079c6836ed685c49e451bcfd87;36300f7f6c70d1b72c77c81775eadf2d919d877d1253d68420726900386f0f9f;2021-05-17;true;PEQ10;Reisivaltimon pallolaajennus ja stenttaus;endovaskulaarinen;ZXA10, XRA10;Vasen puoli, Läpivalaisu;ZXA10;Vasen puoli
+MOCK_5919668;8ba55a58efb2a3baeaf7adc13796fb5b8ce131079c6836ed685c49e451bcfd87;36300f7f6c70d1b72c77c81775eadf2d919d877d1253d68420726900386f0f9f;2021-05-17;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_5919668;8ba55a58efb2a3baeaf7adc13796fb5b8ce131079c6836ed685c49e451bcfd87;36300f7f6c70d1b72c77c81775eadf2d919d877d1253d68420726900386f0f9f;2021-05-17;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_3389568;74edf0dad0c103dc8b7daa6a64f28e7a64f4c05b7d661ac7534d8148fd2442af;f5984593d7222806ee374a017794c20298b3b188a4706abdc3496ea42e2d7021;2021-01-31;true;PAF21;Kaulavaltimon endarterektomia;kirurginen;ZXA10;Vasen puoli;ZXA10;Vasen puoli
+MOCK_3389568;74edf0dad0c103dc8b7daa6a64f28e7a64f4c05b7d661ac7534d8148fd2442af;f5984593d7222806ee374a017794c20298b3b188a4706abdc3496ea42e2d7021;2021-01-31;false;WAA20;Yleisanestesia;anestesia;;;;
+MOCK_7149550;1beefd19c90fa6463154ee0776fd0c3c41d0c4239457789f14b8739dbb37b752;9d818a43a788468f9028e075edcc87620e13481e431f903990b682fa0027777c;2021-05-23;true;PHD16;Ison kehräslaskimon radiotaajuusablaatio;endovaskulaarinen;ZXA10, XRA10;Vasen puoli, Läpivalaisu;ZXA10;Vasen puoli
+MOCK_7149550;1beefd19c90fa6463154ee0776fd0c3c41d0c4239457789f14b8739dbb37b752;9d818a43a788468f9028e075edcc87620e13481e431f903990b682fa0027777c;2021-05-23;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_7149550;1beefd19c90fa6463154ee0776fd0c3c41d0c4239457789f14b8739dbb37b752;9d818a43a788468f9028e075edcc87620e13481e431f903990b682fa0027777c;2021-05-23;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_6093498;3450ede23b3d158f86b8e6cfa2f6c329bce278298a206590591657137ae91e45;cea126bdd2dca5dd7170e92a71b89c3e2dcda6052f8a3f52b31563668721fb19;2025-01-18;true;NGQ19;Säären amputaatio;kirurginen;ZXA10;Vasen puoli;ZXA10;Vasen puoli
+MOCK_6093498;3450ede23b3d158f86b8e6cfa2f6c329bce278298a206590591657137ae91e45;cea126bdd2dca5dd7170e92a71b89c3e2dcda6052f8a3f52b31563668721fb19;2025-01-18;false;WAB20;Spinaalipuudutus;anestesia;;;;
+MOCK_1262574;335834fbabec637d36fc7b7ef0c0057a63fcc2fe3120222127421067f8e37535;d905a208dbfae83a56bae623545568f97c79e212c120ae0e71a337fba76660d5;2024-10-30;true;PEH20;Reisi-polvitaivevaltimon ohitusleikkaus laskimosiirteellä;kirurginen;ZXA00;Oikea puoli;ZXA00;Oikea puoli
+MOCK_1262574;335834fbabec637d36fc7b7ef0c0057a63fcc2fe3120222127421067f8e37535;d905a208dbfae83a56bae623545568f97c79e212c120ae0e71a337fba76660d5;2024-10-30;false;WAB20;Spinaalipuudutus;anestesia;;;;
+MOCK_5369727;646be0934a4257660a2fdb7b3048209e2b76a92ea72e42c92abc5f63fa780a61;3baca998f2d118a0c3d9144d62d05499ec8b3cfe4e5a63057e898b4304be65a8;2020-03-20;true;PDQ22;Vatsa-aortan aneurysman stenttigraftihoito (EVAR);endovaskulaarinen;XRA10;Läpivalaisu;;
+MOCK_5369727;646be0934a4257660a2fdb7b3048209e2b76a92ea72e42c92abc5f63fa780a61;3baca998f2d118a0c3d9144d62d05499ec8b3cfe4e5a63057e898b4304be65a8;2020-03-20;false;WAA20;Yleisanestesia;anestesia;;;;
+MOCK_5369727;646be0934a4257660a2fdb7b3048209e2b76a92ea72e42c92abc5f63fa780a61;3baca998f2d118a0c3d9144d62d05499ec8b3cfe4e5a63057e898b4304be65a8;2020-03-20;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_2047981;96b5bfc9da99b5d1715f3387b947baefc02638d5a26350560e3cd04369c2eced;c4b10f55de1557bc5ee1c744aff9646f94e95cf4f928681dd1c590f6e6ea1151;2020-12-31;true;PEQ10;Reisivaltimon pallolaajennus ja stenttaus;endovaskulaarinen;ZXA00, XRA10;Oikea puoli, Läpivalaisu;ZXA00;Oikea puoli
+MOCK_2047981;96b5bfc9da99b5d1715f3387b947baefc02638d5a26350560e3cd04369c2eced;c4b10f55de1557bc5ee1c744aff9646f94e95cf4f928681dd1c590f6e6ea1151;2020-12-31;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_2047981;96b5bfc9da99b5d1715f3387b947baefc02638d5a26350560e3cd04369c2eced;c4b10f55de1557bc5ee1c744aff9646f94e95cf4f928681dd1c590f6e6ea1151;2020-12-31;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_7042125;2f0bd0262410e4e5823758df3c93f1d5a31d97eead9eb55a3a62e9ea601bc6cf;5869fd83789577387c7dd25c4cdd8c9f633f889a564189889f85389780f2838b;2024-12-03;true;PEE10;Alaraajavaltimon trombembolektomia;kirurginen;ZXA00;Oikea puoli;ZXA00;Oikea puoli
+MOCK_7042125;2f0bd0262410e4e5823758df3c93f1d5a31d97eead9eb55a3a62e9ea601bc6cf;5869fd83789577387c7dd25c4cdd8c9f633f889a564189889f85389780f2838b;2024-12-03;false;WAA20;Yleisanestesia;anestesia;;;;
+MOCK_8866396;a61736dde97db82fed864591ec93cb912bfa8f088c7c7e0b266df62e3b1818b7;0372b99ea081e7ad96c2f95c0520b0db7d6c5950ca34fe81cd5fa9109d7b831e;2025-09-06;true;PHD16;Ison kehräslaskimon radiotaajuusablaatio;endovaskulaarinen;ZXA00, XRA10;Oikea puoli, Läpivalaisu;ZXA00;Oikea puoli
+MOCK_8866396;a61736dde97db82fed864591ec93cb912bfa8f088c7c7e0b266df62e3b1818b7;0372b99ea081e7ad96c2f95c0520b0db7d6c5950ca34fe81cd5fa9109d7b831e;2025-09-06;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_8866396;a61736dde97db82fed864591ec93cb912bfa8f088c7c7e0b266df62e3b1818b7;0372b99ea081e7ad96c2f95c0520b0db7d6c5950ca34fe81cd5fa9109d7b831e;2025-09-06;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_1780354;2b63da7a59c256cb4848797d37b94ad9da45e5f71158274f7e46fc40efb2b16c;d3e2f61cf056c8b313be2b939d67645324d006cef61884968f23966692e1a18a;2021-04-10;true;PEQ10;Reisivaltimon pallolaajennus ja stenttaus;endovaskulaarinen;ZXA00, XRA10;Oikea puoli, Läpivalaisu;ZXA00;Oikea puoli
+MOCK_1780354;2b63da7a59c256cb4848797d37b94ad9da45e5f71158274f7e46fc40efb2b16c;d3e2f61cf056c8b313be2b939d67645324d006cef61884968f23966692e1a18a;2021-04-10;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_1780354;2b63da7a59c256cb4848797d37b94ad9da45e5f71158274f7e46fc40efb2b16c;d3e2f61cf056c8b313be2b939d67645324d006cef61884968f23966692e1a18a;2021-04-10;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_6173474;9be6de5bb172415b7aa8afb903a1ccd75ac4258568b56b6f9958f6d211e5fabc;2550e5bb6a9f3c36a3a1a89fc54ffc6b4044b20707537e2d35c1b3b67b9c26e1;2024-04-11;true;PEQ10;Reisivaltimon pallolaajennus ja stenttaus;endovaskulaarinen;ZXA10, XRA10;Vasen puoli, Läpivalaisu;ZXA10;Vasen puoli
+MOCK_6173474;9be6de5bb172415b7aa8afb903a1ccd75ac4258568b56b6f9958f6d211e5fabc;2550e5bb6a9f3c36a3a1a89fc54ffc6b4044b20707537e2d35c1b3b67b9c26e1;2024-04-11;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_6173474;9be6de5bb172415b7aa8afb903a1ccd75ac4258568b56b6f9958f6d211e5fabc;2550e5bb6a9f3c36a3a1a89fc54ffc6b4044b20707537e2d35c1b3b67b9c26e1;2024-04-11;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_1834612;26d77d439ca21bb01a64c0d27e166620cd03311d12998fa3902e4e827adc307a;3b3eedc2a077e56646acf9d12ad97c5e435d8772062b30d3a9df1ba855556d0e;2019-08-15;true;NGQ19;Säären amputaatio;kirurginen;ZXA10;Vasen puoli;ZXA10;Vasen puoli
+MOCK_1834612;26d77d439ca21bb01a64c0d27e166620cd03311d12998fa3902e4e827adc307a;3b3eedc2a077e56646acf9d12ad97c5e435d8772062b30d3a9df1ba855556d0e;2019-08-15;false;WAB20;Spinaalipuudutus;anestesia;;;;
+MOCK_4131410;06b26ba84254cd4ff24543599945dca01e278b328916980f03d3f5d954374240;787cdd4dd9c6db3d6d7d200c892abbd3a9be30fee82ee6ddcfce9880b8f79b81;2021-08-27;true;PHD16;Ison kehräslaskimon radiotaajuusablaatio;endovaskulaarinen;ZXA00, XRA10;Oikea puoli, Läpivalaisu;ZXA00;Oikea puoli
+MOCK_4131410;06b26ba84254cd4ff24543599945dca01e278b328916980f03d3f5d954374240;787cdd4dd9c6db3d6d7d200c892abbd3a9be30fee82ee6ddcfce9880b8f79b81;2021-08-27;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_4131410;06b26ba84254cd4ff24543599945dca01e278b328916980f03d3f5d954374240;787cdd4dd9c6db3d6d7d200c892abbd3a9be30fee82ee6ddcfce9880b8f79b81;2021-08-27;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_2336708;969c0453c4949715a353438683ec9d09f19892cb678095c1e68dab70db168a4d;66378130c89647ed509763970e671302676f10ad42c48a88f9cf5383587b16b6;2020-08-18;true;PAF21;Kaulavaltimon endarterektomia;kirurginen;ZXA10;Vasen puoli;ZXA10;Vasen puoli
+MOCK_2336708;969c0453c4949715a353438683ec9d09f19892cb678095c1e68dab70db168a4d;66378130c89647ed509763970e671302676f10ad42c48a88f9cf5383587b16b6;2020-08-18;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_4236886;16ce3a70e75d5c3f6ab65610cb54d6f7c07ffcbc26abd3db1bc7e20da770fbab;d1940245e2600fb8b3ef576a2c35c359204a238ff4198f0518c6f9a45fd058cb;2019-04-01;true;PEE10;Alaraajavaltimon trombembolektomia;kirurginen;ZXA10;Vasen puoli;ZXA10;Vasen puoli
+MOCK_4236886;16ce3a70e75d5c3f6ab65610cb54d6f7c07ffcbc26abd3db1bc7e20da770fbab;d1940245e2600fb8b3ef576a2c35c359204a238ff4198f0518c6f9a45fd058cb;2019-04-01;false;WAA20;Yleisanestesia;anestesia;;;;
+MOCK_7168026;6660e22f718dea338751ffcd0991b9cb6edfe774807e86ef77b625182033b9d1;49aa75a1f9b116b9599c8725d0668dd533da1cc5b54ce6f02718908adba7fb4a;2022-03-18;true;PHD16;Ison kehräslaskimon radiotaajuusablaatio;endovaskulaarinen;ZXA00, XRA10;Oikea puoli, Läpivalaisu;ZXA00;Oikea puoli
+MOCK_7168026;6660e22f718dea338751ffcd0991b9cb6edfe774807e86ef77b625182033b9d1;49aa75a1f9b116b9599c8725d0668dd533da1cc5b54ce6f02718908adba7fb4a;2022-03-18;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_7168026;6660e22f718dea338751ffcd0991b9cb6edfe774807e86ef77b625182033b9d1;49aa75a1f9b116b9599c8725d0668dd533da1cc5b54ce6f02718908adba7fb4a;2022-03-18;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_1570745;e39c4580bb19cf68f3ded2f6362eddee935a60886602f2aefb13f10bddf1c966;8c6d5a6deeb3642d5b93aa0031a848ce0199c94441cf3c1900de41a7562b9620;2022-11-11;true;PAF21;Kaulavaltimon endarterektomia;kirurginen;ZXA00;Oikea puoli;ZXA00;Oikea puoli
+MOCK_1570745;e39c4580bb19cf68f3ded2f6362eddee935a60886602f2aefb13f10bddf1c966;8c6d5a6deeb3642d5b93aa0031a848ce0199c94441cf3c1900de41a7562b9620;2022-11-11;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_9589996;4202c8c604f3c96508322fb75bb8ca85027d3b8bf32f918825e58f7b8b9e6e27;054119e90845a665f3100ec715d38604b7c44464361b9123d7c293f2780db4d6;2019-11-01;true;PEQ10;Reisivaltimon pallolaajennus ja stenttaus;endovaskulaarinen;ZXA10, XRA10;Vasen puoli, Läpivalaisu;ZXA10;Vasen puoli
+MOCK_9589996;4202c8c604f3c96508322fb75bb8ca85027d3b8bf32f918825e58f7b8b9e6e27;054119e90845a665f3100ec715d38604b7c44464361b9123d7c293f2780db4d6;2019-11-01;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_9589996;4202c8c604f3c96508322fb75bb8ca85027d3b8bf32f918825e58f7b8b9e6e27;054119e90845a665f3100ec715d38604b7c44464361b9123d7c293f2780db4d6;2019-11-01;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_6109908;471e25ff2e0585ee7c662c5b013f4f9f823730bffcc99ed9a8778f64303ddfe5;73b966b5c9c19623e236a7cca6a8736bb826c41fec656bf5518b59ca6e4de9d8;2020-04-06;true;PEH20;Reisi-polvitaivevaltimon ohitusleikkaus laskimosiirteellä;kirurginen;ZXA00;Oikea puoli;ZXA00;Oikea puoli
+MOCK_6109908;471e25ff2e0585ee7c662c5b013f4f9f823730bffcc99ed9a8778f64303ddfe5;73b966b5c9c19623e236a7cca6a8736bb826c41fec656bf5518b59ca6e4de9d8;2020-04-06;false;WAB20;Spinaalipuudutus;anestesia;;;;
+MOCK_9382375;830b754db7fcd2cf4abbcee0a96347854447704cda4c35218642c96d25678236;8ac435d3c72084b3254c8fa233e1653b0b26f23f5caf8db318e0bc791bc8f834;2022-05-15;true;NGQ19;Säären amputaatio;kirurginen;ZXA00;Oikea puoli;ZXA00;Oikea puoli
+MOCK_9382375;830b754db7fcd2cf4abbcee0a96347854447704cda4c35218642c96d25678236;8ac435d3c72084b3254c8fa233e1653b0b26f23f5caf8db318e0bc791bc8f834;2022-05-15;false;WAA20;Yleisanestesia;anestesia;;;;
+MOCK_4695797;69a1a2be660ee11d30906b9e13aa75435614e8b151b6fa01f555c448825e6319;fa4a71429d3622250480846210a8bd20e56b4b80b34c461551228f25a038dd24;2025-05-29;true;PHD16;Ison kehräslaskimon radiotaajuusablaatio;endovaskulaarinen;ZXA10, XRA10;Vasen puoli, Läpivalaisu;ZXA10;Vasen puoli
+MOCK_4695797;69a1a2be660ee11d30906b9e13aa75435614e8b151b6fa01f555c448825e6319;fa4a71429d3622250480846210a8bd20e56b4b80b34c461551228f25a038dd24;2025-05-29;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_4695797;69a1a2be660ee11d30906b9e13aa75435614e8b151b6fa01f555c448825e6319;fa4a71429d3622250480846210a8bd20e56b4b80b34c461551228f25a038dd24;2025-05-29;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_6511500;f8c74af75cac627a703a7c040c17627c685e327c222c990005f2ec398b26afdf;d24cd2a824a9fe8f003efb0385c1af2f54cfe6af9a60bed5c7928501c9a175d0;2025-01-08;true;PEH20;Reisi-polvitaivevaltimon ohitusleikkaus laskimosiirteellä;kirurginen;ZXA00;Oikea puoli;ZXA00;Oikea puoli
+MOCK_6511500;f8c74af75cac627a703a7c040c17627c685e327c222c990005f2ec398b26afdf;d24cd2a824a9fe8f003efb0385c1af2f54cfe6af9a60bed5c7928501c9a175d0;2025-01-08;false;WAA20;Yleisanestesia;anestesia;;;;
+MOCK_7160497;26dcb6a4cd66438d50db482d642a8f38a9c7976b06802f6dcf10c27fb6b84c8a;9bc1573908daeb1a7e4032265469abac7f15ad6c0d3ec64cee61c8ff325be9f3;2021-03-07;true;PAF21;Kaulavaltimon endarterektomia;kirurginen;ZXA00;Oikea puoli;ZXA00;Oikea puoli
+MOCK_7160497;26dcb6a4cd66438d50db482d642a8f38a9c7976b06802f6dcf10c27fb6b84c8a;9bc1573908daeb1a7e4032265469abac7f15ad6c0d3ec64cee61c8ff325be9f3;2021-03-07;false;WAA20;Yleisanestesia;anestesia;;;;
+MOCK_3494134;412850372f8a1a4777518e4bfe0fef6e23a5dce2e03d7abf2ae3a6611107137c;87fa26e3073f61db22124d6220ebe46a361ceac144e381966b03a992fab3f7a8;2025-04-19;true;PHD16;Ison kehräslaskimon radiotaajuusablaatio;endovaskulaarinen;ZXA00, XRA10;Oikea puoli, Läpivalaisu;ZXA00;Oikea puoli
+MOCK_3494134;412850372f8a1a4777518e4bfe0fef6e23a5dce2e03d7abf2ae3a6611107137c;87fa26e3073f61db22124d6220ebe46a361ceac144e381966b03a992fab3f7a8;2025-04-19;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_3494134;412850372f8a1a4777518e4bfe0fef6e23a5dce2e03d7abf2ae3a6611107137c;87fa26e3073f61db22124d6220ebe46a361ceac144e381966b03a992fab3f7a8;2025-04-19;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_9345423;cdd6bffd904cf85a3b0c168e245f7a3af2e62a59ff986748f0f570b1b5e89cf4;506c8d061906cc99840aebeb8237a53c827536ca8edc087ac972d1eeea6eeeaf;2020-08-25;true;PEH20;Reisi-polvitaivevaltimon ohitusleikkaus laskimosiirteellä;kirurginen;ZXA00;Oikea puoli;ZXA00;Oikea puoli
+MOCK_9345423;cdd6bffd904cf85a3b0c168e245f7a3af2e62a59ff986748f0f570b1b5e89cf4;506c8d061906cc99840aebeb8237a53c827536ca8edc087ac972d1eeea6eeeaf;2020-08-25;false;WAB20;Spinaalipuudutus;anestesia;;;;
+MOCK_3688160;aeee8b35abe37ba944ca95a08a070bc04e6067902be21ff1f0fb643351c664d1;1943a8bf77c1f73f17315a6448ba99197a268c0582101a9c2621102ede9e3a2f;2019-12-22;true;PDG22;Vatsa-aortan aneurysman korjaus Y-proteesilla;kirurginen;;;;
+MOCK_3688160;aeee8b35abe37ba944ca95a08a070bc04e6067902be21ff1f0fb643351c664d1;1943a8bf77c1f73f17315a6448ba99197a268c0582101a9c2621102ede9e3a2f;2019-12-22;false;WAA20;Yleisanestesia;anestesia;;;;
+MOCK_1347752;733d12219959393976badeab2edbc3100ba16f21253e6e2f08791e023464fa21;4f16f3867bec58d4577b1d1ff6affbc069809e0b97a57c10384f6c24c3cdf8fc;2023-12-05;true;PEE10;Alaraajavaltimon trombembolektomia;kirurginen;ZXA00;Oikea puoli;ZXA00;Oikea puoli
+MOCK_1347752;733d12219959393976badeab2edbc3100ba16f21253e6e2f08791e023464fa21;4f16f3867bec58d4577b1d1ff6affbc069809e0b97a57c10384f6c24c3cdf8fc;2023-12-05;false;WAA20;Yleisanestesia;anestesia;;;;
+MOCK_2078647;6228c80824af1e4e2e1e6d62378dd96f126c98e0dc14ec15e8b2802a4f687d79;614a26f9da0f085413d29444b3d4f88a25dea1c5d156f3c9f8c274bcbf3088e6;2024-04-02;true;PEQ10;Reisivaltimon pallolaajennus ja stenttaus;endovaskulaarinen;ZXA00, XRA10;Oikea puoli, Läpivalaisu;ZXA00;Oikea puoli
+MOCK_2078647;6228c80824af1e4e2e1e6d62378dd96f126c98e0dc14ec15e8b2802a4f687d79;614a26f9da0f085413d29444b3d4f88a25dea1c5d156f3c9f8c274bcbf3088e6;2024-04-02;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_2078647;6228c80824af1e4e2e1e6d62378dd96f126c98e0dc14ec15e8b2802a4f687d79;614a26f9da0f085413d29444b3d4f88a25dea1c5d156f3c9f8c274bcbf3088e6;2024-04-02;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_7613042;6d1687a85d01e85f1f99982317da5b0d952ba8961a92bdb4ef74c7e3c5ee1e4c;75ba7748f8b5d475d24bec7c685a0d046ba2e7be6b2d190a5f587e5b46a4bfa5;2019-12-31;true;PHD16;Ison kehräslaskimon radiotaajuusablaatio;endovaskulaarinen;ZXA10, XRA10;Vasen puoli, Läpivalaisu;ZXA10;Vasen puoli
+MOCK_7613042;6d1687a85d01e85f1f99982317da5b0d952ba8961a92bdb4ef74c7e3c5ee1e4c;75ba7748f8b5d475d24bec7c685a0d046ba2e7be6b2d190a5f587e5b46a4bfa5;2019-12-31;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_7613042;6d1687a85d01e85f1f99982317da5b0d952ba8961a92bdb4ef74c7e3c5ee1e4c;75ba7748f8b5d475d24bec7c685a0d046ba2e7be6b2d190a5f587e5b46a4bfa5;2019-12-31;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_9365489;110b10d86863c70f3afdab67a623b93938ecc22562ef580cdc680ec8ab4f9c65;7e031058d2425f6211234df0cfb1fc2104e490e97a58dfa9f98ebd84db4f6063;2023-03-08;true;PEQ10;Reisivaltimon pallolaajennus ja stenttaus;endovaskulaarinen;ZXA00, XRA10;Oikea puoli, Läpivalaisu;ZXA00;Oikea puoli
+MOCK_9365489;110b10d86863c70f3afdab67a623b93938ecc22562ef580cdc680ec8ab4f9c65;7e031058d2425f6211234df0cfb1fc2104e490e97a58dfa9f98ebd84db4f6063;2023-03-08;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_9365489;110b10d86863c70f3afdab67a623b93938ecc22562ef580cdc680ec8ab4f9c65;7e031058d2425f6211234df0cfb1fc2104e490e97a58dfa9f98ebd84db4f6063;2023-03-08;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_9504576;00eca8d6fcc07e593760f3502b255a60ec97bbaebba53e6ed19667a945a25206;f60d668c816950c1742fe36f449bf3e937e73e74dcf582ea9280951a16f7c712;2025-07-06;true;PEQ10;Reisivaltimon pallolaajennus ja stenttaus;endovaskulaarinen;ZXA00, XRA10;Oikea puoli, Läpivalaisu;ZXA00;Oikea puoli
+MOCK_9504576;00eca8d6fcc07e593760f3502b255a60ec97bbaebba53e6ed19667a945a25206;f60d668c816950c1742fe36f449bf3e937e73e74dcf582ea9280951a16f7c712;2025-07-06;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_9504576;00eca8d6fcc07e593760f3502b255a60ec97bbaebba53e6ed19667a945a25206;f60d668c816950c1742fe36f449bf3e937e73e74dcf582ea9280951a16f7c712;2025-07-06;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_6245571;7783c41d9520527ec2537ceda80e6a0f4c9b591f5bf94c554e0a6c915c125cd1;7875de9f21e86be4d28e8b51fcbe0c609d7eca8ce4ce8cde3edb99d157238d1c;2020-03-26;true;PAF21;Kaulavaltimon endarterektomia;kirurginen;ZXA10;Vasen puoli;ZXA10;Vasen puoli
+MOCK_6245571;7783c41d9520527ec2537ceda80e6a0f4c9b591f5bf94c554e0a6c915c125cd1;7875de9f21e86be4d28e8b51fcbe0c609d7eca8ce4ce8cde3edb99d157238d1c;2020-03-26;false;WAA20;Yleisanestesia;anestesia;;;;
+MOCK_8174115;9c23dd7dea2f4961c0b2dbaa0cdc35231864dc793850a7ec2a2bf8a8c6f0c11a;f785ad6fce53e2769e7fdf8fee9d3ab8c97aade57cfc24b83738c924a7e353dc;2020-10-31;true;PDG22;Vatsa-aortan aneurysman korjaus Y-proteesilla;kirurginen;;;;
+MOCK_8174115;9c23dd7dea2f4961c0b2dbaa0cdc35231864dc793850a7ec2a2bf8a8c6f0c11a;f785ad6fce53e2769e7fdf8fee9d3ab8c97aade57cfc24b83738c924a7e353dc;2020-10-31;false;WAA20;Yleisanestesia;anestesia;;;;
+MOCK_9962203;956298b6d6c8847bb6841a97df63b6fc10e064f9145109be5504afb268756517;e49fa2391d45c317337eb4e374a3d77f0881a04884f3db4d7316ce869bb76f64;2019-04-30;true;PAF21;Kaulavaltimon endarterektomia;kirurginen;ZXA00;Oikea puoli;ZXA00;Oikea puoli
+MOCK_9962203;956298b6d6c8847bb6841a97df63b6fc10e064f9145109be5504afb268756517;e49fa2391d45c317337eb4e374a3d77f0881a04884f3db4d7316ce869bb76f64;2019-04-30;false;WAA20;Yleisanestesia;anestesia;;;;
+MOCK_5365866;bc81e6213d7433dbf666916ee1ff2587dbec776db179a7e602ea8be83a579b01;d4630da3c61ded619ec2d63a2a050b89b5a390f53cadf5844b64471db828da3f;2020-03-24;true;PHD16;Ison kehräslaskimon radiotaajuusablaatio;endovaskulaarinen;ZXA10, XRA10;Vasen puoli, Läpivalaisu;ZXA10;Vasen puoli
+MOCK_5365866;bc81e6213d7433dbf666916ee1ff2587dbec776db179a7e602ea8be83a579b01;d4630da3c61ded619ec2d63a2a050b89b5a390f53cadf5844b64471db828da3f;2020-03-24;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_5365866;bc81e6213d7433dbf666916ee1ff2587dbec776db179a7e602ea8be83a579b01;d4630da3c61ded619ec2d63a2a050b89b5a390f53cadf5844b64471db828da3f;2020-03-24;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_6901186;118fb5a21c071b0b64f074e4d43c17bc87240422add2f78fa8238ad46acf05b6;8ecaceb8fb2c89c89bbdd3fc777d7da4f7d3e44016a7f7ca5c25d6f0dff181f8;2023-12-14;true;PDG22;Vatsa-aortan aneurysman korjaus Y-proteesilla;kirurginen;;;;
+MOCK_6901186;118fb5a21c071b0b64f074e4d43c17bc87240422add2f78fa8238ad46acf05b6;8ecaceb8fb2c89c89bbdd3fc777d7da4f7d3e44016a7f7ca5c25d6f0dff181f8;2023-12-14;false;WAA20;Yleisanestesia;anestesia;;;;
+MOCK_5604628;9f5f64a4a5a72c836a327fc19d96eea69c148d82d317e04e81957024ef07af01;1837310ba135027a332e170d220f884fbf56538b2f63524aaf6603048b596134;2020-06-10;true;PEQ10;Reisivaltimon pallolaajennus ja stenttaus;endovaskulaarinen;ZXA10, XRA10;Vasen puoli, Läpivalaisu;ZXA10;Vasen puoli
+MOCK_5604628;9f5f64a4a5a72c836a327fc19d96eea69c148d82d317e04e81957024ef07af01;1837310ba135027a332e170d220f884fbf56538b2f63524aaf6603048b596134;2020-06-10;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_5604628;9f5f64a4a5a72c836a327fc19d96eea69c148d82d317e04e81957024ef07af01;1837310ba135027a332e170d220f884fbf56538b2f63524aaf6603048b596134;2020-06-10;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_3737171;adc1decfa617b72be6bdc63bf65d244e1b1b711a03abb64c513640f051aaf3c0;68d60ba9907f1fc1143d1fd7f63258621367074ad98f929ceccf414d2c67dff6;2019-06-23;true;PEQ10;Reisivaltimon pallolaajennus ja stenttaus;endovaskulaarinen;ZXA10, XRA10;Vasen puoli, Läpivalaisu;ZXA10;Vasen puoli
+MOCK_3737171;adc1decfa617b72be6bdc63bf65d244e1b1b711a03abb64c513640f051aaf3c0;68d60ba9907f1fc1143d1fd7f63258621367074ad98f929ceccf414d2c67dff6;2019-06-23;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_3737171;adc1decfa617b72be6bdc63bf65d244e1b1b711a03abb64c513640f051aaf3c0;68d60ba9907f1fc1143d1fd7f63258621367074ad98f929ceccf414d2c67dff6;2019-06-23;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_3829529;fd6a950a48ffa42bbe884e03f2eaedb1fd24df289e5b9ed2dfd30782feadb65a;3a42db319a807e3813ccfa37a5cd64fdd3cc092cc17352747fd39e8b2bbf121b;2023-11-04;true;PHD16;Ison kehräslaskimon radiotaajuusablaatio;endovaskulaarinen;ZXA00, XRA10;Oikea puoli, Läpivalaisu;ZXA00;Oikea puoli
+MOCK_3829529;fd6a950a48ffa42bbe884e03f2eaedb1fd24df289e5b9ed2dfd30782feadb65a;3a42db319a807e3813ccfa37a5cd64fdd3cc092cc17352747fd39e8b2bbf121b;2023-11-04;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_3829529;fd6a950a48ffa42bbe884e03f2eaedb1fd24df289e5b9ed2dfd30782feadb65a;3a42db319a807e3813ccfa37a5cd64fdd3cc092cc17352747fd39e8b2bbf121b;2023-11-04;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_8147133;178c7dbd9498ec525f0d5226529b54e0b4f202b01c7060aac01e4d6d938c9f76;074d68ec69feed0d9527c356a8c87db1d1356483c2ca7736eeee3739371b73fb;2025-02-12;true;PHD16;Ison kehräslaskimon radiotaajuusablaatio;endovaskulaarinen;ZXA00, XRA10;Oikea puoli, Läpivalaisu;ZXA00;Oikea puoli
+MOCK_8147133;178c7dbd9498ec525f0d5226529b54e0b4f202b01c7060aac01e4d6d938c9f76;074d68ec69feed0d9527c356a8c87db1d1356483c2ca7736eeee3739371b73fb;2025-02-12;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_8147133;178c7dbd9498ec525f0d5226529b54e0b4f202b01c7060aac01e4d6d938c9f76;074d68ec69feed0d9527c356a8c87db1d1356483c2ca7736eeee3739371b73fb;2025-02-12;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_8507800;3089dd5679d1d3e5d357db590b1bf1ba4d71601fccc4f435330e743bfa58d60b;c4433d4e7c2938e4897e310c6de0c2ba866dd52f43d6fa988c5bd92eb5dbadb9;2020-08-10;true;PHD16;Ison kehräslaskimon radiotaajuusablaatio;endovaskulaarinen;ZXA00, XRA10;Oikea puoli, Läpivalaisu;ZXA00;Oikea puoli
+MOCK_8507800;3089dd5679d1d3e5d357db590b1bf1ba4d71601fccc4f435330e743bfa58d60b;c4433d4e7c2938e4897e310c6de0c2ba866dd52f43d6fa988c5bd92eb5dbadb9;2020-08-10;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_8507800;3089dd5679d1d3e5d357db590b1bf1ba4d71601fccc4f435330e743bfa58d60b;c4433d4e7c2938e4897e310c6de0c2ba866dd52f43d6fa988c5bd92eb5dbadb9;2020-08-10;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_1037755;03cfbfa195aca9a6ee36cdeb1a6dab3251313a0bc2da0b625a9fc4a4b84c16ec;8b23363e597d3c3d19b48240c2845723c3c17cdb61ebce4ff4c555803de33c44;2020-10-07;true;PDG22;Vatsa-aortan aneurysman korjaus Y-proteesilla;kirurginen;;;;
+MOCK_1037755;03cfbfa195aca9a6ee36cdeb1a6dab3251313a0bc2da0b625a9fc4a4b84c16ec;8b23363e597d3c3d19b48240c2845723c3c17cdb61ebce4ff4c555803de33c44;2020-10-07;false;WAA20;Yleisanestesia;anestesia;;;;
+MOCK_2957813;ac145ba7b034bee8d41d65accaed369f29e34490d37d0f2f7d946f7ea8a56da3;a19cc696c4cbf65bd694d2f76bc4e63408309955f4ce8c3cbf2a96707d50507c;2024-06-07;true;PAF21;Kaulavaltimon endarterektomia;kirurginen;ZXA10;Vasen puoli;ZXA10;Vasen puoli
+MOCK_2957813;ac145ba7b034bee8d41d65accaed369f29e34490d37d0f2f7d946f7ea8a56da3;a19cc696c4cbf65bd694d2f76bc4e63408309955f4ce8c3cbf2a96707d50507c;2024-06-07;false;WAA20;Yleisanestesia;anestesia;;;;
+MOCK_6132604;4640aa22bdc53562049dab142427e713b61621374026bd1464616e0e81fa8b16;82fb5b997aba6706c4032550d1d8b9f5850d7d11d0e5a5b003b9f439774e5144;2024-03-25;true;PAF21;Kaulavaltimon endarterektomia;kirurginen;ZXA00;Oikea puoli;ZXA00;Oikea puoli
+MOCK_6132604;4640aa22bdc53562049dab142427e713b61621374026bd1464616e0e81fa8b16;82fb5b997aba6706c4032550d1d8b9f5850d7d11d0e5a5b003b9f439774e5144;2024-03-25;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_1558587;5ac816d85a7a3e41c2303b4965e0328cc1af470bd2655c79707fc1ae71e16390;bbd2d84be4789221eeb3c8c0e2b6f7aeae87901f61e5259d0bf594d8050a846d;2020-07-30;true;PHD16;Ison kehräslaskimon radiotaajuusablaatio;endovaskulaarinen;ZXA10, XRA10;Vasen puoli, Läpivalaisu;ZXA10;Vasen puoli
+MOCK_1558587;5ac816d85a7a3e41c2303b4965e0328cc1af470bd2655c79707fc1ae71e16390;bbd2d84be4789221eeb3c8c0e2b6f7aeae87901f61e5259d0bf594d8050a846d;2020-07-30;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_1558587;5ac816d85a7a3e41c2303b4965e0328cc1af470bd2655c79707fc1ae71e16390;bbd2d84be4789221eeb3c8c0e2b6f7aeae87901f61e5259d0bf594d8050a846d;2020-07-30;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_9037601;339990bbf047337b1f5ac081398f1c44602e71b2534032016c59308358634ad7;609e29d43f9c200cf05df5fdd15591e6312bfc4add614d7430e5f7f62f46a5c5;2024-09-10;true;PAF21;Kaulavaltimon endarterektomia;kirurginen;ZXA10;Vasen puoli;ZXA10;Vasen puoli
+MOCK_9037601;339990bbf047337b1f5ac081398f1c44602e71b2534032016c59308358634ad7;609e29d43f9c200cf05df5fdd15591e6312bfc4add614d7430e5f7f62f46a5c5;2024-09-10;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_1934974;dbbff917a522fe3c894018534df1aaf30c2a4b4d855031910da1185752f3f5b2;356d57f1cfd2ea3779964fe1f4d8e1e4368062371dc459958b0f929ffc6b962c;2025-01-24;true;PAF21;Kaulavaltimon endarterektomia;kirurginen;ZXA00;Oikea puoli;ZXA00;Oikea puoli
+MOCK_1934974;dbbff917a522fe3c894018534df1aaf30c2a4b4d855031910da1185752f3f5b2;356d57f1cfd2ea3779964fe1f4d8e1e4368062371dc459958b0f929ffc6b962c;2025-01-24;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_1825318;e334c87f06f7b104e878cb38d1aa79a8b010798609017edf10c7d253142230cf;465231f4a3bfef73f0ae6ccbdfb2d2db7299e019535d9322fa6de81ae3e5a2f5;2020-04-09;true;PEH20;Reisi-polvitaivevaltimon ohitusleikkaus laskimosiirteellä;kirurginen;ZXA10;Vasen puoli;ZXA10;Vasen puoli
+MOCK_1825318;e334c87f06f7b104e878cb38d1aa79a8b010798609017edf10c7d253142230cf;465231f4a3bfef73f0ae6ccbdfb2d2db7299e019535d9322fa6de81ae3e5a2f5;2020-04-09;false;WAA20;Yleisanestesia;anestesia;;;;
+MOCK_7191488;5e20cae7a79f7a23b7b975d67ab85edebb0fa3f2315670c19550afbb78a74af3;0330aa150578428ff3f6de5d02078954c82b6bd3234dcc3c8d17b13daa4394fc;2022-06-04;true;PAF21;Kaulavaltimon endarterektomia;kirurginen;ZXA10;Vasen puoli;ZXA10;Vasen puoli
+MOCK_7191488;5e20cae7a79f7a23b7b975d67ab85edebb0fa3f2315670c19550afbb78a74af3;0330aa150578428ff3f6de5d02078954c82b6bd3234dcc3c8d17b13daa4394fc;2022-06-04;false;WAA20;Yleisanestesia;anestesia;;;;
+MOCK_4837151;d07cf63e83e7a4d8516bb2877b90cf961e6f9b4121abb912eaf4f6e2395f9826;ffebe13a35b9e85aa0f4645c187621c6236916c40742c34263d5264ca6250dac;2020-08-19;true;PEQ10;Reisivaltimon pallolaajennus ja stenttaus;endovaskulaarinen;ZXA00, XRA10;Oikea puoli, Läpivalaisu;ZXA00;Oikea puoli
+MOCK_4837151;d07cf63e83e7a4d8516bb2877b90cf961e6f9b4121abb912eaf4f6e2395f9826;ffebe13a35b9e85aa0f4645c187621c6236916c40742c34263d5264ca6250dac;2020-08-19;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_4837151;d07cf63e83e7a4d8516bb2877b90cf961e6f9b4121abb912eaf4f6e2395f9826;ffebe13a35b9e85aa0f4645c187621c6236916c40742c34263d5264ca6250dac;2020-08-19;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_4495949;4406ea5ae1bda255230e3b1f145a7aa5127ca23f67774d79f18bc00f2070341b;87e4b9f095627d2c11c9fc0c4a758b1f3190c02cd0817d531651886c256c6234;2025-07-02;true;PAF21;Kaulavaltimon endarterektomia;kirurginen;ZXA10;Vasen puoli;ZXA10;Vasen puoli
+MOCK_4495949;4406ea5ae1bda255230e3b1f145a7aa5127ca23f67774d79f18bc00f2070341b;87e4b9f095627d2c11c9fc0c4a758b1f3190c02cd0817d531651886c256c6234;2025-07-02;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_3689606;6e73fb56acd4567144b7c89b94432816bbb9e8efb4a0adfaede4b1857a71c32d;dcaf287eb69bdf340052ec09b0a73dfdcd34b4592a81dbfd8e377c05a7fdd9ff;2024-06-29;true;PEH20;Reisi-polvitaivevaltimon ohitusleikkaus laskimosiirteellä;kirurginen;ZXA00;Oikea puoli;ZXA00;Oikea puoli
+MOCK_3689606;6e73fb56acd4567144b7c89b94432816bbb9e8efb4a0adfaede4b1857a71c32d;dcaf287eb69bdf340052ec09b0a73dfdcd34b4592a81dbfd8e377c05a7fdd9ff;2024-06-29;false;WAB20;Spinaalipuudutus;anestesia;;;;
+MOCK_9613614;344b06cc037db1a4379757e64709442ae47121f1bb3dc10857cbb4418bd26520;12f1a702f9fe26e9b5643e6740c8b0808b9c150bc7453e2d54a52da8a5cc0c6c;2021-04-04;true;PEE10;Alaraajavaltimon trombembolektomia;kirurginen;ZXA00;Oikea puoli;ZXA00;Oikea puoli
+MOCK_9613614;344b06cc037db1a4379757e64709442ae47121f1bb3dc10857cbb4418bd26520;12f1a702f9fe26e9b5643e6740c8b0808b9c150bc7453e2d54a52da8a5cc0c6c;2021-04-04;false;WAA20;Yleisanestesia;anestesia;;;;
+MOCK_4087073;3baef7c5a9eca7467ee813cf934695410407d7385965a9df4e57da625b7287e4;eab087e82c2e1bc65bc80a94f29c162014eb20b2f4516a51cef913c4595b31a2;2024-04-10;true;PHD16;Ison kehräslaskimon radiotaajuusablaatio;endovaskulaarinen;ZXA00, XRA10;Oikea puoli, Läpivalaisu;ZXA00;Oikea puoli
+MOCK_4087073;3baef7c5a9eca7467ee813cf934695410407d7385965a9df4e57da625b7287e4;eab087e82c2e1bc65bc80a94f29c162014eb20b2f4516a51cef913c4595b31a2;2024-04-10;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_4087073;3baef7c5a9eca7467ee813cf934695410407d7385965a9df4e57da625b7287e4;eab087e82c2e1bc65bc80a94f29c162014eb20b2f4516a51cef913c4595b31a2;2024-04-10;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_4013147;84940769c8d469c5a2805ba3498a9f3aee98213af8b03cbfc06d7e6c9609b9fa;0ebe728d5ff6c0222d7f102cc4e37c4a385f4706c17118b89f53cf2bd806060b;2023-01-17;true;PDQ22;Vatsa-aortan aneurysman stenttigraftihoito (EVAR);endovaskulaarinen;XRA10;Läpivalaisu;;
+MOCK_4013147;84940769c8d469c5a2805ba3498a9f3aee98213af8b03cbfc06d7e6c9609b9fa;0ebe728d5ff6c0222d7f102cc4e37c4a385f4706c17118b89f53cf2bd806060b;2023-01-17;false;WAA20;Yleisanestesia;anestesia;;;;
+MOCK_4013147;84940769c8d469c5a2805ba3498a9f3aee98213af8b03cbfc06d7e6c9609b9fa;0ebe728d5ff6c0222d7f102cc4e37c4a385f4706c17118b89f53cf2bd806060b;2023-01-17;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_7094611;7c651ced2edc8312a3562c704925638fe46e95baafe3cbd08180bb72775e695b;0aef7289cea6177bdb85d62f27c83a4bbcc1c33d5624c22bfdecfaf3364710bf;2022-05-01;true;PDQ22;Vatsa-aortan aneurysman stenttigraftihoito (EVAR);endovaskulaarinen;XRA10;Läpivalaisu;;
+MOCK_7094611;7c651ced2edc8312a3562c704925638fe46e95baafe3cbd08180bb72775e695b;0aef7289cea6177bdb85d62f27c83a4bbcc1c33d5624c22bfdecfaf3364710bf;2022-05-01;false;WAA20;Yleisanestesia;anestesia;;;;
+MOCK_7094611;7c651ced2edc8312a3562c704925638fe46e95baafe3cbd08180bb72775e695b;0aef7289cea6177bdb85d62f27c83a4bbcc1c33d5624c22bfdecfaf3364710bf;2022-05-01;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_9215942;0f1f868157cecf09b1ba0f5d233527a20d1165faf82ad8e45f585096dbbef8e1;00835cd400ffe32478f1d551e0067d04d7f0bf58b7fac67f9a694532f4568940;2024-01-01;true;PEQ10;Reisivaltimon pallolaajennus ja stenttaus;endovaskulaarinen;ZXA00, XRA10;Oikea puoli, Läpivalaisu;ZXA00;Oikea puoli
+MOCK_9215942;0f1f868157cecf09b1ba0f5d233527a20d1165faf82ad8e45f585096dbbef8e1;00835cd400ffe32478f1d551e0067d04d7f0bf58b7fac67f9a694532f4568940;2024-01-01;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_9215942;0f1f868157cecf09b1ba0f5d233527a20d1165faf82ad8e45f585096dbbef8e1;00835cd400ffe32478f1d551e0067d04d7f0bf58b7fac67f9a694532f4568940;2024-01-01;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_5359742;1cc8394a4a8fd740dab540a759b28deabb9a3a25173ea246bbae1735c1a86fff;1d645ab66f47bbd24fd3d4632077706154f81aee6c38337989d16e8490b9252c;2023-03-08;true;PDQ22;Vatsa-aortan aneurysman stenttigraftihoito (EVAR);endovaskulaarinen;XRA10;Läpivalaisu;;
+MOCK_5359742;1cc8394a4a8fd740dab540a759b28deabb9a3a25173ea246bbae1735c1a86fff;1d645ab66f47bbd24fd3d4632077706154f81aee6c38337989d16e8490b9252c;2023-03-08;false;WAA20;Yleisanestesia;anestesia;;;;
+MOCK_5359742;1cc8394a4a8fd740dab540a759b28deabb9a3a25173ea246bbae1735c1a86fff;1d645ab66f47bbd24fd3d4632077706154f81aee6c38337989d16e8490b9252c;2023-03-08;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_9318975;f26929b72941d69131193ce5eb88d4c8aa5b825d2c5318e1587c2a73ba1704d3;3ba505c0c88e607dcb74377c06bd7258c7cca15a6b8b61ee39b4a7b4dc972602;2020-12-20;true;NGQ19;Säären amputaatio;kirurginen;ZXA10;Vasen puoli;ZXA10;Vasen puoli
+MOCK_9318975;f26929b72941d69131193ce5eb88d4c8aa5b825d2c5318e1587c2a73ba1704d3;3ba505c0c88e607dcb74377c06bd7258c7cca15a6b8b61ee39b4a7b4dc972602;2020-12-20;false;WAB20;Spinaalipuudutus;anestesia;;;;
+MOCK_5157894;663f5b553be6226b1c63b914988f8fb241ed8fa9e98d56fe6d8ef7dfa3524396;882a39dfd6419a2a16b85bba0ff5f9693d0ded82ac124e5ae6f8fa148644393b;2022-01-14;true;NGQ19;Säären amputaatio;kirurginen;ZXA10;Vasen puoli;ZXA10;Vasen puoli
+MOCK_5157894;663f5b553be6226b1c63b914988f8fb241ed8fa9e98d56fe6d8ef7dfa3524396;882a39dfd6419a2a16b85bba0ff5f9693d0ded82ac124e5ae6f8fa148644393b;2022-01-14;false;WAB20;Spinaalipuudutus;anestesia;;;;
+MOCK_8860067;6a2f7c4de2e0656ef05a3c4afa6893d719515e898acf18928d4e57fc6f286539;3983abaa00d11d640ca5da23c1560fc16a8c229e8e45115f581447b85ce88abf;2023-11-16;true;PHD16;Ison kehräslaskimon radiotaajuusablaatio;endovaskulaarinen;ZXA00, XRA10;Oikea puoli, Läpivalaisu;ZXA00;Oikea puoli
+MOCK_8860067;6a2f7c4de2e0656ef05a3c4afa6893d719515e898acf18928d4e57fc6f286539;3983abaa00d11d640ca5da23c1560fc16a8c229e8e45115f581447b85ce88abf;2023-11-16;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_8860067;6a2f7c4de2e0656ef05a3c4afa6893d719515e898acf18928d4e57fc6f286539;3983abaa00d11d640ca5da23c1560fc16a8c229e8e45115f581447b85ce88abf;2023-11-16;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_4984738;ddf0d0df9e69666e1855ca6c25271284d7daed5fc4b8286dd1f6fce334971134;06272f227366833357f2ca34407f2220a8d786565d9ea070e1e4c93afae0910f;2021-02-27;true;PEH20;Reisi-polvitaivevaltimon ohitusleikkaus laskimosiirteellä;kirurginen;ZXA00;Oikea puoli;ZXA00;Oikea puoli
+MOCK_4984738;ddf0d0df9e69666e1855ca6c25271284d7daed5fc4b8286dd1f6fce334971134;06272f227366833357f2ca34407f2220a8d786565d9ea070e1e4c93afae0910f;2021-02-27;false;WAA20;Yleisanestesia;anestesia;;;;
+MOCK_6166288;de8014275ca1f63868fa8103d28ed3ada2623cbb3f8fa9cbd5f79fbe42980674;03cea9eb5ffca591808ef2c82812878ef513fd1a61daaf62ef8a420408a11f3e;2020-05-30;true;PHD16;Ison kehräslaskimon radiotaajuusablaatio;endovaskulaarinen;ZXA10, XRA10;Vasen puoli, Läpivalaisu;ZXA10;Vasen puoli
+MOCK_6166288;de8014275ca1f63868fa8103d28ed3ada2623cbb3f8fa9cbd5f79fbe42980674;03cea9eb5ffca591808ef2c82812878ef513fd1a61daaf62ef8a420408a11f3e;2020-05-30;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_6166288;de8014275ca1f63868fa8103d28ed3ada2623cbb3f8fa9cbd5f79fbe42980674;03cea9eb5ffca591808ef2c82812878ef513fd1a61daaf62ef8a420408a11f3e;2020-05-30;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_8450188;b063e88af5233a0dc1fe23a9d448df56d90bdb5a43deda53db281a5d4bd8ae48;295954402f624b288c0a30c8ef6906e9e3f9d393478adfb31f9720cc168af3db;2022-07-01;true;PEE10;Alaraajavaltimon trombembolektomia;kirurginen;ZXA00;Oikea puoli;ZXA00;Oikea puoli
+MOCK_8450188;b063e88af5233a0dc1fe23a9d448df56d90bdb5a43deda53db281a5d4bd8ae48;295954402f624b288c0a30c8ef6906e9e3f9d393478adfb31f9720cc168af3db;2022-07-01;false;WAA20;Yleisanestesia;anestesia;;;;
+MOCK_2373453;d41cbdec9e59c373794be17f92fc50264e5bf4125119af5154f677d35c0464d2;936a68c0439f8fe178044411a45b204ffc7ea933ed2e6ae037e664f791fbb83c;2021-12-20;true;PEQ10;Reisivaltimon pallolaajennus ja stenttaus;endovaskulaarinen;ZXA00, XRA10;Oikea puoli, Läpivalaisu;ZXA00;Oikea puoli
+MOCK_2373453;d41cbdec9e59c373794be17f92fc50264e5bf4125119af5154f677d35c0464d2;936a68c0439f8fe178044411a45b204ffc7ea933ed2e6ae037e664f791fbb83c;2021-12-20;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_2373453;d41cbdec9e59c373794be17f92fc50264e5bf4125119af5154f677d35c0464d2;936a68c0439f8fe178044411a45b204ffc7ea933ed2e6ae037e664f791fbb83c;2021-12-20;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_5733547;5c5bec8d2ac77b9d6b595aef8dc7b52f4287c6af1c4ae5f877131538ab4d7645;e76a1d8b51ed68838bb34bb7bda89bb4f3035681cb32d0e012d9b2470c9fd707;2021-09-13;true;PHD16;Ison kehräslaskimon radiotaajuusablaatio;endovaskulaarinen;ZXA10, XRA10;Vasen puoli, Läpivalaisu;ZXA10;Vasen puoli
+MOCK_5733547;5c5bec8d2ac77b9d6b595aef8dc7b52f4287c6af1c4ae5f877131538ab4d7645;e76a1d8b51ed68838bb34bb7bda89bb4f3035681cb32d0e012d9b2470c9fd707;2021-09-13;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_5733547;5c5bec8d2ac77b9d6b595aef8dc7b52f4287c6af1c4ae5f877131538ab4d7645;e76a1d8b51ed68838bb34bb7bda89bb4f3035681cb32d0e012d9b2470c9fd707;2021-09-13;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_5837733;aea70e0c4ed10b05e84d19e1623e79dbc55eec9957e92f651f6cbb2e4662732e;72438c81571ed1cebfa5b4f784fbed48e347eb037dba98255263d15f640b3986;2020-03-06;true;PEH20;Reisi-polvitaivevaltimon ohitusleikkaus laskimosiirteellä;kirurginen;ZXA10;Vasen puoli;ZXA10;Vasen puoli
+MOCK_5837733;aea70e0c4ed10b05e84d19e1623e79dbc55eec9957e92f651f6cbb2e4662732e;72438c81571ed1cebfa5b4f784fbed48e347eb037dba98255263d15f640b3986;2020-03-06;false;WAB20;Spinaalipuudutus;anestesia;;;;
+MOCK_1957822;3596ca13e509da64000eaab5b961b06d929bddeffe51d63a0973dc140dd803f8;5cbff6150ee0c703bf354e7e78f8a3d1059db42fac06abd94767a9a381aa1a9d;2020-04-08;true;PDG22;Vatsa-aortan aneurysman korjaus Y-proteesilla;kirurginen;;;;
+MOCK_1957822;3596ca13e509da64000eaab5b961b06d929bddeffe51d63a0973dc140dd803f8;5cbff6150ee0c703bf354e7e78f8a3d1059db42fac06abd94767a9a381aa1a9d;2020-04-08;false;WAA20;Yleisanestesia;anestesia;;;;
+MOCK_9310552;1c62f2d91f180203f8e61c0fec6c9232cb8b9d0ba344466db47b19e499eb8859;b98293ebeb366bcf9fb28d7a105770a71b4e87fc4218021054a158626b43ab80;2025-03-11;true;PAF21;Kaulavaltimon endarterektomia;kirurginen;ZXA10;Vasen puoli;ZXA10;Vasen puoli
+MOCK_9310552;1c62f2d91f180203f8e61c0fec6c9232cb8b9d0ba344466db47b19e499eb8859;b98293ebeb366bcf9fb28d7a105770a71b4e87fc4218021054a158626b43ab80;2025-03-11;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_7712000;c4a29ebae9718bcb0dd4368c5da4b6870be21edae36273ad71da532cec0e93f4;4b609358f40870b444c0f5241c1f9fbb63547237e9328ca34ea628eccfbf8ace;2020-08-10;true;PEH20;Reisi-polvitaivevaltimon ohitusleikkaus laskimosiirteellä;kirurginen;ZXA00;Oikea puoli;ZXA00;Oikea puoli
+MOCK_7712000;c4a29ebae9718bcb0dd4368c5da4b6870be21edae36273ad71da532cec0e93f4;4b609358f40870b444c0f5241c1f9fbb63547237e9328ca34ea628eccfbf8ace;2020-08-10;false;WAA20;Yleisanestesia;anestesia;;;;
+MOCK_1921467;7a514836f7b4205348dc5101ed351a6397adef4d9b3ff8c6a41e3afe09ff3449;f01ef0bb24694fffc2252b9f5d25921df2245d0d22bb36f0dfd007919368c07e;2020-06-05;true;PEQ10;Reisivaltimon pallolaajennus ja stenttaus;endovaskulaarinen;ZXA00, XRA10;Oikea puoli, Läpivalaisu;ZXA00;Oikea puoli
+MOCK_1921467;7a514836f7b4205348dc5101ed351a6397adef4d9b3ff8c6a41e3afe09ff3449;f01ef0bb24694fffc2252b9f5d25921df2245d0d22bb36f0dfd007919368c07e;2020-06-05;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_1921467;7a514836f7b4205348dc5101ed351a6397adef4d9b3ff8c6a41e3afe09ff3449;f01ef0bb24694fffc2252b9f5d25921df2245d0d22bb36f0dfd007919368c07e;2020-06-05;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_8485846;b39c4a3372439bf764e8619afede84fa94a853188ac8bda1e4fc4bba3bb94b09;90fbf945fce6cabc34b853f743f177f93d532c6f010161073b56e0c78972c76d;2021-01-25;true;PEE10;Alaraajavaltimon trombembolektomia;kirurginen;ZXA10;Vasen puoli;ZXA10;Vasen puoli
+MOCK_8485846;b39c4a3372439bf764e8619afede84fa94a853188ac8bda1e4fc4bba3bb94b09;90fbf945fce6cabc34b853f743f177f93d532c6f010161073b56e0c78972c76d;2021-01-25;false;WAA20;Yleisanestesia;anestesia;;;;
+MOCK_5537059;eb3d46cee1847c6cc0f1116b34e0c620da6a06ed6b3830cabb0892664eef4034;4bd10ca6a45dee7b25f4057d8a97f422235755e62edbd2c8b32dca8145263b9f;2022-01-23;true;PDQ22;Vatsa-aortan aneurysman stenttigraftihoito (EVAR);endovaskulaarinen;XRA10;Läpivalaisu;;
+MOCK_5537059;eb3d46cee1847c6cc0f1116b34e0c620da6a06ed6b3830cabb0892664eef4034;4bd10ca6a45dee7b25f4057d8a97f422235755e62edbd2c8b32dca8145263b9f;2022-01-23;false;WAA20;Yleisanestesia;anestesia;;;;
+MOCK_5537059;eb3d46cee1847c6cc0f1116b34e0c620da6a06ed6b3830cabb0892664eef4034;4bd10ca6a45dee7b25f4057d8a97f422235755e62edbd2c8b32dca8145263b9f;2022-01-23;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_9173024;bdff90b09fd3311a57b9df7af0fcc059fce13c8b6a232300f7a9be7746d96236;d7a7af27caa0b445ba5bf9ecc9a701b51cd4a42e9f4050a88b663c3eb9625bec;2024-02-18;true;PDG22;Vatsa-aortan aneurysman korjaus Y-proteesilla;kirurginen;;;;
+MOCK_9173024;bdff90b09fd3311a57b9df7af0fcc059fce13c8b6a232300f7a9be7746d96236;d7a7af27caa0b445ba5bf9ecc9a701b51cd4a42e9f4050a88b663c3eb9625bec;2024-02-18;false;WAA20;Yleisanestesia;anestesia;;;;
+MOCK_6034630;e1428976198e22865dd347b8991ce22322f21df4ec0a80154cbb94de2b3c8676;4a51c8dc11974c83b11dc8c6778a0ff89bab89c662ff21ec62a4bdc888f7dc8d;2020-12-27;true;PHD16;Ison kehräslaskimon radiotaajuusablaatio;endovaskulaarinen;ZXA10, XRA10;Vasen puoli, Läpivalaisu;ZXA10;Vasen puoli
+MOCK_6034630;e1428976198e22865dd347b8991ce22322f21df4ec0a80154cbb94de2b3c8676;4a51c8dc11974c83b11dc8c6778a0ff89bab89c662ff21ec62a4bdc888f7dc8d;2020-12-27;false;WAC10;Paikallispuudutus;anestesia;;;;
+MOCK_6034630;e1428976198e22865dd347b8991ce22322f21df4ec0a80154cbb94de2b3c8676;4a51c8dc11974c83b11dc8c6778a0ff89bab89c662ff21ec62a4bdc888f7dc8d;2020-12-27;false;XRA10;Läpivalaisu;radiologinen;;;;
+MOCK_5910953;19caaf92face28b7258c22dde9f4fe31c07d177d50b3202158e923ae96e227bf;5d4397d31195c325dcaa94817e12785707afb7b16dacf08b7c62c34d473cf07f;2022-12-27;true;PEE10;Alaraajavaltimon trombembolektomia;kirurginen;ZXA10;Vasen puoli;ZXA10;Vasen puoli
+MOCK_5910953;19caaf92face28b7258c22dde9f4fe31c07d177d50b3202158e923ae96e227bf;5d4397d31195c325dcaa94817e12785707afb7b16dacf08b7c62c34d473cf07f;2022-12-27;false;WAA20;Yleisanestesia;anestesia;;;;
+MOCK_8476284;b46f3ba6800cc0a7ae2654ac0104ba2ea96d051678760a171484765e4b51cda9;61d68e24ee30c21ca965adcf504076e9ae68b68d770b525d32d9c669ae2731c1;2019-09-18;true;PEE10;Alaraajavaltimon trombembolektomia;kirurginen;ZXA10;Vasen puoli;ZXA10;Vasen puoli
+MOCK_8476284;b46f3ba6800cc0a7ae2654ac0104ba2ea96d051678760a171484765e4b51cda9;61d68e24ee30c21ca965adcf504076e9ae68b68d770b525d32d9c669ae2731c1;2019-09-18;false;WAA20;Yleisanestesia;anestesia;;;;
+MOCK_2220146;e6d8e8e75e206d6a0bd2db5b046792e0cafa87624100636ec7e06ba9eaf0e9a3;7edd2083d1106d875312d9d2910bff2f538f2e93b8a773945cb94d298b11e2d2;2019-07-14;true;NGQ19;Säären amputaatio;kirurginen;ZXA10;Vasen puoli;ZXA10;Vasen puoli
+MOCK_2220146;e6d8e8e75e206d6a0bd2db5b046792e0cafa87624100636ec7e06ba9eaf0e9a3;7edd2083d1106d875312d9d2910bff2f538f2e93b8a773945cb94d298b11e2d2;2019-07-14;false;WAB20;Spinaalipuudutus;anestesia;;;;

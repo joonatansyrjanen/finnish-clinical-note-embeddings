@@ -1,555 +1,598 @@
-henkilotunnus,paino,pituus,bmi,mittaus_pvm
-280660-967K,92.6,170,31.9,keskiviikko 16. marraskuuta 2022
-280660-967K,91.8,170,31.6,lauantai 27. elokuuta 2022
-070129-963V,98.8,192,26.9,keskiviikko 2. tammikuuta 2019
-111251-9043,78.0,163,29.3,perjantai 6. lokakuuta 2023
-111251-9043,76.8,163,28.9,torstai 15. joulukuuta 2022
-010847-984Y,87.4,176,28.3,lauantai 17. helmikuuta 2024
-060742-970M,75.8,164,28.3,sunnuntai 2. helmikuuta 2020
-110747-9749,45.0,161,17.4,maanantai 23. syyskuuta 2024
-110747-9749,42.7,161,16.5,maanantai 2. joulukuuta 2024
-161138-940A,78.0,176,25.2,sunnuntai 26. huhtikuuta 2020
-161138-940A,78.9,176,25.5,perjantai 17. tammikuuta 2020
-260548-937D,56.0,167,20.0,torstai 9. maaliskuuta 2023
-260548-937D,56.8,167,20.3,perjantai 24. maaliskuuta 2023
-021154-906A,94.9,173,31.9,perjantai 8. tammikuuta 2021
-021154-906A,98.3,173,33.0,tiistai 21. heinäkuuta 2020
-021154-906A,94.3,173,31.7,perjantai 16. lokakuuta 2020
-110550-9334,64.8,154,27.3,lauantai 3. helmikuuta 2024
-190847-9693,80.8,174,26.7,keskiviikko 2. elokuuta 2023
-190847-9693,84.0,174,27.7,tiistai 31. tammikuuta 2023
-090667-977E,62.6,171,21.4,lauantai 7. marraskuuta 2020
-211184-925X,60.9,153,26.1,sunnuntai 13. helmikuuta 2022
-211184-925X,56.5,153,24.3,sunnuntai 4. heinäkuuta 2021
-211184-925X,61.6,153,26.4,maanantai 29. marraskuuta 2021
-080853-9874,73.1,156,29.9,maanantai 6. joulukuuta 2021
-200439-940H,87.9,165,32.1,sunnuntai 29. maaliskuuta 2020
-200439-940H,85.0,165,31.1,lauantai 13. kesäkuuta 2020
-200439-940H,83.2,165,30.4,lauantai 23. toukokuuta 2020
-090156-916L,50.8,170,17.5,maanantai 25. huhtikuuta 2022
-090156-916L,50.9,170,17.5,maanantai 29. marraskuuta 2021
-251145-994N,106.5,174,35.3,maanantai 20. marraskuuta 2023
-251145-994N,105.2,174,34.9,sunnuntai 5. toukokuuta 2024
-251145-994N,107.1,174,35.5,sunnuntai 25. helmikuuta 2024
-040557-968J,94.4,175,30.7,maanantai 28. lokakuuta 2024
-040557-968J,91.3,175,29.6,lauantai 11. toukokuuta 2024
-040557-968J,93.5,175,30.4,perjantai 26. tammikuuta 2024
-010668-9035,76.4,168,27.1,keskiviikko 15. heinäkuuta 2020
-010668-9035,79.9,168,28.4,maanantai 31. elokuuta 2020
-010668-9035,79.9,168,28.4,keskiviikko 12. elokuuta 2020
-180351-913M,79.1,177,25.2,torstai 28. heinäkuuta 2022
-150249-9331,83.2,181,25.3,keskiviikko 29. toukokuuta 2019
-150249-9331,85.7,181,26.1,lauantai 27. heinäkuuta 2019
-110551-916U,57.7,164,21.4,sunnuntai 29. syyskuuta 2024
-110551-916U,53.4,164,19.8,sunnuntai 24. maaliskuuta 2024
-290947-913J,92.9,166,33.5,perjantai 15. toukokuuta 2020
-290947-913J,92.2,166,33.3,tiistai 15. syyskuuta 2020
-290947-913J,91.5,166,33.0,perjantai 26. maaliskuuta 2021
-010945-971U,59.2,192,16.0,sunnuntai 14. marraskuuta 2021
-010945-971U,55.1,192,14.9,keskiviikko 21. syyskuuta 2022
-300448-990W,66.5,165,24.4,sunnuntai 27. syyskuuta 2020
-161151-907L,96.8,172,32.5,keskiviikko 21. marraskuuta 2018
-070236-927A,67.0,181,20.5,keskiviikko 4. joulukuuta 2019
-070236-927A,69.1,181,21.2,perjantai 10. tammikuuta 2020
-070236-927A,71.0,181,21.7,keskiviikko 19. elokuuta 2020
-070335-921N,74.3,160,29.2,sunnuntai 20. tammikuuta 2019
-030944-929H,95.6,171,32.6,torstai 30. marraskuuta 2023
-040875-944U,61.4,157,25.0,sunnuntai 21. heinäkuuta 2024
-040875-944U,65.4,157,26.6,perjantai 25. lokakuuta 2024
-040875-944U,63.1,157,25.7,lauantai 31. elokuuta 2024
-190648-914Y,56.2,181,17.1,sunnuntai 24. toukokuuta 2020
-150543-996X,82.8,174,27.3,maanantai 28. lokakuuta 2024
-150543-996X,84.6,174,27.9,perjantai 13. joulukuuta 2024
-150543-996X,85.2,174,28.0,maanantai 15. huhtikuuta 2024
-220272-962D,100.5,169,35.4,maanantai 18. huhtikuuta 2022
-220272-962D,100.6,169,35.4,torstai 7. heinäkuuta 2022
-200836-936U,54.2,163,20.4,tiistai 15. helmikuuta 2022
-101237-983C,73.3,157,29.6,sunnuntai 1. tammikuuta 2023
-101237-983C,68.1,157,27.5,perjantai 4. marraskuuta 2022
-101237-983C,69.0,157,27.9,torstai 22. joulukuuta 2022
-270143-948W,104.4,171,35.8,maanantai 24. syyskuuta 2018
-060739-9197,86.1,158,34.6,lauantai 1. heinäkuuta 2023
-060739-9197,86.0,158,34.6,maanantai 13. maaliskuuta 2023
-060171-990X,54.3,162,20.8,tiistai 16. lokakuuta 2018
-060171-990X,53.8,162,20.6,tiistai 2. heinäkuuta 2019
-060171-990X,53.4,162,20.5,keskiviikko 9. lokakuuta 2019
-061297-911Y,88.7,181,27.0,torstai 27. heinäkuuta 2023
-061297-911Y,86.2,181,26.2,lauantai 1. huhtikuuta 2023
-201163-958X,60.6,161,23.4,perjantai 8. maaliskuuta 2019
-201163-958X,65.0,161,25.1,keskiviikko 28. marraskuuta 2018
-161257-9124,68.9,182,20.8,keskiviikko 25. toukokuuta 2022
-161257-9124,72.6,182,21.9,sunnuntai 20. helmikuuta 2022
-100662-993A,74.2,171,25.4,torstai 11. huhtikuuta 2019
-100662-993A,78.1,171,26.8,perjantai 4. tammikuuta 2019
-200241-9303,74.9,175,24.5,keskiviikko 6. toukokuuta 2020
-200241-9303,78.4,175,25.6,lauantai 1. elokuuta 2020
-250339-994N,78.6,150,34.9,keskiviikko 2. tammikuuta 2019
-250339-994N,77.7,150,34.5,sunnuntai 10. kesäkuuta 2018
-200850-932A,85.2,159,33.6,sunnuntai 8. maaliskuuta 2020
-200850-932A,84.4,159,33.3,maanantai 30. maaliskuuta 2020
-200850-932A,82.7,159,32.6,torstai 31. lokakuuta 2019
-030842-965B,62.9,174,20.8,sunnuntai 6. helmikuuta 2022
-030842-965B,65.9,174,21.8,sunnuntai 22. toukokuuta 2022
-080336-993W,80.9,154,34.3,maanantai 8. marraskuuta 2021
-080946-968H,85.3,181,26.0,sunnuntai 28. heinäkuuta 2019
-021150-977K,73.5,178,23.1,torstai 11. huhtikuuta 2024
-010641-989Y,91.1,161,35.3,maanantai 27. tammikuuta 2020
-140636-921V,50.8,176,16.5,torstai 22. heinäkuuta 2021
-140636-921V,49.3,176,16.0,torstai 27. toukokuuta 2021
-161058-943S,79.4,170,27.4,perjantai 24. syyskuuta 2021
-161058-943S,80.6,170,27.8,lauantai 3. heinäkuuta 2021
-161058-943S,77.2,170,26.7,tiistai 10. toukokuuta 2022
-310566-908B,101.8,166,37.0,perjantai 11. lokakuuta 2024
-310566-908B,102.2,166,37.1,perjantai 5. heinäkuuta 2024
-270165-959X,78.5,160,30.5,tiistai 20. syyskuuta 2022
-220146-9738,89.8,171,30.6,perjantai 14. helmikuuta 2025
-030545-927F,76.9,181,23.6,tiistai 5. lokakuuta 2021
-030545-927F,77.9,181,23.9,tiistai 29. kesäkuuta 2021
-100760-9120,89.6,177,28.6,perjantai 22. marraskuuta 2019
-100760-9120,90.8,177,29.0,perjantai 6. syyskuuta 2019
-100760-9120,92.3,177,29.5,torstai 26. joulukuuta 2019
-281139-980L,66.0,159,26.1,tiistai 21. huhtikuuta 2020
-311270-9712,66.5,168,23.4,lauantai 26. kesäkuuta 2021
-311270-9712,65.4,168,23.1,torstai 14. tammikuuta 2021
-311270-9712,68.3,168,24.1,keskiviikko 27. tammikuuta 2021
-150396-914B,45.1,164,16.7,maanantai 2. lokakuuta 2023
-010744-903S,107.1,166,38.8,tiistai 19. helmikuuta 2019
-091053-9506,61.8,176,20.0,tiistai 14. toukokuuta 2019
-091053-9506,62.4,176,20.2,perjantai 2. marraskuuta 2018
-090983-996L,80.7,160,31.7,keskiviikko 18. marraskuuta 2020
-200252-954P,116.1,178,36.7,maanantai 22. helmikuuta 2021
-200252-954P,118.1,178,37.3,maanantai 25. toukokuuta 2020
-100964-9019,73.3,169,25.6,sunnuntai 14. lokakuuta 2018
-100964-9019,71.2,169,24.9,maanantai 14. tammikuuta 2019
-050247-941A,79.2,161,30.6,tiistai 8. lokakuuta 2019
-050247-941A,76.2,161,29.4,tiistai 21. toukokuuta 2019
-050247-941A,75.0,161,29.0,keskiviikko 23. tammikuuta 2019
-220737-968L,84.9,174,28.1,perjantai 15. huhtikuuta 2022
-220737-968L,82.3,174,27.3,perjantai 4. kesäkuuta 2021
-220737-968L,81.2,174,26.9,lauantai 2. lokakuuta 2021
-010745-9717,68.7,172,23.3,tiistai 7. maaliskuuta 2023
-030546-9992,58.9,160,23.0,perjantai 8. joulukuuta 2023
-030546-9992,61.3,160,23.9,sunnuntai 10. syyskuuta 2023
-150666-9196,92.1,175,30.1,perjantai 7. kesäkuuta 2024
-150458-930V,83.9,181,25.7,perjantai 19. heinäkuuta 2019
-050772-9547,71.4,158,28.5,sunnuntai 24. lokakuuta 2021
-180340-9555,68.3,174,22.6,perjantai 6. heinäkuuta 2018
-180340-9555,69.1,174,22.9,perjantai 23. marraskuuta 2018
-150950-918E,76.2,183,22.8,tiistai 7. kesäkuuta 2022
-150950-918E,75.9,183,22.7,lauantai 26. marraskuuta 2022
-160946-9536,109.6,196,28.6,torstai 13. syyskuuta 2018
-160946-9536,111.2,196,29.1,tiistai 20. marraskuuta 2018
-221178-954Y,70.0,180,21.6,tiistai 18. tammikuuta 2022
-221178-954Y,71.1,180,21.9,sunnuntai 5. joulukuuta 2021
-291065-994L,47.7,166,17.3,maanantai 8. huhtikuuta 2024
-291241-9088,104.1,179,32.5,perjantai 6. syyskuuta 2019
-291241-9088,104.8,179,32.8,lauantai 6. huhtikuuta 2019
-310156-970J,77.9,175,25.4,tiistai 30. heinäkuuta 2024
-310156-970J,77.7,175,25.3,keskiviikko 11. syyskuuta 2024
-310156-970J,78.6,175,25.6,torstai 16. marraskuuta 2023
-080153-9786,49.5,173,16.5,lauantai 12. toukokuuta 2018
-090150-912X,64.4,178,20.3,perjantai 21. huhtikuuta 2023
-190756-917X,74.0,174,24.5,sunnuntai 27. tammikuuta 2019
-190756-917X,70.2,174,23.2,lauantai 2. maaliskuuta 2019
-190756-917X,75.5,174,25.0,tiistai 27. marraskuuta 2018
-200964-9488,46.0,162,17.4,maanantai 1. marraskuuta 2021
-200964-9488,48.8,162,18.5,torstai 23. joulukuuta 2021
-041143-932L,64.6,171,22.2,keskiviikko 20. heinäkuuta 2022
-041143-932L,65.1,171,22.4,lauantai 18. maaliskuuta 2023
-041143-932L,63.0,171,21.7,maanantai 27. kesäkuuta 2022
-140772-9308,92.3,178,29.3,torstai 31. lokakuuta 2019
-140772-9308,95.0,178,30.1,perjantai 19. huhtikuuta 2019
-130835-931W,81.1,161,31.4,perjantai 8. tammikuuta 2021
-050871-979K,83.6,163,31.6,sunnuntai 14. marraskuuta 2021
-050871-979K,82.2,163,31.1,maanantai 21. helmikuuta 2022
-221258-9682,60.7,181,18.6,keskiviikko 7. lokakuuta 2020
-221258-9682,56.1,181,17.2,keskiviikko 21. lokakuuta 2020
-221258-9682,56.5,181,17.3,maanantai 14. joulukuuta 2020
-250543-997D,99.5,182,30.1,perjantai 6. maaliskuuta 2020
-250543-997D,99.5,182,30.1,lauantai 26. joulukuuta 2020
-250543-997D,99.2,182,30.0,sunnuntai 17. tammikuuta 2021
-180948-911M,65.3,186,18.9,sunnuntai 15. maaliskuuta 2020
-140856-931Y,73.2,169,25.7,sunnuntai 1. lokakuuta 2023
-140856-931Y,71.0,169,25.0,torstai 28. joulukuuta 2023
-210854-9630,64.7,156,26.7,tiistai 20. heinäkuuta 2021
-100948-978M,54.8,160,21.4,tiistai 24. syyskuuta 2024
-100948-978M,56.6,160,22.1,sunnuntai 17. marraskuuta 2024
-211162-946X,45.0,180,14.0,maanantai 2. joulukuuta 2024
-211162-946X,47.1,180,14.6,keskiviikko 19. helmikuuta 2025
-160955-916A,83.2,187,23.9,lauantai 30. marraskuuta 2019
-160955-916A,83.9,187,24.1,torstai 28. marraskuuta 2019
-150339-955Y,86.0,183,25.8,tiistai 4. syyskuuta 2018
-150339-955Y,81.8,183,24.5,keskiviikko 13. helmikuuta 2019
-271255-916U,102.3,182,31.0,maanantai 31. elokuuta 2020
-271255-916U,101.3,182,30.7,lauantai 22. helmikuuta 2020
-271255-916U,101.1,182,30.7,perjantai 20. maaliskuuta 2020
-130453-963B,62.7,182,18.9,keskiviikko 27. lokakuuta 2021
-021254-987R,86.0,165,31.6,perjantai 21. heinäkuuta 2023
-021254-987R,86.9,165,31.9,sunnuntai 4. joulukuuta 2022
-021254-987R,85.6,165,31.4,tiistai 20. syyskuuta 2022
-231149-949Y,88.3,162,33.8,perjantai 28. kesäkuuta 2019
-171053-989L,74.5,159,29.6,perjantai 18. elokuuta 2023
-020347-927R,82.3,153,35.2,maanantai 30. syyskuuta 2019
-281149-9153,80.3,163,30.4,torstai 11. huhtikuuta 2019
-080159-997B,66.9,161,25.7,lauantai 12. helmikuuta 2022
-161044-992R,84.9,167,30.6,keskiviikko 16. elokuuta 2023
-161044-992R,83.7,167,30.1,keskiviikko 10. huhtikuuta 2024
-290940-918W,44.1,165,16.1,torstai 30. toukokuuta 2019
-140526-927N,81.6,173,27.3,perjantai 9. heinäkuuta 2021
-021165-900Y,48.4,156,19.9,sunnuntai 10. maaliskuuta 2019
-160344-981R,106.6,144,51.4,keskiviikko 24. marraskuuta 2021
-040451-9077,61.4,162,23.3,perjantai 27. syyskuuta 2019
-040451-9077,63.9,162,24.2,perjantai 3. tammikuuta 2020
-241156-920F,75.1,152,32.7,lauantai 23. maaliskuuta 2024
-241156-920F,72.3,152,31.4,lauantai 21. lokakuuta 2023
-070246-920N,60.6,180,18.7,sunnuntai 17. syyskuuta 2023
-070246-920N,59.8,180,18.4,sunnuntai 25. helmikuuta 2024
-070246-920N,63.9,180,19.7,tiistai 18. heinäkuuta 2023
-020163-9256,79.2,178,24.9,lauantai 23. heinäkuuta 2022
-020163-9256,74.6,178,23.4,perjantai 9. syyskuuta 2022
-020163-9256,77.3,178,24.3,perjantai 11. marraskuuta 2022
-191264-9879,55.9,179,17.5,tiistai 17. maaliskuuta 2020
-191264-9879,53.5,179,16.7,keskiviikko 9. syyskuuta 2020
-191264-9879,55.0,179,17.2,maanantai 10. helmikuuta 2020
-171073-957R,47.9,153,20.4,lauantai 19. joulukuuta 2020
-100348-9917,65.7,183,19.7,sunnuntai 27. lokakuuta 2024
-180251-9279,79.6,185,23.2,torstai 19. syyskuuta 2019
-180251-9279,77.9,185,22.7,keskiviikko 5. kesäkuuta 2019
-250545-985J,71.5,177,22.7,torstai 1. heinäkuuta 2021
-250545-985J,72.0,177,22.9,perjantai 7. toukokuuta 2021
-301065-948S,71.4,179,22.2,sunnuntai 11. helmikuuta 2024
-301065-948S,68.6,179,21.4,lauantai 6. heinäkuuta 2024
-301065-948S,71.2,179,22.2,lauantai 6. heinäkuuta 2024
-300652-9453,89.1,167,31.9,tiistai 2. huhtikuuta 2019
-070840-900A,75.3,162,28.7,torstai 15. lokakuuta 2020
-050459-925H,91.5,170,31.6,tiistai 19. lokakuuta 2021
-050459-925H,89.1,170,30.8,maanantai 3. tammikuuta 2022
-290851-9532,54.6,179,17.0,torstai 25. lokakuuta 2018
-290851-9532,53.1,179,16.6,perjantai 4. lokakuuta 2019
-290851-9532,53.8,179,16.8,lauantai 29. kesäkuuta 2019
-190252-920Y,96.4,185,28.1,maanantai 18. syyskuuta 2023
-250337-9303,89.2,157,36.2,tiistai 11. helmikuuta 2020
-250337-9303,86.9,157,35.2,perjantai 6. marraskuuta 2020
-250337-9303,88.6,157,35.9,lauantai 3. lokakuuta 2020
-051140-9790,79.7,178,25.2,maanantai 19. maaliskuuta 2018
-051140-9790,74.6,178,23.6,torstai 22. helmikuuta 2018
-300844-921V,83.7,189,23.3,sunnuntai 30. elokuuta 2020
-300844-921V,84.2,189,23.5,sunnuntai 12. heinäkuuta 2020
-100848-9830,73.6,162,28.1,lauantai 26. marraskuuta 2022
-090646-9859,100.1,164,37.1,perjantai 11. lokakuuta 2024
-090646-9859,99.8,164,37.0,tiistai 10. syyskuuta 2024
-090646-9859,100.7,164,37.3,maanantai 8. tammikuuta 2024
-060652-923W,86.4,171,29.4,keskiviikko 16. joulukuuta 2020
-021172-982D,57.3,169,20.1,torstai 1. toukokuuta 2025
-180950-9447,72.4,183,21.5,perjantai 14. elokuuta 2020
-180950-9447,68.2,183,20.3,lauantai 25. tammikuuta 2020
-020769-935W,81.4,160,32.0,torstai 30. heinäkuuta 2020
-280775-9313,83.9,171,28.6,maanantai 27. joulukuuta 2021
-280775-9313,82.7,171,28.2,keskiviikko 7. huhtikuuta 2021
-280775-9313,83.3,171,28.4,torstai 11. maaliskuuta 2021
-290344-914Y,84.5,170,29.3,keskiviikko 5. elokuuta 2020
-290344-914Y,80.3,170,27.8,tiistai 15. syyskuuta 2020
-290344-914Y,83.1,170,28.8,torstai 14. toukokuuta 2020
-110858-960F,86.2,178,27.2,lauantai 30. syyskuuta 2023
-110858-960F,88.2,178,27.8,maanantai 8. toukokuuta 2023
-121061-9141,80.4,181,24.5,sunnuntai 30. toukokuuta 2021
-211057-9266,66.0,179,20.6,lauantai 22. elokuuta 2020
-211057-9266,65.2,179,20.3,lauantai 24. lokakuuta 2020
-211057-9266,64.0,179,19.9,keskiviikko 4. joulukuuta 2019
-170483-934R,54.1,173,18.2,sunnuntai 24. maaliskuuta 2019
-170483-934R,51.4,173,17.3,sunnuntai 13. lokakuuta 2019
-170483-934R,49.1,173,16.5,keskiviikko 10. lokakuuta 2018
-211241-924L,79.4,164,29.5,sunnuntai 3. maaliskuuta 2024
-011159-986J,90.1,181,27.6,tiistai 7. elokuuta 2018
-290542-907U,77.1,166,27.9,torstai 21. helmikuuta 2019
-290542-907U,77.4,166,28.0,maanantai 27. elokuuta 2018
-290542-907U,78.6,166,28.5,perjantai 1. kesäkuuta 2018
-040549-912N,65.3,175,21.3,tiistai 4. helmikuuta 2020
-241142-913M,67.3,174,22.3,perjantai 15. marraskuuta 2019
-151175-915D,99.7,168,35.3,perjantai 16. toukokuuta 2025
-151175-915D,99.2,168,35.1,tiistai 5. marraskuuta 2024
-270883-947U,65.6,170,22.7,lauantai 27. elokuuta 2022
-260449-954D,87.8,163,32.9,keskiviikko 7. elokuuta 2019
-260449-954D,85.0,163,31.9,perjantai 20. joulukuuta 2019
-310835-970S,99.3,183,29.5,maanantai 7. syyskuuta 2020
-310835-970S,99.4,183,29.6,torstai 3. syyskuuta 2020
-121148-9698,59.7,168,21.0,maanantai 21. marraskuuta 2022
-121148-9698,59.9,168,21.1,perjantai 27. tammikuuta 2023
-121148-9698,60.8,168,21.4,maanantai 23. tammikuuta 2023
-160962-987D,59.8,173,20.0,sunnuntai 23. helmikuuta 2025
-160962-987D,59.1,173,19.7,tiistai 24. joulukuuta 2024
-160962-987D,61.1,173,20.4,torstai 20. maaliskuuta 2025
-280830-981W,50.6,164,18.8,keskiviikko 11. toukokuuta 2022
-280830-981W,52.0,164,19.3,maanantai 10. lokakuuta 2022
-020245-957C,67.5,184,19.8,sunnuntai 21. huhtikuuta 2019
-020245-957C,62.0,184,18.2,sunnuntai 3. helmikuuta 2019
-020245-957C,63.8,184,18.7,sunnuntai 5. elokuuta 2018
-190733-932F,71.9,183,21.5,keskiviikko 6. joulukuuta 2023
-060952-938T,73.7,165,27.0,lauantai 23. huhtikuuta 2022
-280744-926X,91.3,168,32.4,maanantai 8. helmikuuta 2021
-280744-926X,94.3,168,33.5,tiistai 17. marraskuuta 2020
-280744-926X,89.9,168,31.9,sunnuntai 16. toukokuuta 2021
-240870-9344,100.3,181,30.7,lauantai 18. maaliskuuta 2023
-240870-9344,101.0,181,30.9,maanantai 12. syyskuuta 2022
-170291-916L,59.2,171,20.2,perjantai 11. elokuuta 2023
-170291-916L,60.1,171,20.5,lauantai 6. tammikuuta 2024
-041137-9388,103.3,180,31.9,tiistai 6. joulukuuta 2022
-041137-9388,107.6,180,33.2,maanantai 20. kesäkuuta 2022
-041137-9388,105.3,180,32.5,sunnuntai 4. syyskuuta 2022
-040462-9382,88.8,176,28.5,sunnuntai 8. joulukuuta 2024
-040462-9382,89.3,176,28.7,perjantai 12. huhtikuuta 2024
-220259-951P,106.9,178,33.6,maanantai 17. lokakuuta 2022
-220259-951P,107.4,178,33.8,sunnuntai 9. huhtikuuta 2023
-301052-9106,88.0,170,30.6,maanantai 27. elokuuta 2018
-301052-9106,84.6,170,29.4,sunnuntai 28. lokakuuta 2018
-301052-9106,85.1,170,29.6,maanantai 17. kesäkuuta 2019
-230741-9612,89.0,164,32.9,tiistai 5. maaliskuuta 2019
-011247-904L,102.1,169,35.8,tiistai 18. helmikuuta 2020
-011247-904L,103.4,169,36.3,maanantai 8. heinäkuuta 2019
-011247-904L,104.5,169,36.7,lauantai 25. tammikuuta 2020
-061049-927F,56.7,177,18.1,sunnuntai 10. maaliskuuta 2024
-091149-9897,88.2,162,33.4,perjantai 16. helmikuuta 2024
-280748-939C,66.7,165,24.6,tiistai 31. maaliskuuta 2020
-200481-923T,94.7,157,38.6,torstai 17. marraskuuta 2022
-201160-901A,90.0,167,32.3,maanantai 15. maaliskuuta 2021
-020153-9779,94.5,176,30.5,maanantai 25. huhtikuuta 2022
-020153-9779,94.2,176,30.4,perjantai 31. joulukuuta 2021
-020335-962S,74.7,176,24.0,torstai 17. lokakuuta 2019
-020335-962S,75.5,176,24.3,tiistai 14. toukokuuta 2019
-131246-980J,62.6,149,28.3,perjantai 4. marraskuuta 2022
-171138-930M,81.8,179,25.6,maanantai 18. tammikuuta 2021
-171138-930M,78.8,179,24.6,lauantai 13. kesäkuuta 2020
-261129-9293,77.2,173,25.7,lauantai 8. syyskuuta 2018
-261129-9293,78.6,173,26.2,maanantai 16. heinäkuuta 2018
-231181-9165,77.5,172,26.2,sunnuntai 19. toukokuuta 2024
-140932-989E,83.8,158,33.7,maanantai 1. elokuuta 2022
-151237-9983,74.2,155,30.9,torstai 4. marraskuuta 2021
-151237-9983,73.8,155,30.7,sunnuntai 19. joulukuuta 2021
-220342-9171,36.7,168,13.0,lauantai 24. kesäkuuta 2023
-220342-9171,40.8,168,14.4,tiistai 10. tammikuuta 2023
-101187-955K,88.6,179,27.6,lauantai 5. toukokuuta 2018
-101187-955K,92.6,179,28.9,torstai 10. tammikuuta 2019
-101187-955K,91.3,179,28.5,sunnuntai 29. huhtikuuta 2018
-130156-933R,70.6,156,29.0,perjantai 31. heinäkuuta 2020
-110472-978E,59.5,172,20.1,maanantai 26. heinäkuuta 2021
-110472-978E,58.5,172,19.8,lauantai 2. lokakuuta 2021
-170644-935A,68.7,163,25.9,sunnuntai 19. syyskuuta 2021
-170644-935A,70.8,163,26.6,keskiviikko 2. maaliskuuta 2022
-170644-935A,69.5,163,26.2,torstai 28. huhtikuuta 2022
-110257-946X,51.2,166,18.5,sunnuntai 9. huhtikuuta 2023
-110257-946X,52.8,166,19.1,torstai 20. heinäkuuta 2023
-110257-946X,52.3,166,18.9,perjantai 28. huhtikuuta 2023
-130949-967F,83.0,174,27.4,lauantai 12. helmikuuta 2022
-130949-967F,83.5,174,27.6,perjantai 17. syyskuuta 2021
-070639-9203,80.7,184,23.8,maanantai 6. helmikuuta 2023
-070639-9203,83.8,184,24.7,maanantai 28. elokuuta 2023
-280450-969E,77.7,184,23.0,maanantai 20. tammikuuta 2025
-280450-969E,74.5,184,22.1,tiistai 15. lokakuuta 2024
-280450-969E,77.2,184,22.9,tiistai 1. huhtikuuta 2025
-310354-9832,70.9,156,29.2,perjantai 19. heinäkuuta 2024
-310354-9832,66.8,156,27.5,torstai 2. marraskuuta 2023
-310354-9832,66.9,156,27.5,keskiviikko 13. syyskuuta 2023
-150871-9492,96.9,165,35.7,tiistai 26. lokakuuta 2021
-140936-902N,71.7,175,23.4,sunnuntai 9. syyskuuta 2018
-140936-902N,75.1,175,24.5,keskiviikko 5. joulukuuta 2018
-111043-9563,59.8,164,22.2,tiistai 31. maaliskuuta 2020
-111043-9563,65.0,164,24.1,keskiviikko 5. helmikuuta 2020
-111043-9563,61.8,164,22.9,lauantai 3. lokakuuta 2020
-160327-9755,88.4,174,29.2,keskiviikko 11. joulukuuta 2019
-160327-9755,87.4,174,28.9,perjantai 14. elokuuta 2020
-220463-981A,79.0,184,23.4,lauantai 4. toukokuuta 2024
-220463-981A,78.2,184,23.1,maanantai 29. tammikuuta 2024
-241239-942L,95.5,177,30.6,lauantai 21. syyskuuta 2019
-171162-9449,80.9,171,27.6,maanantai 24. lokakuuta 2022
-020942-975U,80.1,165,29.2,sunnuntai 30. syyskuuta 2018
-120853-946C,56.6,162,21.5,tiistai 24. maaliskuuta 2020
-120853-946C,57.3,162,21.7,sunnuntai 21. kesäkuuta 2020
-120853-946C,56.5,162,21.4,sunnuntai 14. kesäkuuta 2020
-140252-911E,88.6,186,25.6,sunnuntai 27. joulukuuta 2020
-091275-9704,37.0,167,13.3,torstai 2. huhtikuuta 2020
-091162-995S,80.3,154,33.9,torstai 3. helmikuuta 2022
-091162-995S,75.2,154,31.7,perjantai 25. helmikuuta 2022
-140337-974D,66.8,164,24.7,torstai 23. huhtikuuta 2020
-080952-9062,100.4,183,30.0,tiistai 29. lokakuuta 2024
-100660-978A,88.2,173,29.4,lauantai 25. marraskuuta 2023
-100660-978A,90.0,173,30.0,tiistai 30. tammikuuta 2024
-100660-978A,92.4,173,30.8,sunnuntai 7. tammikuuta 2024
-121081-923F,107.9,154,45.6,keskiviikko 26. kesäkuuta 2019
-121081-923F,111.1,154,47.0,lauantai 16. marraskuuta 2019
-121081-923F,112.2,154,47.5,keskiviikko 17. heinäkuuta 2019
-060853-980L,57.1,172,19.3,sunnuntai 3. marraskuuta 2024
-060853-980L,57.6,172,19.5,tiistai 1. lokakuuta 2024
-120855-913U,56.9,161,22.1,tiistai 17. syyskuuta 2019
-071252-922B,92.5,176,29.9,lauantai 11. helmikuuta 2023
-071252-922B,92.9,176,30.0,keskiviikko 3. tammikuuta 2024
-170242-911T,85.4,163,32.3,keskiviikko 6. syyskuuta 2023
-170242-911T,85.1,163,32.1,lauantai 20. toukokuuta 2023
-170242-911T,85.7,163,32.4,lauantai 2. syyskuuta 2023
-120538-9197,86.9,175,28.3,keskiviikko 2. joulukuuta 2020
-120538-9197,88.5,175,28.9,tiistai 22. syyskuuta 2020
-120538-9197,88.5,175,28.9,maanantai 18. tammikuuta 2021
-200874-969P,56.5,167,20.2,keskiviikko 18. syyskuuta 2024
-221157-9691,72.1,187,20.6,lauantai 13. toukokuuta 2023
-180860-959F,90.1,168,31.9,keskiviikko 11. elokuuta 2021
-180860-959F,90.7,168,32.1,torstai 26. elokuuta 2021
-180860-959F,93.2,168,33.0,maanantai 11. lokakuuta 2021
-220274-980H,96.0,172,32.6,torstai 20. tammikuuta 2022
-220274-980H,92.9,172,31.6,torstai 13. tammikuuta 2022
-080159-9328,99.9,170,34.7,tiistai 16. heinäkuuta 2024
-061241-9315,89.2,169,31.3,torstai 14. joulukuuta 2023
-070276-934V,48.7,161,18.9,torstai 6. huhtikuuta 2023
-261143-993S,97.7,175,31.9,keskiviikko 27. huhtikuuta 2022
-261143-993S,96.2,175,31.4,torstai 8. syyskuuta 2022
-210646-946S,54.4,155,22.5,sunnuntai 3. huhtikuuta 2022
-260260-9738,89.6,176,28.9,sunnuntai 22. lokakuuta 2023
-260260-9738,91.1,176,29.4,keskiviikko 25. tammikuuta 2023
-161147-9543,78.5,169,27.5,perjantai 19. huhtikuuta 2019
-161147-9543,81.5,169,28.6,keskiviikko 5. kesäkuuta 2019
-200958-949R,69.6,161,26.8,lauantai 6. heinäkuuta 2024
-200958-949R,70.0,161,26.9,lauantai 30. joulukuuta 2023
-100949-975T,83.8,167,29.9,sunnuntai 26. heinäkuuta 2020
-100949-975T,81.3,167,29.0,perjantai 8. marraskuuta 2019
-101256-9795,93.4,162,35.7,perjantai 17. maaliskuuta 2023
-091289-9835,90.9,183,27.2,maanantai 11. syyskuuta 2023
-091289-9835,96.2,183,28.8,tiistai 20. kesäkuuta 2023
-180852-945Y,92.0,179,28.8,tiistai 26. huhtikuuta 2022
-180852-945Y,90.6,179,28.3,maanantai 11. heinäkuuta 2022
-180852-945Y,88.8,179,27.8,keskiviikko 19. lokakuuta 2022
-100939-916A,71.3,176,23.0,torstai 6. lokakuuta 2022
-141046-945E,90.8,181,27.6,perjantai 18. helmikuuta 2022
-141240-944F,81.0,181,24.8,torstai 10. lokakuuta 2019
-141240-944F,80.6,181,24.7,maanantai 30. maaliskuuta 2020
-160262-925S,71.8,154,30.2,lauantai 7. syyskuuta 2024
-160262-925S,71.9,154,30.2,sunnuntai 8. syyskuuta 2024
-220450-917W,80.5,176,26.0,torstai 8. joulukuuta 2022
-190560-9458,77.2,169,27.0,lauantai 31. heinäkuuta 2021
-190560-9458,75.4,169,26.4,torstai 28. huhtikuuta 2022
-090866-934D,64.3,171,22.1,maanantai 8. kesäkuuta 2020
-021139-983X,95.1,185,27.8,sunnuntai 27. lokakuuta 2019
-210473-937U,75.5,166,27.5,sunnuntai 22. toukokuuta 2022
-210473-937U,77.9,166,28.4,keskiviikko 25. toukokuuta 2022
-250757-9792,79.0,159,31.2,torstai 3. tammikuuta 2019
-261244-953J,78.7,168,27.8,lauantai 1. huhtikuuta 2023
-150936-9606,96.9,172,32.8,maanantai 1. huhtikuuta 2024
-241062-986B,68.8,152,29.8,lauantai 13. huhtikuuta 2024
-241062-986B,74.4,152,32.2,torstai 13. maaliskuuta 2025
-241062-986B,71.7,152,31.0,keskiviikko 29. tammikuuta 2025
-091245-907B,84.8,177,27.1,torstai 15. lokakuuta 2020
-031266-967U,90.8,177,29.1,tiistai 12. huhtikuuta 2022
-031266-967U,90.7,177,29.1,maanantai 11. heinäkuuta 2022
-211156-925P,79.7,170,27.5,keskiviikko 4. lokakuuta 2023
-211156-925P,84.6,170,29.2,lauantai 22. kesäkuuta 2024
-270742-955P,76.5,165,28.0,tiistai 1. syyskuuta 2020
-270742-955P,75.8,165,27.7,lauantai 23. toukokuuta 2020
-161244-934F,66.8,156,27.3,maanantai 27. tammikuuta 2020
-151142-9235,79.8,180,24.6,perjantai 24. elokuuta 2018
-151142-9235,82.1,180,25.3,maanantai 4. maaliskuuta 2019
-260342-947K,93.1,180,28.8,perjantai 25. toukokuuta 2018
-260342-947K,94.2,180,29.2,maanantai 14. tammikuuta 2019
-180543-951D,90.0,172,30.5,keskiviikko 22. syyskuuta 2021
-280775-938A,67.8,168,24.2,torstai 26. maaliskuuta 2020
-280775-938A,69.4,168,24.7,sunnuntai 2. kesäkuuta 2019
-120742-921X,85.7,182,25.7,lauantai 18. tammikuuta 2020
-120742-921X,85.9,182,25.8,perjantai 3. tammikuuta 2020
-090754-9246,74.8,173,25.1,tiistai 26. joulukuuta 2023
-090754-9246,73.4,173,24.6,keskiviikko 1. toukokuuta 2024
-090754-9246,77.2,173,25.9,torstai 30. toukokuuta 2024
-160370-922J,68.8,172,23.1,torstai 9. maaliskuuta 2023
-160370-922J,66.5,172,22.4,maanantai 30. lokakuuta 2023
-160370-922J,71.0,172,23.9,lauantai 11. maaliskuuta 2023
-080143-9977,106.9,167,38.2,lauantai 15. heinäkuuta 2023
-241050-974V,88.4,163,33.4,maanantai 28. syyskuuta 2020
-170457-9407,58.5,175,19.2,maanantai 26. helmikuuta 2024
-170457-9407,58.1,175,19.0,tiistai 19. maaliskuuta 2024
-170457-9407,60.8,175,19.9,lauantai 10. elokuuta 2024
-020239-949K,94.2,168,33.2,sunnuntai 13. joulukuuta 2020
-020239-949K,98.6,168,34.8,tiistai 18. elokuuta 2020
-210149-948K,55.5,162,21.3,maanantai 9. lokakuuta 2023
-210149-948K,56.0,162,21.4,torstai 15. elokuuta 2024
-210149-948K,57.6,162,22.1,sunnuntai 14. tammikuuta 2024
-100744-928C,81.3,163,30.5,lauantai 8. joulukuuta 2018
-071029-9944,83.6,168,29.6,lauantai 16. maaliskuuta 2019
-280625-932D,87.3,166,31.6,lauantai 21. maaliskuuta 2020
-280625-932D,87.3,166,31.6,perjantai 24. huhtikuuta 2020
-211244-9485,110.5,171,37.9,tiistai 24. joulukuuta 2024
-211244-9485,106.3,171,36.5,torstai 15. elokuuta 2024
-211244-9485,107.1,171,36.8,sunnuntai 14. huhtikuuta 2024
-140954-920W,67.9,165,25.0,perjantai 8. toukokuuta 2020
-140954-920W,68.6,165,25.2,sunnuntai 14. helmikuuta 2021
-050664-929J,80.9,156,33.0,sunnuntai 19. maaliskuuta 2023
-050664-929J,80.7,156,33.0,torstai 1. kesäkuuta 2023
-170565-961S,73.0,167,26.2,perjantai 27. lokakuuta 2023
-170565-961S,68.3,167,24.5,lauantai 10. kesäkuuta 2023
-170565-961S,70.7,167,25.4,keskiviikko 15. maaliskuuta 2023
-120944-9256,77.8,163,29.3,lauantai 15. joulukuuta 2018
-120944-9256,72.9,163,27.5,maanantai 15. heinäkuuta 2019
-120944-9256,74.0,163,27.9,torstai 14. helmikuuta 2019
-240556-914E,86.1,179,26.7,torstai 11. marraskuuta 2021
-171046-9983,62.4,159,24.6,tiistai 17. tammikuuta 2023
-290855-9876,112.7,173,37.6,maanantai 20. helmikuuta 2023
-170973-980N,85.6,152,37.3,tiistai 8. tammikuuta 2019
-210142-9561,77.9,178,24.7,lauantai 18. heinäkuuta 2020
-280954-952Y,88.2,168,31.3,torstai 21. tammikuuta 2021
-111241-9898,69.1,170,24.0,maanantai 25. huhtikuuta 2022
-111241-9898,69.2,170,24.0,maanantai 15. marraskuuta 2021
-111241-9898,70.0,170,24.3,tiistai 1. helmikuuta 2022
-110254-9476,61.2,164,22.6,sunnuntai 19. heinäkuuta 2020
-130646-926Y,97.0,170,33.6,tiistai 14. marraskuuta 2023
-301268-968T,70.5,157,28.4,tiistai 6. marraskuuta 2018
-061149-940P,65.2,153,27.7,perjantai 3. maaliskuuta 2023
-061149-940P,69.0,153,29.3,tiistai 28. helmikuuta 2023
-040842-901X,86.1,168,30.6,sunnuntai 28. heinäkuuta 2019
-021041-950K,82.5,166,30.0,torstai 18. helmikuuta 2021
-021041-950K,79.6,166,29.0,perjantai 7. elokuuta 2020
-190245-962H,71.6,183,21.4,perjantai 24. helmikuuta 2023
-190245-962H,72.1,183,21.5,tiistai 5. heinäkuuta 2022
-190245-962H,74.1,183,22.1,torstai 12. tammikuuta 2023
-140736-926U,79.5,177,25.3,lauantai 25. elokuuta 2018
-140736-926U,79.5,177,25.3,tiistai 28. elokuuta 2018
-130545-971B,85.1,161,32.7,lauantai 3. syyskuuta 2022
-130545-971B,83.5,161,32.1,keskiviikko 25. toukokuuta 2022
-130545-971B,85.4,161,32.8,sunnuntai 12. helmikuuta 2023
-160259-953W,68.5,170,23.8,perjantai 10. marraskuuta 2023
-080548-9839,95.9,182,29.1,keskiviikko 13. toukokuuta 2020
-080548-9839,94.7,182,28.7,sunnuntai 22. joulukuuta 2019
-300852-979T,61.5,151,26.8,lauantai 24. lokakuuta 2020
-300852-979T,60.8,151,26.5,maanantai 21. syyskuuta 2020
-260859-964J,77.1,184,22.7,maanantai 5. kesäkuuta 2023
-260859-964J,81.9,184,24.1,perjantai 13. tammikuuta 2023
-150355-900A,80.8,163,30.2,sunnuntai 16. kesäkuuta 2019
-080933-9076,82.4,175,27.0,lauantai 4. huhtikuuta 2020
-030382-965M,95.2,171,32.7,torstai 7. heinäkuuta 2022
-030382-965M,96.8,171,33.2,keskiviikko 1. kesäkuuta 2022
-041141-957W,113.9,188,32.3,lauantai 27. maaliskuuta 2021
-041141-957W,113.4,188,32.2,torstai 1. lokakuuta 2020
-150530-902J,80.4,171,27.5,lauantai 10. lokakuuta 2020
-190255-9922,74.7,172,25.2,perjantai 23. syyskuuta 2022
-040952-9286,84.3,179,26.3,lauantai 29. heinäkuuta 2023
-040952-9286,84.2,179,26.2,tiistai 4. kesäkuuta 2024
-040952-9286,87.1,179,27.1,keskiviikko 22. marraskuuta 2023
-271160-9447,56.3,165,20.8,tiistai 25. helmikuuta 2020
-271160-9447,56.0,165,20.7,maanantai 27. toukokuuta 2019
-051155-969J,63.9,159,25.2,tiistai 4. lokakuuta 2022
-051155-969J,64.0,159,25.2,torstai 17. elokuuta 2023
-051155-969J,68.6,159,27.1,perjantai 7. huhtikuuta 2023
-071256-951A,58.3,161,22.4,keskiviikko 20. toukokuuta 2020
-080246-938W,88.1,193,23.6,tiistai 21. tammikuuta 2025
-080562-978R,39.8,166,14.4,keskiviikko 7. kesäkuuta 2023
-080562-978R,37.2,166,13.4,sunnuntai 15. lokakuuta 2023
-090251-9430,73.7,169,25.8,lauantai 20. heinäkuuta 2019
-090251-9430,72.1,169,25.3,torstai 30. elokuuta 2018
-101141-901Y,87.5,162,33.2,perjantai 11. tammikuuta 2019
-101141-901Y,85.0,162,32.2,perjantai 4. toukokuuta 2018
-230546-933U,71.9,177,23.0,sunnuntai 16. elokuuta 2020
-230546-933U,75.4,177,24.1,lauantai 19. lokakuuta 2019
-230546-933U,71.1,177,22.8,sunnuntai 8. maaliskuuta 2020
-270243-9326,96.8,165,35.4,sunnuntai 1. syyskuuta 2019
-270243-9326,96.6,165,35.4,tiistai 21. heinäkuuta 2020
-270243-9326,95.9,165,35.1,keskiviikko 3. kesäkuuta 2020
-261153-970L,80.6,178,25.6,maanantai 5. joulukuuta 2022
-261153-970L,82.6,178,26.2,tiistai 11. lokakuuta 2022
-261153-970L,82.0,178,26.0,perjantai 3. joulukuuta 2021
-190548-9477,81.5,163,30.7,maanantai 4. huhtikuuta 2022
-190548-9477,77.7,163,29.3,maanantai 26. syyskuuta 2022
-211252-959K,63.4,169,22.2,maanantai 9. syyskuuta 2024
-211252-959K,66.0,169,23.1,tiistai 16. tammikuuta 2024
+henkilotunnus;sukupuoli;ika_mittaushetkella;pituus;paino;bmi;mittaus_pvm;lahdejarjestelma
+MOCK_5142277;Mies;62;170.39;119.405;41.13;2023-01-10;apotti hoitotyö
+MOCK_5142277;Mies;62;170.39;122.47;42.18;2023-02-08;apotti hoitotyö
+MOCK_6937529;Mies;50;168.16;85.909;30.38;2024-09-08;apotti hoitotyö
+MOCK_8615478;Mies;37;177.77;85.196;26.96;2021-05-23;apotti hoitotyö
+MOCK_8615478;Mies;37;177.77;88.314;27.95;2020-12-12;apotti hoitotyö
+MOCK_8615478;Mies;38;177.77;85.853;27.17;2021-07-15;apotti hoitotyö
+MOCK_8676651;Mies;75;169.05;58.957;20.63;2022-08-19;apotti hoitotyö
+MOCK_8676651;Mies;75;169.05;58.19;20.36;2022-07-08;apotti hoitotyö
+MOCK_8676651;Mies;74;169.05;59.637;20.87;2022-03-05;apotti hoitotyö
+MOCK_8846768;Nainen;39;171.69;64.743;21.96;2021-11-19;apotti hoitotyö
+MOCK_8846768;Nainen;40;171.69;66.348;22.51;2022-08-28;apotti hoitotyö
+MOCK_5578493;Mies;76;176.12;86.53;27.9;2022-09-10;apotti hoitotyö
+MOCK_5578493;Mies;76;176.12;86.857;28.0;2022-08-23;apotti hoitotyö
+MOCK_5578493;Mies;76;176.12;87.663;28.26;2022-07-15;apotti hoitotyö
+MOCK_7967867;Mies;71;173.62;86.278;28.62;2021-02-17;apotti hoitotyö
+MOCK_7967867;Mies;71;173.62;87.456;29.01;2021-04-11;apotti hoitotyö
+MOCK_7967867;Mies;70;173.62;88.569;29.38;2020-07-11;apotti hoitotyö
+MOCK_6619786;Nainen;68;162.62;76.043;28.75;2020-02-04;apotti hoitotyö
+MOCK_6619786;Nainen;68;162.62;76.002;28.74;2020-10-01;apotti hoitotyö
+MOCK_6619786;Nainen;68;162.62;75.274;28.46;2020-07-11;apotti hoitotyö
+MOCK_5742155;Nainen;86;158.97;48.623;19.24;2023-05-19;apotti hoitotyö
+MOCK_5742155;Nainen;85;158.97;46.64;18.46;2023-01-14;apotti hoitotyö
+MOCK_5742155;Nainen;86;158.97;49.033;19.4;2023-03-20;apotti hoitotyö
+MOCK_6437659;Nainen;75;163.42;95.812;35.88;2020-11-05;apotti hoitotyö
+MOCK_3211590;Nainen;79;159.39;75.357;29.66;2019-07-24;apotti hoitotyö
+MOCK_7943290;Nainen;71;173.43;76.905;25.57;2018-08-21;apotti hoitotyö
+MOCK_7943290;Nainen;71;173.43;73.054;24.29;2018-11-01;apotti hoitotyö
+MOCK_9084265;Mies;68;177.93;55.215;17.44;2020-08-12;apotti hoitotyö
+MOCK_5524223;Nainen;49;161.24;55.038;21.17;2020-11-26;apotti hoitotyö
+MOCK_5524223;Nainen;48;161.24;55.584;21.38;2019-11-07;apotti hoitotyö
+MOCK_5524223;Nainen;49;161.24;54.661;21.02;2020-08-22;apotti hoitotyö
+MOCK_3910777;Nainen;67;148.87;89.75;40.5;2019-03-27;apotti hoitotyö
+MOCK_3910777;Nainen;67;148.87;87.232;39.36;2019-05-26;apotti hoitotyö
+MOCK_3910777;Nainen;68;148.87;88.203;39.8;2019-10-18;apotti hoitotyö
+MOCK_7093204;Nainen;70;173.13;84.591;28.22;2019-07-12;apotti hoitotyö
+MOCK_7093204;Nainen;70;173.13;86.237;28.77;2019-11-30;apotti hoitotyö
+MOCK_8201245;Mies;69;160.4;104.077;40.45;2019-06-22;apotti hoitotyö
+MOCK_8201245;Mies;68;160.4;102.711;39.92;2019-02-05;apotti hoitotyö
+MOCK_8201245;Mies;68;160.4;104.275;40.53;2018-11-29;apotti hoitotyö
+MOCK_1509639;Mies;67;177.93;82.178;25.96;2022-08-15;apotti hoitotyö
+MOCK_1509639;Mies;67;177.93;82.335;26.01;2022-08-07;apotti hoitotyö
+MOCK_1509639;Mies;66;177.93;79.598;25.14;2021-08-24;apotti hoitotyö
+MOCK_8655615;Nainen;75;168.94;72.969;25.57;2023-12-30;apotti hoitotyö
+MOCK_8655615;Nainen;75;168.94;78.222;27.41;2023-05-18;apotti hoitotyö
+MOCK_8655615;Nainen;75;168.94;75.716;26.53;2023-12-02;apotti hoitotyö
+MOCK_4673880;Nainen;62;163.86;60.235;22.43;2021-08-11;apotti hoitotyö
+MOCK_4673880;Nainen;62;163.86;61.318;22.84;2021-12-16;apotti hoitotyö
+MOCK_1837440;Mies;69;186.27;71.374;20.57;2023-03-25;apotti hoitotyö
+MOCK_3939956;Nainen;51;172.63;79.835;26.79;2024-05-20;apotti hoitotyö
+MOCK_3939956;Nainen;51;172.63;75.508;25.34;2024-02-08;apotti hoitotyö
+MOCK_3939956;Nainen;52;172.63;78.898;26.47;2024-08-26;apotti hoitotyö
+MOCK_6824329;Nainen;79;161.97;70.972;27.05;2019-01-20;apotti hoitotyö
+MOCK_6824329;Nainen;80;161.97;69.837;26.62;2019-05-18;apotti hoitotyö
+MOCK_8168606;Nainen;84;172.77;78.684;26.36;2018-02-20;apotti hoitotyö
+MOCK_6249954;Mies;70;169.11;106.529;37.25;2021-03-28;apotti hoitotyö
+MOCK_6249954;Mies;69;169.11;104.669;36.6;2020-09-15;apotti hoitotyö
+MOCK_6249954;Mies;69;169.11;107.086;37.45;2020-09-14;apotti hoitotyö
+MOCK_6930909;Mies;75;172.64;98.055;32.9;2019-02-05;apotti hoitotyö
+MOCK_6930909;Mies;74;172.64;99.012;33.22;2018-03-30;apotti hoitotyö
+MOCK_7374709;Mies;73;182.84;87.796;26.26;2020-11-28;apotti hoitotyö
+MOCK_7374709;Mies;73;182.84;89.024;26.63;2020-10-15;apotti hoitotyö
+MOCK_5951382;Mies;49;179.46;94.953;29.48;2022-10-08;apotti hoitotyö
+MOCK_6886361;Mies;77;182.17;101.319;30.53;2024-10-19;apotti hoitotyö
+MOCK_6886361;Mies;77;182.17;102.578;30.91;2024-04-12;apotti hoitotyö
+MOCK_6886361;Mies;76;182.17;100.437;30.26;2023-10-12;apotti hoitotyö
+MOCK_7026871;Mies;44;187.3;83.844;23.9;2019-06-13;apotti hoitotyö
+MOCK_7026871;Mies;45;187.3;84.201;24.0;2020-04-19;apotti hoitotyö
+MOCK_6943388;Mies;51;175.48;79.101;25.69;2018-09-07;apotti hoitotyö
+MOCK_6943388;Mies;51;175.48;80.542;26.16;2019-05-09;apotti hoitotyö
+MOCK_7289304;Mies;52;169.02;88.104;30.84;2018-11-08;apotti hoitotyö
+MOCK_7289304;Mies;52;169.02;92.99;32.55;2018-11-09;apotti hoitotyö
+MOCK_9013153;Nainen;42;165.57;39.824;14.53;2021-05-26;apotti hoitotyö
+MOCK_9013153;Nainen;41;165.57;39.991;14.59;2020-12-22;apotti hoitotyö
+MOCK_4801244;Mies;84;160.24;89.514;34.86;2018-12-31;apotti hoitotyö
+MOCK_4801244;Mies;84;160.24;85.959;33.48;2019-01-13;apotti hoitotyö
+MOCK_7350873;Nainen;70;165.78;84.557;30.77;2018-04-21;apotti hoitotyö
+MOCK_6651715;Nainen;69;166.4;76.966;27.8;2019-01-28;apotti hoitotyö
+MOCK_6651715;Nainen;69;166.4;81.911;29.58;2018-12-13;apotti hoitotyö
+MOCK_6651715;Nainen;68;166.4;82.832;29.92;2018-07-29;apotti hoitotyö
+MOCK_8693861;Mies;57;169.11;72.856;25.48;2018-08-08;apotti hoitotyö
+MOCK_8693861;Mies;58;169.11;70.377;24.61;2018-09-05;apotti hoitotyö
+MOCK_8693861;Mies;57;169.11;73.76;25.79;2018-07-20;apotti hoitotyö
+MOCK_5526752;Mies;78;190.62;104.021;28.63;2021-08-26;apotti hoitotyö
+MOCK_5526752;Mies;79;190.62;100.581;27.68;2022-05-27;apotti hoitotyö
+MOCK_3068929;Mies;64;182.18;97.002;29.23;2019-09-09;apotti hoitotyö
+MOCK_5329491;Mies;74;165.68;95.928;34.95;2019-01-24;apotti hoitotyö
+MOCK_8110427;Mies;68;170.24;99.415;34.3;2018-06-29;apotti hoitotyö
+MOCK_8110427;Mies;69;170.24;103.454;35.7;2019-03-16;apotti hoitotyö
+MOCK_1344298;Mies;69;182.35;75.164;22.6;2021-10-10;apotti hoitotyö
+MOCK_1344298;Mies;69;182.35;77.563;23.33;2021-10-09;apotti hoitotyö
+MOCK_4876057;Mies;77;184.63;77.287;22.67;2018-10-30;apotti hoitotyö
+MOCK_4876057;Mies;77;184.63;76.325;22.39;2019-04-29;apotti hoitotyö
+MOCK_5815206;Nainen;80;164.65;56.722;20.92;2022-01-27;apotti hoitotyö
+MOCK_2186222;Mies;65;180.93;79.242;24.21;2023-12-07;apotti hoitotyö
+MOCK_2186222;Mies;65;180.93;81.431;24.88;2024-03-06;apotti hoitotyö
+MOCK_4221603;Nainen;77;156.77;78.809;32.07;2021-06-26;apotti hoitotyö
+MOCK_5802428;Mies;50;167.49;81.536;29.07;2023-02-12;apotti hoitotyö
+MOCK_4346462;Mies;77;182.84;67.928;20.32;2023-08-26;apotti hoitotyö
+MOCK_4346462;Mies;77;182.84;71.161;21.29;2024-01-29;apotti hoitotyö
+MOCK_7377022;Mies;61;174.65;78.075;25.6;2019-03-08;apotti hoitotyö
+MOCK_7377022;Mies;62;174.65;80.061;26.25;2020-02-11;apotti hoitotyö
+MOCK_7377022;Mies;61;174.65;76.376;25.04;2019-04-20;apotti hoitotyö
+MOCK_5051818;Mies;70;166.35;77.768;28.1;2023-07-27;apotti hoitotyö
+MOCK_2125973;Mies;84;159.25;82.795;32.65;2019-12-24;apotti hoitotyö
+MOCK_2125973;Mies;85;159.25;85.538;33.73;2020-04-15;apotti hoitotyö
+MOCK_3556642;Mies;64;164.57;85.081;31.41;2022-04-09;apotti hoitotyö
+MOCK_5323162;Mies;49;181.11;68.128;20.77;2023-02-13;apotti hoitotyö
+MOCK_5323162;Mies;49;181.11;66.022;20.13;2023-06-04;apotti hoitotyö
+MOCK_3646129;Mies;85;176.44;101.914;32.74;2019-01-10;apotti hoitotyö
+MOCK_3646129;Mies;85;176.44;103.446;33.23;2019-03-19;apotti hoitotyö
+MOCK_1685557;Mies;73;176.81;99.419;31.8;2018-11-08;apotti hoitotyö
+MOCK_1685557;Mies;73;176.81;94.41;30.2;2019-03-24;apotti hoitotyö
+MOCK_9117140;Nainen;94;169.72;70.387;24.44;2020-04-06;apotti hoitotyö
+MOCK_9117140;Nainen;94;169.72;70.284;24.4;2020-05-17;apotti hoitotyö
+MOCK_9117140;Nainen;94;169.72;74.002;25.69;2020-05-30;apotti hoitotyö
+MOCK_5660089;Mies;71;178.45;69.496;21.82;2021-06-14;apotti hoitotyö
+MOCK_5660089;Mies;72;178.45;69.732;21.9;2022-02-09;apotti hoitotyö
+MOCK_5660089;Mies;71;178.45;71.171;22.35;2021-07-28;apotti hoitotyö
+MOCK_3324756;Mies;73;173.47;81.494;27.08;2019-09-06;apotti hoitotyö
+MOCK_3324756;Mies;72;173.47;83.464;27.74;2018-12-16;apotti hoitotyö
+MOCK_6784049;Nainen;48;160.14;79.053;30.83;2020-12-20;apotti hoitotyö
+MOCK_2788530;Mies;76;182.47;91.6;27.51;2018-10-25;apotti hoitotyö
+MOCK_7196078;Mies;65;177.36;90.811;28.87;2018-12-15;apotti hoitotyö
+MOCK_7196078;Mies;65;177.36;95.68;30.42;2018-11-19;apotti hoitotyö
+MOCK_7196078;Mies;65;177.36;91.916;29.22;2018-07-07;apotti hoitotyö
+MOCK_1845073;Nainen;71;165.87;68.392;24.86;2023-06-26;apotti hoitotyö
+MOCK_1845073;Nainen;71;165.87;70.131;25.49;2023-08-04;apotti hoitotyö
+MOCK_2815475;Nainen;66;166.58;48.48;17.47;2023-05-22;apotti hoitotyö
+MOCK_4541906;Mies;66;171.77;103.862;35.2;2024-10-10;apotti hoitotyö
+MOCK_3614655;Mies;45;171.89;89.348;30.24;2023-04-26;apotti hoitotyö
+MOCK_3614655;Mies;45;171.89;88.077;29.81;2022-12-16;apotti hoitotyö
+MOCK_2743090;Nainen;80;173.36;73.924;24.6;2023-04-05;apotti hoitotyö
+MOCK_2743090;Nainen;81;173.36;74.429;24.77;2023-12-26;apotti hoitotyö
+MOCK_9377439;Nainen;46;162.13;49.787;18.94;2021-07-12;apotti hoitotyö
+MOCK_9377439;Nainen;45;162.13;48.558;18.47;2020-11-22;apotti hoitotyö
+MOCK_9377439;Nainen;46;162.13;49.77;18.93;2021-04-02;apotti hoitotyö
+MOCK_9629544;Nainen;51;160.06;74.12;28.93;2024-01-19;apotti hoitotyö
+MOCK_9629544;Nainen;51;160.06;74.179;28.95;2024-08-23;apotti hoitotyö
+MOCK_9629544;Nainen;50;160.06;74.355;29.02;2023-10-08;apotti hoitotyö
+MOCK_5574998;Mies;63;162.02;73.249;27.9;2021-08-20;apotti hoitotyö
+MOCK_5574998;Mies;63;162.02;72.833;27.75;2021-12-18;apotti hoitotyö
+MOCK_5574998;Mies;63;162.02;69.878;26.62;2021-07-10;apotti hoitotyö
+MOCK_3087253;Nainen;77;157.96;51.37;20.59;2019-02-07;apotti hoitotyö
+MOCK_2291685;Mies;59;175.65;79.905;25.9;2023-03-26;apotti hoitotyö
+MOCK_2291685;Mies;59;175.65;76.051;24.65;2023-07-23;apotti hoitotyö
+MOCK_1794403;Mies;80;160.52;63.003;24.45;2021-07-30;apotti hoitotyö
+MOCK_6303530;Nainen;74;150.92;61.211;26.87;2020-04-02;apotti hoitotyö
+MOCK_6303530;Nainen;75;150.92;61.392;26.95;2021-02-14;apotti hoitotyö
+MOCK_7775470;Mies;68;170.16;87.496;30.22;2022-02-16;apotti hoitotyö
+MOCK_7775470;Mies;67;170.16;88.473;30.56;2021-04-16;apotti hoitotyö
+MOCK_1196994;Mies;52;176.08;93.009;30.0;2024-09-18;apotti hoitotyö
+MOCK_1196994;Mies;51;176.08;92.646;29.88;2024-04-16;apotti hoitotyö
+MOCK_9871823;Nainen;77;163.05;96.261;36.21;2020-10-31;apotti hoitotyö
+MOCK_3664059;Nainen;75;168.19;82.306;29.1;2024-05-02;apotti hoitotyö
+MOCK_3664059;Nainen;75;168.19;81.522;28.82;2024-12-31;apotti hoitotyö
+MOCK_3664059;Nainen;75;168.19;81.769;28.91;2024-08-16;apotti hoitotyö
+MOCK_6342297;Mies;68;171.15;86.885;29.66;2024-12-28;apotti hoitotyö
+MOCK_6342297;Mies;67;171.15;87.635;29.92;2024-02-04;apotti hoitotyö
+MOCK_6914514;Mies;61;156.2;66.613;27.3;2022-01-28;apotti hoitotyö
+MOCK_5854999;Nainen;75;147.9;71.768;32.81;2018-10-06;apotti hoitotyö
+MOCK_5854999;Nainen;75;147.9;69.525;31.78;2018-09-10;apotti hoitotyö
+MOCK_5854999;Nainen;75;147.9;67.977;31.08;2018-08-01;apotti hoitotyö
+MOCK_8271358;Nainen;40;165.1;85.795;31.48;2022-06-17;apotti hoitotyö
+MOCK_8271358;Nainen;40;165.1;87.438;32.08;2022-05-06;apotti hoitotyö
+MOCK_8286395;Mies;78;172.41;97.54;32.81;2021-11-17;apotti hoitotyö
+MOCK_8286395;Mies;78;172.41;95.154;32.01;2021-09-28;apotti hoitotyö
+MOCK_4804412;Nainen;79;167.52;105.295;37.52;2020-11-09;apotti hoitotyö
+MOCK_4804412;Nainen;80;167.52;106.047;37.79;2021-07-18;apotti hoitotyö
+MOCK_4804412;Nainen;79;167.52;104.804;37.35;2021-02-05;apotti hoitotyö
+MOCK_7891867;Mies;74;185.3;83.588;24.34;2023-09-19;apotti hoitotyö
+MOCK_7891867;Mies;74;185.3;79.389;23.12;2023-12-29;apotti hoitotyö
+MOCK_1404711;Nainen;72;155.46;90.719;37.54;2025-01-16;apotti hoitotyö
+MOCK_1404711;Nainen;72;155.46;90.561;37.47;2024-10-21;apotti hoitotyö
+MOCK_1404711;Nainen;72;155.46;88.899;36.78;2025-01-02;apotti hoitotyö
+MOCK_9522127;Nainen;66;162.09;75.539;28.75;2021-03-31;apotti hoitotyö
+MOCK_9522127;Nainen;67;162.09;78.735;29.97;2022-03-06;apotti hoitotyö
+MOCK_9522127;Nainen;66;162.09;74.97;28.53;2021-06-18;apotti hoitotyö
+MOCK_4166470;Mies;64;179.33;96.428;29.98;2024-01-13;apotti hoitotyö
+MOCK_9101482;Mies;78;175.03;99.103;32.35;2022-09-19;apotti hoitotyö
+MOCK_6888777;Mies;66;180.34;91.954;28.27;2019-05-17;apotti hoitotyö
+MOCK_6888777;Mies;66;180.34;87.076;26.77;2019-09-16;apotti hoitotyö
+MOCK_6888777;Mies;66;180.34;86.227;26.51;2019-12-18;apotti hoitotyö
+MOCK_5189951;Nainen;69;163.43;63.349;23.72;2024-02-18;apotti hoitotyö
+MOCK_5189951;Nainen;69;163.43;65.482;24.52;2024-01-04;apotti hoitotyö
+MOCK_5189951;Nainen;69;163.43;66.061;24.73;2023-09-01;apotti hoitotyö
+MOCK_4625334;Mies;59;171.71;94.467;32.04;2023-04-28;apotti hoitotyö
+MOCK_4625334;Mies;58;171.71;90.462;30.68;2022-10-20;apotti hoitotyö
+MOCK_4625334;Mies;59;171.71;93.593;31.74;2023-06-10;apotti hoitotyö
+MOCK_5232615;Nainen;56;162.47;38.522;14.59;2020-01-17;apotti hoitotyö
+MOCK_5232615;Nainen;56;162.47;39.974;15.14;2020-01-24;apotti hoitotyö
+MOCK_9525124;Mies;84;179.97;71.63;22.12;2022-08-15;apotti hoitotyö
+MOCK_9525124;Mies;83;179.97;76.103;23.5;2021-11-07;apotti hoitotyö
+MOCK_9525124;Mies;84;179.97;72.095;22.26;2022-06-04;apotti hoitotyö
+MOCK_4532390;Mies;82;179.82;80.093;24.77;2020-11-24;apotti hoitotyö
+MOCK_6840132;Nainen;68;157.88;69.483;27.88;2019-01-14;apotti hoitotyö
+MOCK_6840132;Nainen;68;157.88;64.986;26.07;2019-04-10;apotti hoitotyö
+MOCK_9260094;Mies;74;178.87;74.954;23.43;2018-07-11;apotti hoitotyö
+MOCK_4896099;Nainen;68;176.73;89.066;28.52;2023-08-27;apotti hoitotyö
+MOCK_4896099;Nainen;67;176.73;89.461;28.64;2023-02-02;apotti hoitotyö
+MOCK_2408039;Nainen;81;168.92;69.242;24.27;2022-07-12;apotti hoitotyö
+MOCK_2408039;Nainen;81;168.92;65.95;23.11;2022-06-14;apotti hoitotyö
+MOCK_9570399;Mies;70;163.02;85.617;32.22;2019-11-27;apotti hoitotyö
+MOCK_9570399;Mies;69;163.02;82.493;31.04;2019-02-21;apotti hoitotyö
+MOCK_9570399;Mies;69;163.02;83.459;31.4;2019-01-03;apotti hoitotyö
+MOCK_8637607;Nainen;66;163.97;50.262;18.69;2020-06-30;apotti hoitotyö
+MOCK_8637607;Nainen;67;163.97;47.028;17.49;2021-05-16;apotti hoitotyö
+MOCK_8126717;Mies;72;171.75;85.009;28.82;2023-07-23;apotti hoitotyö
+MOCK_8126717;Mies;72;171.75;82.462;27.96;2023-07-16;apotti hoitotyö
+MOCK_8126717;Mies;73;171.75;83.397;28.27;2024-03-20;apotti hoitotyö
+MOCK_5168065;Nainen;49;172.41;75.496;25.4;2020-04-17;apotti hoitotyö
+MOCK_5168065;Nainen;49;172.41;74.19;24.96;2019-12-11;apotti hoitotyö
+MOCK_6778765;Nainen;71;161.28;72.567;27.9;2019-04-09;apotti hoitotyö
+MOCK_6778765;Nainen;70;161.28;73.063;28.09;2018-12-03;apotti hoitotyö
+MOCK_6989375;Nainen;78;164.73;62.431;23.01;2018-06-01;apotti hoitotyö
+MOCK_8549368;Mies;71;176.01;93.472;30.17;2021-05-11;apotti hoitotyö
+MOCK_1762434;Mies;38;161.43;88.331;33.9;2025-04-28;apotti hoitotyö
+MOCK_1762434;Mies;38;161.43;86.284;33.11;2025-02-14;apotti hoitotyö
+MOCK_1762434;Mies;38;161.43;84.987;32.61;2025-05-14;apotti hoitotyö
+MOCK_7169053;Nainen;48;157.17;104.917;42.47;2021-08-19;apotti hoitotyö
+MOCK_7169053;Nainen;48;157.17;105.504;42.71;2021-09-04;apotti hoitotyö
+MOCK_7169053;Nainen;48;157.17;109.089;44.16;2021-09-13;apotti hoitotyö
+MOCK_7650751;Mies;86;172.92;74.532;24.93;2022-05-11;apotti hoitotyö
+MOCK_7650751;Mies;86;172.92;74.205;24.82;2021-11-11;apotti hoitotyö
+MOCK_7650751;Mies;86;172.92;75.133;25.13;2022-03-27;apotti hoitotyö
+MOCK_3248485;Mies;83;186.74;81.331;23.32;2020-03-16;apotti hoitotyö
+MOCK_1918592;Nainen;76;157.53;60.06;24.2;2019-09-10;apotti hoitotyö
+MOCK_1918592;Nainen;76;157.53;61.167;24.65;2020-02-17;apotti hoitotyö
+MOCK_3550382;Mies;74;181.77;98.827;29.91;2020-03-29;apotti hoitotyö
+MOCK_9448759;Nainen;68;157.14;73.209;29.65;2020-11-28;apotti hoitotyö
+MOCK_9448759;Nainen;69;157.14;73.92;29.94;2021-07-23;apotti hoitotyö
+MOCK_3538596;Mies;86;177.26;73.466;23.38;2021-06-20;apotti hoitotyö
+MOCK_1122120;Mies;72;159.76;85.05;33.32;2019-02-10;apotti hoitotyö
+MOCK_1122120;Mies;72;159.76;85.222;33.39;2019-07-03;apotti hoitotyö
+MOCK_1122120;Mies;72;159.76;83.142;32.57;2019-03-24;apotti hoitotyö
+MOCK_7732650;Nainen;65;166.41;67.894;24.52;2020-05-11;apotti hoitotyö
+MOCK_7732650;Nainen;65;166.41;67.125;24.24;2020-09-21;apotti hoitotyö
+MOCK_4043782;Nainen;78;166.1;79.39;28.78;2020-02-25;apotti hoitotyö
+MOCK_5908189;Nainen;76;158.02;74.745;29.93;2022-11-20;apotti hoitotyö
+MOCK_5908189;Nainen;77;158.02;73.395;29.39;2023-02-02;apotti hoitotyö
+MOCK_2184469;Mies;82;170.05;91.527;31.65;2021-04-03;apotti hoitotyö
+MOCK_2184469;Mies;82;170.05;90.616;31.34;2021-09-08;apotti hoitotyö
+MOCK_2184469;Mies;83;170.05;90.864;31.42;2022-01-18;apotti hoitotyö
+MOCK_9042253;Mies;66;181.71;55.55;16.82;2021-06-28;apotti hoitotyö
+MOCK_9042253;Mies;66;181.71;52.23;15.82;2021-02-26;apotti hoitotyö
+MOCK_7303785;Mies;44;177.34;101.596;32.3;2019-04-16;apotti hoitotyö
+MOCK_7303785;Mies;45;177.34;103.665;32.96;2019-12-11;apotti hoitotyö
+MOCK_9730630;Nainen;78;160.66;68.605;26.58;2023-05-30;apotti hoitotyö
+MOCK_9730630;Nainen;79;160.66;66.583;25.8;2024-04-21;apotti hoitotyö
+MOCK_9308693;Mies;52;169.38;82.575;28.78;2021-08-19;apotti hoitotyö
+MOCK_5887083;Nainen;42;169.99;84.687;29.31;2020-05-27;apotti hoitotyö
+MOCK_5887083;Nainen;42;169.99;85.506;29.59;2020-08-12;apotti hoitotyö
+MOCK_5887083;Nainen;42;169.99;86.013;29.77;2020-05-12;apotti hoitotyö
+MOCK_3704654;Mies;58;179.4;79.136;24.59;2020-04-28;apotti hoitotyö
+MOCK_3704654;Mies;58;179.4;79.219;24.61;2020-03-07;apotti hoitotyö
+MOCK_2691240;Mies;60;172.27;50.794;17.12;2021-09-11;apotti hoitotyö
+MOCK_3180370;Nainen;80;171.56;49.722;16.89;2019-08-11;apotti hoitotyö
+MOCK_3180370;Nainen;80;171.56;52.893;17.97;2019-08-07;apotti hoitotyö
+MOCK_3180370;Nainen;80;171.56;52.75;17.92;2019-10-14;apotti hoitotyö
+MOCK_5280044;Nainen;69;153.37;53.731;22.84;2022-09-09;apotti hoitotyö
+MOCK_5280044;Nainen;69;153.37;56.623;24.07;2022-06-03;apotti hoitotyö
+MOCK_5280044;Nainen;69;153.37;53.954;22.94;2022-04-27;apotti hoitotyö
+MOCK_2601898;Mies;73;168.55;54.354;19.13;2020-04-01;apotti hoitotyö
+MOCK_2601898;Mies;73;168.55;52.23;18.38;2020-03-11;apotti hoitotyö
+MOCK_2601898;Mies;74;168.55;54.633;19.23;2020-06-29;apotti hoitotyö
+MOCK_4541215;Mies;74;162.65;103.894;39.27;2019-11-20;apotti hoitotyö
+MOCK_4541215;Mies;73;162.65;101.461;38.35;2019-06-10;apotti hoitotyö
+MOCK_2144069;Nainen;83;165.56;58.682;21.41;2019-02-14;apotti hoitotyö
+MOCK_2144069;Nainen;83;165.56;55.929;20.4;2019-02-28;apotti hoitotyö
+MOCK_2144069;Nainen;82;165.56;53.468;19.51;2018-11-04;apotti hoitotyö
+MOCK_2124860;Nainen;77;164.94;50.813;18.68;2021-05-18;apotti hoitotyö
+MOCK_8792924;Nainen;63;173.36;56.828;18.91;2018-03-26;apotti hoitotyö
+MOCK_8792924;Nainen;63;173.36;60.542;20.14;2018-08-03;apotti hoitotyö
+MOCK_8855019;Nainen;77;170.74;36.334;12.46;2020-06-03;apotti hoitotyö
+MOCK_8855019;Nainen;78;170.74;36.236;12.43;2021-01-19;apotti hoitotyö
+MOCK_2699492;Nainen;74;163.06;51.886;19.51;2022-06-07;apotti hoitotyö
+MOCK_4153035;Mies;72;177.0;92.44;29.51;2024-03-11;apotti hoitotyö
+MOCK_4153035;Mies;72;177.0;91.799;29.3;2024-09-14;apotti hoitotyö
+MOCK_9234351;Mies;70;175.2;87.4;28.47;2020-03-21;apotti hoitotyö
+MOCK_2480588;Nainen;39;164.75;64.966;23.94;2023-02-27;apotti hoitotyö
+MOCK_6189475;Mies;75;179.73;66.447;20.57;2021-05-18;apotti hoitotyö
+MOCK_6533767;Mies;78;176.89;72.643;23.22;2021-12-17;apotti hoitotyö
+MOCK_6533767;Mies;78;176.89;72.374;23.13;2022-09-25;apotti hoitotyö
+MOCK_6533767;Mies;79;176.89;73.733;23.56;2022-11-27;apotti hoitotyö
+MOCK_2069097;Nainen;33;152.9;78.01;33.37;2019-09-29;apotti hoitotyö
+MOCK_2069097;Nainen;34;152.9;80.289;34.34;2020-09-05;apotti hoitotyö
+MOCK_9560178;Mies;80;179.41;84.026;26.1;2022-04-17;apotti hoitotyö
+MOCK_9560178;Mies;80;179.41;85.541;26.58;2021-08-16;apotti hoitotyö
+MOCK_9560178;Mies;80;179.41;82.234;25.55;2022-01-05;apotti hoitotyö
+MOCK_8344317;Nainen;61;161.89;56.029;21.38;2021-07-09;apotti hoitotyö
+MOCK_8840489;Mies;80;175.35;64.805;21.08;2019-05-01;apotti hoitotyö
+MOCK_8840489;Mies;80;175.35;61.076;19.86;2019-12-14;apotti hoitotyö
+MOCK_8840489;Mies;80;175.35;62.635;20.37;2019-09-06;apotti hoitotyö
+MOCK_2014704;Nainen;65;165.57;79.213;28.9;2021-03-29;apotti hoitotyö
+MOCK_2014704;Nainen;66;165.57;76.687;27.97;2021-09-09;apotti hoitotyö
+MOCK_2516095;Mies;62;190.37;104.111;28.73;2019-01-02;apotti hoitotyö
+MOCK_6499499;Nainen;80;153.43;68.731;29.2;2021-11-13;apotti hoitotyö
+MOCK_6499499;Nainen;80;153.43;67.038;28.48;2022-02-08;apotti hoitotyö
+MOCK_4429210;Nainen;40;168.54;76.319;26.87;2020-07-18;apotti hoitotyö
+MOCK_4429210;Nainen;40;168.54;72.927;25.67;2020-04-22;apotti hoitotyö
+MOCK_1303715;Mies;57;180.96;92.172;28.15;2023-08-26;apotti hoitotyö
+MOCK_1303715;Mies;57;180.96;95.121;29.05;2023-07-24;apotti hoitotyö
+MOCK_1303715;Mies;56;180.96;96.818;29.57;2023-03-15;apotti hoitotyö
+MOCK_4880014;Nainen;54;152.35;55.93;24.1;2022-12-23;apotti hoitotyö
+MOCK_4880014;Nainen;54;152.35;52.916;22.8;2023-02-13;apotti hoitotyö
+MOCK_4880014;Nainen;55;152.35;52.971;22.82;2023-09-12;apotti hoitotyö
+MOCK_2396226;Nainen;72;158.61;79.945;31.78;2021-08-13;apotti hoitotyö
+MOCK_1830847;Nainen;87;164.72;56.943;20.99;2021-10-06;apotti hoitotyö
+MOCK_1650920;Mies;45;187.75;72.833;20.66;2024-06-28;apotti hoitotyö
+MOCK_9298922;Mies;57;171.68;61.191;20.76;2022-06-19;apotti hoitotyö
+MOCK_3514464;Mies;83;167.2;62.732;22.44;2023-01-26;apotti hoitotyö
+MOCK_3514464;Mies;83;167.2;66.685;23.85;2022-07-27;apotti hoitotyö
+MOCK_6176800;Mies;60;185.69;99.758;28.93;2024-02-27;apotti hoitotyö
+MOCK_6176800;Mies;60;185.69;102.007;29.58;2024-02-07;apotti hoitotyö
+MOCK_5496703;Mies;83;171.36;92.02;31.34;2020-03-20;apotti hoitotyö
+MOCK_1575593;Mies;58;164.45;90.441;33.44;2022-09-20;apotti hoitotyö
+MOCK_1575593;Mies;57;164.45;87.81;32.47;2022-02-06;apotti hoitotyö
+MOCK_5260583;Nainen;71;167.35;51.794;18.49;2022-03-30;apotti hoitotyö
+MOCK_9203734;Mies;82;162.16;92.374;35.13;2022-07-30;apotti hoitotyö
+MOCK_9203734;Mies;83;162.16;89.167;33.91;2023-06-24;apotti hoitotyö
+MOCK_3203731;Mies;66;166.92;90.129;32.35;2019-06-08;apotti hoitotyö
+MOCK_8666090;Mies;68;168.94;81.599;28.59;2019-02-20;apotti hoitotyö
+MOCK_8666090;Mies;69;168.94;77.258;27.07;2019-07-03;apotti hoitotyö
+MOCK_8666090;Mies;69;168.94;79.511;27.86;2019-07-05;apotti hoitotyö
+MOCK_6552225;Nainen;71;154.66;67.395;28.18;2020-07-24;apotti hoitotyö
+MOCK_6552225;Nainen;71;154.66;64.73;27.06;2020-03-12;apotti hoitotyö
+MOCK_6552225;Nainen;71;154.66;64.806;27.09;2020-04-13;apotti hoitotyö
+MOCK_3138370;Mies;80;179.24;81.186;25.27;2021-03-27;apotti hoitotyö
+MOCK_5227875;Mies;71;191.07;78.928;21.62;2019-11-26;apotti hoitotyö
+MOCK_9003544;Nainen;69;159.87;57.616;22.54;2018-08-08;apotti hoitotyö
+MOCK_9003544;Nainen;69;159.87;61.315;23.99;2018-12-22;apotti hoitotyö
+MOCK_9003544;Nainen;68;159.87;57.192;22.38;2018-03-29;apotti hoitotyö
+MOCK_3184295;Mies;59;178.84;81.024;25.33;2021-06-05;apotti hoitotyö
+MOCK_8320863;Nainen;61;158.34;65.342;26.06;2025-06-05;apotti hoitotyö
+MOCK_4247585;Nainen;65;167.25;52.509;18.77;2021-04-02;apotti hoitotyö
+MOCK_6803562;Mies;56;171.7;78.993;26.79;2022-06-18;apotti hoitotyö
+MOCK_6803562;Mies;57;171.7;78.231;26.54;2022-10-09;apotti hoitotyö
+MOCK_8432487;Nainen;77;152.42;94.019;40.47;2020-09-29;apotti hoitotyö
+MOCK_8432487;Nainen;78;152.42;95.138;40.95;2021-06-28;apotti hoitotyö
+MOCK_8472760;Nainen;74;154.59;77.332;32.36;2021-08-31;apotti hoitotyö
+MOCK_2711736;Nainen;59;156.48;66.593;27.2;2020-09-14;apotti hoitotyö
+MOCK_2711736;Nainen;59;156.48;68.912;28.14;2020-08-25;apotti hoitotyö
+MOCK_2711736;Nainen;60;156.48;68.371;27.92;2020-10-07;apotti hoitotyö
+MOCK_6297244;Nainen;74;155.5;40.811;16.88;2021-07-24;apotti hoitotyö
+MOCK_9404446;Nainen;77;161.9;77.84;29.7;2019-05-31;apotti hoitotyö
+MOCK_9404446;Nainen;76;161.9;73.287;27.96;2018-07-19;apotti hoitotyö
+MOCK_9404446;Nainen;76;161.9;74.653;28.48;2018-11-17;apotti hoitotyö
+MOCK_8234533;Nainen;77;163.06;89.339;33.6;2020-11-23;apotti hoitotyö
+MOCK_8234533;Nainen;77;163.06;88.836;33.41;2020-12-31;apotti hoitotyö
+MOCK_8234533;Nainen;77;163.06;88.518;33.29;2020-07-24;apotti hoitotyö
+MOCK_9739563;Nainen;63;166.1;91.304;33.09;2020-02-27;apotti hoitotyö
+MOCK_4129302;Mies;86;171.7;88.474;30.01;2022-06-01;apotti hoitotyö
+MOCK_4129302;Mies;86;171.7;90.379;30.66;2022-04-16;apotti hoitotyö
+MOCK_9569340;Mies;87;179.46;97.256;30.2;2020-06-20;apotti hoitotyö
+MOCK_8424436;Mies;68;173.4;81.861;27.23;2024-06-10;apotti hoitotyö
+MOCK_8424436;Mies;69;173.4;81.252;27.02;2024-08-27;apotti hoitotyö
+MOCK_3288125;Nainen;28;151.61;68.887;29.97;2021-10-20;apotti hoitotyö
+MOCK_5919668;Nainen;68;159.46;88.027;34.62;2020-12-29;apotti hoitotyö
+MOCK_5919668;Nainen;67;159.46;88.875;34.95;2020-02-20;apotti hoitotyö
+MOCK_5919668;Nainen;68;159.46;84.893;33.39;2020-12-19;apotti hoitotyö
+MOCK_3389568;Nainen;74;158.24;68.033;27.17;2020-02-22;apotti hoitotyö
+MOCK_3389568;Nainen;74;158.24;66.469;26.55;2020-04-11;apotti hoitotyö
+MOCK_3389568;Nainen;74;158.24;67.988;27.15;2020-07-26;apotti hoitotyö
+MOCK_7523371;Nainen;67;166.94;85.582;30.71;2022-09-04;apotti hoitotyö
+MOCK_7523371;Nainen;67;166.94;81.307;29.17;2023-02-05;apotti hoitotyö
+MOCK_7523371;Nainen;68;166.94;81.346;29.19;2023-05-26;apotti hoitotyö
+MOCK_7149550;Nainen;39;167.54;61.068;21.76;2020-02-17;apotti hoitotyö
+MOCK_7149550;Nainen;39;167.54;57.307;20.42;2020-10-18;apotti hoitotyö
+MOCK_7149550;Nainen;39;167.54;60.975;21.72;2020-05-19;apotti hoitotyö
+MOCK_5467497;Nainen;76;162.79;69.165;26.1;2020-10-03;apotti hoitotyö
+MOCK_5467497;Nainen;76;162.79;66.704;25.17;2020-10-30;apotti hoitotyö
+MOCK_5467497;Nainen;76;162.79;66.88;25.24;2020-08-30;apotti hoitotyö
+MOCK_6093498;Mies;75;173.74;83.168;27.55;2024-06-15;apotti hoitotyö
+MOCK_1262574;Mies;70;181.55;100.566;30.51;2023-08-12;apotti hoitotyö
+MOCK_1262574;Mies;70;181.55;98.879;30.0;2024-05-10;apotti hoitotyö
+MOCK_5369727;Mies;73;184.09;70.863;20.91;2018-12-24;apotti hoitotyö
+MOCK_4782566;Nainen;83;159.49;64.689;25.43;2019-08-24;apotti hoitotyö
+MOCK_4782566;Nainen;83;159.49;64.804;25.48;2019-06-01;apotti hoitotyö
+MOCK_2047981;Nainen;57;163.09;73.44;27.61;2019-12-27;apotti hoitotyö
+MOCK_2047981;Nainen;57;163.09;75.008;28.2;2020-05-14;apotti hoitotyö
+MOCK_1726795;Mies;82;173.69;88.757;29.42;2023-01-14;apotti hoitotyö
+MOCK_1726795;Mies;82;173.69;86.647;28.72;2022-10-25;apotti hoitotyö
+MOCK_1726795;Mies;81;173.69;88.711;29.41;2022-07-16;apotti hoitotyö
+MOCK_7042125;Mies;68;188.76;117.83;33.07;2024-02-17;apotti hoitotyö
+MOCK_8866396;Nainen;69;163.47;70.516;26.39;2024-06-20;apotti hoitotyö
+MOCK_8866396;Nainen;69;163.47;67.258;25.17;2025-01-20;apotti hoitotyö
+MOCK_8866396;Nainen;69;163.47;65.906;24.66;2024-11-26;apotti hoitotyö
+MOCK_1780354;Mies;78;182.93;81.705;24.42;2020-02-17;apotti hoitotyö
+MOCK_1780354;Mies;78;182.93;80.48;24.05;2020-02-07;apotti hoitotyö
+MOCK_6173474;Mies;69;181.28;105.011;31.95;2023-09-06;apotti hoitotyö
+MOCK_5474534;Mies;67;176.52;71.81;23.05;2023-01-09;apotti hoitotyö
+MOCK_1834612;Mies;57;173.02;77.255;25.81;2018-06-09;apotti hoitotyö
+MOCK_1834612;Mies;57;173.02;78.288;26.15;2018-08-11;apotti hoitotyö
+MOCK_4131410;Mies;60;171.34;76.463;26.05;2020-07-20;apotti hoitotyö
+MOCK_2336708;Nainen;78;162.39;64.586;24.49;2019-11-11;apotti hoitotyö
+MOCK_2336708;Nainen;77;162.39;59.964;22.74;2019-06-30;apotti hoitotyö
+MOCK_2336708;Nainen;78;162.39;62.555;23.72;2019-08-09;apotti hoitotyö
+MOCK_4236886;Mies;66;172.18;96.71;32.62;2018-12-08;apotti hoitotyö
+MOCK_4236886;Mies;66;172.18;94.083;31.74;2018-06-10;apotti hoitotyö
+MOCK_4236886;Mies;66;172.18;92.829;31.31;2018-12-10;apotti hoitotyö
+MOCK_7168026;Nainen;60;170.27;76.783;26.48;2021-10-27;apotti hoitotyö
+MOCK_7168026;Nainen;60;170.27;74.598;25.73;2021-05-04;apotti hoitotyö
+MOCK_1570745;Mies;61;182.1;108.383;32.68;2022-04-10;apotti hoitotyö
+MOCK_9589996;Nainen;73;168.49;67.108;23.64;2019-03-20;apotti hoitotyö
+MOCK_9589996;Nainen;73;168.49;66.97;23.59;2019-01-25;apotti hoitotyö
+MOCK_6109908;Mies;72;171.25;77.812;26.53;2019-05-20;apotti hoitotyö
+MOCK_3588595;Mies;60;182.39;94.456;28.39;2019-04-06;apotti hoitotyö
+MOCK_3588595;Mies;60;182.39;93.745;28.18;2019-07-01;apotti hoitotyö
+MOCK_3588595;Mies;61;182.39;95.284;28.64;2019-09-26;apotti hoitotyö
+MOCK_9382375;Nainen;59;158.67;102.812;40.84;2021-04-28;apotti hoitotyö
+MOCK_9382375;Nainen;60;158.67;101.412;40.28;2022-02-01;apotti hoitotyö
+MOCK_6576710;Nainen;72;165.13;79.869;29.29;2020-01-27;apotti hoitotyö
+MOCK_4695797;Mies;52;172.57;79.511;26.7;2024-02-11;apotti hoitotyö
+MOCK_7220958;Mies;70;173.2;101.173;33.73;2019-01-16;apotti hoitotyö
+MOCK_7220958;Mies;70;173.2;99.57;33.19;2019-02-08;apotti hoitotyö
+MOCK_7220958;Mies;70;173.2;103.291;34.43;2019-09-18;apotti hoitotyö
+MOCK_4935577;Nainen;67;167.49;83.139;29.64;2021-06-16;apotti hoitotyö
+MOCK_4935577;Nainen;66;167.49;85.448;30.46;2021-01-29;apotti hoitotyö
+MOCK_6511500;Mies;73;168.75;68.534;24.07;2024-06-07;apotti hoitotyö
+MOCK_6338770;Nainen;44;166.86;68.123;24.47;2024-04-24;apotti hoitotyö
+MOCK_6338770;Nainen;44;166.86;65.786;23.63;2024-09-13;apotti hoitotyö
+MOCK_6338770;Nainen;43;166.86;65.438;23.5;2023-12-23;apotti hoitotyö
+MOCK_7160497;Nainen;76;162.48;65.868;24.95;2020-02-12;apotti hoitotyö
+MOCK_7160497;Nainen;77;162.48;64.063;24.27;2020-05-20;apotti hoitotyö
+MOCK_7160497;Nainen;77;162.48;68.446;25.93;2020-08-23;apotti hoitotyö
+MOCK_5993878;Mies;54;177.1;92.657;29.54;2023-05-30;apotti hoitotyö
+MOCK_3494134;Mies;42;160.61;66.698;25.86;2024-11-23;apotti hoitotyö
+MOCK_3081077;Nainen;48;162.38;72.424;27.47;2021-08-08;apotti hoitotyö
+MOCK_3081077;Nainen;48;162.38;73.419;27.84;2021-06-28;apotti hoitotyö
+MOCK_9345423;Mies;64;173.18;65.891;21.97;2020-05-20;apotti hoitotyö
+MOCK_9345423;Mies;63;173.18;66.04;22.02;2019-05-10;apotti hoitotyö
+MOCK_9345423;Mies;64;173.18;66.754;22.26;2020-02-23;apotti hoitotyö
+MOCK_3688160;Mies;72;172.51;83.647;28.11;2019-09-09;apotti hoitotyö
+MOCK_1347752;Mies;83;175.19;92.273;30.06;2023-04-17;apotti hoitotyö
+MOCK_1347752;Mies;83;175.19;97.252;31.69;2023-09-12;apotti hoitotyö
+MOCK_1347752;Mies;83;175.19;96.049;31.29;2023-03-19;apotti hoitotyö
+MOCK_2078647;Nainen;75;161.56;82.934;31.77;2023-09-28;apotti hoitotyö
+MOCK_2078647;Nainen;74;161.56;83.605;32.03;2023-04-08;apotti hoitotyö
+MOCK_2078647;Nainen;75;161.56;81.376;31.18;2023-11-10;apotti hoitotyö
+MOCK_7613042;Mies;49;176.33;77.382;24.89;2019-02-11;apotti hoitotyö
+MOCK_7613042;Mies;48;176.33;80.926;26.03;2019-01-05;apotti hoitotyö
+MOCK_9631832;Mies;59;182.23;75.872;22.85;2020-03-12;apotti hoitotyö
+MOCK_9631832;Mies;58;182.23;74.552;22.45;2019-11-14;apotti hoitotyö
+MOCK_9631832;Mies;59;182.23;76.658;23.08;2020-05-16;apotti hoitotyö
+MOCK_9365489;Nainen;66;154.52;61.879;25.92;2022-03-24;apotti hoitotyö
+MOCK_9052852;Nainen;66;174.03;85.438;28.21;2020-06-20;apotti hoitotyö
+MOCK_9052852;Nainen;66;174.03;84.06;27.75;2020-03-31;apotti hoitotyö
+MOCK_4902957;Nainen;77;162.18;78.186;29.73;2023-01-27;apotti hoitotyö
+MOCK_4902957;Nainen;76;162.18;83.776;31.85;2022-09-29;apotti hoitotyö
+MOCK_4902957;Nainen;77;162.18;83.37;31.7;2023-03-01;apotti hoitotyö
+MOCK_9504576;Nainen;69;158.01;58.618;23.48;2024-02-28;apotti hoitotyö
+MOCK_9504576;Nainen;70;158.01;61.467;24.62;2025-01-09;apotti hoitotyö
+MOCK_6245571;Mies;68;174.66;74.314;24.36;2018-10-24;apotti hoitotyö
+MOCK_8174115;Mies;73;175.69;79.385;25.72;2019-08-01;apotti hoitotyö
+MOCK_8174115;Mies;73;175.69;82.042;26.58;2019-09-20;apotti hoitotyö
+MOCK_5991369;Mies;62;164.69;64.48;23.77;2022-10-18;apotti hoitotyö
+MOCK_5991369;Mies;61;164.69;64.707;23.86;2021-12-08;apotti hoitotyö
+MOCK_9962203;Mies;68;183.7;85.205;25.25;2018-03-12;apotti hoitotyö
+MOCK_9962203;Mies;69;183.7;84.827;25.14;2018-12-17;apotti hoitotyö
+MOCK_6384499;Nainen;82;168.58;69.257;24.37;2020-10-27;apotti hoitotyö
+MOCK_5365866;Mies;70;166.75;69.778;25.09;2019-02-13;apotti hoitotyö
+MOCK_5365866;Mies;70;166.75;68.193;24.52;2019-06-09;apotti hoitotyö
+MOCK_8550214;Mies;79;174.73;63.66;20.85;2023-08-04;apotti hoitotyö
+MOCK_8550214;Mies;80;174.73;64.21;21.03;2023-10-08;apotti hoitotyö
+MOCK_8550214;Mies;80;174.73;65.197;21.35;2023-12-14;apotti hoitotyö
+MOCK_7139855;Nainen;65;149.68;82.719;36.92;2023-09-28;apotti hoitotyö
+MOCK_7139855;Nainen;65;149.68;82.547;36.84;2023-07-05;apotti hoitotyö
+MOCK_6901186;Mies;79;168.66;90.872;31.95;2023-05-07;apotti hoitotyö
+MOCK_6901186;Mies;78;168.66;89.186;31.35;2023-01-01;apotti hoitotyö
+MOCK_5604628;Nainen;69;163.16;86.453;32.48;2019-08-27;apotti hoitotyö
+MOCK_3737171;Nainen;74;153.47;62.9;26.71;2018-06-26;apotti hoitotyö
+MOCK_3737171;Nainen;74;153.47;62.328;26.46;2018-08-25;apotti hoitotyö
+MOCK_3829529;Nainen;69;160.62;75.922;29.43;2022-09-29;apotti hoitotyö
+MOCK_3829529;Nainen;70;160.62;76.909;29.81;2023-06-08;apotti hoitotyö
+MOCK_3829529;Nainen;69;160.62;76.531;29.66;2022-07-30;apotti hoitotyö
+MOCK_3832349;Nainen;94;159.1;72.236;28.54;2022-10-05;apotti hoitotyö
+MOCK_3832349;Nainen;94;159.1;70.516;27.86;2022-12-05;apotti hoitotyö
+MOCK_3832349;Nainen;94;159.1;72.266;28.55;2022-10-27;apotti hoitotyö
+MOCK_4784215;Mies;70;169.73;105.355;36.57;2019-12-31;apotti hoitotyö
+MOCK_8147133;Nainen;75;154.85;49.894;20.81;2024-02-21;apotti hoitotyö
+MOCK_8147133;Nainen;76;154.85;53.038;22.12;2025-01-12;apotti hoitotyö
+MOCK_8507800;Mies;39;177.41;105.08;33.39;2020-03-25;apotti hoitotyö
+MOCK_8507800;Mies;38;177.41;104.692;33.26;2019-04-30;apotti hoitotyö
+MOCK_8507800;Mies;39;177.41;102.493;32.56;2020-01-20;apotti hoitotyö
+MOCK_1037755;Mies;83;175.36;84.412;27.45;2020-01-05;apotti hoitotyö
+MOCK_1037755;Mies;83;175.36;84.487;27.47;2020-05-11;apotti hoitotyö
+MOCK_2957813;Nainen;81;171.67;64.268;21.81;2023-08-13;apotti hoitotyö
+MOCK_6132604;Nainen;64;165.99;77.521;28.14;2023-04-02;apotti hoitotyö
+MOCK_1558587;Mies;54;181.22;98.01;29.84;2019-02-13;apotti hoitotyö
+MOCK_1676480;Mies;72;178.24;82.459;25.96;2021-09-08;apotti hoitotyö
+MOCK_9037601;Mies;73;174.39;76.556;25.17;2023-08-22;apotti hoitotyö
+MOCK_9037601;Mies;73;174.39;73.374;24.13;2023-11-11;apotti hoitotyö
+MOCK_1934974;Nainen;76;171.62;49.357;16.76;2024-06-02;apotti hoitotyö
+MOCK_3783827;Nainen;59;165.59;76.23;27.8;2019-12-23;apotti hoitotyö
+MOCK_3783827;Nainen;59;165.59;78.231;28.53;2019-11-23;apotti hoitotyö
+MOCK_3783827;Nainen;59;165.59;75.384;27.49;2019-04-28;apotti hoitotyö
+MOCK_6822609;Mies;65;165.53;64.031;23.37;2018-11-26;apotti hoitotyö
+MOCK_6822609;Mies;65;165.53;62.063;22.65;2018-06-22;apotti hoitotyö
+MOCK_6822609;Mies;65;165.53;58.857;21.48;2018-09-11;apotti hoitotyö
+MOCK_1825318;Nainen;71;163.81;86.596;32.27;2019-09-23;apotti hoitotyö
+MOCK_1825318;Nainen;71;163.81;84.275;31.41;2019-09-25;apotti hoitotyö
+MOCK_1825318;Nainen;71;163.81;86.39;32.19;2019-05-06;apotti hoitotyö
+MOCK_7782579;Mies;83;190.74;78.577;21.6;2023-03-28;apotti hoitotyö
+MOCK_5108316;Mies;57;173.44;94.431;31.39;2018-06-24;apotti hoitotyö
+MOCK_5108316;Mies;57;173.44;95.018;31.59;2018-07-06;apotti hoitotyö
+MOCK_9144573;Mies;84;175.86;83.968;27.15;2019-03-19;apotti hoitotyö
+MOCK_7191488;Nainen;60;151.81;86.955;37.73;2021-05-14;apotti hoitotyö
+MOCK_7191488;Nainen;60;151.81;89.143;38.68;2021-02-01;apotti hoitotyö
+MOCK_4837151;Nainen;62;163.16;74.022;27.81;2019-09-20;apotti hoitotyö
+MOCK_4837151;Nainen;62;163.16;71.986;27.04;2020-02-22;apotti hoitotyö
+MOCK_4837151;Nainen;62;163.16;72.019;27.05;2019-08-04;apotti hoitotyö
+MOCK_4495949;Nainen;69;166.51;66.41;23.95;2025-04-03;apotti hoitotyö
+MOCK_3689606;Mies;61;191.68;88.805;24.17;2023-05-01;apotti hoitotyö
+MOCK_9613614;Mies;58;169.11;92.285;32.27;2021-01-13;apotti hoitotyö
+MOCK_4087073;Mies;42;179.68;109.476;33.91;2023-08-16;apotti hoitotyö
+MOCK_4087073;Mies;42;179.68;109.839;34.02;2023-10-04;apotti hoitotyö
+MOCK_4087073;Mies;41;179.68;111.398;34.5;2023-03-21;apotti hoitotyö
+MOCK_5656848;Mies;59;169.54;100.777;35.06;2020-04-03;apotti hoitotyö
+MOCK_5656848;Mies;59;169.54;100.357;34.91;2019-10-29;apotti hoitotyö
+MOCK_5656848;Mies;60;169.54;103.145;35.88;2020-07-12;apotti hoitotyö
+MOCK_4013147;Nainen;71;168.04;66.354;23.5;2022-04-17;apotti hoitotyö
+MOCK_4013147;Nainen;71;168.04;68.074;24.11;2021-08-04;apotti hoitotyö
+MOCK_7094611;Mies;78;176.59;80.147;25.7;2021-11-20;apotti hoitotyö
+MOCK_7094611;Mies;78;176.59;79.127;25.37;2021-03-14;apotti hoitotyö
+MOCK_7094611;Mies;78;176.59;78.547;25.19;2021-08-23;apotti hoitotyö
+MOCK_9215942;Nainen;60;168.67;91.474;32.15;2023-02-04;apotti hoitotyö
+MOCK_5359742;Mies;67;170.58;84.915;29.18;2022-08-15;apotti hoitotyö
+MOCK_5359742;Mies;68;170.58;83.913;28.84;2022-10-16;apotti hoitotyö
+MOCK_2973355;Mies;79;183.73;60.172;17.83;2018-12-25;apotti hoitotyö
+MOCK_9318975;Mies;74;170.07;83.222;28.77;2019-12-26;apotti hoitotyö
+MOCK_9318975;Mies;74;170.07;83.609;28.91;2020-02-02;apotti hoitotyö
+MOCK_5157894;Mies;77;174.12;58.777;19.39;2021-07-18;apotti hoitotyö
+MOCK_8860067;Nainen;59;163.97;97.526;36.27;2022-09-27;apotti hoitotyö
+MOCK_8860067;Nainen;60;163.97;94.176;35.03;2023-08-26;apotti hoitotyö
+MOCK_4984738;Mies;65;184.54;90.992;26.72;2019-08-24;apotti hoitotyö
+MOCK_6979390;Mies;80;181.42;82.91;25.19;2021-08-22;apotti hoitotyö
+MOCK_6979390;Mies;80;181.42;80.202;24.37;2021-07-03;apotti hoitotyö
+MOCK_6979390;Mies;81;181.42;79.373;24.12;2022-05-08;apotti hoitotyö
+MOCK_3528579;Mies;68;170.9;96.922;33.18;2021-09-13;apotti hoitotyö
+MOCK_3528579;Mies;67;170.9;96.984;33.21;2021-03-29;apotti hoitotyö
+MOCK_1444629;Mies;62;175.77;85.71;27.74;2024-03-12;apotti hoitotyö
+MOCK_1444629;Mies;61;175.77;88.288;28.58;2023-09-20;apotti hoitotyö
+MOCK_6166288;Mies;64;182.89;78.183;23.37;2019-01-29;apotti hoitotyö
+MOCK_6166288;Mies;65;182.89;78.538;23.48;2020-01-07;apotti hoitotyö
+MOCK_6166288;Mies;65;182.89;77.929;23.3;2019-09-20;apotti hoitotyö
+MOCK_8450188;Mies;78;181.87;75.815;22.92;2021-10-11;apotti hoitotyö
+MOCK_8450188;Mies;78;181.87;76.09;23.0;2021-08-17;apotti hoitotyö
+MOCK_2373453;Nainen;67;156.12;74.067;30.39;2021-04-25;apotti hoitotyö
+MOCK_2373453;Nainen;67;156.12;75.079;30.8;2021-07-01;apotti hoitotyö
+MOCK_2373453;Nainen;67;156.12;71.87;29.49;2021-01-13;apotti hoitotyö
+MOCK_5733547;Nainen;41;161.87;85.696;32.71;2020-05-11;apotti hoitotyö
+MOCK_5733547;Nainen;42;161.87;87.796;33.51;2021-02-23;apotti hoitotyö
+MOCK_5837733;Nainen;67;157.66;83.826;33.72;2018-08-25;apotti hoitotyö
+MOCK_5837733;Nainen;67;157.66;80.855;32.53;2018-11-26;apotti hoitotyö
+MOCK_5837733;Nainen;67;157.66;85.318;34.32;2018-08-22;apotti hoitotyö
+MOCK_2389012;Mies;82;175.45;83.982;27.28;2022-08-31;apotti hoitotyö
+MOCK_8949134;Nainen;76;157.71;60.847;24.46;2022-02-17;apotti hoitotyö
+MOCK_8949134;Nainen;77;157.71;60.795;24.44;2022-12-14;apotti hoitotyö
+MOCK_8949134;Nainen;76;157.71;64.019;25.74;2022-03-21;apotti hoitotyö
+MOCK_1957822;Mies;75;193.25;72.101;19.31;2019-08-09;apotti hoitotyö
+MOCK_1957822;Mies;75;193.25;75.71;20.27;2019-08-28;apotti hoitotyö
+MOCK_1957822;Mies;74;193.25;74.765;20.02;2019-01-22;apotti hoitotyö
+MOCK_9310552;Mies;71;169.13;85.63;29.94;2024-07-30;apotti hoitotyö
+MOCK_9310552;Mies;71;169.13;85.767;29.98;2023-12-16;apotti hoitotyö
+MOCK_7712000;Nainen;76;162.9;66.9;25.21;2019-02-18;apotti hoitotyö
+MOCK_7181987;Nainen;77;156.45;58.298;23.82;2020-10-04;apotti hoitotyö
+MOCK_7181987;Nainen;76;156.45;59.795;24.43;2020-05-11;apotti hoitotyö
+MOCK_6905119;Mies;59;179.26;91.502;28.48;2024-02-20;apotti hoitotyö
+MOCK_1921467;Mies;75;176.01;78.925;25.48;2019-05-14;apotti hoitotyö
+MOCK_8485846;Mies;79;169.14;87.516;30.59;2020-02-09;apotti hoitotyö
+MOCK_8485846;Mies;80;169.14;83.285;29.11;2021-01-14;apotti hoitotyö
+MOCK_8485846;Mies;80;169.14;88.253;30.85;2020-07-25;apotti hoitotyö
+MOCK_5537059;Mies;73;161.65;88.508;33.87;2021-03-29;apotti hoitotyö
+MOCK_5537059;Mies;73;161.65;86.575;33.13;2021-06-29;apotti hoitotyö
+MOCK_1316212;Mies;60;163.88;64.578;24.05;2018-02-27;apotti hoitotyö
+MOCK_1316212;Mies;61;163.88;66.125;24.62;2018-10-06;apotti hoitotyö
+MOCK_1316212;Mies;61;163.88;66.986;24.94;2018-11-19;apotti hoitotyö
+MOCK_5807677;Nainen;72;172.4;38.144;12.83;2022-04-27;apotti hoitotyö
+MOCK_5807677;Nainen;72;172.4;39.043;13.14;2022-04-29;apotti hoitotyö
+MOCK_5807677;Nainen;71;172.4;39.282;13.22;2021-12-14;apotti hoitotyö
+MOCK_9173024;Mies;68;188.23;80.46;22.71;2022-10-18;apotti hoitotyö
+MOCK_9173024;Mies;69;188.23;75.989;21.45;2023-09-27;apotti hoitotyö
+MOCK_9173024;Mies;68;188.23;75.614;21.34;2022-12-16;apotti hoitotyö
+MOCK_6034630;Nainen;63;166.59;68.878;24.82;2019-11-13;apotti hoitotyö
+MOCK_6034630;Nainen;63;166.59;67.211;24.22;2019-08-25;apotti hoitotyö
+MOCK_1222777;Nainen;87;155.99;66.451;27.31;2023-08-17;apotti hoitotyö
+MOCK_5910953;Mies;73;169.77;103.049;35.75;2021-12-06;apotti hoitotyö
+MOCK_5910953;Mies;74;169.77;101.073;35.07;2022-09-27;apotti hoitotyö
+MOCK_5910953;Mies;73;169.77;99.882;34.65;2022-05-15;apotti hoitotyö
+MOCK_8476284;Mies;79;183.46;76.391;22.7;2018-11-07;apotti hoitotyö
+MOCK_8476284;Mies;79;183.46;75.796;22.52;2019-03-25;apotti hoitotyö
+MOCK_8476284;Mies;79;183.46;74.817;22.23;2019-03-18;apotti hoitotyö
+MOCK_2220146;Mies;69;165.61;78.328;28.56;2018-12-30;apotti hoitotyö
+MOCK_2220146;Mies;69;165.61;77.213;28.15;2018-06-26;apotti hoitotyö
+MOCK_5668664;Mies;74;164.92;75.232;27.66;2023-05-16;apotti hoitotyö
+MOCK_5668664;Mies;74;164.92;74.242;27.3;2023-09-30;apotti hoitotyö
+MOCK_7742848;Nainen;69;174.07;72.145;23.81;2023-08-06;apotti hoitotyö
+MOCK_3922667;Mies;77;180.79;88.724;27.15;2019-08-22;apotti hoitotyö
