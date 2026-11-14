@@ -1951,7 +1951,7 @@ Alaraajojen pulssit tuntuvat bil.. RR 163/73, p 88.
 
 Hoidon tarpeen arvio ja suunnitelma:
 Ktrl puolen vuoden kuluttua kuvantamisen kera."
-MOCK_6344512;96969c0bdcaf8106003fe0974a7c7c01e85b7ec5e52b01e54a3fa1252a872051;1000102;Puhelu;3;Puhelinkontakti;42859108;Verisuonikirurgian poliklinikka, Tornisairaala;20V;Verisuonikirurgia;2027-05-10T05:51:11.000Z;2027-05-10T06:01:11.000Z;c5e7975727412f5128d8afbc888253b206403253b2796c70b3eb954fe921098e;11;Puhelinkontakti;2027-05-10T05:51:11.000Z;2027-05-12T06:43:11.000Z;"Erikoistuva lääkäri NIEMINEN, MATTI 10.05.2027 08:51
+MOCK_6344512;96969c0bdcaf8106003fe0974a7c7c01e85b7ec5e52b01e54a3fa1252a872051;1000102;Puhelu;3;Puhelinkontakti;42859108;Verisuonikirurgian poliklinikka, Tornisairaala;20V;Verisuonikirurgia;2025-05-10T05:51:11.000Z;2025-05-10T06:01:11.000Z;c5e7975727412f5128d8afbc888253b206403253b2796c70b3eb954fe921098e;11;Puhelinkontakti;2025-05-10T05:51:11.000Z;2025-05-12T06:43:11.000Z;"Erikoistuva lääkäri NIEMINEN, MATTI 10.05.2025 08:51
 Puhelu:
 Potilas soitti, ollut lievää selkäkipua. Ohjattu päivystykseen arvioon.
 
@@ -3234,7 +3234,7 @@ Kontrollisoitto: toipunut hyvin, ei vatsakipuja."
 MOCK_2560364;1b7368de4b8799236a79b4963b6e31d6793bdb699f166154533601609e78ec7a;1000102;Puhelu;3;Puhelinkontakti;42859108;Verisuonikirurgian poliklinikka, Tornisairaala;20V;Verisuonikirurgia;2026-02-21T11:05:07.000Z;2026-02-21T11:15:07.000Z;775a0c9d0d5811995d280201b00cab208957661910857f5f65a976876d076109;11;Puhelinkontakti;2026-02-21T11:05:07.000Z;2026-02-21T12:14:07.000Z;"Erikoislääkäri TUOMINEN, ANTTI 21.02.2026 13:05
 Puhelinkontakti:
 Potilas soitti, ollut lievää selkäkipua. Ohjattu päivystykseen arvioon."
-MOCK_2560364;bf088bcea696ca0e3309ea5d172dccd707e665984b694ccf3ac2e8b2d2bc2e0e;1000101;Käynti;2;Uusintakäynti;42859108;Verisuonikirurgian poliklinikka, Tornisairaala;20V;Verisuonikirurgia;2027-02-14T13:28:28.000Z;2027-02-14T13:58:28.000Z;d6e0a101a9b48996843a8e1a9e760b0991a1781e091b328dbe0e40bdb9ff37c2;10;Poliklinikkakäynti;2027-02-14T13:28:28.000Z;2027-02-14T14:36:28.000Z;"Erikoistuva lääkäri SAVOLAINEN, HELENA 14.02.2027 15:28
+MOCK_2560364;bf088bcea696ca0e3309ea5d172dccd707e665984b694ccf3ac2e8b2d2bc2e0e;1000101;Käynti;2;Uusintakäynti;42859108;Verisuonikirurgian poliklinikka, Tornisairaala;20V;Verisuonikirurgia;2025-02-14T13:28:28.000Z;2025-02-14T13:58:28.000Z;d6e0a101a9b48996843a8e1a9e760b0991a1781e091b328dbe0e40bdb9ff37c2;10;Poliklinikkakäynti;2025-02-14T13:28:28.000Z;2025-02-14T14:36:28.000Z;"Erikoistuva lääkäri SAVOLAINEN, HELENA 14.02.2025 15:28
 Käynnin syy:
 Kontrollikäynti
 
@@ -3246,7 +3246,7 @@ Vatsa pehmeä ja aristamaton, napakorkeudella palpoituu pulsoiva resistenssi. Al
 
 Arvio ja jatkosuunnitelma:
 Ktrl vuoden kuluttua."
-MOCK_2560364;638acbfb0484079b6f7aa3e8bc2b5243d09c344173884b6cc0f50bb0ee55c4c5;1000101;Käynti;2;Uusintakäynti;42859108;Verisuonikirurgian poliklinikka, Tornisairaala;20V;Verisuonikirurgia;2028-01-03T11:54:34.000Z;2028-01-03T12:24:34.000Z;625a1b7e373ea8692e40b06e72b08c308aa7f85a9d64269ec701151e38549749;10;Poliklinikkakäynti;2028-01-03T11:54:34.000Z;2028-01-03T12:23:34.000Z;"Erikoislääkäri LAINE, VILLE 03.01.2028 13:54
+MOCK_2560364;638acbfb0484079b6f7aa3e8bc2b5243d09c344173884b6cc0f50bb0ee55c4c5;1000101;Käynti;2;Uusintakäynti;42859108;Verisuonikirurgian poliklinikka, Tornisairaala;20V;Verisuonikirurgia;2026-01-03T11:54:34.000Z;2026-01-03T12:24:34.000Z;625a1b7e373ea8692e40b06e72b08c308aa7f85a9d64269ec701151e38549749;10;Poliklinikkakäynti;2026-01-03T11:54:34.000Z;2026-01-03T12:23:34.000Z;"Erikoislääkäri LAINE, VILLE 03.01.2026 13:54
 Tulosyy: Kontrollikäynti
 
 Nykytila:
@@ -7510,7 +7510,7 @@ Hoidon tarpeen arvio ja suunnitelma:
 Jatkoseuranta terveyskeskuksessa, ei säännöllistä kontrollia verisuonikirurgialla.
 
 Potilaalle annettu kirjalliset ohjeet ja yhteystiedot."
-MOCK_5161622;a9416484fccb99eadc7c6c5cd92af55e6ee16f266df509d969d0ff3fdc9baa08;1000101;Käynti;2;Uusintakäynti;42859108;Verisuonikirurgian poliklinikka, Tornisairaala;20V;Verisuonikirurgia;2027-02-01T06:43:16.000Z;2027-02-01T07:13:16.000Z;88123d4f152b8a476c91ba9a538e8532f2d63ef1bb640aa463749e1e327900f8;10;Poliklinikkakäynti;2027-02-01T06:43:16.000Z;2027-02-04T16:04:16.000Z;"Erikoislääkäri TUOMINEN, ANTTI 01.02.2027 08:43
+MOCK_5161622;a9416484fccb99eadc7c6c5cd92af55e6ee16f266df509d969d0ff3fdc9baa08;1000101;Käynti;2;Uusintakäynti;42859108;Verisuonikirurgian poliklinikka, Tornisairaala;20V;Verisuonikirurgia;2025-02-01T06:43:16.000Z;2025-02-01T07:13:16.000Z;88123d4f152b8a476c91ba9a538e8532f2d63ef1bb640aa463749e1e327900f8;10;Poliklinikkakäynti;2025-02-01T06:43:16.000Z;2025-02-04T16:04:16.000Z;"Erikoislääkäri TUOMINEN, ANTTI 01.02.2025 08:43
 Käynnin syy:
 Kontrollikäynti
 
@@ -7522,7 +7522,7 @@ Alaraajojen pulssit tuntuvat molemmin puolin.
 
 Arvio ja jatkosuunnitelma:
 Jatkoseuranta terveyskeskuksessa, ei säännöllistä kontrollia verisuonikirurgialla."
-MOCK_5161622;c29ee3d6e75c12be57e88712f34be52ad09a1decf4a0770d1ab0a415b4dedaa8;1000101;Käynti;2;Uusintakäynti;42859108;Verisuonikirurgian poliklinikka, Tornisairaala;20V;Verisuonikirurgia;2027-09-18T11:41:53.000Z;2027-09-18T12:11:53.000Z;83278d48c62a29e2cf0851ad5a480b2e189a01f2a82863de332ba6584897cd84;10;Poliklinikkakäynti;2027-09-18T11:41:53.000Z;2027-09-18T12:29:53.000Z;"Erikoislääkäri LAINE, VILLE 18.09.2027 14:41
+MOCK_5161622;c29ee3d6e75c12be57e88712f34be52ad09a1decf4a0770d1ab0a415b4dedaa8;1000101;Käynti;2;Uusintakäynti;42859108;Verisuonikirurgian poliklinikka, Tornisairaala;20V;Verisuonikirurgia;2025-09-18T11:41:53.000Z;2025-09-18T12:11:53.000Z;83278d48c62a29e2cf0851ad5a480b2e189a01f2a82863de332ba6584897cd84;10;Poliklinikkakäynti;2025-09-18T11:41:53.000Z;2025-09-18T12:29:53.000Z;"Erikoislääkäri LAINE, VILLE 18.09.2025 14:41
 Käynnin syy:
 Kontrollikäynti
 
@@ -7598,7 +7598,7 @@ Hoidon tarpeen arvio ja suunnitelma:
 Ktrl vuoden kuluttua.
 
 Potilaalle annettu kirjalliset ohjeet ja yhteystiedot."
-MOCK_2717392;d3f42ccc39b0148585214492b652f543b6046a10a13821f006be5843552b9948;1000101;Käynti;2;Uusintakäynti;42859108;Verisuonikirurgian poliklinikka, Tornisairaala;20V;Verisuonikirurgia;2027-05-15T11:53:57.000Z;2027-05-15T12:23:57.000Z;46b2dce5460f35c855cea801c2af81e7857eacf30cb8066aa43024a97f5e0368;10;Poliklinikkakäynti;2027-05-15T11:53:57.000Z;2027-05-15T12:16:57.000Z;"Erikoislääkäri TUOMINEN, ANTTI 15.05.2027 14:53
+MOCK_2717392;d3f42ccc39b0148585214492b652f543b6046a10a13821f006be5843552b9948;1000101;Käynti;2;Uusintakäynti;42859108;Verisuonikirurgian poliklinikka, Tornisairaala;20V;Verisuonikirurgia;2025-05-15T11:53:57.000Z;2025-05-15T12:23:57.000Z;46b2dce5460f35c855cea801c2af81e7857eacf30cb8066aa43024a97f5e0368;10;Poliklinikkakäynti;2025-05-15T11:53:57.000Z;2025-05-15T12:16:57.000Z;"Erikoislääkäri TUOMINEN, ANTTI 15.05.2025 14:53
 Käynnin syy:
 Kontrollikäynti
 
@@ -11297,7 +11297,7 @@ Hoidon tarpeen arvio ja suunnitelma:
 Seuranta päättyy, uusi lähete tarvittaessa.
 
 Potilaalle annettu kirjalliset ohjeet ja yhteystiedot."
-MOCK_5057986;c894e3257e17fe2f800822ad1caa296ece3082a9e371e612d2e37b399f570f9b;1000101;Käynti;2;Uusintakäynti;42859108;Verisuonikirurgian poliklinikka, Tornisairaala;20V;Verisuonikirurgia;2027-01-11T08:55:36.000Z;2027-01-11T09:25:36.000Z;1dca9912700791bb8c4349b7eed4ed14951120e95a57adbc6ddf09cba021a369;10;Poliklinikkakäynti;2027-01-11T08:55:36.000Z;2027-01-11T08:56:36.000Z;"Erikoislääkäri TUOMINEN, ANTTI 11.01.2027 10:55
+MOCK_5057986;c894e3257e17fe2f800822ad1caa296ece3082a9e371e612d2e37b399f570f9b;1000101;Käynti;2;Uusintakäynti;42859108;Verisuonikirurgian poliklinikka, Tornisairaala;20V;Verisuonikirurgia;2025-01-11T08:55:36.000Z;2025-01-11T09:25:36.000Z;1dca9912700791bb8c4349b7eed4ed14951120e95a57adbc6ddf09cba021a369;10;Poliklinikkakäynti;2025-01-11T08:55:36.000Z;2025-01-11T08:56:36.000Z;"Erikoislääkäri TUOMINEN, ANTTI 11.01.2025 10:55
 Käynnin syy:
 Kontrollikäynti
 
@@ -11309,7 +11309,7 @@ Verenpaine 128/83, syke 89. Vatsa pehmeä ja aristamaton, napakorkeudella palpoi
 
 Arvio ja jatkosuunnitelma:
 Kontrolli vuoden kuluttua."
-MOCK_5057986;25f84b0a9c79f293d9320180e2c6bd68f920bccc143fe9c31ca00a3948a5247a;1000101;Käynti;2;Uusintakäynti;42859108;Verisuonikirurgian poliklinikka, Tornisairaala;20V;Verisuonikirurgia;2027-12-11T08:42:25.000Z;2027-12-11T09:12:25.000Z;3aec7e39c0e0db7e51b33a3564c4083d7191b28629cf15c7d45758f2ee5f5d1f;10;Poliklinikkakäynti;2027-12-11T08:42:25.000Z;2027-12-13T16:10:25.000Z;"Erikoislääkäri LAINE, VILLE 11.12.2027 10:42
+MOCK_5057986;25f84b0a9c79f293d9320180e2c6bd68f920bccc143fe9c31ca00a3948a5247a;1000101;Käynti;2;Uusintakäynti;42859108;Verisuonikirurgian poliklinikka, Tornisairaala;20V;Verisuonikirurgia;2025-12-11T08:42:25.000Z;2025-12-11T09:12:25.000Z;3aec7e39c0e0db7e51b33a3564c4083d7191b28629cf15c7d45758f2ee5f5d1f;10;Poliklinikkakäynti;2025-12-11T08:42:25.000Z;2025-12-13T16:10:25.000Z;"Erikoislääkäri LAINE, VILLE 11.12.2025 10:42
 Käynnin syy:
 Kontrollikäynti
 
@@ -25614,7 +25614,7 @@ Hoidon tarpeen arvio ja suunnitelma:
 Seuranta päättyy, uusi lähete tarvittaessa.
 
 Potilaalle annettu kirjalliset ohjeet ja yhteystiedot."
-MOCK_4813836;cbaebe42ad9aba6216842189033a98cc27f70aff9f3768ce156c083f66a3bc10;1000101;Käynti;2;Uusintakäynti;42859108;Verisuonikirurgian poliklinikka, Tornisairaala;20V;Verisuonikirurgia;2027-08-23T05:36:40.000Z;2027-08-23T06:06:40.000Z;6e50859012e37ad856be6efae101fe0925063464ea66c154c2240db8f4eba676;10;Poliklinikkakäynti;2027-08-23T05:36:40.000Z;2027-08-23T06:17:40.000Z;"Erikoislääkäri LAINE, VILLE 23.08.2027 08:36
+MOCK_4813836;cbaebe42ad9aba6216842189033a98cc27f70aff9f3768ce156c083f66a3bc10;1000101;Käynti;2;Uusintakäynti;42859108;Verisuonikirurgian poliklinikka, Tornisairaala;20V;Verisuonikirurgia;2025-08-23T05:36:40.000Z;2025-08-23T06:06:40.000Z;6e50859012e37ad856be6efae101fe0925063464ea66c154c2240db8f4eba676;10;Poliklinikkakäynti;2025-08-23T05:36:40.000Z;2025-08-23T06:17:40.000Z;"Erikoislääkäri LAINE, VILLE 23.08.2025 08:36
 Tulosyy: Kontrollikäynti
 
 Nykytila:
@@ -25625,7 +25625,7 @@ Verenpaine 123/74, rytmi tasainen. Neurologisesti nyt oireeton, ei puolieroja, p
 
 Hoidon tarpeen arvio ja suunnitelma:
 Seuranta päättyy, uusi lähete tarvittaessa."
-MOCK_4813836;cb3b256de630cde0f84b0a0da5956991f8b12ad7d6d84187fa421708a65bcaf2;1000101;Käynti;2;Uusintakäynti;42859108;Verisuonikirurgian poliklinikka, Tornisairaala;20V;Verisuonikirurgia;2028-07-27T08:08:39.000Z;2028-07-27T08:38:39.000Z;0ec57da4a92ea5ead54ff6a7869552e0abd258e91ff8194fdd69a72bd0fcdb09;10;Poliklinikkakäynti;2028-07-27T08:08:39.000Z;2028-07-27T08:18:39.000Z;"Erikoistuva lääkäri HEIKKINEN, MINNA 27.07.2028 11:08
+MOCK_4813836;cb3b256de630cde0f84b0a0da5956991f8b12ad7d6d84187fa421708a65bcaf2;1000101;Käynti;2;Uusintakäynti;42859108;Verisuonikirurgian poliklinikka, Tornisairaala;20V;Verisuonikirurgia;2026-07-27T08:08:39.000Z;2026-07-27T08:38:39.000Z;0ec57da4a92ea5ead54ff6a7869552e0abd258e91ff8194fdd69a72bd0fcdb09;10;Poliklinikkakäynti;2026-07-27T08:08:39.000Z;2026-07-27T08:18:39.000Z;"Erikoistuva lääkäri HEIKKINEN, MINNA 27.07.2026 11:08
 Käynnin syy:
 Kontrollikäynti
 
@@ -35911,9 +35911,9 @@ Tsto: Kontrollikäynti.
 Anamn.: ei uusia oireita.
 St: RR 168/86, rytmi tasainen.
 Ark: Seuranta päättyy, uusi lähete tarv.."
-MOCK_8966711;066c111830fff310afa0e370866a83a4b468f467dd555addf44e661b1ae45386;1000101;Käynti;2;Uusintakäynti;61147929;Verisuonikirurgian poliklinikka, Jorvin sairaala;20V;Verisuonikirurgia;2027-07-12T12:02:31.000Z;2027-07-12T12:32:31.000Z;070c31d671de68d2669dddb487c7632a31166d3da3c36b71d53c7f1111fe04ae;10;Poliklinikkakäynti;2027-07-12T12:02:31.000Z;2027-07-14T18:48:31.000Z;"Erikoistuva lääkäri MÄKELÄ, MIKAEL 12.07.2027 15:02
+MOCK_8966711;066c111830fff310afa0e370866a83a4b468f467dd555addf44e661b1ae45386;1000101;Käynti;2;Uusintakäynti;61147929;Verisuonikirurgian poliklinikka, Jorvin sairaala;20V;Verisuonikirurgia;2025-07-12T12:02:31.000Z;2025-07-12T12:32:31.000Z;070c31d671de68d2669dddb487c7632a31166d3da3c36b71d53c7f1111fe04ae;10;Poliklinikkakäynti;2025-07-12T12:02:31.000Z;2025-07-14T18:48:31.000Z;"Erikoistuva lääkäri MÄKELÄ, MIKAEL 12.07.2025 15:02
 Tsto: Kontrollikäynti. Anamn.: seuranta-UÄ:ssä ahtauma ennallaan. Ei uusia oireita. St: neurologisesti nyt oireeton, ei puolieroja, puhe selkeää. Kaulalla vas. puolella heikko sivuääni. Ark: seuranta päättyy, uusi lähete tarv.."
-MOCK_8966711;044c39709a0c75317e0cf89d6179040fd57dc4c0e5ffc49739ce2960d50393a7;1000101;Käynti;2;Uusintakäynti;61147929;Verisuonikirurgian poliklinikka, Jorvin sairaala;20V;Verisuonikirurgia;2028-03-06T11:04:09.000Z;2028-03-06T11:34:09.000Z;65d17c4ba9b452b31a6952b95257f7883ed0bf80ea037672f4bc85109ed47e37;10;Poliklinikkakäynti;2028-03-06T11:04:09.000Z;2028-03-06T12:27:09.000Z;"Erikoistuva lääkäri LEHTINEN, MIKAEL 06.03.2028 13:04
+MOCK_8966711;044c39709a0c75317e0cf89d6179040fd57dc4c0e5ffc49739ce2960d50393a7;1000101;Käynti;2;Uusintakäynti;61147929;Verisuonikirurgian poliklinikka, Jorvin sairaala;20V;Verisuonikirurgia;2026-03-06T11:04:09.000Z;2026-03-06T11:34:09.000Z;65d17c4ba9b452b31a6952b95257f7883ed0bf80ea037672f4bc85109ed47e37;10;Poliklinikkakäynti;2026-03-06T11:04:09.000Z;2026-03-06T12:27:09.000Z;"Erikoistuva lääkäri LEHTINEN, MIKAEL 06.03.2026 13:04
 Käynnin syy:
 Kontrollikäynti
 
@@ -43703,7 +43703,7 @@ Vatsa pehmeä ja aristamaton, napakorkeudella palpoituu pulsoiva resistenssi.
 
 Arvio ja jatkosuunnitelma:
 Ktrl vuoden kuluttua."
-MOCK_2215645;4843697dd22ff170a175f0293b227959e385ee066cd9696a4028e668dc862b4d;1000101;Käynti;2;Uusintakäynti;42859108;Verisuonikirurgian poliklinikka, Tornisairaala;20V;Verisuonikirurgia;2027-02-10T12:46:47.000Z;2027-02-10T13:16:47.000Z;40128df2b04dfde800fa3835fba8c25fb87cf9e47b0b928d4f4aa798878b6905;10;Poliklinikkakäynti;2027-02-10T12:46:47.000Z;2027-02-10T14:01:47.000Z;"Erikoistuva lääkäri HEIKKINEN, MINNA 10.02.2027 14:46
+MOCK_2215645;4843697dd22ff170a175f0293b227959e385ee066cd9696a4028e668dc862b4d;1000101;Käynti;2;Uusintakäynti;42859108;Verisuonikirurgian poliklinikka, Tornisairaala;20V;Verisuonikirurgia;2025-02-10T12:46:47.000Z;2025-02-10T13:16:47.000Z;40128df2b04dfde800fa3835fba8c25fb87cf9e47b0b928d4f4aa798878b6905;10;Poliklinikkakäynti;2025-02-10T12:46:47.000Z;2025-02-10T14:01:47.000Z;"Erikoistuva lääkäri HEIKKINEN, MINNA 10.02.2025 14:46
 Käynnin syy:
 Kontrollikäynti
 
@@ -52814,7 +52814,7 @@ Kaulalla oik. puolella heikko sivuääni. Neurologisesti nyt oireeton, ei puolie
 
 Hoidon tarpeen arvio ja suunnitelma:
 Ktrl vuoden kuluttua."
-MOCK_9857738;ba8b47e63362cbb5374ae6d82de444a7b7a1e78b414cb37cc5c2648c5ce935f4;1000101;Käynti;2;Uusintakäynti;42859108;Verisuonikirurgian poliklinikka, Tornisairaala;20V;Verisuonikirurgia;2027-01-24T07:13:08.000Z;2027-01-24T07:43:08.000Z;6d92b641a6a2bb8d9fa3e929ecfaf2c1b648e1bca65dc9344f4253e463c6da76;10;Poliklinikkakäynti;2027-01-24T07:13:08.000Z;2027-01-24T07:41:08.000Z;"Erikoistuva lääkäri HEINONEN, ELINA 24.01.2027 09:13
+MOCK_9857738;ba8b47e63362cbb5374ae6d82de444a7b7a1e78b414cb37cc5c2648c5ce935f4;1000101;Käynti;2;Uusintakäynti;42859108;Verisuonikirurgian poliklinikka, Tornisairaala;20V;Verisuonikirurgia;2025-01-24T07:13:08.000Z;2025-01-24T07:43:08.000Z;6d92b641a6a2bb8d9fa3e929ecfaf2c1b648e1bca65dc9344f4253e463c6da76;10;Poliklinikkakäynti;2025-01-24T07:13:08.000Z;2025-01-24T07:41:08.000Z;"Erikoistuva lääkäri HEINONEN, ELINA 24.01.2025 09:13
 Tulosyy: Kontrollikäynti
 
 Nykytila:
@@ -54029,7 +54029,7 @@ Kaulalla oikealla puolella heikko sivuääni.
 
 Arvio ja jatkosuunnitelma:
 Jatkoseuranta terveyskeskuksessa, ei säännöllistä kontrollia verisuonikirurgialla."
-MOCK_8897798;a7ea72889094ac85d02a3ebf19f0391526e60f08d0614c7a9f9cefec6597c4c4;1000101;Käynti;2;Uusintakäynti;96770855;Verisuonikirurgian poliklinikka, Peijaksen sairaala;20V;Verisuonikirurgia;2027-03-18T07:38:27.000Z;2027-03-18T08:08:27.000Z;69d45499849f734282110551fddc5a471b703dbd60e8da22832f09460a4fd66b;10;Poliklinikkakäynti;2027-03-18T07:38:27.000Z;2027-03-18T08:21:27.000Z;"Erikoistuva lääkäri SAVOLAINEN, ANTTI 18.03.2027 09:38
+MOCK_8897798;a7ea72889094ac85d02a3ebf19f0391526e60f08d0614c7a9f9cefec6597c4c4;1000101;Käynti;2;Uusintakäynti;96770855;Verisuonikirurgian poliklinikka, Peijaksen sairaala;20V;Verisuonikirurgia;2025-03-18T07:38:27.000Z;2025-03-18T08:08:27.000Z;69d45499849f734282110551fddc5a471b703dbd60e8da22832f09460a4fd66b;10;Poliklinikkakäynti;2025-03-18T07:38:27.000Z;2025-03-18T08:21:27.000Z;"Erikoistuva lääkäri SAVOLAINEN, ANTTI 18.03.2025 09:38
 Käynnin syy:
 Kontrollikäynti
 
@@ -77310,7 +77310,7 @@ Kaulalla vasemmalla puolella heikko sivuääni.
 
 Arvio ja jatkosuunnitelma:
 Kontrolli puolen vuoden kuluttua kuvantamisen kera."
-MOCK_5899505;cb81b4a7ee964d6260293d5ef93c5f382d9d213f11ac1dce6737795fcfee7d12;1000101;Käynti;2;Uusintakäynti;42859108;Verisuonikirurgian poliklinikka, Tornisairaala;20V;Verisuonikirurgia;2027-02-13T09:28:58.000Z;2027-02-13T09:58:58.000Z;ac55c96ac48ba061af794d8a425ea2a558a7e117dcea48ef94d99e6a809da99f;10;Poliklinikkakäynti;2027-02-13T09:28:58.000Z;2027-02-14T15:59:58.000Z;"Erikoislääkäri TUOMINEN, ANTTI 13.02.2027 11:28
+MOCK_5899505;cb81b4a7ee964d6260293d5ef93c5f382d9d213f11ac1dce6737795fcfee7d12;1000101;Käynti;2;Uusintakäynti;42859108;Verisuonikirurgian poliklinikka, Tornisairaala;20V;Verisuonikirurgia;2025-02-13T09:28:58.000Z;2025-02-13T09:58:58.000Z;ac55c96ac48ba061af794d8a425ea2a558a7e117dcea48ef94d99e6a809da99f;10;Poliklinikkakäynti;2025-02-13T09:28:58.000Z;2025-02-14T15:59:58.000Z;"Erikoislääkäri TUOMINEN, ANTTI 13.02.2025 11:28
 Käynnin syy:
 Kontrollikäynti
 

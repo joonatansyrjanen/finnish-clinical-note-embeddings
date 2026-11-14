@@ -1,0 +1,16 @@
+Run: bge-m3_no_header, data: synthetic, 2026-11-14 14:22
+Model: bge-m3 through Ollama (0.40.14), max_tokens 8192
+Notes: 10443, patients: 593, physicians' notes: 4808, ICD-10 codes: 12
+Imaging texts: 1800
+k 15, projection seeds [0, 1, 2, 3, 4], UMAP n_neighbors [5, 15, 50], min_dist 0.10, t-SNE perplexity 30, main picture umap_n15_seed0
+min_characters 40, min_patients_per_code 10, sample_size None, seed 42
+run_header_check True, run_finbert False, FinBERT main layer 12
+Python 3.15.2
+numpy 2.5.4
+pandas 3.1.0
+scipy 1.18.1
+scikit-learn 1.9.1
+umap-learn 0.5.12
+matplotlib 3.11.2
+torch 2.15.0
+requests 2.34.2
