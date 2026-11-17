@@ -28,6 +28,7 @@ Everything is in one notebook, `project.ipynb`, which runs from top to bottom. T
 | Silhouette scores | 6 | `silhouette.csv` |
 | Notes vs imaging texts, kNN agreement | 6 | printed in the notebook |
 | Classifiers and surface baselines | 7 | `classifier_auroc.csv`, `classifier_auroc_per_code.csv`, `classifier_checkpoints.csv` |
+| Classifiers on doctors' notes only | 7 | `classifier_auroc_doctors.csv` |
 | Q2, picture vs classifier per ICD code | 8 | `per_code.csv`, `picture_vs_classifier.png` |
 | Seeds and UMAP settings | 9 | `seeds_and_settings.csv`, `umap_settings.png` |
 | Note type and diagnosis mixed up | 10 | `note_type_and_diagnosis.csv` |

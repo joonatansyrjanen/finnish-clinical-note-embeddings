@@ -1,4 +1,4 @@
-model,fold,epoch,training_loss,validation_loss,macro_auroc,codes
+model,fold,epoch,fit_loss,validation_loss,macro_auroc,codes
 "Embeddings, linear",1,10,1.8965857028961182,2.0095601081848145,0.7620372861703105,12
 "Embeddings, linear",1,25,1.5678273439407349,1.7448222637176514,0.8165810047272378,12
 "Embeddings, linear",1,50,1.3682764768600464,1.6063047647476196,0.829421882784822,12
