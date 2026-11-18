@@ -1,41 +1,41 @@
 label,projection,seed,agreement
-note_type,t-SNE,0,0.999419068594593
-note_type,t-SNE,1,0.9994509879025822
-note_type,t-SNE,2,0.9994382201793865
+note_type,t-SNE,0,0.9994446040409845
+note_type,t-SNE,1,0.9993871492866035
+note_type,t-SNE,2,0.999419068594593
 note_type,t-SNE,3,0.999419068594593
-note_type,t-SNE,4,0.999419068594593
-note_type,UMAP n_neighbors 5,0,0.9789524083117879
-note_type,UMAP n_neighbors 5,1,0.9758753870216093
-note_type,UMAP n_neighbors 5,2,0.9769478757700533
-note_type,UMAP n_neighbors 5,3,0.9760349835615564
-note_type,UMAP n_neighbors 5,4,0.9796993201187398
-note_type,UMAP n_neighbors 15,0,0.9974975262536309
-note_type,UMAP n_neighbors 15,1,0.9974145360528583
-note_type,UMAP n_neighbors 15,2,0.9965718663219382
-note_type,UMAP n_neighbors 15,3,0.9960611573941078
-note_type,UMAP n_neighbors 15,4,0.9968144530626576
-note_type,UMAP n_neighbors 50,0,0.9984487216317149
-note_type,UMAP n_neighbors 50,1,0.998455105493313
-note_type,UMAP n_neighbors 50,2,0.9989083596667623
-note_type,UMAP n_neighbors 50,3,0.9989019758051645
-note_type,UMAP n_neighbors 50,4,0.9985061763860961
-diagnosis_code,t-SNE,0,0.33899996716898123
-diagnosis_code,t-SNE,1,0.33618306576053053
-diagnosis_code,t-SNE,2,0.3362158967792771
-diagnosis_code,t-SNE,3,0.3385665977215273
-diagnosis_code,t-SNE,4,0.33938737319019013
-diagnosis_code,UMAP n_neighbors 5,0,0.31407465773662957
-diagnosis_code,UMAP n_neighbors 5,1,0.3150136248727798
-diagnosis_code,UMAP n_neighbors 5,2,0.31257756328178865
-diagnosis_code,UMAP n_neighbors 5,3,0.3161627105289077
-diagnosis_code,UMAP n_neighbors 5,4,0.3142322466266128
-diagnosis_code,UMAP n_neighbors 15,0,0.3258412948553794
-diagnosis_code,UMAP n_neighbors 15,1,0.32755507403394724
-diagnosis_code,UMAP n_neighbors 15,2,0.3246462457730063
-diagnosis_code,UMAP n_neighbors 15,3,0.32523063790669426
-diagnosis_code,UMAP n_neighbors 15,4,0.32720049903148496
-diagnosis_code,UMAP n_neighbors 50,0,0.32043074296595425
-diagnosis_code,UMAP n_neighbors 50,1,0.317515348501264
-diagnosis_code,UMAP n_neighbors 50,2,0.31815883646869564
-diagnosis_code,UMAP n_neighbors 50,3,0.3200105059259989
-diagnosis_code,UMAP n_neighbors 50,4,0.31947864342230536
+note_type,t-SNE,4,0.9994509879025822
+note_type,UMAP n_neighbors 5,0,0.9828146445785055
+note_type,UMAP n_neighbors 5,1,0.9777522423313864
+note_type,UMAP n_neighbors 5,2,0.9781097385808677
+note_type,UMAP n_neighbors 5,3,0.9794248140700309
+note_type,UMAP n_neighbors 5,4,0.9782374158128252
+note_type,UMAP n_neighbors 15,0,0.9973187781288901
+note_type,UMAP n_neighbors 15,1,0.9977081936863608
+note_type,UMAP n_neighbors 15,2,0.9963165118580228
+note_type,UMAP n_neighbors 15,3,0.9969932011873983
+note_type,UMAP n_neighbors 15,4,0.996412269781991
+note_type,UMAP n_neighbors 50,0,0.998774298573207
+note_type,UMAP n_neighbors 50,1,0.9985253279708897
+note_type,UMAP n_neighbors 50,2,0.9987296115420218
+note_type,UMAP n_neighbors 50,3,0.998455105493313
+note_type,UMAP n_neighbors 50,4,0.99882536946599
+diagnosis_code,t-SNE,0,0.337844315309104
+diagnosis_code,t-SNE,1,0.3384352736465413
+diagnosis_code,t-SNE,2,0.3371220328966808
+diagnosis_code,t-SNE,3,0.3366164352079845
+diagnosis_code,t-SNE,4,0.33521126760563386
+diagnosis_code,UMAP n_neighbors 5,0,0.3125184674480449
+diagnosis_code,UMAP n_neighbors 5,1,0.31322761745296956
+diagnosis_code,UMAP n_neighbors 5,2,0.3098460225220789
+diagnosis_code,UMAP n_neighbors 5,3,0.31571620867395517
+diagnosis_code,UMAP n_neighbors 5,4,0.31460652024032304
+diagnosis_code,UMAP n_neighbors 15,0,0.32718080042023706
+diagnosis_code,UMAP n_neighbors 15,1,0.3307002856298631
+diagnosis_code,UMAP n_neighbors 15,2,0.3238779999343379
+diagnosis_code,UMAP n_neighbors 15,3,0.3266620703240422
+diagnosis_code,UMAP n_neighbors 15,4,0.32676712958403104
+diagnosis_code,UMAP n_neighbors 50,0,0.3146590498703175
+diagnosis_code,UMAP n_neighbors 50,1,0.32146163695459473
+diagnosis_code,UMAP n_neighbors 50,2,0.3181522702649463
+diagnosis_code,UMAP n_neighbors 50,3,0.3208772448209068
+diagnosis_code,UMAP n_neighbors 50,4,0.3217177189008175
