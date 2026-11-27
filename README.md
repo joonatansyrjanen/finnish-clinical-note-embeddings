@@ -70,4 +70,4 @@ Note: Figs. 1 and 3 are `umap.png` (Section 5.3) with English labels; the data a
 - **Alexandra Dahlberg:** Built the synthetic data (`mock_data/`), wrote the notebook code with Joonatan, ran the analysis on the real data in HUS Acamedic, and did the clinical review of the clusters. Contributed to the report and figures.
 - **Heidi Tarkiainen:** Wrote a large part of the report, reviewed the code and contributed to the figures.
 - **Joonatan Syrjänen:** Wrote the notebook code with Alexandra. Contributed to the report and figures.
-- **AI tools:** Claude (Anthropic) for debugging code and improving the language of the report.
+- **AI tools:** Claude (Anthropic), Codex (OpenAI) for debugging code and improving the language of the report.
