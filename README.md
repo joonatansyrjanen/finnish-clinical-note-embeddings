@@ -22,7 +22,7 @@ Stage 1: we developed and tested the code on synthetic data on our own computers
 
 1. Open `project.ipynb` in Google Colab.
 2. Choose **Runtime > Run all**. The first code cell clones this repo and installs `umap-learn`.
-3. The embeddings are loaded from `embeddings/`, so Ollama is not needed. A full run takes about TODO minutes on Colab.
+3. The embeddings are loaded from `embeddings/`, so Ollama is not needed. A full run takes about *TODO* minutes on Colab.
 
 To make the embeddings again, install Ollama, run `ollama pull bge-m3` in a terminal and delete the `.npy` files in `embeddings/`.
 
@@ -62,6 +62,8 @@ All report numbers are from `project_realdata_run.ipynb`. The same sections in `
 | Note type within diagnosis groups, diagnosis within note types | 10 | `note_type_and_diagnosis_summary.csv` |
 | Clinical review of the eight clusters | 11 | `clusters.png`, table in the notebook |
 | Package versions | 12 | printed |
+
+Note: Figs. 1 and 3 are `umap.png` (Section 5.3) with English labels; the data are unchanged. Figs. 2 and 4 are the notebook outputs as they are.
 
 ## Contribution statement
 
