@@ -2,6 +2,10 @@
 
 **CMT paper ID: TODO**
 
+## Pipeline
+
+![Study pipeline](figures/pipeline.png)
+
 AI in Health Technologies (ELEC-E8739) 2026, course project. 
 Alexandra Dahlberg, Heidi Tarkiainen, Joonatan Syrjänen.
 
