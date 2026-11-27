@@ -22,7 +22,7 @@ Stage 1: we developed and tested the code on synthetic data on our own computers
 
 1. Open `project.ipynb` in Google Colab.
 2. Choose **Runtime > Run all**. The first code cell clones this repo and installs `umap-learn`.
-3. The embeddings are loaded from `embeddings/`, so Ollama is not needed. A full run takes about *TODO* minutes on Colab.
+3. The embeddings are loaded from `embeddings/`, so Ollama is not needed. A full run takes about 20 minutes on Colab on T4 GPU.
 
 To make the embeddings again, install Ollama, run `ollama pull bge-m3` in a terminal and delete the `.npy` files in `embeddings/`.
 
