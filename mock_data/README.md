@@ -12,7 +12,7 @@ Nothing here is real. The henkilötunnus values in `MOCK_avainlista` have valid 
 
 ## Notes
 
-Each `merkinta_teksti` starts with a header line, `<role> SURNAME, FIRSTNAME dd.mm.yyyy hh:mm`, like the real notes. Staff names repeat within a hospital, so the header alone gives away the source. That is true of the real data as well, so it is worth comparing embeddings with and without the first line.
+Like the real export, `merkinta_teksti` has no line breaks. About 2% of the notes start with a stamp, `Lisännyt SURNAME, FIRSTNAME dd.mm.yyyy hh:mm`, with no role. Staff names repeat within a hospital, so the stamp alone gives away the source. The other notes start straight with the note itself.
 
 The diagnosis of a note is the main diagnosis (`paadiagnoosi = true`) of its care episode in `Apotti_diagnoosi`, joined on `shjakso_id`.
 
