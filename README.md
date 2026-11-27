@@ -1,6 +1,8 @@
 # Source or clinical content? 2-D projections of Finnish clinical text embeddings
 
-AI in Health Technologies 2026, course project.
+**CMT paper ID: TODO**
+
+AI in Health Technologies (ELEC-E8739) 2026, course project. 
 Alexandra Dahlberg, Heidi Tarkiainen, Joonatan Syrjänen.
 
 Everything is in one notebook, `project.ipynb`, which runs from top to bottom. The outputs of a full run on the synthetic data are kept in the notebook.
@@ -34,3 +36,9 @@ Everything is in one notebook, `project.ipynb`, which runs from top to bottom. T
 | Note type and diagnosis mixed up | 10 | `note_type_and_diagnosis.csv` |
 | FinBERT layers (real data) | 11 | `finbert_layers.png` |
 | Clusters for the clinical review | 12 | `clusters.png` |
+
+## Contribution statement
+ 
+- **Alexandra Dahlberg:** Worked on TODO. AI tools: TODO (tool, what it was used for), roughly TODO % of this work.
+- **Heidi Tarkiainen:** Worked on TODO. AI tools: TODO (tool, what it was used for), roughly TODO % of this work.
+- **Joonatan Syrjänen:** Worked on TODO. AI tools: TODO (tool, what it was used for), roughly TODO % of this work.
