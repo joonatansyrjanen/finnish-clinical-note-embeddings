@@ -1,7 +1,0 @@
-effect,label,notes,lift_full,lift_umap,lift_tfidf,auroc_embedding,auroc_tfidf,auroc_length,auroc_chance
-Source (hospital),hospital,all,1.5008977028753687,1.4601247985285355,1.4398905508728823,,,,
-Era (Tornisairaala),era,all,1.0121625237787046,1.0018257593794366,1.0471786633426194,,,,
-Note type,note_type,all,4.0782461789598194,4.0708718359955895,4.076552425275455,,,,
-Diagnosis group (true),true_group,physicians,2.911724265874973,2.8893919516802136,3.017386110647195,,,,
-Diagnosis code (recorded),diagnosis_code,physicians,3.7406893196800457,3.6037494650531623,3.962833764366308,,,,
-Negative control,random_label,all,0.9954352085014607,0.9999347997260941,1.0035883139683182,,,,
