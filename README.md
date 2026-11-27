@@ -5,13 +5,14 @@
 AI in Health Technologies (ELEC-E8739) 2026, course project. 
 Alexandra Dahlberg, Heidi Tarkiainen, Joonatan Syrjänen.
 
-Everything is in one notebook, `project.ipynb`, which runs from top to bottom. The outputs of a full run on the synthetic data are kept in the notebook.
+The analysis is in one notebook, `project.ipynb`, which runs from top to bottom on the synthetic data. The notebook includes the analysis outputs. For the outputs of the complete run on real data, see `project_realdata_run.ipynb`.
 
 ## What is in the repo
 
 | Folder or file | What it is |
 | --- | --- |
 | `project.ipynb` | The whole project: data, embeddings, pictures, kNN agreement, classifiers, results |
+| `project_realdata_run.ipynb` | Saved notebook from the real data run in Acamedic |
 | `mock_data/` | Synthetic copies of the HUS Acamedic tables, same file names and columns as the real export. `mock_data/README.md` says what we planted in them |
 | `embeddings/` | Saved embeddings (no text), so the notebook runs without Ollama |
 | `results/` | Every figure and table the notebook saves |
